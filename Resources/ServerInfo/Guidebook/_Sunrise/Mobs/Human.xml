@@ -1,11 +1,11 @@
 <Document>
-  # Люди
+  # Gente
 
   <Box>
     <GuideEntityEmbed Entity="MobHumanDummy" Caption=""/>
   </Box>
 
-  В зависимости от того, кого спросить, люди либо ничем не примечательны, либо являются универсальным эталоном, с которым сравнивают всех остальных.
-  У них нет особых механик или заметных отличий.
+  Dependiendo de a quién preguntes, las personas son o bien poco destacables o un referente universal con el que se compara a todos los demás.
+  No tienen mecánicas especiales ni diferencias notables.
 
 </Document>

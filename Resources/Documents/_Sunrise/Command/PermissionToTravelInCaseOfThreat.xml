@@ -1,31 +1,31 @@
-﻿<Document>
+<Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]РАЗРЕШЕНИЕ[/bold][/color]
+                                  [color=#1B2333][bold]PERMISSION[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
-[mono][color=#1E4C7A][bold]{corpString} / КОМ-ПД[/bold][/color][/mono]
+[mono][color=#1E4C7A][bold]{corpString} / COM-PD[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Станция:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Время:[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Составитель[/bold][/color]
-[bold][color=#4D5F80]Имя и Фамилия:[/color][/bold] [color=#0F5E2B][bold][signature="Имя и Фамилия"][/bold][/color]
-[bold][color=#4D5F80]Должность:[/color][/bold] [color=#7A4A00][bold][job="Должность"][/bold][/color]
+[color=#1B2333][bold]Compiler[/bold][/color]
+[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
+[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Разрешение на передвижение при угрозе[/bold][/color]
+[color=#1B2333][bold]Permission moverse por si threat[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[bold]Содержание:[/bold]
-Я, [form="Имя и Фамилия"], в должности [form="Должность"], разрешаю сотруднику [form="Имя и Фамилия"] в должности [form="Должность"] передвижение по станции с целью выполнения им рабочих обязанностей.
+[bold]Contents[/bold]
+Yo, [form="Name y Surname"], en el puesto de [form="Position"], permitimos que el empleado [form="Name y Surname"] en el puesto de [form="Position"] se desplace por la estación para desempeñar sus funciones.
 
-Уровни кодов угроз, при которых даётся данное разрешение:
-[form="Уровни кодов угроз"]
+Los niveles de códigos de amenaza en los que se concede este permiso son:
+[form="Threat Código Levels"]
 
-Разрешённые части станции для местонахождения сотрудника:
-[form="можно указать всю станцию"]
+Partes permitidas de la estación para la ubicación de los empleados:
+[form="You puede especificar toda la station"]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]Место для печатей[/color][/italic]
+                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
 
 
 

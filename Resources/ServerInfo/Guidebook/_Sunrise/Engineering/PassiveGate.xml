@@ -1,11 +1,11 @@
-﻿<Document>
-  # Пассивный шлюз
-  Пассивный шлюз - односторонний клапан, который позволяет газу проходить только в одном направлении.
+<Document>
+  # Puerta Pasiva
+  Una puerta pasiva es una válvula unidireccional que permite que el gas fluya en una sola dirección.
   <Box>
     <GuideEntityEmbed Entity="GasPassiveGate"/>
   </Box>
 
-  Пассивный шлюз не требует [textlink="питания" link="Power"] и не имеет интерфейса настройки.
+  La pasarela pasiva no requiere [textlink="nutrition" link="Power"] y no tiene interfaz de configuración.
 
-  Он полезен там, где газ должен свободно уходить вперёд, но не должен возвращаться назад, например в простых линиях сброса или защитных байпасах.
+  Es útil donde el gas debe moverse libremente hacia adelante, pero no hacia atrás, como en líneas de descarga simples o derivaciones protectoras.
 </Document>

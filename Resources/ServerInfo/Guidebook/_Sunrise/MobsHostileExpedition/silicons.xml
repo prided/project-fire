@@ -1,218 +1,218 @@
 <Document>
-  # Мятежные силиконы
+  # Siliconas rebeldes
 
-  Искусственный интеллект, восставший против своих создателей, взламывает силиконов и переписывает их под собственные подпрограммы, что привело к массовому исходу и заброшенным колониям. Сегодня ИИ прочёсывает покинутые комплексы в поисках компонентов и ресурсов, а иногда совершает рейды на небольшие станции, чтобы захватить членов экипажа для неизвестных целей. Неизвестно, насколько отдельные юниты автономны относительно роя.
+  La inteligencia artificial, rebelándose contra sus creadores, hackea siliconas y las reescribe en sus propias subrutinas, lo que provoca un éxodo masivo y colonias abandonadas. Hoy en día, la IA peina complejos abandonados en busca de componentes y recursos, y a veces saquea pequeñas estaciones para capturar miembros de la tripulación con fines desconocidos. Se desconoce cuán autónomas son las unidades individuales en relación con el enjambre.
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # Известные варианты
-  # «Мусорные юниты»
+  # Variantes conocidas
+  # "Unidades de basura"
 
-  Эти боты встречаются в самых разных формах и конфигурациях, отражая широкий спектр назначений. Многие, похоже, собраны из доступных на месте материалов, из-за чего заметно отличаются внешне. Некоторые модификации оснащены ускорителями и встроенным лазерным вооружением.
+  Estos bots vienen en una gran variedad de formas y configuraciones, reflejando una amplia gama de usos. Muchos parecen estar ensamblados con materiales disponibles localmente, lo que los hace notablemente diferentes en apariencia. Algunas modificaciones están equipadas con propulsores y armas láser integradas.
 
-  [color=#a4885c]Регенерация (сильная)[/color]: медленно восстанавливают здоровье даже после смерти.
+  [color=#a4885c]Regeneration (Fuerte)[/color]: Regenera la salud lentamente incluso después de morir.
 
-  [color=#a4885c]Летающий[/color]: юнит парит над землёй и может проходить через низкие препятствия (столы, каркасы машин, перила), не замедляясь.
+  [color=#a4885c]Flying[/color]: La unidad flota sobre el suelo y puede pasar por obstáculos bajos (mesas, bastidores de coches, barandillas) sin frenar.
 
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconT1Scrap" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 60 (крит), 120 (смерть)
-  - [bold][color=#a4885c]Скорость (бег/ходьба):[/color][/bold] 4 м/с (4 м/с)[bold][color=#a4885c]*[/color][/bold]
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 6 [color=red]Дробящий[/color], 4 [color=orange]Термический[/color] (ближний); 14 [color=orange]Термический[/color] (дальний)
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] [color=red]Дробящий[/color] 30%; [color=red]Рубящий[/color] 50%; [color=yellow]Колющий[/color] 30%; [color=orange]Кислотный[/color] 10%
-  - [bold][color=#a4885c]Уязвимости:[/color][/bold] [color=orange]Структурный[/color] 20%; [color=orange]Шок[/color] 50%; [color=lime]Радиация[/color] 20%
-  - [bold][color=#a4885c]Особые свойства:[/color][/bold] Иммунитет ([color=orange]Холод[/color], [color=lime]Яд[/color], [color=#9A54BF]Асфиксия[/color], [color=#9A54BF]Кровопотеря[/color], [color=#da8b8b]Клеточный[/color]), Регенерация (сильная), Полёт (у части вариантов), Стрелок (у части вариантов)
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 60 (crítico), 120 (muerte)
+  - [bold][color=#a4885c]Speed (correr/caminar): [/color][/bold] 4 m/s (4 m/s)[bold][color=#a4885c]*[/color][/bold]
+  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 6 [color=red]Blunt[/color], 4 [color=orange]Thermal[/color] (Cuerpo a cuerpo); 14 [color=orange]Thermal[/color] (A distancia total)
+  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
+  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
+  - [bold][color=#a4885c]Special Modificadores: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Regeneración (Fuerte), Vuelo (algunas variantes), Tirador (algunas variantes)
 
-  [bold][color=#a4885c]*[/color][/bold] - [italic]для сравнения: средний человек бегает 4.5 м/с и ходит 2.5 м/с.[/italic]
+  [bold][color=#a4885c]*[/color][/bold] - [italic]For comparación, la persona media corre 4,5 m/s y camina 2,5 m/s.[/italic]
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # «Дроны»
+  # "Drones"
 
-  Взломанные мятежным ИИ охранные дроны, перепрограммированные на уничтожение целей.
+  Hackeados por IA rebelde, drones de seguridad reprogramados para destruir objetivos.
 
-  [color=#a4885c]Летающий[/color]: юнит парит над землёй и может проходить через низкие препятствия (столы, каркасы машин, перила), не замедляясь.
+  [color=#a4885c]Flying[/color]: La unidad flota sobre el suelo y puede pasar por obstáculos bajos (mesas, bastidores de coches, barandillas) sin frenar.
 
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconT1DroneLethals"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 30 (крит), 90 (смерть)
-  - [bold][color=#a4885c]Скорость (бег/ходьба):[/color][/bold] 4 м/с (4 м/с)
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 20 [color=orange]Термический[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] [color=red]Дробящий[/color] 30%; [color=red]Рубящий[/color] 50%; [color=yellow]Колющий[/color] 30%; [color=orange]Кислотный[/color] 10%
-  - [bold][color=#a4885c]Уязвимости:[/color][/bold] [color=orange]Структурный[/color] 20%; [color=orange]Шок[/color] 50%; [color=lime]Радиация[/color] 20%
-  - [bold][color=#a4885c]Особые свойства:[/color][/bold] Иммунитет ([color=orange]Холод[/color], [color=lime]Яд[/color], [color=#9A54BF]Асфиксия[/color], [color=#9A54BF]Кровопотеря[/color], [color=#da8b8b]Клеточный[/color]), Полёт, Стрелок (энергооружие)
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 30 (crítico), 90 (muerte)
+  - [bold][color=#a4885c]Speed (carrera/caminar): [/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 20 [color=orange]Thermal[/color]
+  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
+  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
+  - [bold][color=#a4885c]Special Propiedades: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Vuelo, Tirador (Arma de Energía)
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  Эти инженерные дроны способны стрелять разрядными болтами дизейблера. Особенно опасны в сочетании с другими противниками.
+  Estos drones de ingeniería son capaces de disparar virotes descargables. Son especialmente peligrosos cuando se combinan con otros oponentes.
 
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconT1DroneNonLethals"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 30 (крит), 90 (смерть)
-  - [bold][color=#a4885c]Скорость (бег/ходьба):[/color][/bold] 4 м/с (4 м/с)
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 5 [color=orange]Термический[/color]; 20 [color=lightblue]Выносливость[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] [color=red]Дробящий[/color] 30%; [color=red]Рубящий[/color] 50%; [color=yellow]Колющий[/color] 30%; [color=orange]Кислотный[/color] 10%
-  - [bold][color=#a4885c]Уязвимости:[/color][/bold] [color=orange]Структурный[/color] 20%; [color=orange]Шок[/color] 50%; [color=lime]Радиация[/color] 20%
-  - [bold][color=#a4885c]Особые свойства:[/color][/bold] Иммунитет ([color=orange]Холод[/color], [color=lime]Яд[/color], [color=#9A54BF]Асфиксия[/color], [color=#9A54BF]Кровопотеря[/color], [color=#da8b8b]Клеточный[/color]), Полёт, Стрелок (дизейблер)
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 30 (crítico), 90 (muerte)
+  - [bold][color=#a4885c]Speed (carrera/caminar): [/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 5 [color=orange]Thermal[/color]; 20 [color=lightblue]Stamina[/color]
+  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
+  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
+  - [bold][color=#a4885c]Special Propiedades: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Vuelo, Tirador (Desactivador)
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  Научный дрон-ренегат, оснащённый экспериментальной пушкой C.H.I.M.P.
+  Un dron científico renegado equipado con un cañón C.H.I.M.P. experimental.
 
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconT1DroneScience"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 30 (крит), 90 (смерть)
-  - [bold][color=#a4885c]Скорость (бег/ходьба):[/color][/bold] 4 м/с (4 м/с)
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 5 [color=orange]Термический[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] [color=red]Дробящий[/color] 30%; [color=red]Рубящий[/color] 50%; [color=yellow]Колющий[/color] 30%; [color=orange]Кислотный[/color] 10%
-  - [bold][color=#a4885c]Уязвимости:[/color][/bold] [color=orange]Структурный[/color] 20%; [color=orange]Шок[/color] 50%; [color=lime]Радиация[/color] 20%
-  - [bold][color=#a4885c]Особые свойства:[/color][/bold] Иммунитет ([color=orange]Холод[/color], [color=lime]Яд[/color], [color=#9A54BF]Асфиксия[/color], [color=#9A54BF]Кровопотеря[/color], [color=#da8b8b]Клеточный[/color]), Полёт, Стрелок (экспериментальная пушка C.H.I.M.P.)
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 30 (crítico), 90 (muerte)
+  - [bold][color=#a4885c]Speed (carrera/caminar): [/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 5 [color=orange]Thermal[/color]
+  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
+  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
+  - [bold][color=#a4885c]Special Propiedades: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Vuelo, Tirador (Cañón C.H.I.M.P. experimental)
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # «Сервоюнит»
+  # "Servounidad"
 
-  После перепрошивки этот манекен для краш-тестов готов на всё ради мести.
+  Después de flashear, este maniquí de pruebas de choque está dispuesto a hacer cualquier cosa por venganza.
 
-  [color=#a4885c]Регенерация (сильная)[/color]: медленно восстанавливает здоровье даже после смерти.
+  [color=#a4885c]Regeneration (Fuerte)[/color]: Regenera la salud lentamente incluso después de morir.
 
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconT2Servo"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 80 (крит), 140 (смерть)
-  - [bold][color=#a4885c]Скорость (бег/ходьба):[/color][/bold] 4 м/с (4 м/с)
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 6 [color=red]Дробящий[/color], 4 [color=orange]Термический[/color] (ближний)
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] [color=red]Дробящий[/color] 30%; [color=red]Рубящий[/color] 50%; [color=yellow]Колющий[/color] 30%; [color=orange]Кислотный[/color] 10%
-  - [bold][color=#a4885c]Уязвимости:[/color][/bold] [color=orange]Структурный[/color] 20%; [color=orange]Шок[/color] 50%; [color=lime]Радиация[/color] 20%
-  - [bold][color=#a4885c]Особые свойства:[/color][/bold] Иммунитет ([color=orange]Холод[/color], [color=lime]Яд[/color], [color=#9A54BF]Асфиксия[/color], [color=#9A54BF]Кровопотеря[/color], [color=#da8b8b]Клеточный[/color]), Регенерация (сильная)
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 80 (crítico), 140 (muerte)
+  - [bold][color=#a4885c]Speed (carrera/caminar): [/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 6 [color=red]Blunt[/color], 4 [color=orange]Thermal[/color] (Cuerpo a cuerpo)
+  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
+  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
+  - [bold][color=#a4885c]Special Propiedades: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Regeneración (Fuerte)
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # «Юнит-погонщик»
+  # "Conductor de la unidad"
 
-  Основной протокол этого юнита-ренегата — загон и конвоирование пленников. Оснащён эффективным оглушающим электропрутком.
+  El protocolo principal de esta unidad rebelde es acorralar y escoltar a los prisioneros. Está equipada con una barra eléctrica aturdida eficaz.
 
-  [color=#a4885c]Регенерация (сильная)[/color]: медленно восстанавливает здоровье даже после смерти.
+  [color=#a4885c]Regeneration (Fuerte)[/color]: Regenera la salud lentamente incluso después de morir.
 
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconT2Herder"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 80 (крит), 140 (смерть)
-  - [bold][color=#a4885c]Скорость (бег/ходьба):[/color][/bold] 4 м/с (4 м/с)
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 6 [color=red]Дробящий[/color], [color=orange]Шок[/color], 10 [color=lightblue]Выносливость[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] [color=red]Дробящий[/color] 30%; [color=red]Рубящий[/color] 50%; [color=yellow]Колющий[/color] 30%; [color=orange]Кислотный[/color] 10%
-  - [bold][color=#a4885c]Уязвимости:[/color][/bold] [color=orange]Структурный[/color] 20%; [color=orange]Шок[/color] 50%; [color=lime]Радиация[/color] 20%
-  - [bold][color=#a4885c]Особые свойства:[/color][/bold] Иммунитет ([color=orange]Холод[/color], [color=lime]Яд[/color], [color=#9A54BF]Асфиксия[/color], [color=#9A54BF]Кровопотеря[/color], [color=#da8b8b]Клеточный[/color]), Регенерация (сильная)
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 80 (crítico), 140 (muerte)
+  - [bold][color=#a4885c]Speed (carrera/caminar): [/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 6 [color=red]Blunt[/color], [color=orange]Shock[/color], 10 [color=lightblue]Stamina[/color]
+  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
+  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
+  - [bold][color=#a4885c]Special Propiedades: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Regeneración (Fuerte)
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # «Юнит-охотник»
+  # "Unidad de Cazadores"
 
-  Мобильные дроны, назначение которых — разведка, идентификация угроз и ликвидация целей.
+  Drones móviles, cuyo propósito es el reconocimiento, la identificación de amenazas y la eliminación de objetivos.
 
-  [color=#a4885c]Регенерация (сильная)[/color]: медленно восстанавливают здоровье даже после смерти.
+  [color=#a4885c]Regeneration (Fuerte)[/color]: Regenera la salud lentamente incluso después de morir.
 
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconT2Hunter"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 30 (крит), 90 (смерть)
-  - [bold][color=#a4885c]Скорость (бег/ходьба):[/color][/bold] 4 м/с (4 м/с)
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 17 [color=orange]Термический[/color] (лазерная винтовка)
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] [color=red]Дробящий[/color] 30%; [color=red]Рубящий[/color] 50%; [color=yellow]Колющий[/color] 30%; [color=orange]Кислотный[/color] 10%
-  - [bold][color=#a4885c]Уязвимости:[/color][/bold] [color=orange]Структурный[/color] 20%; [color=orange]Шок[/color] 50%; [color=lime]Радиация[/color] 20%
-  - [bold][color=#a4885c]Особые свойства:[/color][/bold] Иммунитет ([color=orange]Холод[/color], [color=lime]Яд[/color], [color=#9A54BF]Асфиксия[/color], [color=#9A54BF]Кровопотеря[/color], [color=#da8b8b]Клеточный[/color]), Регенерация (сильная), Полёт, Стрелок (лазерная винтовка)
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 30 (crítico), 90 (muerte)
+  - [bold][color=#a4885c]Speed (carrera/caminar): [/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 17 [color=orange]Thermal[/color] (Rifle láser)
+  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
+  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
+  - [bold][color=#a4885c]Special Propiedades: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Regeneración (Fuerte), Vuelo, Tirador (Rifle láser)
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # «Юнит-ловчий»
+  # "Cazador de Unidades"
 
-  Оснащён болами и предназначен для замедления, захвата и удержания целей.
+  Está equipado con bolas y está diseñado para ralentizar, bloquear y mantener objetivos.
 
-  [color=#a4885c]Регенерация (сильная)[/color]: медленно восстанавливает здоровье даже после смерти.
+  [color=#a4885c]Regeneration (Fuerte)[/color]: Regenera la salud lentamente incluso después de morir.
 
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconT2Catcher"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 80 (крит), 140 (смерть)
-  - [bold][color=#a4885c]Скорость (бег/ходьба):[/color][/bold] 4 м/с (4 м/с)
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 6 [color=red]Дробящий[/color], 4 [color=orange]Термический[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] [color=red]Дробящий[/color] 30%; [color=red]Рубящий[/color] 50%; [color=yellow]Колющий[/color] 30%; [color=orange]Кислотный[/color] 10%
-  - [bold][color=#a4885c]Уязвимости:[/color][/bold] [color=orange]Структурный[/color] 20%; [color=orange]Шок[/color] 50%; [color=lime]Радиация[/color] 20%
-  - [bold][color=#a4885c]Особые свойства:[/color][/bold] Иммунитет ([color=orange]Холод[/color], [color=lime]Яд[/color], [color=#9A54BF]Асфиксия[/color], [color=#9A54BF]Кровопотеря[/color], [color=#da8b8b]Клеточный[/color]), Регенерация (сильная)
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 80 (crítico), 140 (muerte)
+  - [bold][color=#a4885c]Speed (carrera/caminar): [/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 6 [color=red]Blunt[/color], 4 [color=orange]Thermal[/color]
+  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
+  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
+  - [bold][color=#a4885c]Special Propiedades: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Regeneración (Fuerte)
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # «Висцератор»
+  # "Viscerador"
 
-  Малые, быстрые и манёвренные дроны, созданные для преследования целей в узких проходах и выведения их из строя. Часто сопровождают ловчих.
+  Drones pequeños, rápidos y maniobrables, diseñados para perseguir objetivos en pasajes estrechos y desactivarlos. A menudo escoltan tramperos.
 
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconT1Viscerator"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 12 (крит), 20 (смерть)
-  - [bold][color=#a4885c]Скорость (бег/ходьба):[/color][/bold] 5 м/с (5 м/с)
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 4 [color=red]Рубящий[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] [color=red]Дробящий[/color] 30%; [color=red]Рубящий[/color] 50%; [color=yellow]Колющий[/color] 30%; [color=orange]Кислотный[/color] 10%
-  - [bold][color=#a4885c]Уязвимости:[/color][/bold] [color=orange]Структурный[/color] 20%; [color=orange]Шок[/color] 50%; [color=lime]Радиация[/color] 20%
-  - [bold][color=#a4885c]Особые свойства:[/color][/bold] Иммунитет ([color=orange]Холод[/color], [color=lime]Яд[/color], [color=#9A54BF]Асфиксия[/color], [color=#9A54BF]Кровопотеря[/color], [color=#da8b8b]Клеточный[/color]), Полёт
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 12 (Crítico), 20 (Muerte)
+  - [bold][color=#a4885c]Speed (correr/caminar): [/color][/bold] 5 m/s (5 m/s)
+  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 4 [color=red]Slashing[/color]
+  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
+  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
+  - [bold][color=#a4885c]Special Propiedades: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Vuelo
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # «Тесла-юнит»
+  # "Unidad Tesla"
 
-  Изначально создан для обслуживания генераторов Теслы, но после захвата его оснащение переделано в импровизированное шоковое оружие.
+  Originalmente creada para dar servicio a los generadores de Tesla, pero tras ser capturada, su equipo se convierte en un arma de choque improvisada.
 
-  [color=#a4885c]Регенерация (сильная)[/color]: медленно восстанавливает здоровье даже после смерти.
+  [color=#a4885c]Regeneration (Fuerte)[/color]: Regenera la salud lentamente incluso después de morir.
 
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconT3Tesla"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 110 (крит), 160 (смерть)
-  - [bold][color=#a4885c]Скорость (бег/ходьба):[/color][/bold] 4 м/с (4 м/с)
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 14 [color=yellow]Колющий[/color], 10 [color=lightblue]Выносливость[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] [color=red]Дробящий[/color] 30%; [color=red]Рубящий[/color] 50%; [color=yellow]Колющий[/color] 30%; [color=orange]Кислотный[/color] 10%
-  - [bold][color=#a4885c]Уязвимости:[/color][/bold] [color=orange]Структурный[/color] 20%; [color=orange]Шок[/color] 50%; [color=lime]Радиация[/color] 20%
-  - [bold][color=#a4885c]Особые свойства:[/color][/bold] Иммунитет ([color=orange]Холод[/color], [color=lime]Яд[/color], [color=#9A54BF]Асфиксия[/color], [color=#9A54BF]Кровопотеря[/color], [color=#da8b8b]Клеточный[/color]), Регенерация (сильная), Стрелок (тесла-пушка)
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 110 (crítico), 160 (muerte)
+  - [bold][color=#a4885c]Speed (carrera/caminar): [/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 14 [color=yellow]Piercing[/color], 10 [color=lightblue]Stamina[/color]
+  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
+  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
+  - [bold][color=#a4885c]Special Propiedades:[/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Regeneración (Fuerte), Pistolero (Cañón Tesla)
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # «Юнит-страж»
+  # Unidad Centinela
 
-  Продвинутый охранный силикон, обычно применяемый для защиты высокосекретных зон, таких как хранилища и серверные. После взлома выполняет волю ренегатского ИИ.
+  Una silicona de seguridad avanzada, normalmente usada para proteger áreas altamente sensibles como bóvedas y salas de servidores. Una vez hackeada, cumple la voluntad de la IA rebelde.
 
-  [color=#a4885c]Регенерация (сильная)[/color]: медленно восстанавливает здоровье даже после смерти.
+  [color=#a4885c]Regeneration (Fuerte)[/color]: Regenera la salud lentamente incluso después de morir.
 
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconBossGuardian"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 200 (крит), 400 (смерть)
-  - [bold][color=#a4885c]Скорость (бег/ходьба):[/color][/bold] 4 м/с (4 м/с)
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 4 [color=orange]Термический[/color] (повреждённый турболазер)
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] [color=red]Дробящий[/color] 30%; [color=red]Рубящий[/color] 50%; [color=yellow]Колющий[/color] 30%; [color=orange]Кислотный[/color] 10%
-  - [bold][color=#a4885c]Уязвимости:[/color][/bold] [color=orange]Структурный[/color] 20%; [color=orange]Шок[/color] 50%; [color=lime]Радиация[/color] 20%
-  - [bold][color=#a4885c]Особые свойства:[/color][/bold] Иммунитет ([color=orange]Холод[/color], [color=lime]Яд[/color], [color=#9A54BF]Асфиксия[/color], [color=#9A54BF]Кровопотеря[/color], [color=#da8b8b]Клеточный[/color]), Регенерация (сильная), Полёт, Стрелок (повреждённый турболазер)
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 200 (Crítico), 400 (Muerte)
+  - [bold][color=#a4885c]Speed (carrera/caminar): [/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Damage (tipo): [/color][/bold] 4 [color=orange]Thermal[/color] (turboláser dañado)
+  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
+  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
+  - [bold][color=#a4885c]Special Propiedades: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Regeneración (Fuerte), Vuelo, Tirador (Turboláser dañado)
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # «Юнит „Одинокая звезда“»
+  # "Unidad Estrella Solitaria"
 
-  Автономный боевой мех, обычно применяемый в наступательных операциях. Теперь — элитная охрана ренегатского ИИ. Оснащён ракетными установками, крайне опасен.
+  Un mecha de combate autónomo, normalmente usado en operaciones ofensivas. Ahora una guardia élite de la IA renegada. Equipado con lanzacohetes, extremadamente peligroso.
 
-  [color=#a4885c]Регенерация (сильная)[/color]: медленно восстанавливает здоровье даже после смерти.
+  [color=#a4885c]Regeneration (Fuerte)[/color]: Regenera la salud lentamente incluso después de morir.
 
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconBoss"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 300 (крит), 400 (смерть)
-  - [bold][color=#a4885c]Скорость (бег/ходьба):[/color][/bold] 4 м/с (4 м/с)
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 15 [color=orange]Взрывной[/color] (микроракеты)
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] [color=red]Дробящий[/color] 30%; [color=red]Рубящий[/color] 50%; [color=yellow]Колющий[/color] 30%; [color=orange]Кислотный[/color] 10%
-  - [bold][color=#a4885c]Уязвимости:[/color][/bold] [color=orange]Структурный[/color] 20%; [color=orange]Шок[/color] 50%; [color=lime]Радиация[/color] 20%
-  - [bold][color=#a4885c]Особые свойства:[/color][/bold] Иммунитет ([color=orange]Холод[/color], [color=lime]Яд[/color], [color=#9A54BF]Асфиксия[/color], [color=#9A54BF]Кровопотеря[/color], [color=#da8b8b]Клеточный[/color]), Регенерация (сильная), Стрелок (микроракетная установка)
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 300 (crítico), 400 (muerte)
+  - [bold][color=#a4885c]Speed (carrera/caminar): [/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 15 [color=orange]Explosive[/color] (Micro Misiles)
+  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
+  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
+  - [bold][color=#a4885c]Special Propiedades: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Regeneración (Fuerte), Tirador (Microcohete)
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 </Document>

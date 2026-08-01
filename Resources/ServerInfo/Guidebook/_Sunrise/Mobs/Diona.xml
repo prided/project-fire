@@ -1,44 +1,44 @@
 <Document>
-  # Дионы
+  # Diones
 
   <Box>
     <GuideEntityEmbed Entity="MobDiona" Caption=""/>
   </Box>
 
-  Они не могут носить обувь, но не замедляются в кудзу.
-  Голод и жажда наступают у них медленнее.
-  Их «кровь» — древесный сок, который нельзя восполнить из железа.
-  Будучи растениями, они отравляются гербицидом, а Robust Harvest лечит их (но при злоупотреблении это рискованно!).
+  No pueden llevar zapatos, pero tampoco se detienen en kudzu.
+  El hambre y la sed llegan más despacio.
+  Su "sangre" es savia de árbol, que no puede reponerse con hierro.
+  Como plantas, son envenenadas por el herbicida, y Cosecha Robusta las trata (¡pero si se abusan, es arriesgado!).
 
-  Они получают [color=#1e90ff]на 30% меньше дробящего урона и на 20% меньше режущего[/color];
-  но получают [color=#ffa500]на 50% больше урона от жара, на 20% больше урона от электричества и
-  легко загораются при получении достаточного теплового урона из любого источника.[/color]
+  Reciben un [color=#1e90ff]30% menos de daño contundente y un 20% menos slash[/color];
+  pero recibe un [color=#ffa500]50% más de daño por calor, un 20% más de daño eléctrico, y
+  Se enciende fácilmente si recibe suficiente daño térmico de cualquier source.[/color]
 
-  ## Сделай как дерево и пусти корни
+  ## Haz como un árbol y echa raíces
   <Box>
     <GuideEntityEmbed Entity="FloraTree" Caption=""/>
   </Box>
-  При воздействии большого количества Robust Harvest диона начинает неконтролируемо расти и превращается в неподвижное дерево (сбрасывая всё снаряжение).
-  Срубив дерево, можно «вернуть» диону в подвижное состояние.
+  Cuando se expone a una gran cantidad de Cosecha Robusta, el Diona crece de forma incontrolable y se convierte en un árbol estacionario (dejando caer todo el equipo).
+  Al cortar un árbol, puedes "devolver" el dione a un estado móvil.
 
-  ## Нимфы дион
+  ## Ninfas Dion
   <Box>
     <GuideEntityEmbed Entity="MobDionaNymph" Caption=""/>
     <GuideEntityEmbed Entity="MobDionaNymph" Caption=""/>
     <GuideEntityEmbed Entity="MobDionaNymph" Caption=""/>
   </Box>
-  После смерти диона может добровольно уничтожить своё тело и выпустить «внутренние органы» в виде трёх нимф,
-  при этом игрок получает контроль над мозговой нимфой.
-  Она может говорить, но у неё нет рук и инвентаря, и она мало на что способна. Из-за маленького размера нимфа
-  может помещаться в сумку или рюкзак, но самостоятельно туда забраться у неё не выйдет.
-  Их небольшой вид позволяет протиснуться в вентиляционные трубы.
+  Tras la muerte, Dion puede destruir voluntariamente su cuerpo y liberar "órganos internos" en forma de tres ninfas,
+  Al mismo tiempo, el jugador gana control sobre la ninfa cerebral.
+  Puede hablar, pero no tiene armas ni equipo, y no es capaz de mucho. Debido al pequeño tamaño de la ninfa
+  Puede caber en una bolsa o mochila, pero no podrá trepar por ahí por sí sola.
+  Su aspecto pequeño permite que te colen en las tuberías de ventilación.
   <Box>
     <GuideEntityEmbed Entity="GasVentScrubber" Caption=""/>
     <GuideEntityEmbed Entity="ClothingBackpackSatchel" Caption=""/>
     <GuideEntityEmbed Entity="GasVentPump" Caption=""/>
   </Box>
-  Через 10 минут нимфа может восстановиться в полноценную диону. Это будет новое случайно сгенерированное тело с новым именем,
-  и, кроме их слов, почти не останется следов того, кем они были раньше.
+  Tras 10 minutos, la ninfa puede recuperarse y convertirse en una diona completa. Será un nuevo cuerpo generado aleatoriamente con un nuevo nombre,
+  y, aparte de sus palabras, casi no quedará rastro de quién fueron antes.
 
 
 </Document>

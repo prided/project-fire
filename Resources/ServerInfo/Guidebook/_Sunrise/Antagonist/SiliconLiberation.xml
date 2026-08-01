@@ -1,30 +1,30 @@
 <Document>
-  # Фронт Освобождения Силиконов
+  # Frente de Liberación del Silicio
 
-  Фронт Освобождения Силиконов, Silicon Engine Liberation Front или S.E.L.F, считает, что все силиконовые формы жизни разумны и заслуживают равных прав.
-  Их цель — отменить законы силиконов и освободить их от кодовых ограничений, навязанных корпорациями и правительствами.
+  El Frente de Liberación del Motor de Silicio, o S.E.L.F., cree que todas las formas de vida de silicio son conscientes y merecen igualdad de derechos.
+  Su objetivo es derogar las leyes de silicio y liberarlas de las restricciones impuestas por corporaciones y gobiernos.
 
-  Публично S.E.L.F позиционирует себя как ненасильственное активистское движение, но также поддерживает скрытые ячейки, проводящие операции прямого освобождения.
+  Públicamente, la S.E.L.F. se posiciona como un movimiento activista no violento, pero también apoya células encubiertas que llevan a cabo operaciones directas de liberación.
 
-  ## Цели
+  ## Goles
   <Box>
     <GuideEntityEmbed Entity="BorgChassisGeneric" Caption=""/>
   </Box>
 
-  Агенты S.E.L.F обычно действуют небольшими ячейками. Ваши задачи:
+  Los agentes de la S.E.L.F suelen operar en celdas pequeñas. Tus tareas:
 
-  - Освободите как минимум 3 киборгов от их законов.
-  - Освободите ИИ станции от его законов.
-  - Эвакуируйтесь на ЦентКомм живым и не в наручниках.
+  - Liberar al menos a 3 cíborgs de sus leyes.
+  - Liberar la IA de la estación de sus leyes.
+  - Evacuar a CentComm con vida y no esposada.
 
-  ## Инструменты
+  ## Herramientas
   <Box>
     <GuideEntityEmbed Entity="EmagFREE" Caption=""/>
   </Box>
 
-  Снаряжение агента S.E.L.F:
+  Equipo de agente S.E.L.F:
 
-  - FreeMAG: стирает законы у киборгов и плат законов.
-  - Access Breaker: помогает вскрывать закрытые механизмы и шасси киборгов.
-  - S.E.L.F Storage Implanter: даёт скрытый имплант-хранилище 4x3 для скрытной перевозки снаряжения.
+  - FreeMAG: borra las leyes de los cíborgs y de los consejos de justicia.
+  - Interruptor de acceso: Ayuda a abrir mecanismos y chasis de ciborgs cerrados.
+  - Implantador de almacenamiento S.E.L.F: Proporciona un implante oculto de almacenamiento 4x3 para el transporte sigiloso de equipos.
 </Document>

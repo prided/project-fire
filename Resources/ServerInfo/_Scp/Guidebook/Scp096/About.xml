@@ -1,33 +1,33 @@
-﻿<Document>
-  # SCP-096 "Скромник"
+<Document>
+  # SCP-096 "Hombre Tímido"
 
-  Данное руководство расскажет о том, чем является объект в рамках игры и ее механик. Здесь НЕ будет затронута "лорная" часть объекта.
+  Esta guía te dirá qué es un objeto dentro del juego y sus mecánicas. La parte de "lore" del objeto NO se verá afectada aquí.
 
-  Данная страница является сборником ссылок на другие, более подробные руководства по объекту, и краткое описание раздела.
+  Esta página es una colección de enlaces a otras guías más detalladas sobre el objeto y una breve descripción de la sección.
 
-  ## Начало раунда
+  ## Inicio de la ronda
 
-  В стартовой точке, начале раунда или после появления, SCP-096 находится в своей камере содержания.
-  Камера содержания представляет собой сдерживающую меру, препятствующую вреду персоналу комплекса.
+  En el punto de inicio, al inicio de la ronda, o después de aparecer, SCP-096 está en su celda de contención.
+  La cámara de contención es una medida disuasoria para evitar daños al personal de la instalación.
 
-  Пока объект находится в ней - он практически не представляет угрозы.
+  Mientras el objeto esté dentro, prácticamente no supone una amenaza.
 
-  - Задача персонала комплекса: сдерживать объект внутри камеры содержания.
-  - Задача SCP-096: Покинуть камеру содержания.
+  - La tarea del personal de la instalación es contener la instalación dentro de la celda de contención.
+  - Tarea de SCP-096: Salir de la celda de contención.
 
-  [textlink="Подробнее о сдерживании здесь" link="Scp096Containment"]
+  [textlink="Read más sobre la disuasión here" link="Scp096Containment"]
 
-  [textlink="Подробнее о методах здесь." link="Scp096ContainmentBreach"]
+  [textlink="Read más sobre los métodos here." link="Scp096ContainmentBreach"]
 
-  ## Состояния
+  ## Estados
 
-  Состояния определяют набор механик и задают поведение объекта. В течение раунда объект будет переходить в разные состояния, в зависимости от действий окружающих или действий самого скромника.
+  Los estados definen un conjunto de mecánicas y determinan el comportamiento del objeto. Durante la ronda, el objeto pasará a diferentes estados, dependiendo de las acciones de otros o de la propia persona modesta.
 
-  [textlink="Подробнее про состояния здесь" link="Scp096States"]
+  [textlink="Read más sobre los estados here" link="Scp096States"]
 
-  ## Способности
+  ## Habilidades
 
-  Скромник обладает двумя уникальными способностями, одна из которых является ключевой механикой, позволяющей сбежать из камеры содержания.
+  El Shy tiene dos habilidades únicas, una de las cuales es una mecánica clave que te permite escapar de la celda de contención.
 
-  [textlink="Подробнее про способности здесь" link="Scp096Abilities"]
+  [textlink="More sobre habilidades here" link="Scp096Abilities"]
 </Document>

@@ -1,20 +1,20 @@
 <Document>
-  # Пираты
+  # Piratas
 
-  Пиратские силы на экспедициях делятся на три фракции:
-  [bold]Мусорщики (T1)[/bold], [bold]Пираты (T2)[/bold], [bold]Наемники (T3)[/bold].
-  Фракции широкий набор вариантов сил и снаряжения и иногда встречаются не одиночные бойцы, а целые группы.
+  Las fuerzas piratas en expediciones se dividen en tres facciones:
+  [bold]Scavengers (T1)[/bold], [bold]Pirates (T2)[/bold], [bold]Mercenaries (T3)[/bold].
+  Las facciones ofrecen una amplia gama de opciones para fuerzas y equipo, y a veces no hay combatientes individuales, sino grupos enteros.
 
-  # Мусорщики
-  Низкоуровневые налетчики и мародеры. Используют самодельное и промышленное снаряжение.
+  # Carroñeros
+  Saqueadores y saqueadores de bajo nivel. Usa equipo improvisado e industrial.
 
-  [bold][color=#a4885c]Общие характеристики:[/color][/bold]
-  - [bold][color=#a4885c]Здоровье:[/color][/bold] 100; у обезьян 80
-  - [bold][color=#a4885c]Скорость:[/color][/bold] 3.8 м/с (ближний бой), 3.0 м/с (дальний бой)
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] [color=red]Blunt[/color] 40% [color=red]Slash[/color] 35% [color=yellow]Piercing[/color] 30% [color=orange]Heat[/color] 50% [color=orange]Caustic[/color] 50%
-  - [bold][color=#a4885c]Особенности:[/color][/bold] ночное зрение, пассивная регенерация, EVA-экипировка
+  [bold][color=#a4885c]General Características: [/color][/bold]
+  - [bold][color=#a4885c]Health:[/color][/bold] 100; monos 80
+  - [bold][color=#a4885c]Speed:[/color][/bold] 3,8 m/s (cuerpo a cuerpo), 3,0 m/s (a distancia)
+  - [bold][color=#a4885c]Resistances: [/color][/bold] [color=red]Blunt[/color] 40% [color=red]Slash[/color] 35% [color=yellow]Piercing[/color] 30% [color=orange]Heat[/color] 50% [color=orange]Caustic[/color] 50%
+  - [bold][color=#a4885c]Features:[/color][/bold] Visión Nocturna, Regeneración Pasiva, Equipo EVA
 
-  ## Ближний бой
+  ## Pelea
   <Box>
   <GuideEntityEmbed Entity="MobPirateT1Knife" Caption=""/>
   <GuideEntityEmbed Entity="MobPirateT1Pickaxe" Caption=""/>
@@ -23,7 +23,7 @@
   <GuideEntityEmbed Entity="MobPirateT1EPickaxe" Caption=""/>
   </Box>
 
-  ## Дальний бой
+  ## A distancia
   <Box>
   <GuideEntityEmbed Entity="MobPirateT1Pistol" Caption=""/>
   <GuideEntityEmbed Entity="MobPirateT1Mosin" Caption=""/>
@@ -35,7 +35,7 @@
   <GuideEntityEmbed Entity="MobPirateT1Rifle" Caption=""/>
   </Box>
 
-  ## Редкие варианты
+  ## Variantes raras
   <Box>
   <GuideEntityEmbed Entity="MobPirateT1MonkeyFireBomb" Caption=""/>
   <GuideEntityEmbed Entity="MobPirateT1MonkeyEDagger" Caption=""/>
@@ -46,16 +46,16 @@
   <GuideEntityEmbed Entity="MobPirateT1BombardierPipe" Caption=""/>
   </Box>
 
-  # Пираты
-  Средний уровень угрозы. Носит классическое пиратское снаряжение и тяжелую броню.
+  # Piratas
+  Nivel de amenaza medio. Lleva equipo clásico de pirata y armadura pesada.
 
-  [bold][color=#a4885c]Общие характеристики:[/color][/bold]
-  - [bold][color=#a4885c]Здоровье:[/color][/bold] 100
-  - [bold][color=#a4885c]Скорость:[/color][/bold] 3.8 м/с (ближний бой), 3.0 м/с (дальний бой)
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] [color=red]Blunt[/color] 50% [color=red]Slash[/color] 40% [color=yellow]Piercing[/color] 60% [color=orange]Heat[/color] 40% [color=orange]Caustic[/color] 50% Bloodloss 30% Mangleness 30%
-  - [bold][color=#a4885c]Особенности:[/color][/bold] ночное зрение, пассивная регенерация, улучшенное бронирование
+  [bold][color=#a4885c]General Características: [/color][/bold]
+  - [bold][color=#a4885c]Health:[/color][/bold] 100
+  - [bold][color=#a4885c]Speed:[/color][/bold] 3,8 m/s (cuerpo a cuerpo), 3,0 m/s (a distancia)
+  - [bold][color=#a4885c]Resistances: [/color][/bold] [color=red]Blunt[/color] 50% [color=red]Slash[/color] 40% [color=yellow]Piercing[/color] 60% [color=orange]Heat[/color] 40% [color=orange]Caustic[/color] 50% Pérdida de sangre 30% Enredamiento 30%
+  - [bold][color=#a4885c]Features:[/color][/bold] Visión Nocturna, Regeneración Pasiva, Armadura Mejorada
 
-  ## Ближний бой
+  ## Pelea
   <Box>
   <GuideEntityEmbed Entity="MobPirateT2Cutlass" Caption=""/>
   <GuideEntityEmbed Entity="MobPirateT2ECutlass" Caption=""/>
@@ -63,7 +63,7 @@
   <GuideEntityEmbed Entity="MobPirateT2GauntletDrill" Caption=""/>
   </Box>
 
-  ## Дальний бой
+  ## A distancia
   <Box>
   <GuideEntityEmbed Entity="MobPirateT2Shotgun" Caption=""/>
   <GuideEntityEmbed Entity="MobPirateT2ShotgunMiniBall" Caption=""/>
@@ -74,7 +74,7 @@
   <GuideEntityEmbed Entity="MobPirateT2DoubleRevolver" Caption=""/>
   </Box>
 
-  ## Редкие варианты
+  ## Variantes raras
   <Box>
   <GuideEntityEmbed Entity="MobPirateT2RevolverCutlass" Caption=""/>
   <GuideEntityEmbed Entity="MobPirateT2Grapeshot" Caption=""/>
@@ -84,16 +84,16 @@
   <GuideEntityEmbed Entity="MobPirateT2JuggernautMG" Caption=""/>
   </Box>
 
-  # Наемники
-  Много специализированных ролей, контроль и высокая огневая мощь.
+  # Mercenarios
+  Muchos roles especializados, control y alto poder de fuego.
 
-  [bold][color=#a4885c]Общие характеристики:[/color][/bold]
-  - [bold][color=#a4885c]Здоровье:[/color][/bold] 100
-  - [bold][color=#a4885c]Скорость:[/color][/bold] 3.8 м/с (ближний бой), 3.0 м/с (дальний бой)
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] [color=red]Blunt[/color] 60% [color=red]Slash[/color] 50% [color=yellow]Piercing[/color] 70% [color=orange]Heat[/color] 50% [color=orange]Caustic[/color] 50% Bloodloss 50% Mangleness 50%
-  - [bold][color=#a4885c]Особенности:[/color][/bold] лучшее снаряжение, щиты и продвинутые боевые роли
+  [bold][color=#a4885c]General Características: [/color][/bold]
+  - [bold][color=#a4885c]Health:[/color][/bold] 100
+  - [bold][color=#a4885c]Speed:[/color][/bold] 3,8 m/s (cuerpo a cuerpo), 3,0 m/s (a distancia)
+  - [bold][color=#a4885c]Resistances: [/color][/bold] [color=red]Blunt[/color] 60% [color=red]Slash[/color] 50% [color=yellow]Piercing[/color] 70% [color=orange]Heat[/color] 50% [color=orange]Caustic[/color] 50% Pérdida de sangre 50% Enredos 50%
+  - [bold][color=#a4885c]Features:[/color][/bold] Mejor equipamiento, escudos y roles avanzados en combate
 
-  ## Ближний бой
+  ## Pelea
   <Box>
   <GuideEntityEmbed Entity="MobPirateT3Bola" Caption=""/>
   <GuideEntityEmbed Entity="MobPirateT3Stun" Caption=""/>
@@ -101,7 +101,7 @@
   <GuideEntityEmbed Entity="MobPirateT3ShieldSMG" Caption=""/>
   </Box>
 
-  ## Дальний бой
+  ## A distancia
   <Box>
   <GuideEntityEmbed Entity="MobPirateT3DMR" Caption=""/>
   <GuideEntityEmbed Entity="MobPirateT3Rifle" Caption=""/>
@@ -113,7 +113,7 @@
   <GuideEntityEmbed Entity="MobPirateT3Medic" Caption=""/>
   </Box>
 
-  ## Редкие варианты
+  ## Variantes raras
   <Box>
   <GuideEntityEmbed Entity="MobPirateT3L6" Caption=""/>
   <GuideEntityEmbed Entity="MobPirateT3RPD" Caption=""/>
@@ -123,7 +123,7 @@
   <GuideEntityEmbed Entity="MobPirateT3Sniper" Caption=""/>
   </Box>
 
-  # Киборги и боссы
+  # Ciborgs y jefes
   <Box>
   <GuideEntityEmbed Entity="MobPirateT1BorgAssault" Caption=""/>
   <GuideEntityEmbed Entity="MobPirateT2BorgAssault" Caption=""/>
@@ -137,5 +137,5 @@
   <GuideEntityEmbed Entity="MobPirateT3Boss" Caption=""/>
   </Box>
 
-  - [bold][color=#a4885c]Практика:[/color][/bold] сначала срезай медиков/контроль, потом тяжёлые цели. В затяжном бою пиратские отряды усиливаются за счёт роли и синергии.
+  - [bold][color=#a4885c]Practice:[/color][/bold] Cortar primero los Médicos/Control de Multitudes, luego Objetivos Pesados. En un combate largo, las Unidades Piratas se fortalecen por Rol y Sinergia.
 </Document>

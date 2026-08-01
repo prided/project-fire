@@ -1,36 +1,36 @@
-﻿<Document>
+<Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]ОТЧЁТ[/bold][/color]
+                                  [color=#1B2333][bold]REPORT[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
-[mono][color=#1E4C7A][bold]{corpString} / НИО[/bold][/color][/mono]
+[mono][color=#1E4C7A][bold]{corpString} / NIO[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Станция:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Время:[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Составитель[/bold][/color]
-[bold][color=#4D5F80]Имя и Фамилия:[/color][/bold] [color=#0F5E2B][bold][signature="Имя и Фамилия"][/bold][/color]
-[bold][color=#4D5F80]Должность:[/color][/bold] [color=#7A4A00][bold][job="Должность"][/bold][/color]
-
-[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Отчёт об эксперименте[/bold][/color]
-[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-
-[bold]Отчёт:[/bold]
-Внешнее описание объекта эксперимента: [form="Внешнее описание объекта эксперимента"]
-
-Экспериментатор(-ы): [form="Экспериментатор(-ы)"]
-
-Эксперимент №...
-Описание эксперимента: [form="Описание эксперимента"]
-
-Ожидаемый результат: [form="Ожидаемый результат"]
-
-Используемое оборудование: [form="Используемое оборудование"]
-
-Фактический результат: [form="Фактический результат"]
+[color=#1B2333][bold]Compiler[/bold][/color]
+[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
+[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]Место для печатей[/color][/italic]
+[color=#1B2333][bold]Experiment Report[/bold][/color]
+[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
+
+[bold]Report[/bold]
+Descripción externa del objeto del experimento: [form="External descripción del objeto del experiment"]
+
+Experimentador(es): [form="Experimenter(s)"]
+
+Experimento No...
+Descripción del experimento: [form="Description del experiment"]
+
+Resultado esperado: [form="Expected result"]
+
+Equipamiento utilizado: [form="Equipment used"]
+
+Resultado real: [form="Actual result"]
+
+[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
+                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
 
 
 

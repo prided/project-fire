@@ -1,28 +1,28 @@
 <Document>
-  # Воксы
+  # Vox
 
   <Box>
     <GuideEntityEmbed Entity="MobVox" Caption=""/>
   </Box>
 
-  [color=#ffa500]Внимание! Эта раса не рекомендуется новичкам из-за смертельной аллергии на кислород![/color]
+  [color=#ffa500]Warning! ¡Esta carrera no se recomienda para principiantes debido a su alergia mortal al oxígeno[/color]
 
-  Воксы дышат азотом, а [color=#ffa500]кислород для них токсичен.[/color]
-  К сожалению, на станциях полно кислорода,
-  поэтому воксы почти всегда должны использовать внутренний источник азота, чтобы избежать смертельного воздействия.
+  Los voxes respiran nitrógeno y [color=#ffa500]oxygen es tóxico para them.[/color]
+  Desafortunadamente, las estaciones están llenas de oxígeno,
+  Por lo tanto, los voxes casi siempre tienen que usar una fuente interna de nitrógeno para evitar una exposición letal.
 
-  Воксы всегда появляются с рабочим азотным дыхательным оборудованием.
-  В их коробке выживания есть запасная дыхательная маска и аварийный азотный баллон.
+  Los voxes siempre aparecen con equipos de respiración con nitrógeno que funcionan.
+  Su caja de supervivencia tiene una máscara de respiración de repuesto y un tanque de nitrógeno de emergencia.
 
-  Помимо обычной еды, воксы могут без последствий есть упаковки от снеков, кожуру банана, скорлупу яиц и сырое мясо. Также им нравится пить сварочное топливо.
+  Además de la comida normal, los voxes pueden comer paquetes de snacks, cáscaras de plátano, cáscaras de huevo y carne cruda sin consecuencias. También les gusta beber combustible para cocinar.
 
-  Воксы [color=#1e90ff]медленно восстанавливаются от небольших уровней урона ядом[/color] самостоятельно,
-  если не превышать 20 единиц урона ядом.
-  Это позволяет им выдерживать дыхание станционным воздухом до тридцати секунд без длительного вреда,
-  чтобы быстро поесть, попить, принять таблетки и т. п.
-  Восстановление после 30 секунд воздействия кислорода занимает у них около двух минут.
-  Если их здоровье не улучшается в течение минуты после воздействия кислорода, им следует обратиться за медицинской помощью.
+  Vox [color=#1e90ff]slowly se recupera de pequeños niveles de veneno damage[/color] por sí solo,
+  Si no superas los 20 de daño por veneno.
+  Esto les permite soportar la respiración del aire de la estación hasta treinta segundos sin causar daños a largo plazo,
+  comer rápido, beber, tomar pastillas, etc.
+  Les lleva unos dos minutos recuperarse de 30 segundos de exposición al oxígeno.
+  Si su salud no mejora en menos de un minuto tras la exposición al oxígeno, deberían buscar atención médica.
 
-  Воксы наносят режущий урон безоружными атаками.
+  Los vox infligen daño cortante con ataques sin armas.
 
 </Document>

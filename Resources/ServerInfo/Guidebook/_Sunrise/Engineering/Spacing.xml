@@ -1,23 +1,23 @@
-﻿<Document>
-  # Разгерметизация
-  Разгерметизация - самый частый вид атмосферной аварии на станции.
+<Document>
+  # Despresurización
+  La despresurización es el tipo más común de accidente atmosférico en la estación.
 
-  Хотя повреждение, вызвавшее разгерметизацию, часто долго [textlink="чинить" link="ExpandingRepairingStation"], саму проблему с атмосферой можно быстро решить, заново накачав область.
+  Aunque el daño que causó la despresurización suele tardar mucho en [textlink="repair" link="ExpandingRepairingStation"], el problema atmosférico en sí puede resolverse rápidamente reinflando la zona.
 
-  Устранение разгерметизации обычно состоит из двух простых шагов:
+  Eliminar la despresurización suele consistir en dos pasos sencillos:
 
-  1. Найдите разгерметизированную область и [textlink="заделайте пробоину" link="ExpandingRepairingStation"].
+  1. Encontrar la zona despresurizada y [textlink="repair la hole" link="ExpandingRepairingStation"].
 
-  - Если пробоину трудно найти, внимательно прислушайтесь к потоку воздуха, если он сейчас уходит в космос.
-  - Ищите отверстия под балками, которые может быть сложно заметить.
+  - Si el agujero es difícil de encontrar, escucha atentamente el flujo de aire si ahora va al espacio.
+  - Busca agujeros bajo las vigas que puedan ser difíciles de notar.
 
-  2. Снова накачайте область.
+  2. Bombea la zona de nuevo.
 
-  - [textlink="Воздушные вентиляции" link="AirVent"] входят в блокировку по давлению, чтобы не терять ещё больше воздуха при разгерметизации, поэтому для повторной накачки их нужно переопределить. Это можно сделать, установив подключённую [textlink="воздушную сигнализацию" link="AirAlarms"] в режим заполнения, или щёлкнув по вентиляции правой кнопкой и выбрав 'Release pressure lock out', чтобы временно снять блокировку вручную.
+  - [textlink="Air ventilation" link="AirVent"] entrar en el bloqueo de presión para evitar perder aún más aire al despresurizarse, por lo que deben redefinirse para volver a inflarse. Esto se puede hacer configurando el [textlink="air alarm" link="AirAlarms"] conectado en modo de llenado, o haciendo clic derecho en la ventilación y seleccionando 'Liberar bloqueo de presión' para liberar manualmente el bloqueo.
 
-  ## Чего избегать
-  - Помните: хотя у вас есть бесконечный источник [textlink="добытого газа" link="GasMiningAndStorage"], он недостаточно быстр, чтобы заполнять сразу несколько комнат. Включение режима заполнения на [textlink="воздушных сигнализациях" link="AirAlarms"] [italic]до[/italic] устранения основной проблемы часто приводит к потере времени и газа.
+  ## Qué evitar
+  - Recuerda: Aunque tienes una fuente infinita de [textlink="extracted gas" link="GasMiningAndStorage"], no es lo suficientemente rápida para llenar varias habitaciones a la vez. Activar el modo de llenado para [textlink="air alarms" link="AirAlarms"] [italic]before[/italic] solucionar el problema subyacente suele hacer perder tiempo y gas.
 
-  - Оставленная без присмотра [textlink="воздушная сигнализация" link="AirAlarms"] в режиме Fill может перекачать комнату и навредить экипажу, если ситуация выйдет из-под контроля.
+  - Si [textlink="air alarm" link="AirAlarms"] desatendidos en modo Relleno, puede abrumar la sala y perjudicar a la tripulación si la situación se descontrola.
 
 </Document>

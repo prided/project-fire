@@ -1,44 +1,44 @@
-﻿<Document>
+<Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]СПИСОК[/bold][/color]
+                                  [color=#1B2333][bold]LIST[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
-[mono][color=#1E4C7A][bold]{corpString} / ИНЖ[/bold][/color][/mono]
+[mono][color=#1E4C7A][bold]{corpString} / ING[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Станция:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Время:[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Составитель[/bold][/color]
-[bold][color=#4D5F80]Имя и Фамилия:[/color][/bold] [color=#0F5E2B][bold][signature="Имя и Фамилия"][/bold][/color]
-[bold][color=#4D5F80]Должность:[/color][/bold] [color=#7A4A00][bold][job="Должность"][/bold][/color]
+[color=#1B2333][bold]Compiler[/bold][/color]
+[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
+[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Список дежурства инженерного отдела[/bold][/color]
+[color=#1B2333][bold]List de deber de la department[/bold][/color] de ingeniería
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[bold]Содержание:[/bold]
-[bold]Обслуживание инженерного отдела[/bold]
+[bold]Contents[/bold]
+[bold]Maintenance de la department[/bold] de ingeniería
 [mono]
-1) [form="Имя и Фамилия"]
-2) [form="Имя и Фамилия"]
+1) [form="Name y Surname"]
+2) [form="Name y Surname"]
 [/mono]
-Дополнительно: [form="Имя и Фамилия, Имя и Фамилия"]
+Opcional: [form="First y apellido, nombre y apellido Name"]
 
-[bold]Запросы экипажа / диагностика станции[/bold]
+[bold]Crew Solicitudes / Estación Diagnostics[/bold]
 [mono]
-1) [form="Имя и Фамилия"]
-2) [form="Имя и Фамилия"]
+1) [form="Name y Surname"]
+2) [form="Name y Surname"]
 [/mono]
-Дополнительно: [form="Имя и Фамилия, Имя и Фамилия"]
+Opcional: [form="First y apellido, nombre y apellido Name"]
 
-[bold]Выполнение цели Центрального Командования[/bold]
+[bold]Fulfillment del objetivo de la Command[/bold] Central
 [mono]
-1) [form="Имя и Фамилия"]
-2) [form="Имя и Фамилия"]
+1) [form="Name y Surname"]
+2) [form="Name y Surname"]
 [/mono]
-Дополнительно: [form="Имя и Фамилия, Имя и Фамилия"]
+Opcional: [form="First y apellido, nombre y apellido Name"]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]Место для печатей[/color][/italic]
+                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
 
 
 

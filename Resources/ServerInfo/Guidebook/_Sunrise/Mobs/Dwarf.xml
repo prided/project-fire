@@ -1,14 +1,14 @@
 <Document>
-  # Дворфы
+  # Enanos
 
   <Box>
     <GuideEntityEmbed Entity="MobDwarf" Caption=""/>
   </Box>
 
-  Дворфы во многом похожи на людей, но лучше переносят алкоголь, а спиртное их лечит.
+  Los enanos son parecidos a los humanos en muchos aspectos, pero toleran mejor el alcohol, y el alcohol los cura.
 
   <Box>
     <GuideEntityEmbed Entity="DrinkBeerBottleFull" Caption=""/>
   </Box>
-  Дворфам необходимо пить алкоголь для утоления жажды, обычная вода же наоборот сушит их организм.
+  Los enanos necesitan beber alcohol para saciar su sed, pero el agua corriente, en cambio, seca sus cuerpos.
 </Document>

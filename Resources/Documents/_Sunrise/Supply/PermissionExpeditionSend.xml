@@ -1,31 +1,31 @@
-﻿<Document>
+<Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]РАЗРЕШЕНИЕ[/bold][/color]
+                                  [color=#1B2333][bold]PERMISSION[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
-[mono][color=#1E4C7A][bold]{corpString} / [form="КОД"]-СНБ[/bold][/color][/mono]
+[mono][color=#1E4C7A][bold]{corpString} / [form="CODE"]-SNB[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Станция:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Время:[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Составитель[/bold][/color]
-[bold][color=#4D5F80]Имя и Фамилия:[/color][/bold] [color=#0F5E2B][bold][signature="Имя и Фамилия"][/bold][/color]
-[bold][color=#4D5F80]Должность:[/color][/bold] [color=#7A4A00][bold][job="Должность"][/bold][/color]
-
-[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Разрешение на отправку в экспедицию[/bold][/color]
-[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-
-[bold]Содержание:[/bold]
-Я, [form="Имя и Фамилия"], в должности [form="ДОЛЖНОСТЬ"], прошу отправить меня в Научно-исследовательскую экспедицию.
-
-Причины по которым я должен быть туда отправлен: [form="Причины по которым я должен быть туда отправлен"]
-
-
-Обязуюсь проявлять осторожность при выполнении научно-исследовательских работ, выполнять команды старших по званию во время экспедиции.
-В случае невозвращения меня или моего тела прошу считать меня погибшим во время исполнения своего долга перед Qillu!
+[color=#1B2333][bold]Compiler[/bold][/color]
+[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
+[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]Место для печатей[/color][/italic]
+[color=#1B2333][bold]Permission de ir de expedition[/bold][/color]
+[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
+
+[bold]Contents[/bold]
+Yo, [form="Name y Surname"], en el puesto de [form="POSITION"], solicito ser enviado a la Expedición de Investigación.
+
+Razones por las que debería enviarme allí: [form="Reasons por qué debería enviarme there"]
+
+
+Me comprometo a actuar con precaución al realizar trabajos de investigación, a seguir las órdenes de los oficiales superiores durante la expedición.
+En caso de que no regrese mi cuerpo o mío, os pido que me consideréis muerto en el cumplimiento de mi deber hacia Qillu.
+
+[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
+                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
 
 
 

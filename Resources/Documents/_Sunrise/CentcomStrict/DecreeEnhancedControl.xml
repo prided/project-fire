@@ -1,32 +1,32 @@
-﻿<Document>
+<Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                    [color=#8D1010]✸✸✸[/color] [color=#1B2333][bold]УКАЗ[/bold][/color] [color=#8D1010]✸✸✸[/color]
+                                    [color=#8D1010]✸✸✸[/color] [color=#1B2333][bold]DECREE[/bold][/color] [color=#8D1010]✸✸✸[/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
-[mono][color=#1E4C7A][bold]{corpString} / ЦК-КОМ[/bold][/color]        [color=#7A4A00][bold]№ [form="Номер указа"][/bold][/color][/mono]
+[mono][color=#1E4C7A][bold]{corpString} / CC-KOM[/bold][/color] [color=#7A4A00][bold]No [form="Decree Number"][/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Объект назначения:[/color] [color=#8D1010][bold]СЕКРЕТНО[/bold][/color] ([form="Кодовое название объекта"])[/bold]
-[bold][color=#4D5F80]Время:[/color] [color=#1B2333]{timeString}[/color][/bold]
-[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-
-[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Императивный указ Высшего Центрального Командования[/bold][/color]
+[bold][color=#4D5F80]Destination:[/color] [color=#8D1010][bold]SECRET[/bold][/color] ([form="Code nombre de la object"])[/bold]
+[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[color=#2D3442][bold][color=#8D1010]УКАЗ ВЫПОЛНИТЬ ЛЮБОЙ ЦЕНОЙ.[/color][/bold] Настоящим документом предписано [bold][color=#8D1010]выполнить распоряжения любой ценой[/color][/bold] на объекте [bold][color=#1E4C7A][form="Кодовое название объекта"][/color][/bold].[/color]
+[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
+[color=#1B2333][bold]Imperative Decreto de la Alta Command[/bold][/color] Central
+[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[bold][color=#7A4A00]Обязательные предписания:[/color][/bold]
+[color=#2D3442][bold][color=#8D1010]DECREE EJECUTAR EN CUALQUIER COST.[/color][/bold] Este documento prescribe [bold][color=#8D1010]to ejecutar órdenes en cualquier cost[/color][/bold] de la instalación [bold][color=#1E4C7A][form="Code nombre de la object"][/color][/bold].[/color]
+
+[bold][color=#7A4A00]Mandatory Regulations[/color][/bold]
 [bold][mono][color=#2D3442]
- ► [bold][color=#8D1010]Ответственный за исполнение:[/color][/bold] [form="Должность ответственного"].
- ► [bold][color=#1E4C7A]Первостепенное распоряжение:[/color][/bold] [form="Распоряжение 1"].
- ► [bold][color=#7A4A00]Дополнительное распоряжение:[/color][/bold] [form="Распоряжение 2"].
- ► [bold][color=#8D1010]Срок исполнения:[/color][/bold] [form="Время"].
+ ► [bold][color=#8D1010]Responsible para ejecución:[/color][/bold] [form="Position del person"] responsable.
+ ► [bold][color=#1E4C7A]First Command[/color][/bold] [form="Order 1"].
+ ► [bold][color=#7A4A00]Additional Orden: [/color][/bold] [form="Order 2"].
+ ► [bold][color=#8D1010]Deadline[/color][/bold] [form="Time"].
 [/color][/mono][/bold]
 
-[bold][color=#7A4A00]Возможные последствия при неисполнении:[/color][/bold]
-[color=#2D3442]При неисполнении указа к ответственным лицам могут быть применены [bold]самые строгие дисциплинарные, административные и корпоративные меры[/bold], вплоть до отстранения, трибунала и высшей меры наказания по решению Высшего Центрального Командования.[/color]
+[bold][color=#7A4A00]Possible consecuencias en caso de incumplimiento: [/color][/bold]
+[color=#2D3442]In caso de incumplimiento del decreto, [bold]the measures[/bold] disciplinarias, administrativas y corporativas más severas pueden aplicarse a los responsables, hasta suspensión, tribunal y pena capital por decisión de la Alta Command.[/color] Central
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]Место для печатей[/color][/italic]
+                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
 
 
 

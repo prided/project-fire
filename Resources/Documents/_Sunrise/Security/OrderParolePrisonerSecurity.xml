@@ -1,28 +1,28 @@
-﻿<Document>
+<Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]ПРИКАЗ[/bold][/color]
+                                  [color=#1B2333][bold]ORDER[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
-[mono][color=#1E4C7A][bold]{corpString} / СБ[/bold][/color][/mono]
+[mono][color=#1E4C7A][bold]{corpString} / SAT[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Станция:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Время:[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Составитель[/bold][/color]
-[bold][color=#4D5F80]Имя и Фамилия:[/color][/bold] [color=#0F5E2B][bold][signature="Имя и Фамилия"][/bold][/color]
-[bold][color=#4D5F80]Должность:[/color][/bold] [color=#7A4A00][bold][job="Должность"][/bold][/color]
+[color=#1B2333][bold]Compiler[/bold][/color]
+[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
+[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Приказ об УДО заключённого[/bold][/color]
+[color=#1B2333][bold]Order en libertad condicional por un prisoner[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[bold]Приказ:[/bold]
-Я, [form="Имя и Фамилия"], в должности [form="ДОЛЖНОСТЬ"], разрешаю условно-досрочно освободить заключённого, находящегося под стражей: [form="Имя и Фамилия"], из брига/пермабрига.
-После оформления условно-досрочного освобождения заключённому будет выдана гражданская профессия с обязательной работой до конца смены.
+[bold]Order[/bold]
+Yo, [form="Name y Surname"], en la posición de [form="POSITION"], autorizamos la libertad condicional de un prisionero bajo custodia: [form="Name y Surname"], del calabozo/permabrig.
+Tras la libertad condicional, al preso se le asignará una profesión civil con trabajo obligatorio hasta el final del turno.
 
-Выдаваемая профессия: [form="Выдаваемая профессия"]
+Profesión concedida: [form="Profession Granted"]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]Место для печатей[/color][/italic]
+                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
 
 
 

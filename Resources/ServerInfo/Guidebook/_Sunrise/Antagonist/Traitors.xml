@@ -1,5 +1,5 @@
 <Document>
-  # Предатели
+  # Traidores
 
   <Box>
     [color=#999999][italic]"WHISKEY. ECHO. WHISKEY. LIMA. ALPHA. DELTA. AGENT, YOU HAVE BEEN ACTIVATED."[/italic][/color]
@@ -7,103 +7,103 @@
   <Box>
     <GuideEntityEmbed Entity="PosterContrabandSyndicateRecruitment" Caption=""/>
   </Box>
-  Предатели — антагонисты, нанятые [color=#ff0000]Синдикатом[/color]. Вы — спящий агент, получающий доступ к разным инструментам и оружию через свой [bold]Аплинк[/bold].
-  Вы также получаете [bold]кодовые слова[/bold], чтобы распознавать других агентов, и скоординированная команда предателей может иметь [italic]смертоносные последствия.[/italic]
+  Los traidores son antagonistas contratados por la [color=#ff0000]Syndicate[/color]. Eres un agente durmiente que accede a diversas herramientas y armas a través de tu [bold]Apple[/bold].
+  También tienes [bold]code words[/bold] para reconocer a otros agentes, y un equipo coordinado de traidores puede tener [italic]deadly consequences.[/italic]
 
-  Любой, кроме [textlink="глав отделов" link="Command"] или представителей [textlink="Службы безопасности" link="Security"], может оказаться предателем.
+  Cualquiera que no sean [textlink="heads of departments" link="Command"] o representantes de la [textlink="Security services" link="Security"] puede ser un traidor.
 
-  ## Аплинк и активации
-  [color=cyan]Аплинк[/color] — ваш главный инструмент. Вы можете обменять 20 [color=red]телекристаллов[/color] (TC), которые вы получаете при активации, на предметы, которые помогут вам с задачами.
+  ## Enlace ascendente y activación
+  [color=cyan]Uplink[/color] es tu herramienta principal. Puedes cambiar los 20 [color=red]telecrystals[/color] (TC) que obtienes al activarte por objetos que te ayuden con las tareas.
 
-  Нажав [color=yellow][bold]Открыть меню персонажа[/bold][/color], вы увидите свой личный код Аплинк'а. [bold]Назначив эту комбинацию мелодией PDA, вы сможете вызвать Аплинк.[/bold]
-  Тот же экран показывает ваши цели и кодовые слова.
+  Al hacer clic [color=yellow][bold]Open Menu[/bold][/color] de personaje, verás tu código Plink personal. [bold]By asignar esta combinación como melodía de PDA, podrás invocar a Applink.[/bold]
+  La misma pantalla muestra tus objetivos y palabras clave.
 
-  Если у вас нет PDA при активации, то [color=cyan]Аплинк-имплант[/color] будет вставлен [bold]за полную стоимость импланта в [color=red]TC[/color].[/bold]
-  Он появляется на панели быстрого доступа.
+  Si no tienes PDA cuando se activa, el [color=cyan]Uplink Implant[/color] se insertará [bold]for el coste total del implante en [color=red]TC[/color].[/bold]
+  Aparece en la barra de herramientas de acceso rápido.
   <Box>
-    <GuideEntityEmbed Entity="PassengerPDA" Caption="КПК"/>
-    <GuideEntityEmbed Entity="Telecrystal" Caption="Телекристалы"/>
-    <GuideEntityEmbed Entity="BaseUplinkRadio" Caption="Имплант Аплинка"/>
+    <GuideEntityEmbed Entity="PassengerPDA" Caption="PDA"/>
+    <GuideEntityEmbed Entity="Telecrystal" Caption="Telecristales"/>
+    <GuideEntityEmbed Entity="BaseUplinkRadio" Caption="Implante de enlace ascendente"/>
   </Box>
 
-  [bold]Закрывайте Аплинк на PDA, чтобы никто не увидел его.[/bold] Не дайте [color=#cb0000]Службе безопасности[/color] заметить его и конфисковать!
+  [bold]Close el enlace ascendente en la PDA para que nadie pueda ver it.[/bold] ¡No dejes que [color=#cb0000]Security[/color] lo veas y te lo confisces!
 
-  Вставленные импланты обычно недоступны посторонним, у них нет дополнительных защит, но пустым имплантером их всё же можно вынуть.
+  Los implantes insertados suelen ser inaccesibles para personas externas, no cuentan con protecciones adicionales, pero aún pueden retirarse con un implante vacío.
 
   <Box>
-    <GuideEntityEmbed Entity="WeaponPistolCobra" Caption="Оружие"/>
-    <GuideEntityEmbed Entity="MagazineBoxLightRifleSP" State="icon" Caption="Боезапас"/>
-    <GuideEntityEmbed Entity="C4" Caption="Взрывчатка"/>
-    <GuideEntityEmbed Entity="ClothingOuterHardsuitSyndie" Caption="Экипировка"/>
-    <GuideEntityEmbed Entity="Stimpack" Caption="Химия"/>
+    <GuideEntityEmbed Entity="WeaponPistolCobra" Caption="Armas"/>
+    <GuideEntityEmbed Entity="MagazineBoxLightRifleSP" State="icon" Caption="Munición"/>
+    <GuideEntityEmbed Entity="C4" Caption="Explosivos"/>
+    <GuideEntityEmbed Entity="ClothingOuterHardsuitSyndie" Caption="Equipamiento"/>
+    <GuideEntityEmbed Entity="Stimpack" Caption="Química"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="ChameleonProjector" Caption="Маскировка"/>
-    <GuideEntityEmbed Entity="Emag" Caption="Саботаж"/>
-    <GuideEntityEmbed Entity="StorageImplanter" Caption="Импланты"/>
-    <GuideEntityEmbed Entity="MobMonkeySyndicateAgentNukeops" Caption="Союзники"/>
-    <GuideEntityEmbed Entity="ClothingEyesGlassesOutlawGlasses" Caption="Бесполезно"/>
+    <GuideEntityEmbed Entity="ChameleonProjector" Caption="Disfraz"/>
+    <GuideEntityEmbed Entity="Emag" Caption="Sabotaje"/>
+    <GuideEntityEmbed Entity="StorageImplanter" Caption="Implantes"/>
+    <GuideEntityEmbed Entity="MobMonkeySyndicateAgentNukeops" Caption="Aliados"/>
+    <GuideEntityEmbed Entity="ClothingEyesGlassesOutlawGlasses" Caption="Inútil"/>
   </Box>
 
-  Покупайте только вещи, которые реально помогают с задачами. Некоторые предметы будут бесполезны, и вам придётся выбирать между скрытностью и шумным решением.
+  Solo compra cosas que realmente ayuden con las tareas. Algunos objetos serán inútiles y tendrás que elegir entre decisiones de sigilo o ruidosas.
 
-  ## Координация
-  Кодовые слова — это слова и фразы, которые знает каждый предатель. Это позволяет ненавязчиво узнать напарника или завязать контакт, что особенно важно, если у вас в задачах есть [italic][color=cyan]помощь другим.[/color][/italic]
+  ## Coordinación
+  Las palabras clave son palabras y frases que todo traidor conoce. Esto te permite reconocer discretamente a tu pareja o establecer contacto, lo cual es especialmente importante si tienes [italic][color=cyan]help otros" en tu tasks.[/color][/italic]
 
-  Как только найдёте товарищей, [bold]вы можете снять [color=red]телекристаллы[/color] с Аплинк'а и отдать им.[/bold] Они могут положить их в свои Аплинк'и и потратить самостоятельно.
+  Una vez que hayas encontrado a tus compañeros, [bold]you puedes eliminar [color=red]Crystal Crystals[/color] del AppLink y dárselos a them.[/bold] Ellos pueden ponerlos en su AppLink y gastárselos ellos mismos.
 
-  Некоторые предложения на Аплинк'е стоят дороже 20 TC, так что придётся делиться, если они вам нужны.
+  Algunas ofertas en Applink cuestan más de 20 TC, así que tendrás que compartirlas si las necesitas.
 
-  ## Убийства
-  Одна из ваших задач — [italic][color=cyan]убить или выбросить члена экипажа на необитаемый объект.[/color][/italic]
+  ## Asesinatos
+  Una de tus tareas es [italic][color=cyan]kill o arrojar a un miembro de la tripulación sobre un object.[/color][/italic] deshabitado
 
-  Вы можете [color=cyan]оставить цель на заброшенном шаттле[/color], [bold]не дав ей добраться до Космопорта[/bold] через эвакуационный шаттл или капсулу.
+  Puedes [color=cyan]leave el objetivo en el barco abandonado shuttle[/color] [bold]preventing que no llegue al Starport[/bold] mediante un transbordador o cápsula de evacuación.
 
-  Если не получается выбросить цель или она слишком важна, придётся [color=cyan]убить[/color] её. Убедитесь, что цель не жива, когда [bold]эвакуационный шаттл достигает CentComm,[/bold] и не позволять её оживить.
+  Si no puedes soltar el objetivo o es demasiado importante, tendrás que [color=cyan]kill[/color] él. Asegúrate de que el objetivo no esté vivo cuando la lanzadera [bold]evacuation llegue a CentComm [/bold] y no dejes que reviva.
 
-  Помните: Синдикат хочет только смерти ваших целей. [color=red]Старайтесь избегать массовых убийств и масштабного ущерба станции,[/color] потому что чем больше невинных вы берёте, тем опаснее вы сами.
+  Recuerda: el Sindicato solo quiere la muerte de tus objetivos. [color=red]Try evitar matanzas masivas y daños masivos a la station[/color] porque cuantos más inocentes tomes, más peligroso eres.
 
-  ## Уклонение и самопожертвование
-  Иногда ваша задача — [italic][color=cyan]добраться до CentComm живым, не будучи убитым или схваченным.[/color][/italic] Не дайте [color=#cb0000]Службе безопасности[/color] поймать вас, завершите остальные задачи и [bold]вернитесь живыми.[/bold]
+  ## Evasión y sacrificio personal
+  A veces tu tarea es [italic][color=cyan]get vivo a CentComm sin morir o captured.[/color][/italic] No dejes que el [color=#cb0000]Security[/color] te atrape, completa el resto de las tareas y [bold]come de vuelta alive.[/bold]
 
-  В других случаях требуется [italic][color=cyan]принять славную смерть.[/color][/italic] [bold]Не возвращайтесь из мёртвых,[/bold] иначе можете очутиться в наручниках.
+  En otros casos, es necesario [italic][color=cyan]accept una gloriosa death.[/color][/italic] [bold]Do no regresar del dead[/bold] de lo contrario podrías acabar esposado.
 
-  ## Присвоение
-  В большинстве случаев вам придётся [italic][color=cyan]украсть вещь у главы отдела.[/color][/italic]
+  ## Apropiación
+  En la mayoría de los casos, tendrás que [italic][color=cyan]steal un objeto del jefe del department.[/color][/italic]
 
-  Цель может находиться в офисе или у неё на теле. Возможно, придётся убить носителя, если нельзя вытащить предмет незаметно.
+  El objetivo puede estar en la oficina o sobre su cuerpo. Puede ser necesario matar al portador si el objeto no puede ser recuperado sin ser detectado.
 
-  Среди тех вещей, которые могут попросить:
-  - Украсть [color=yellow]ID-карту[/color], [bold]антикварный лазерный пистолет[/bold], [bold]реактивный ранец[/bold] или [bold]диск ядерной аутентификации[/bold] у [color=yellow]Капитана[/color].
+  Entre las cosas que se pueden preguntar:
+  - Robar un [color=yellow]ID card[/color], [bold]antique pistol[/bold] láser, [bold]jetpack[/bold] o disc[bold] de autenticación [/bold]nuclear del [color=yellow]Captain[/color].
   <Box>
     <GuideEntityEmbed Entity="CaptainIDCard" Caption=""/>
     <GuideEntityEmbed Entity="WeaponAntiqueLaser" Caption=""/>
     <GuideEntityEmbed Entity="JetpackCaptainFilled" Caption=""/>
     <GuideEntityEmbed Entity="NukeDisk" Caption=""/>
   </Box>
-  - Забрать у [color=#5b97bc]Главного врача[/color] [bold]гипоспрей[/bold] или [bold]портативный монитор экипажа[/bold].
+  - Recoge el [color=#5b97bc]Chief Physician[/color] [bold]hypospray[/bold] o [bold]portable equipo monitor[/bold].
   <Box>
     <GuideEntityEmbed Entity="Hypospray" Caption=""/>
     <GuideEntityEmbed Entity="HandheldCrewMonitorEmpty" Caption=""/>
   </Box>
-  - Украсть у [color=#c96dbf]Научного руководителя[/color] [bold]экспериментальный хардсьют[/bold] или [bold]ручной телепортер[/bold].
+  - Robar un [color=#c96dbf]Supervisor[/color] [bold]experimental hardsuit[/bold] o un [bold]handheld teleporter[/bold].
   <Box>
     <GuideEntityEmbed Entity="ClothingOuterHardsuitRd" Caption=""/>
     <GuideEntityEmbed Entity="HandTeleporter" Caption=""/>
   </Box>
-  - Забрать у [color=#cb0000]Главы службы безопасности[/color] [bold]энергетический магнум[/bold].
+  - Toma el Energy Magnum de [color=#cb0000]Head de Security[/color] [bold]Energy Magnum[/bold].
   <Box>
     <GuideEntityEmbed Entity="WeaponEnergyMagnum" Caption=""/>
   </Box>
-  - Украсть у [color=#f39f27]Старшего инженера[/color] [bold]продвинутые магбутсы[/bold].
+  - Robar [color=#f39f27]Senior Engineer[/color] [bold]Advanced Magboots[/bold].
   <Box>
     <GuideEntityEmbed Entity="ClothingShoesBootsMagAdv" Caption=""/>
   </Box>
-  - Забрать у [color=#b18644]Квартирмейстера[/color] [bold]цифровую доску по заявкам[/bold].
+  - Recoja el consejo del [color=#b18644]Quartermaster[/color] [bold]digital al request[/bold].
   <Box>
     <GuideEntityEmbed Entity="BoxFolderQmClipboard" Caption=""/>
   </Box>
-  - Разделать Иана — пса [color=#9fed58]Главы персонала[/color] — и заполучить [bold]мясо корги[/bold].
+  - Butcher Ian, el [color=#9fed58]Head de Staff[/color] perro y consigue [bold]corgi meat[/bold].
   <Box>
     <GuideEntityEmbed Entity="MobCorgiIan" Caption=""/>
     <GuideEntityEmbed Entity="FoodMeatCorgi" Caption=""/>

@@ -1,16 +1,16 @@
 <Document>
-  # Нианы
+  # Niana
 
   <Box>
     <GuideEntityEmbed Entity="MobMoth" Caption=""/>
   </Box>
 
-  Они могут есть хлопок, ткани и одежду, но почти не способны есть то, что другие считают «едой». Им подходит несколько более низкий диапазон температур, чем людям.
-  Их насекомая кровь не может быть восполнена из железа, как обычная.
+  Pueden comer algodón, tejidos y ropa, pero son casi incapaces de comer lo que otros consideran "comida". No les importa tener un rango de temperatura ligeramente inferior al de los humanos.
+  Su sangre de insecto no puede reponerse con hierro como la sangre común.
 
-  Крылья дают им лучшее ускорение при отсутствии гравитации на станции, но без оборудования в открытом космосе они всё равно не могут двигаться.
+  Las alas les proporcionan mejor aceleración en ausencia de gravedad en la estación, pero sin equipo en el espacio exterior, aún no pueden moverse.
 
-  Они получают [color=#1e90ff]на 30% меньше урона от холода[/color], но [color=#ffa500]на 20% больше урона от жара и легче загораются[/color].
+  Reciben un [color=#1e90ff]30% menos de Damage[/color] de frío, pero un [color=#ffa500]20% más de daño por calor y se incendian más easily[/color].
   <Box>
     <GuideEntityEmbed Entity="MobMothroach" Caption=""/>
     <GuideEntityEmbed Entity="LightBulb" Caption=""/>

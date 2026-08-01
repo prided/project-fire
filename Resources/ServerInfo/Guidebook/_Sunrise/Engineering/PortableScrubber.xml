@@ -1,21 +1,21 @@
-﻿<Document>
-  # Переносной скруббер
-  Переносной скруббер - переносная машина, которой можно очищать атмосферу в помещении.
+<Document>
+  # Limpiador portátil
+  Un depurador portátil es una máquina portátil que puede usarse para purificar la atmósfera de una habitación.
   <Box>
     <GuideEntityEmbed Entity="PortableScrubber"/>
   </Box>
 
-  Он незаменим для быстрого удаления нежелательных газов из комнаты, когда обычные [textlink="скрубберы" link="AirScrubber"] работают слишком медленно или когда [textlink="скруббера" link="AirScrubber"] рядом нет.
+  Es indispensable para eliminar rápidamente los gases no deseados de la habitación cuando los [textlink="scrubbers" link="AirScrubber"] normales son demasiado lentos o cuando no hay [textlink="scrubber" link="AirScrubber"] presentes.
 
-  Переносному скрубберу требуется [textlink="питание" link="Power"] через ближайший [textlink="LV-кабель" link="VoltageNetworks"].
+  Un depurador portátil debe [textlink="powered" link="Power"] por el [textlink="LV-cable" link="VoltageNetworks"] más cercano.
 
-  Переносной скруббер автоматически начинает удалять все непригодные для дыхания газы из комнаты, когда его прикручивают к полу гаечным ключом.
+  El depurador portátil comienza automáticamente a eliminar todos los gases no respirables de la habitación cuando se atornilla al suelo con una llave inglesa.
 
-  Он перестанет очищать воздух, если его открутить от пола или если его внутренний объём заполнится. Внутренняя ёмкость скруббера составляет [color=orange][protodata="PortableScrubber" comp="PortableScrubber" member="Volume"/] литров[/color].
+  Dejará de purificar el aire si se desenrosca del suelo o si se llena su volumen interno. La capacidad interna del depurador es [color=orange][protodata="PortableScrubber" comp="PortableScrubber" member="Volume"/] liters[/color].
 
-  ## Сброс отходов и хранение
-  Внутренний объём скруббера можно опустошить, закрепив его гаечным ключом на [textlink="коннекторе" link="GasCanisters"].
+  ## Vertido y almacenamiento de residuos
+  El volumen interno del depurador puede vaciarse asegurándolo con una llave inglesa en la [textlink="connector" link="GasCanisters"].
 
-  На станциях часто есть отдельная точка разгрузки, чтобы быстро переносить отходы из скруббера в станционную сеть отходов.
+  Las estaciones suelen tener un punto de descarga separado para transferir rápidamente los residuos del depurador a la red de residuos de la estación.
 
 </Document>

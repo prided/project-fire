@@ -1,11 +1,11 @@
-﻿<Document>
-  # Переработка газов
-  Переработка газов позволяет возвращать полезные газы обратно в станционные системы вместо того, чтобы просто выпускать их в космос.
+<Document>
+  # Procesamiento de gas
+  El reciclaje de gas permite que los gases útiles sean devueltos a los sistemas de la estación en lugar de simplemente liberarlos al espacio.
 
-  Обычно отходные газы собираются скрубберами и попадают в отходную сеть.
-  Затем их можно отфильтровать, разделить и отправить обратно в [textlink="газовые хранилища" link="GasMiningAndStorage"] или в другие процессы.
+  Normalmente, los gases residuales son recogidos por los depuradores y entran en la red de residuos.
+  Luego pueden filtrarse, separarse y enviarse de vuelta a [textlink="gas storage" link="GasMiningAndStorage"] u otros procesos.
 
-  Хорошо настроенная переработка снижает расход свежедобытых газов и помогает станции переживать долгие смены.
+  Un procesamiento bien ajustado reduce el consumo de gases recién extraídos y ayuda a la planta a sobrevivir a largos turnos.
 
-  Следите за составом и температурой перерабатываемого газа: горячие или опасные смеси могут повредить систему или создать новую атмосферную аварию.
+  Vigila la composición y temperatura del gas que se procesa: mezclas calientes o peligrosas pueden dañar el sistema o provocar un nuevo accidente atmosférico.
 </Document>

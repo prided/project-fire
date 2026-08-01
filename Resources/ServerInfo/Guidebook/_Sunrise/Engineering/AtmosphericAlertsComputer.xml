@@ -1,30 +1,30 @@
-﻿<Document>
-  # Компьютер атмосферных тревог
-  Компьютер атмосферных тревог показывает информацию обо всех воздушных и пожарных сигнализациях станции.
+<Document>
+  # Ordenador de Alarma Atmosférica
+  El ordenador de alarma atmosférica muestra información sobre todas las alarmas aéreas e incendios de la estación.
 
   <Box>
     <GuideEntityEmbed Entity="ComputerAlert"/>
   </Box>
 
-  Это полезный инструмент для быстрого поиска областей, требующих внимания.
+  Es una herramienta útil para encontrar rápidamente las áreas que necesitan atención.
 
-  Компьютер атмосферных тревог часто находится в атмосе и используется атмосферными техниками для наблюдения за атмосферой по всей станции.
-  Однако для обычных инженеров это тоже хороший индикатор повреждений станции.
+  A menudo se encuentra un ordenador de alarma atmosférica en la atmósfera y es utilizado por técnicos atmosféricos para monitorizar la atmósfera en toda la estación.
+  Sin embargo, para los ingenieros ordinarios, esto también es un buen indicador de daños en la estación.
 
-  Компьютер показывает списки воздушных сигнализаций на уровнях [color=orange]Warning[/color] и [color=red]Danger[/color]. Кроме того, он показывает местоположение всех воздушных сигнализаций с цветом по их текущему статусу.
+  El ordenador muestra listas de alarmas aéreas en los niveles [color=orange]Warning[/color] y [color=red]Danger[/color]. Además, muestra la ubicación de todas las alarmas aéreas con color según su estado actual.
 
-  Воздушные сигнализации со статусом Normal по умолчанию скрыты.
-  Видимость обычных сигнализаций можно переключить фильтрами в нижней части интерфейса.
+  Las alarmas aéreas con el estado Normal están ocultas por defecto.
+  La visibilidad de las alarmas normales puede ajustarse mediante filtros situados en la parte inferior de la interfaz.
 
-  Карта рисует рамку вокруг области, которую отслеживает воздушная сигнализация, что помогает найти опасную зону.
-  Цвет этой рамки меняется в зависимости от статуса сигнализации.
+  El mapa dibuja una caja alrededor del área que rastrea la alarma aérea, lo que ayuda a localizar la zona de peligro.
+  El color de este marco cambia según el estado de la alarma.
 
-  Если воздушная сигнализация обесточена, она отображается серой в списке и на карте.
+  Si la alarma de aire está desactivada, se muestra en gris en la lista y en el mapa.
 
-  Щелчок по воздушной сигнализации в списке или на карте покажет подробную информацию об атмосфере этой области, что помогает понять тип происходящей аварии.
+  Al hacer clic en una alarma de aire en una lista o mapa, se mostrará información detallada sobre la atmósfera de esa zona, lo que ayuda a entender el tipo de accidente que está ocurriendo.
 
-  Список сработавших [textlink="пожарных сигнализаций" link="FireAndGasControl"] также отображается на компьютере атмосферных тревог в отдельной вкладке. Это позволяет быстро находить области, где может быть пожар.
+  La lista de [textlink="fire alarms" link="FireAndGasControl"] activadas también se muestra en el ordenador de alarmas atmosféricas en una pestaña separada. Esto te permite localizar rápidamente las zonas donde puede haber un incendio.
 
-  Отдельные тревоги, например от камер сгорания и морозильников, можно заглушить: щёлкните по тревоге в списке и нажмите кнопку "Silence alerts".
-  Это скроет тревогу из списка, но она всё ещё будет видна на карте.
+  Las alarmas individuales, como las de cámaras de combustión y congeladores, pueden silenciarse haciendo clic en la alarma de la lista y pulsando el botón "Silencio de alertas".
+  Esto ocultará la alarma de la lista, pero seguirá siendo visible en el mapa.
 </Document>

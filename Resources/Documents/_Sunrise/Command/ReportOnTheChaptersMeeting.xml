@@ -1,40 +1,40 @@
-﻿<Document>
+<Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]ОТЧЁТ[/bold][/color]
+                                  [color=#1B2333][bold]REPORT[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
-[mono][color=#1E4C7A][bold]{corpString} / КОМ[/bold][/color][/mono]
+[mono][color=#1E4C7A][bold]{corpString} / COM[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Станция:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Время:[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Составитель[/bold][/color]
-[bold][color=#4D5F80]Имя и Фамилия:[/color][/bold] [color=#0F5E2B][bold][signature="Имя и Фамилия"][/bold][/color]
-[bold][color=#4D5F80]Должность:[/color][/bold] [color=#7A4A00][bold][job="Должность"][/bold][/color]
+[color=#1B2333][bold]Compiler[/bold][/color]
+[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
+[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Отчёт о Собрании Глав[/bold][/color]
+[color=#1B2333][bold]Report sobre la Reunión de la Heads[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[bold]Отчёт:[/bold]
-[bold]Причина созыва Собрания Глав[/bold]
+[bold]Report[/bold]
+[bold]Reason por convocar la Reunión de la Heads[/bold]
 [mono]
-1) [form="Пункт 1"]
-2) [form="Пункт 2"]
+1) [form="Paragraph 1"]
+2) [form="Paragraph 2"]
 [/mono]
-Формулировка поставленного перед Главами вопроса: [form="Формулировка вопроса"]
-Количество голосов «За»: [form="Количество голосов за"]
-Проголосовавшие «За»: [form="Кто проголосовал за"]
+Formulación de la cuestión planteada a los Capítulos: [form="Formulation de la question"]
+Número de votos "A favor": [form="Number de votos for"]
+Quienes votaron "Por": [form="Who votaron for"]
 
-Количество голосов «Против»: [form="Количество голосов против"]
-Проголосовавшие «Против»: [form="Кто проголосовал против"]
+Número de votos "en contra": [form="Number de votos against"]
+Quienes votaron "En contra": [form="Who votaron against"]
 
-Количество воздержавшихся от голосования: [form="Количество воздержавшихся"]
-Воздержавшиеся от голосования: [form="Кто воздержался"]
+Número de abstenciones: [form="Number de abstentions"]
+Abstenciones: [form="Who abstained"]
 
-Решение Собрания Глав: [form="Решение собрания"]
+Decisión de la Reunión de Jefes: [form="Decision de la Meeting"]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]Место для печатей[/color][/italic]
+                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
 
 
 

@@ -1,22 +1,22 @@
-﻿<Document>
-  # Технологии
+<Document>
+  # Tecnología
 
-  Все технологии имеют стоимость и требование по уровню (tier) для исследования. Разблокировка открывает различные рецепты, которые можно печатать на разных станках.
+  Todas las tecnologías tienen un coste y un requisito de nivel que investigar. Desbloquear desbloquea diferentes recetas que pueden imprimirse en distintas máquinas.
 
-  Различные технологии и их дисциплины перечислены ниже.
+  Las diferentes tecnologías y sus disciplinas se enumeran a continuación.
 
-  ## Промышленность
+  ## Industria
   <GuideTechDisciplineEmbed Discipline="Industrial"/>
 
-  ## Арсенал
+  ## Arsenal
   <GuideTechDisciplineEmbed Discipline="Arsenal"/>
 
-  ## Экспериментальные
+  ## Experimental
   <GuideTechDisciplineEmbed Discipline="Experimental"/>
 
-  ## Гражданские услуги
+  ## Servicios Cívicos
   <GuideTechDisciplineEmbed Discipline="CivilianServices"/>
 
-  ## Биохимия
+  ## Bioquímica
   <GuideTechDisciplineEmbed Discipline="Biochemical"/>
 </Document>

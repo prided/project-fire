@@ -1,27 +1,27 @@
 <Document>
-  # Ксеноморфы (гуманоидные)
+  # Xenomorfos (humanoides)
 
   <Box>
     <GuideEntityEmbed Entity="MobXenoDummy" Caption=""/>
   </Box>
 
-  Гуманоидные ксеноморфы устойчивы к перепадам давления и обладают кислотной кровью.
-  Их безоружные атаки наносят режущий, дробящий и кислотный урон.
+  Los xenomorfos humanoides son resistentes a los cambios de presión y poseen sangre ácida.
+  Sus ataques sin armas infligen daño cortante, contundente y ácido.
 
   <Box>
     <GuideReagentEmbed Reagent="FluorosulfuricAcidHumanoidXeno"/>
   </Box>
 
-  Они получают [color=#ffa500]на 5% больше колющего урона[/color],
-  [color=#ffa500]не получают урона от холода[/color],
-  [color=#ffa500]на 20% больше урона от жара[/color],
-  [color=#ffa500]на 25% больше урона от электричества[/color].
+  Aceptan un [color=#ffa500]5% más de perforación Damage[/color]
+  [color=#ffa500]do no recibir daño de cold[/color],
+  [color=#ffa500]20% más de calor Damage[/color]
+  [color=#ffa500]25% más de Damage[/color] eléctrico
 
-  Они быстрее испытывают голод и хотят чаще есть (примерно на 20%).
-  Удушья у ксеноморфов не имеется.
-  Не могут надевать ряд предметов: твёрдые шлема, скафандры, ботинки кроме обмоток, магнитных сапог и ботинок ниндзя.
-  Кровь является сильным ядом.
-  Их следы, схожие с унати.
-  Лапы неуязвимы к осколкам стекла.
+  Sienten hambre más rápido y quieren comer más a menudo (alrededor de un 20%).
+  Los xenomorfos no sufren asfixia.
+  No pueden llevar varios objetos: cascos duros, trajes espaciales, botas excepto fachas, botas magnéticas y botas ninja.
+  La sangre es un veneno fuerte.
+  Sus huellas son similares a las de los Unati.
+  Las patas son invulnerables a los fragmentos de cristal.
 
 </Document>

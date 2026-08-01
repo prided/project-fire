@@ -1,14 +1,14 @@
-﻿  # Самодельная граната: пустой корпус
+  # Granada casera: Maletín vacío
 
-  Пустая гильза — основа для самодельных гранат. Заполните её и выберите ветку в графе, чтобы получить один из вариантов.
+  Un casquillo vacío es la base para las granadas caseras. Rellena y selecciona una rama en la columna para obtener una de las opciones.
 
-  ## Что можно собрать и как
-    ### Для создания Трубчатой бомбы
-      - Трубчатая бомба с контактным тригером и дополнительными осколочными частями.
-      <GuideEntityEmbed Entity="PipeBomb" Caption="Трубчатая бомба" Scale="1"/><GuideEntityEmbed Entity="ImprovisedGrenadeCasingEmpty" Caption="пустая самодельная гильза" Scale="1"/>
-    ### Для создания Зажигательной бомбы
-      - Зажигательная бомба с контактным тригером и дополнительными зажигательными частями.
-      <GuideEntityEmbed Entity="FireBomb" Caption="Зажигательная бомба" Scale="1"/><GuideEntityEmbed Entity="ImprovisedGrenadeCasingEmpty" Caption="пустая самодельная гильза" Scale="1"/>
-    ### Для создания Стеклянной картечи
-      - Стеклянная картечь: много мелких поражений в месте попадания.
-      5 единиц <GuideEntityEmbed Entity="CrushedPhosphorus" Caption="5 ед. Фосфорного порошка" Scale="1.1"/><GuideEntityEmbed Entity="ShardGlass" Caption="5 осколков стекла" Scale="1"/><GuideEntityEmbed Entity="ImprovisedGrenadeCasingEmpty" Caption="пустая самодельная гильза" Scale="1"/>
+  ## Qué se puede montar y cómo
+    ### Para crear una bomba de tubo
+      - Una bomba tubular con disparador de contacto y piezas adicionales de fragmentación.
+      <GuideEntityEmbed Entity="PipeBomb" Caption="Bomba Tubular" Scale="1"/><GuideEntityEmbed Entity="ImprovisedGrenadeCasingEmpty" Caption="Funda casera vacía" Scale="1"/>
+    ### Para crear una bomba incendiaria
+      - Bomba incendiaria con gatillo de contacto y piezas incendiarias adicionales.
+      <GuideEntityEmbed Entity="FireBomb" Caption="Bomba incendiaria" Scale="1"/><GuideEntityEmbed Entity="ImprovisedGrenadeCasingEmpty" Caption="Funda casera vacía" Scale="1"/>
+    ### Para crear perdigones de cristal
+      - Perdigones de vidrio: muchas pequeñas lesiones en el punto de impacto.
+      5 unidades <GuideEntityEmbed Entity="CrushedPhosphorus" Caption="5 unidades de polvo de fósforo" Scale="1.1"/><GuideEntityEmbed Entity="ShardGlass" Caption="5 fragmentos de cristal" Scale="1"/><GuideEntityEmbed Entity="ImprovisedGrenadeCasingEmpty" Caption="Funda casera vacía" Scale="1"/>

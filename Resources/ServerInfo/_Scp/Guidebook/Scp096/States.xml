@@ -1,68 +1,68 @@
-﻿<Document>
-  # Состояния
+<Document>
+  # Estados
 
-  Скромник обладает несколькими уникальными состояниями, определяющими его возможности и механики.
+  El Modest tiene varios estados únicos que determinan sus capacidades y mecánicas.
 
-  Будучи скромником, вы можете определить ваше состояние с помощью репрезентации вашего лица на панели статус-эффектов, справа. Наведя на него мышку, можно увидеть более подробное описание и комментарии вашего внутреннего "голоса" касательно всей ситуации.
+  Siendo modesto, puedes determinar tu estado representando tu rostro en el panel de efectos de estado a la derecha. Al pasar el ratón sobre él, puedes ver una descripción más detallada y comentarios de tu "voz" interior respecto a toda la situación.
 
-  Персоналу комплекса можно определить состояние по звуку, который издает скромник. Некоторые состояния имеют отличимые уникальные действия или внешний вид.
+  El personal del complejo puede determinar el estado por el sonido que hace la persona modesta. Algunos estados tienen acciones o apariencia distintivas y únicas.
 
-  [textlink="Общая информация о скромнике" link="Scp096About"]
+  [textlink="General información sobre el modesto man" link="Scp096About"]
 
-  ## Обычное
+  ## Común
 
-  В данном состоянии скромник медлителен, не может атаковать. Это стандартное состояние, в котором находится объект после появления в раунде.
+  En este estado, el Tímido es lento y no puede atacar. Este es el estado predeterminado en el que se encuentra el objeto tras aparecer en una ronda.
 
-  Чтобы перейти в другое состояние ему требуется [bold]содрать кожу со своего лица[/bold] или дождаться, пока [bold]кто-то увидит его лицо[/bold] вживую или на фотографии.
+  Para cambiar el estado, necesita [bold]peel la piel de su face[/bold] o esperar a que [bold]someone vea su face[/bold] en directo o en una foto.
 
-  Определить данное состояние можно по звуку плача или медлительной скорости передвижения.
+  Esta condición puede identificarse por el sonido de un llanto o movimientos lentos.
 
-  ## Пред-яростное
+  ## Pre-Furious
 
-  В данном состоянии скромник не может передвигаться, трясется и издает громкий звук.
-  Состояние длится 40 секунд, после чего скромник автоматически переходит в состояние Ярости.
+  En este estado, una persona modesta no puede moverse, tiembla y hace un ruido fuerte.
+  El estado dura 40 segundos, tras lo cual el Tímido entra automáticamente en el estado de Ira.
 
-  [bold]Скромник переходит в состояние после того, как кто-то увидел его лицо. Это можно сделать:[/bold]
-  - Вживую, когда вы и скромник смотрите друг-другу в лица.
-  - На фотографии. Достаточно осмотреть ее
+  [bold]A persona modesta se pone nerviosa después de que alguien haya visto su cara. Esto se puede hacer: [/bold]
+  - Vive, cuando tú y un hombre modesto os miráis a la cara.
+  - En la foto. Basta con examinarlo
 
-  Определить состояние можно по громкому звуку и тряске объекта.
+  Puedes determinar la condición por un sonido fuerte y el temblor del objeto.
 
-  ## Ярость
+  ## Rabia
 
-  Перейдя в данное состояние, объект будет выискивать посмотревших на его лицо, чтобы зверски убить свою цель.
+  Una vez en este estado, el sujeto buscará a quienes miren su rostro para matar brutalmente a su objetivo.
 
-  [bold]Скромник перейдет в следующее состояние, когда [/bold]
-  - Убьет все свои цели или они перестанут существовать
-  - Спустя около 4 минут после начала этого состояния
+  [bold]A persona modesta se mudará al siguiente estado cuando [/bold]
+  - Matar a todos sus objetivos o dejarán de existir
+  - Unos 4 minutos después del inicio de esta condición
 
-  Определить состояние можно по громкому реву, доносящемуся от скромника, высокой скорости и целенаправленному передвижению по комплексу
+  Puedes determinar el estado por un fuerte rugido de una persona modesta, alta velocidad y movimientos intencionados por el complejo
 
-  ## Сон/Сидя
+  ## Duerme/Sentado
 
-  В данном состоянии скромник не может передвигаться и находится в уязвимом положении.
-  Он может попасть в него следующими способами
-  - Выйдя из состояния ярости. Спустя время он сможет проснуться
-  - Использовав способность "Присесть". Он может быстро встать обратно
-  - Потратив всю выносливость(стан). Спустя некоторое время он снова встанет.
+  En este estado, una persona modesta no puede moverse y se encuentra en una posición vulnerable.
+  Puede entrar en ello de las siguientes maneras
+  - Salir de la rabia. Con el tiempo, podrá despertarse
+  - Usando la habilidad "Agacharse". Puede levantarse rápidamente
+  - Habiendo gastado toda la resistencia (stan). Con el tiempo, se levanta de nuevo.
 
-  В данном состоянии скромник быстрее плачет, выделяя больше слезной жидкости. Также его можно таскать.
+  En este estado, una persona modesta llora más rápido, secretando más líquido lacrimal. También puede ser transportado.
 
-  Определить состояние можно по уникальному внешнему виду, когда объект "сидит" и издает звук плача.
+  Puedes determinar el estado por su apariencia única, cuando el objeto "se sienta" y emite un sonido de llanto.
 
-  ## Состояние содранного лица
+  ## Estado de la cara desollada
 
-  Уникальное состояние, происходящее, когда объект сдирает всю кожу со своего лица, теряя все очертания.
+  Un estado único que ocurre cuando el sujeto se arranca toda la piel de la cara, perdiendo toda forma.
 
-  [textlink="Подробнее про способности" link="Scp096Abilities"]
+  [textlink="More sobre abilities" link="Scp096Abilities"]
 
-  В данном состоянии он может свободно атаковать персонал комплекс, открывать закрытые шлюзы и гермоворота, а также чуть быстрее перемещаться.
+  En este estado, puede atacar libremente al personal del complejo, abrir esclusas de aire cerradas y puertas herméticas, y moverse un poco más rápido.
 
-  Пока лицо не будет восстановлено, зрительный контакт с его лицом не приведет к переходу в состояние ярости. Даже при взгляде на фотографию.
+  Hasta que el rostro sea restaurado, el contacto visual con su rostro no provocará un estado de ira. Incluso al mirar una foto.
 
-  Чтобы выйти из этого состояния, требуется восстановить лицо. Это автоматически произойдет спустя 15 минут после входа в состояние. Этот процесс можно ускорить, вылечив лицо вручную с помощью пластырей.
+  Para salir de este estado, necesitas restaurar tu cara. Esto ocurrirá automáticamente 15 minutos después de entrar en el estado. Este proceso puede acelerarse curando manualmente la cara con parches.
 
-  [textlink="Подробнее про восстановление условий содержания" link="Scp096Containment"]
+  [textlink="More sobre la restauración de la contención conditions" link="Scp096Containment"]
 
-  Определить состояние можно по уникальному "шумному" звуку исходящему от объекта и свободному передвижению по комплексу.
+  Puedes determinar el estado por el sonido "ruidoso" único que proviene del objeto y el libre movimiento dentro del complejo.
 </Document>

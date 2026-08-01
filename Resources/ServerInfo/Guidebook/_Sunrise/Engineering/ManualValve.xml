@@ -1,12 +1,12 @@
-﻿<Document>
-  # Ручной клапан
-  Ручной клапан - простой клапан, который можно открыть или закрыть вручную.
+<Document>
+  # Válvula manual
+  Válvula manual - Una válvula sencilla que se puede abrir o cerrar manualmente.
   <Box>
     <GuideEntityEmbed Entity="GasValve"/>
   </Box>
 
-  Через открытый ручной клапан газ свободно течёт в обе стороны.
-  Закрытый ручной клапан полностью останавливает поток газа между двумя соединёнными трубопроводными сетями.
+  A través de una válvula manual abierta, el gas fluye libremente en ambas direcciones.
+  Una válvula manual cerrada detiene completamente el flujo de gas entre dos redes de tuberías conectadas.
 
-  Ручные клапаны полезны как простые отсечки для обслуживания, аварийного перекрытия или разделения разных частей системы труб.
+  Las válvulas manuales son útiles como cortes simples para mantenimiento, cierre de emergencia o separación de diferentes partes de un sistema de tuberías.
 </Document>

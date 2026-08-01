@@ -1,107 +1,107 @@
 <Document>
-  # Карпы
+  # Carpa
 
-  Космические карпы - агрессивные хищники, встречающиеся на экспедициях утилизации.
-  Большинство вариантов летают и способны обходить низкие препятствия.
+  Las carpas espaciales son depredadores agresivos que se encuentran en expediciones de eliminación de animales.
+  La mayoría de las variantes vuelan y pueden evitar obstáculos bajos.
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # Известные варианты
-  # "Карп"
+  # Variantes conocidas
+  # "Carpa"
 
-  Базовый вариант экспедиционного карпа.
+  La versión básica de la carpa de expedición.
 
-  [color=#a4885c]Летающий[/color]: существо парит над поверхностью и может обходить низкие препятствия.
+  [color=#a4885c]Flying[/color]: La criatura flota sobre la superficie y puede evitar obstáculos bajos.
 
   <Box>
   <GuideEntityEmbed Entity="MobCarpDungeon"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 50
-  - [bold][color=#a4885c]Скорость:[/color][/bold] 3.5 м/с
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 6 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] нет
-  - [bold][color=#a4885c]Особые способности:[/color][/bold] Летающий
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 50
+  - [bold][color=#a4885c]Speed:[/color][/bold] 3,5 m/s
+  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 6 [color=red]Slash[/color]
+  - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
+  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] Volar
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # "Магикарп"
+  # "Magikarp"
 
-  Редкая разновидность карпа. Магии не замечено.
+  Una variedad rara de carpa. No se ha detectado magia.
 
-  [color=#a4885c]Летающий[/color]: существо парит над поверхностью и может обходить низкие препятствия.
+  [color=#a4885c]Flying[/color]: La criatura flota sobre la superficie y puede evitar obstáculos bajos.
 
   <Box>
   <GuideEntityEmbed Entity="MobCarpMagic"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 40
-  - [bold][color=#a4885c]Скорость:[/color][/bold] 3.5 м/с
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 5 [color=red]Blunt[/color], 7 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] нет
-  - [bold][color=#a4885c]Особые способности:[/color][/bold] Летающий
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 40
+  - [bold][color=#a4885c]Speed:[/color][/bold] 3,5 m/s
+  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 5 [color=red]Blunt[/color], 7 [color=red]Slash[/color]
+  - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
+  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] Volar
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # "Голокарп"
+  # "Holocarpo"
 
-  Карп из голографической энергии. По ощущениям - вполне реален.
+  Una carpa hecha de energía holográfica. Parece bastante real.
 
-  [color=#a4885c]Летающий[/color]: существо парит над поверхностью и может обходить низкие препятствия.
+  [color=#a4885c]Flying[/color]: La criatura flota sobre la superficie y puede evitar obstáculos bajos.
 
   <Box>
   <GuideEntityEmbed Entity="MobCarpHolo"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 40
-  - [bold][color=#a4885c]Скорость:[/color][/bold] 3.5 м/с
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 5 [color=red]Blunt[/color], 7 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] нет
-  - [bold][color=#a4885c]Особые способности:[/color][/bold] Летающий, иммунитет к пулям
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 40
+  - [bold][color=#a4885c]Speed:[/color][/bold] 3,5 m/s
+  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 5 [color=red]Blunt[/color], 7 [color=red]Slash[/color]
+  - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
+  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] Volador, Inmunidad a las balas
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # "Радужный карп"
+  # "Carpa arcoíris"
 
-  Яркая и опасная разновидность карпа.
+  Una variedad brillante y peligrosa de carpa.
 
-  [color=#a4885c]Летающий[/color]: существо парит над поверхностью и может обходить низкие препятствия.
+  [color=#a4885c]Flying[/color]: La criatura flota sobre la superficie y puede evitar obstáculos bajos.
 
   <Box>
   <GuideEntityEmbed Entity="MobCarpRainbow"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 40
-  - [bold][color=#a4885c]Скорость:[/color][/bold] 3.5 м/с
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 5 [color=red]Blunt[/color], 7 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] нет
-  - [bold][color=#a4885c]Особые способности:[/color][/bold] Летающий, Красивый
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 40
+  - [bold][color=#a4885c]Speed:[/color][/bold] 3,5 m/s
+  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 5 [color=red]Blunt[/color], 7 [color=red]Slash[/color]
+  - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
+  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] Volar, Hermosa
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # "Космический дракон"
+  # "Dragón Espacial"
 
-  Крупная и крайне опасная цель, связанная с карпами.
+  Un objetivo grande y extremadamente peligroso asociado a la carpa.
 
-  [color=#a4885c]Летающий[/color]: существо парит над поверхностью и может обходить низкие препятствия.
+  [color=#a4885c]Flying[/color]: La criatura flota sobre la superficie y puede evitar obstáculos bajos.
 
   <Box>
   <GuideEntityEmbed Entity="MobDragonDungeon"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 200
-  - [bold][color=#a4885c]Скорость:[/color][/bold] 5 м/с
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 12 [color=red]Brute[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] нет
-  - [bold][color=#a4885c]Особые способности:[/color][/bold] Летающий, слабое отражение снарядов
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 200
+  - [bold][color=#a4885c] Velocidad: [/color][/bold] 5 m/s
+  - [bold][color=#a4885c]Damage (tipo): [/color][/bold] 12 [color=red]Brute[/color]
+  - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
+  - [bold][color=#a4885c]Special Habilidades:[/color][/bold] Volador, reflexión débil de proyectiles
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # Цели миссий
-  ## Устранение
+  # Objetivos de la misión
+  ## Solución de problemas
   <Box>
   <GuideEntityEmbed Entity="MobDragonDungeon"/>
   </Box>
-  Устранить крупную и опасную цель - [color=#a4885c]космического дракона[/color] - за отведенное время.
+  Elimina un objetivo grande y peligroso —el [color=#a4885c]space dragon[/color]— en el tiempo asignado.
 
-  ## Уничтожение
+  ## Destrucción
   <Box>
   <GuideEntityEmbed Entity="CarpStatue"/>
   </Box>
-  Уничтожить нужное число [color=#a4885c]статуй карпов[/color] за отведенное время.
+  Destruye el número requerido de [color=#a4885c]carp statues[/color] en el tiempo asignado.
 </Document>

@@ -1,144 +1,144 @@
 <Document>
-  # Культист плоти
+  # Cultista de la Carne
 
   <Box>
-    [color=#999999][italic]"СЕРДЦЕ ТРЕБУЕТ ЖИВОЕ МЯСО."[/italic][/color]
+    [color=#999999][italic]"EL CORAZÓN EXIGE CARNE VIVA." [/italic][/color]
   </Box>
   <Box>
     <GuideEntityEmbed Entity="MobFleshCultistPreview" Caption=""/>
   </Box>
 
-  Вы избраны плотью. Внутри вас живёт паразит из чуждого измерения — источник силы и ваша верная смерть. Культист плоти — это существо, рождённое из слияния человека и инопланетной биомассы. Все разумные виды, кроме слаймолюдов, подходят в качестве хозяев для паразита.
+  Eres elegido por la carne. Un parásito de una dimensión alienígena vive dentro de ti, la fuente de poder y de tu muerte segura. Un cultista de la carne es una criatura nacida de la fusión de un humano y una biomasa alienígena. Todas las especies conscientes, excepto los slimoys, son hospedadores adecuados para un parásito.
 
-  Ваша участь предрешена — паразит либо будет накормлен, либо выползет наружу съев вас изнутри. Взамен вы получаете уникальные способности. Ваша главная цель — добыть три трупа гуманоидов, объединиться с другими культистами и начать грандиозный ритуал призыва [bold]Сердца плоти[/bold].
+  Tu destino está sellado: el parásito será alimentado o saldrá arrastrándose, devorándote por dentro. A cambio, obtienes habilidades únicas. Tu objetivo principal es conseguir tres cadáveres humanoides, unirte a otros cultistas y comenzar un gran ritual de invocación de [bold]Heart de Flesh[/bold].
 
-  Накормите сердце гуманоидной плотью. Защищайте его любой ценой. Когда большинство станции будет заражено, вы победили — сила культа в его количестве.
+  Alimenta la carne humanoide del corazón. Protégelo a toda costa. Cuando la mayoría de la estación está infectada, habéis ganado—el poder del culto está en su número.
 
-  ## Запрещено
+  ## Prohibido
 
-  Несмотря на вашу мощь, есть ограничения:
+  A pesar de tu poder, hay limitaciones:
 
-  - Манипулировать с системой жизнеобеспечения (выпускать плазму в дистру и так далее)
-  - Выпускать Сингулярность или Теслу
-  - Раскрывать себя до момента спавна Сердца плоти
-  - Массово убивать экипаж до создания Сердца
-  - Создавать Сердце плоти на шаттлах или вне станции
-  - Полностью застраивать Сердце плоти стройматериалами
-  - Саботировать работу кристалла суперматерии
+  - Manipular el sistema de soporte vital (liberar plasma en la distra, etc.)
+  - Liberar Singularidad o Tesla
+  - Revelarte hasta el momento en que aparezca el Corazón de Carne
+  - Matar a la tripulación en masa antes de que se cree el Corazón
+  - Crear Corazón de Carne en lanzaderas o fuera de la estación
+  - Desarrollar completamente el Corazón de Carne con materiales de construcción
+  - Sabotaje del cristal de supermateria
 
-  Всё остальное — разрешено в рамках правил проекта.
+  Todo lo demás está permitido dentro del marco de las reglas del proyecto.
 
   <Box>
-  <GuideEntityEmbed Entity="MobFleshPudge" Caption="Форма для боя"/>
-  <GuideEntityEmbed Entity="MobFleshSpider" Caption="Форма для засад"/>
-  <GuideEntityEmbed Entity="MobFleshBall" Caption="Форма-шахид"/>
+  <GuideEntityEmbed Entity="MobFleshPudge" Caption="Uniforme de combate"/>
+  <GuideEntityEmbed Entity="MobFleshSpider" Caption="Forma de Emboscada"/>
+  <GuideEntityEmbed Entity="MobFleshBall" Caption="Forma Shahid"/>
   </Box>
   <Box>
-  <GuideEntityEmbed Entity="MobFleshBat" Caption="Форма для разведки"/>
-  <GuideEntityEmbed Entity="MobFleshHugger" Caption="Форма для контроля жертв"/>
-  <GuideEntityEmbed Entity="MobFleshWorm" Caption="Форма для отвлечения внимания"/>
+  <GuideEntityEmbed Entity="MobFleshBat" Caption="Formulario de Scouting"/>
+  <GuideEntityEmbed Entity="MobFleshHugger" Caption="Formulario de Control de Víctimas"/>
+  <GuideEntityEmbed Entity="MobFleshWorm" Caption="Forma de distracción"/>
 </Box>
 
-  ## Связь
+  ## Comunicación
 
   <Box>
-    Используйте [bold]культовую радиосвязь[/bold] (команда [bold]"+к"[/bold]) для координации с другими культистами. Одинокий культист легко уничтожается. Объединённая группа — это настоящий кошмар для экипажа.
+    Usa el [bold]cult radio[/bold] (comando [bold]"+a"[/bold]) para coordinarte con otros cultistas. Un cultista solitario es fácilmente destruido. Un grupo combinado es una pesadilla para la tripulación.
   </Box>
 
-  ## Магазин Эволюции
+  ## Tienda Evolution
 
-  Это ваш основной источник силы. Вы накапливаете [bold]очки эволюции[/bold] по мере поглощения тел любых существ. Каждое тело с трупа гуманоида даёт больше очков, чем животное. [color=#ff6b6b]Каждый труп может быть поглощён только один раз[/color].
+  Esta es tu principal fuente de poder. Acumulas [bold]evolution points[/bold] a medida que absorbes los cuerpos de cualquier criatura. Cada cuerpo de un cadáver humanoide otorga más puntos que un animal. [color=#ff6b6b]Each cadáver solo puede ser consumido once[/color].
   
-  ## Карол и Вербовка
+  ## Carol y reclutamiento
 
-  [color=#ff6b6b]Лидер культа[/color] начинает раунд со шприцами [bold]Карола[/bold]. Он может использовать их на цели для создания новых членов культа.
+  El [color=#ff6b6b]Cult Leader[/color] comienza la ronda con [bold]Carol[/bold] jeringuillas. Puede usarlas para crear nuevos miembros en la secta.
 
-  [color=#ffaa00]Один шприц с 5 единицами Карола[/color] может:
-  - При вводе в организм без Импланта Защиты Разума: [bold]превратить его в нового культиста[/bold]
-  - При вводе защищённой цели: [bold]только отравить[/bold]
+  [color=#ffaa00]One jeringuilla con 5 Carol units[/color] puede:
+  - Cuando se inyecta en el cuerpo sin el Implante de Protección Mental: [bold]turn en un nuevo cultist[/bold]
+  - Al entrar en un objetivo protegido: [bold]poison only[/bold]
 
-  ## Способности
+  ## Habilidades
 
-  ### Наступление
+  ### Ofensivo
 
-  [bold]Форма паука[/bold] | Стоимость: 2 ОЭ
-  Трансформируйте часть своего тела в паукообразную форму. Получите значительное увеличение скорости передвижения и умеренную защиту.
+  [bold]Spider Form[/bold] | Coste: 2 EP
+  Transforma una parte de tu cuerpo en una forma similar a una araña. Obtén un aumento significativo en la velocidad de movimiento y una defensa moderada.
 
-  [bold]Шипострел[/bold] | Стоимость: 5 ОЭ
-  Превратите активную руку в смертоносный мясной пистолет. Плоть формирует костяной снаряд для атак на расстоянии.
+  [bold]Spikeshooter[/bold] | Coste: 5 EP
+  Convierte un brazo activo en una pistola carnicera mortal. La carne forma un proyectil óseo para ataques a larga distancia.
 
-  [bold]Мясные лицехваты[/bold] | Стоимость: 2 ОЭ
-  Извергайте живых мясных лицехватов, которыми можно швырять в врагов. Эффективное оружие ближнего боя с собственным сознанием.
+  [bold]Meat Facehuggers[/bold] | Coste: 2 EP
+  Lanza facehuggers carnosos vivos que puedes lanzar a tus enemigos. Un arma cuerpo a cuerpo eficaz con tu propia mente.
 
-  [bold]Кулак из плоти[/bold] | Стоимость: 3 ОЭ
-  Превратите свою руку в массивный кулак. Легко пробивает стены, конструкции и доставляет огромный урон живой плоти.
+  [bold]Fist de Flesh[/bold] | Coste: 3 EP
+  Convierte tu mano en un puño enorme. Penetra fácilmente paredes, estructuras y causa un daño masivo a la carne viva.
 
-  [bold]Меч из плоти[/bold] | Стоимость: 4 ОЭ
-  Превратите руку в смертоносный клинок из костей и плоти. Идеальное оружие для рукопашного боя.
+  [bold]Flesh Sword[/bold] | Coste: 4 EP
+  Convierte tu brazo en una hoja mortal de hueso y carne. El arma perfecta para el combate cuerpo a cuerpo.
 
-  [bold]Коготь из плоти[/bold] | Стоимость: 2 ОЭ
-  Превратите руку в функциональную клешню. Хватайте предметы, манипулируйте механизмами, режьте врагов.
+  [bold]Claw de Flesh[/bold] | Coste: 2 EP
+  Convierte tu mano en una garra funcional. Agarra objetos, manipula mecanismos, corta enemigos.
 
-  [bold]Кислотный плевок[/bold] | Стоимость: 2 ОЭ
-  Плюйте кислотой в врагов. Наносит урон и разрушает материалы. Эффективно против забаррикадированных позиций.
+  [bold]Acid Spit[/bold] | Coste: 2 EP
+  Escupe ácido a los enemigos. Inflige daño y destruye materiales. Efectivo contra posiciones atrincheradas.
 
-  ### Защита
+  ### Protección
 
-  [bold]Броня из плоти[/bold] | Стоимость: 2 ОЭ
-  Облачитесь в доспехи из костей и плоти. Значительно повышает стойкость к повреждениям.
+  [bold]Flesh Armor[/bold] | Coste: 2 EP
+  Ponte armadura hecha de hueso y carne. Aumenta mucho la resistencia al daño.
 
-  [bold]Тяжелая броня[/bold] | Стоимость: 5 ОЭ
-  Облачитесь в тяжёлые доспехи. Обеспечивает максимальную защиту от урона.
+  [bold]Heavy Armor[/bold] | Coste: 5 XP
+  Ponte armadura pesada. Proporciona la máxima protección contra daños.
 
-  [bold]Защита от вспышек[/bold] | Стоимость: 2 ОЭ
-  Ваши глаза адаптируются к яркому свету. Яркие вспышки больше не ослепляют вас.
+  [bold]Flash Protection[/bold] | Coste: 2 EP
+  Tus ojos se adaptan a la luz intensa. Los destellos brillantes ya no te ciegan.
 
-  [bold]Изоляция[/bold] | Стоимость: 1 ОЭ
-  Электрический ток больше не наносит вам урон.
+  [bold]Insulation[/bold] | Coste: 1 EP
+  La descarga eléctrica ya no te daña.
 
-  [bold]Давление[/bold] | Стоимость: 1 ОЭ
-  Среда с низким давлением больше не угрожает вам. Безопасно работайте в вакууме.
+  [bold]Pressure[/bold] | Coste: 1 EP
+  Los entornos de baja presión ya no te amenazan. Trabaja con seguridad en el vacío.
 
-  [bold]Термо-регуляция[/bold] | Стоимость: 1 ОЭ
-  Поддерживайте стабильную температуру в холодной космической среде. Находитесь в низкотемпературной среде без урона.
+  [bold]Thermo-Regulation[/bold] | Coste: 1 EP
+  Mantén una temperatura estable en un ambiente frío. Permanece en un entorno de baja temperatura sin daños.
 
-  ### Утилита
+  ### Utilidad
 
-  [bold]Синтез адреналина[/bold] | Стоимость: 2 ОЭ
-  Получите дозу боевого адреналина. Кратковременно увеличивает скорость и даёт устойчивость к оглушению.
+  [bold]Adrenaline Synthesis[/bold] | Coste: 2 EP
+  Toma una dosis de adrenalina de combate. Aumenta la velocidad y la resistencia al aturdimiento durante un corto tiempo.
 
-  [bold]Поглощение крови[/bold] | Стоимость: 2 ОЭ
-  Вы инстинктивно поглощаете кровь с полов. Лужи крови излечивают ваши раны.
+  [bold]Blood Absorption[/bold] | Coste: 2 EP
+  Instintivamente absorbes sangre del suelo. Los charcos de sangre curan tus heridas.
 
-  ### Сердце Плоти
+  ### Corazón de Carne
 
-  [bold]Создание Сердца[/bold] | Стоимость: 10 ОЭ
-  Создайте источник силы культа. Требует трёх трупов гуманоидов. Защищайте сердце от враждебного экипажа — оно является вашей целью и источником бесконечной силы.
-  Можно создавать несколько активных сердец для ускорения процесса.
+  [bold]Heart Creation[/bold] | Coste: 10 EP
+  Construye la fuente de poder de un culto. Requiere tres cadáveres humanoides. Protege el corazón de la tripulación hostil: es tu objetivo y una fuente de poder infinito.
+  Puedes crear varios corazones activos para acelerar el proceso.
 
-  ## Стратегия Выживания
+  ## Estrategia de supervivencia
 
   <Box>
-    [color=#ff6b6b][bold]Помните:[/bold] Вы не машина войны. Вы хищник в человеческой шкуре.[/color]
+    [color=#ff6b6b][bold]Remember[/bold] No eres una máquina de guerra. Eres un depredador en la skin.[/color] humana
   </Box>
 
-  ### Ранняя игра
+  ### Inicio del juego
 
-  1. [bold]Скрывайтесь в толпе[/bold] — ведите себя нормально, ничего не подозревающего. Паразит медленный. Вам есть время.
-  2. [bold]Найдите союзников[/bold] — используйте культовую связь, договоритесь о встрече в безопасном месте.
-  3. [bold]Начните охоту[/bold] — одного за другим убивайте людей, животных, поглощайте их и прячьте трупы. Целевые цели: неверные, враги станции, те, чей уход не вызовет подозрения.
+  1. [bold]Hide en el crowd[/bold] – compórtate con normalidad, sin sospechar. El parásito es lento. Tienes tiempo.
+  2. [bold]Find allies[/bold] - usar el vínculo icónico, organizar una reunión en un lugar seguro.
+  3. [bold]Start hunting[/bold] - uno a uno, matar a personas, animales, devorarlos y esconder los cadáveres. Objetivos objetivo: infieles, enemigos de la estación, aquellos cuya partida no despertará sospechas.
 
-  ### Середина игры
+  ### Mitad de partida
 
-  4. [bold]Соберите ресурсы[/bold] — скопите три трупа в безопасном месте. Отвлекайте внимание экипажа инцидентами.
-  5. [bold]Начните ритуал[/bold] — когда ваша группа достаточно сильна, создайте Сердце плоти на защищённой территории.
-  6. [bold]Защищайте сердце[/bold] — это единственное, что имеет значение. Всё остальное — вторично. Накормите его плотью, и оно будет расти, рождая новых воинов.
+  4. [bold]Gather resources[/bold] - Acumular tres cadáveres en un lugar seguro. Distraer a la tripulación con incidentes.
+  5. [bold]Start el ritual[/bold] - Cuando tu grupo sea lo suficientemente fuerte, crea un Corazón de Carne en una zona protegida.
+  6. [bold]Protect la heart[/bold] es lo único que importa. Todo lo demás es secundario. Aliméntalo con carne, y crecerá, dando a luz a nuevos guerreros.
 
-  ### Поздняя игра
+  ### Juego tardío
 
-  По мере роста вашего культа станция будет заражена. Экипаж, когда-то сильный и организованный, станет ослабленным и деморализованным. Ваше единство и терпение принесут победу.
+  A medida que tu culto crezca, la estación se infectará. La tripulación, antes fuerte y organizada, se debilitará y desmoralizará. Tu unidad y paciencia traerán la victoria.
 
-  ## Победа
+  ## Ganar
 
-  Раунд заканчивается [color=red][bold]КРУПНОЙ ПОБЕДОЙ КУЛЬТА[/bold][/color], когда большинство станции заражено. Вы выиграли. Плоть победила.
+  La ronda termina con un [color=red][bold]BIG WIN[/bold][/color] CULT cuando la mayoría de la estación está infectada. Ganas. La carne gana.
 </Document>

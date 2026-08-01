@@ -1,9 +1,9 @@
-﻿<Document>
-  # Работа с газами
-  У атмоса есть широкий набор инструментов и оборудования для работы с газами по всей станции.
+<Document>
+  # Trabajo con gases
+  Atmos dispone de una amplia gama de herramientas y equipos para manejar gases en toda la estación.
 
-  [bold]Предупреждение: откручивание большинства устройств, содержащих газ, [color=red]выпустит газ[/color] в атмосферу.[/bold]
-  Безопасно откручивать можно [textlink="канистры" link="GasCanisters"], [textlink="переносные скрубберы" link="PortableScrubber"], [textlink="конденсаторы" link="GasCondensing"] и [textlink="термомашины" link="Thermomachines"].
+  [bold]Warning: Desatornillar la mayoría de los dispositivos que contienen gas [color=red]release gas[/color] al atmosphere.[/bold]
+  Puedes desenroscar [textlink="canisters" link="GasCanisters"], [textlink="portable scrubbers" link="PortableScrubber"], [textlink="capacitors" link="GasCondensing"] y [textlink="thermomachines" link="Thermomachines"] con seguridad.
 
   <Box>
     <GuideEntityEmbed Entity="GasPipeStraight" Caption=""/>
@@ -13,10 +13,10 @@
     <GuideEntityEmbed Entity="GasPipeFourway" Caption=""/>
   </Box>
   <Box>
-    ## Трубы
+    ## Tuberías
   </Box>
   <Box>
-    [color=#999999][italic]Перемещают газы из одного места в другое[italic][/color]
+    [color=#999999][italic]Move gases de un lugar a otro another[/italic][/color]
   </Box>
 
   <Box>
@@ -24,10 +24,10 @@
     <GuideEntityEmbed Entity="GasVolumePump" Caption=""/>
   </Box>
   <Box>
-    ## Насосы
+    ## Bombas
   </Box>
   <Box>
-    [color=#999999][italic]Принудительно перемещают газы из одного места в другое[italic][/color]
+    [color=#999999][italic]Forcibly mover gases de un lugar a otro another[/italic][/color]
   </Box>
 
   <Box>
@@ -38,10 +38,10 @@
     <GuideEntityEmbed Entity="PortableScrubber" Caption=""/>
   </Box>
   <Box>
-    ## Ввод и вывод атмосферы
+    ## Entrada y salida atmosférica
   </Box>
   <Box>
-    [color=#999999][italic]Подают и извлекают газы из существующей или отсутствующей атмосферы[italic][/color]
+    [color=#999999][italic]Gases se suministran y extraen de atmosphere[/italic][/color] existentes o ausentes
   </Box>
 
   <Box>
@@ -52,10 +52,10 @@
     <GuideEntityEmbed Entity="GasPressureRegulator" Caption=""/>
   </Box>
   <Box>
-    ## Клапаны
+    ## Válvulas
   </Box>
   <Box>
-    [color=#999999][italic]Управляют потоком газа через трубы[italic][/color]
+    [color=#999999][italic]Control el flujo de gas a través de pipes[/italic][/color]
   </Box>
 
   <Box>
@@ -63,10 +63,10 @@
     <GuideEntityEmbed Entity="GasFilter" Caption=""/>
   </Box>
   <Box>
-    ## Смешивание и фильтрация
+    ## Mezcla y filtrado
   </Box>
   <Box>
-    [color=#999999][italic]Изменяют состав газа[italic][/color]
+    [color=#999999][italic]Change la composición del gas[/italic][/color]
   </Box>
 
   <Box>
@@ -78,10 +78,10 @@
     <GuideEntityEmbed Entity="GasPort" Caption=""/>
   </Box>
   <Box>
-    ## Газовые канистры
+    ## Bombones de gas
   </Box>
   <Box>
-    [color=#999999][italic]Хранят и перевозят газ для удобного использования экипажем[italic][/color]
+    [color=#999999][italic]Store y transportar gas para facilitar su uso por parte de la crew[/italic][/color]
   </Box>
 
   <Box>
@@ -91,19 +91,19 @@
     <GuideEntityEmbed Entity="HeatExchanger" Caption=""/>
   </Box>
   <Box>
-    ## Термомашины и радиаторы
+    ## Termomáquinas y radiadores
   </Box>
   <Box>
-    [color=#999999][italic]Изменяют температуру газов в пайпнете или атмосфере[italic][/color]
+    [color=#999999][italic]Change la temperatura de los gases en la tubería o atmosphere[/italic][/color]
   </Box>
 
   <Box>
     <GuideEntityEmbed Entity="BaseGasCondenser" Caption=""/>
   </Box>
   <Box>
-    ## Конденсация газов
+    ## Condensación de gases
   </Box>
   <Box>
-    [color=#999999][italic]Конденсируют газы для дальнейшего использования[italic][/color]
+    [color=#999999][italic]Condense gases para use[/italic][/color]
   </Box>
 </Document>

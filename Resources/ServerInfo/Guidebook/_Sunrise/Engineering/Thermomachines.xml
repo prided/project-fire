@@ -1,51 +1,51 @@
-﻿<Document>
-  # Термомашины
-  Термомашины - устройства, изменяющие температуру газов внутри [textlink="трубопроводной сети" link="PipeNetworks"] или окружающей атмосферы.
+<Document>
+  # Termomáquinas
+  Las termomáquinas son dispositivos que cambian la temperatura de los gases dentro del [textlink="pipe network" link="PipeNetworks"] o de la atmósfera circundante.
   <Box>
     <GuideEntityEmbed Entity="SpaceHeater" Caption=""/>
     <GuideEntityEmbed Entity="GasThermoMachineHeater" Caption=""/>
     <GuideEntityEmbed Entity="GasThermoMachineFreezer" Caption=""/>
   </Box>
-  Они необходимы для поддержания температуры газов в разных задачах.
+  Son necesarios para mantener la temperatura de los gases en diferentes tareas.
 
-  Все термомашины используют [textlink="электроэнергию" link="Power"], чтобы нагревать или охлаждать атмосферу.
-  Насколько сильно они нагревают или охлаждают атмосферу, напрямую связано с количеством потребляемой энергии.
+  Todas las termomáquinas utilizan [textlink="electricity" link="Power"] para calentar o enfriar la atmósfera.
+  Cuánto calientan o enfrían la atmósfera está directamente relacionado con la cantidad de energía consumida.
 
-  У термомашин также есть коэффициент эффективности, определяющий, насколько сильно они могут нагреть или охладить атмосферу на единицу потреблённой энергии.
+  Las termomáquinas también tienen un coeficiente de eficiencia que determina cuánto pueden calentar o enfriar la atmósfera por unidad de energía consumida.
 
-  Чтобы не проскочить целевое значение, термомашины уменьшают мощность нагрева или охлаждения по мере приближения к целевой температуре.
-  Однако они всё равно потребляют то же количество электричества, даже простаивая.
+  Para no perder el valor objetivo, las termomáquinas reducen la capacidad de calefacción o refrigeración a medida que se acercan a la temperatura objetivo.
+  Sin embargo, siguen consumiendo la misma cantidad de electricidad, incluso cuando están inactivos.
 
-  У всех термомашин допуск целевой температуры составляет [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="TemperatureTolerance"/] K[/color]. Это означает, что они перестают нагревать или охлаждать, когда температура находится в пределах [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="TemperatureTolerance"/] K[/color] от цели.
+  Todas las termomáquinas tienen una tolerancia de temperatura objetivo de [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="TemperatureTolerance"/] K[/color]. Esto significa que dejan de calentarse o enfriarse cuando la temperatura está dentro de [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="TemperatureTolerance"/] K[/color] del objetivo.
 
-  ## Космический обогреватель
-  Космический обогреватель - переносное устройство контроля температуры, которое нагревает или охлаждает газ в окружающей атмосфере.
-  Это простой и эффективный способ поддерживать температуру комнаты без строительства пайпнета или другой системы.
+  ## Calefactor de espacio
+  Un calefactor portátil es un dispositivo portátil de control de temperatura que calienta o enfría un gas en la atmósfera circundante.
+  Esta es una forma sencilla y eficaz de mantener la temperatura de la habitación sin necesidad de construir una tubería u otro sistema.
 
   <Box>
     <GuideEntityEmbed Entity="SpaceHeater"/>
   </Box>
 
-  Их часто можно найти в атмосе, хотя соответствующую машинную плату можно напечатать на принтере плат, обычно находящемся в научном отделе.
+  Estos suelen encontrarse en el atmos, aunque la placa máquina correspondiente puede imprimirse en una impresora PCB, normalmente ubicada en el departamento científico.
 
-  Космический обогреватель может охлаждать до [color=orange][protodata="SpaceHeater" comp="SpaceHeater" member="MinTemperature"/] K[/color] и нагревать до [color=orange][protodata="SpaceHeater" comp="SpaceHeater" member="MaxTemperature"/] K[/color].
+  Un calefactor puede enfriar a [color=orange][protodata="SpaceHeater" comp="SpaceHeater" member="MinTemperature"/] K[/color] y calentar a [color=orange][protodata="SpaceHeater" comp="SpaceHeater" member="MaxTemperature"/] K[/color].
 
-  У него также есть три режима мощности, определяющие, как быстро он нагревает или охлаждает атмосферу.
+  También tiene tres modos de potencia que determinan la rapidez con la que calienta o enfría la atmósfera.
 
-  Ботаника или наука часто запрашивают их для поддержания температуры растений или отдела.
+  La botánica o la ciencia suelen pedirles que mantengan la temperatura de las plantas o de un departamento.
 
-  ## Термомашины пайпнета (охладитель и нагреватель)
-  Термомашины пайпнета - более мощные стационарные устройства контроля температуры, которые можно использовать для нагрева или охлаждения газа в [textlink="пайпнете" link="PipeNetworks"].
+  ## Termomáquinas de red de tubería (refrigerador y calentador)
+  Las termomáquinas de red de tubería son dispositivos estacionarios de control de temperatura más potentes que pueden usarse para calentar o enfriar gas en [textlink="pipenete" link="PipeNetworks"].
 
   <Box>
     <GuideEntityEmbed Entity="GasThermoMachineHeater"/>
     <GuideEntityEmbed Entity="GasThermoMachineFreezer"/>
   </Box>
 
-  Они потребляют [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="HeatCapacity" format="N0"/] Вт[/color] энергии и могут нагревать или охлаждать газ в пайпнете до [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="MaxTemperature"/] K[/color] или до [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="MinTemperature"/] K[/color].
+  Consumen [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="HeatCapacity" format="N0"/] watts[/color] de energía y pueden calentar o enfriar el gas en la tubería para [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="MaxTemperature"/] K[/color] o [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="MinTemperature"/] K[/color].
 
-  Режим термомашины можно сменить, разобрав её и использовав отвёртку на её машинной плате.
-  Плату можно напечатать на принтере плат, обычно находящемся в научном отделе.
+  El modo de la termomáquina puede cambiarse desmontándola y usando un destornillador en su placa de máquina.
+  La placa puede imprimirse en una impresora PCB, normalmente situada en el departamento científico.
 
   <Box>
     <GuideEntityEmbed Entity="GasThermoMachineFreezer" Caption=""/>
@@ -58,18 +58,18 @@
 
   </Box>
 
-  ## Адские термомашины
-  Наука может исследовать более мощные термомашины, метко называемые адскими нагревателями и охладителями.
-  Эти машины намного мощнее стандартных аналогов, но потребляют больше энергии.
+  ## Máquinas Térmicas Infernales
+  La ciencia puede investigar máquinas térmicas más potentes, apropiadamente llamadas calentadores infernales y enfriadores.
+  Estas máquinas son mucho más potentes que las equivalentes estándar, pero consumen más energía.
 
   <Box>
     <GuideEntityEmbed Entity="GasThermoMachineHellfireHeater"/>
     <GuideEntityEmbed Entity="GasThermoMachineHellfireFreezer"/>
   </Box>
 
-  Эти машины потребляют [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="HeatCapacity" format="N0"/] Вт[/color] энергии и могут нагревать или охлаждать газ в пайпнете до [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="MaxTemperature"/] K[/color] или до [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="MinTemperature"/] K[/color].
+  Estas máquinas consumen [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="HeatCapacity" format="N0"/] watts[/color] de energía y pueden calentar o enfriar gas en la tubería hasta [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="MaxTemperature"/] K[/color] o [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="MinTemperature"/] K[/color].
 
-  Однако они также теряют [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="EnergyLeakPercentage" format="P0"/][/color] своей энергии в окружающую среду, соответственно нагревая или охлаждая окружающую атмосферу.
-  Это может быть опасно без правильного контроля.
+  Sin embargo, también pierden [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="EnergyLeakPercentage" format="P0"/][/color] de su energía al medio ambiente, calentando o enfriando respectivamente la atmósfera circundante.
+  Esto puede ser peligroso sin la supervisión adecuada.
 
 </Document>

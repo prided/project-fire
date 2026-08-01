@@ -1,5 +1,5 @@
 <Document>
-  # Революционеры
+  # Revolucionarios
 
   <Box>
     [color=#999999][italic]"Viva la revolucion!!"[/italic][/color]
@@ -8,44 +8,44 @@
     <GuideEntityEmbed Entity="PosterContrabandRevolt" Caption=""/>
   </Box>
 
-  Революционеры — антагонисты обращения, спонсируемые [color=#ff0000]Синдикатом[/color], чья задача — взять станцию под контроль. У них нет хитрых трюков, только идея и сила числом.
+  Los revolucionarios son los antagonistas de la conversión, patrocinada por el [color=#ff0000]Syndicate[/color], cuya tarea es tomar el control de la estación. No tienen trucos ingeniosos, solo idea y poder en número.
 
-  ## Цели
-  Вы должны завербовать, заковать или убить весь [bold]командный состав[/bold] в любом порядке.
+  ## Goles
+  Debes reclutar, encadenar o eliminar a toda la [bold]command staff[/bold] en cualquier orden.
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineCaptain" Caption="Капитан"/>
+    <GuideEntityEmbed Entity="ToyFigurineCaptain" Caption="Capitán"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineHeadOfPersonnel" Caption="ГП"/>
-    <GuideEntityEmbed Entity="ToyFigurineHeadOfSecurity" Caption="ГСБ"/>
-    <GuideEntityEmbed Entity="ToyFigurineChiefMedicalOfficer" Caption="ГВ"/>
+    <GuideEntityEmbed Entity="ToyFigurineHeadOfPersonnel" Caption="GP"/>
+    <GuideEntityEmbed Entity="ToyFigurineHeadOfSecurity" Caption="GDI"/>
+    <GuideEntityEmbed Entity="ToyFigurineChiefMedicalOfficer" Caption="GW"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineChiefEngineer" Caption="СИ"/>
-    <GuideEntityEmbed Entity="ToyFigurineResearchDirector" Caption="НР"/>
-    <GuideEntityEmbed Entity="ToyFigurineQuartermaster" Caption="КМ"/>
+    <GuideEntityEmbed Entity="ToyFigurineChiefEngineer" Caption="SI"/>
+    <GuideEntityEmbed Entity="ToyFigurineResearchDirector" Caption="HP"/>
+    <GuideEntityEmbed Entity="ToyFigurineQuartermaster" Caption="KM"/>
   </Box>
-  Ваша цель — [bold]не уничтожить станцию[/bold], а [italic]захватить ее[/italic], поэтому старайтесь минимизировать разрушения.
+  Tu objetivo [bold]not es destruir la station[/bold], sino [italic]capture it[/italic], así que intenta minimizar la destrucción.
 
-  [bold]Революция проиграет[/bold], если все [bold][color=#5e9cff]Главы революции[/color][/bold] погибнут — все [color=red]Революционеры[/color] будут развербованы в тот же миг.
+  [bold]The Revolución lose[/bold] si todos los [bold][color=#5e9cff]Heads de la Revolution[/color][/bold] mueren—todos los [color=red]Revolutionaries[/color] se desplegarán al mismo tiempo.
 
   <Box>
     <GuideEntityEmbed Entity="ClothingBackpackSatchelSmugglerFilled" Caption=""/>
   </Box>
-  ## Схроны
-  Пешки [color=#ff0000]Синдиката[/color] любезно заложили от 6 до 15 схронов. Их может отыскать любой, но у [bold][color=#5e9cff]Глав революции[/color][/bold] есть пинпоинтер, указывающий на их местоположение.
-  Для их поиска вам необходим Т-лучевой сканер а так же Лом и Гаечный ключ для вскрытия напольной плитки.
+  ## Depósitos
+  Los peones de la [color=#ff0000]Syndicate[/color] amablemente colocados entre 6 y 15 depósitos. Cualquiera puede encontrarlos, pero los [bold][color=#5e9cff]Heads de la Revolution[/color][/bold] tienen un localizador que indica su ubicación.
+  Para encontrarlos, necesitas un escáner de haz en T, así como una palanca y una llave inglesa para abrir las baldosas del suelo.
 
-  ## Главы революции и вербовка
-  [bold][color=#5e9cff]Главы революции[/color][/bold] выбираются в начале смены и стартуют с [color=cyan]вспышкой[/color] и [color=cyan]солнечными очками[/color].
+  ## Capítulos de la Revolución y el Reclutamiento
+  [bold][color=#5e9cff]Heads de los revolution[/color][/bold] se eligen al inicio del turno y comienzan con un [color=cyan]flash[/color] y un [color=cyan]sunglasses[/color].
 
   <Box>
     <GuideEntityEmbed Entity="Flash"/>
     <GuideEntityEmbed Entity="ClothingEyesGlassesSunglasses"/>
   </Box>
 
-  Вы можете обратить члена экипажа на свою сторону, атакуя его любой [bold]вспышкой[/bold] в [color=#ff0000]боевом режиме[/color].
-  Однако [bold]вы не можете обратить цель, если на ней есть [color=cyan]защита от вспышек[/color][/bold], например очки или сварочная маска.
+  Puedes hacer que un miembro de la tripulación se una a tu lado atacándole con cualquier [bold]flash[/bold] de [color=#ff0000]combat mode[/color].
+  Sin embargo, [bold]you no puede invertir el objetivo si tiene [color=cyan]flash protection[/color][/bold] encima, como gafas o casco de soldadura.
 
   <Box>
     <GuideEntityEmbed Entity="ClothingEyesGlassesSunglasses"/>
@@ -55,31 +55,31 @@
   <Box>
     <GuideEntityEmbed Entity="MindShieldImplanter"/>
   </Box>
-  Еще одна помеха — [color=cyan]импланты защиты разума (МЩ)[/color]. Они:
-  - Не дают имплантированному стать [color=red]Революционером[/color]
-  - Развербовывают революционеров, лишая их лояльности к [color=#5e9cff]Главе революции[/color]
-  - [bold]Заметно уничтожаются при установке в [color=#5e9cff]Главу революции[/color][/bold], выдавая вас
-  - НЕ защищают от дезориентации вспышкой
+  Otro obstáculo es la [color=cyan]mind protección implants[/color]. Ellos:
+  - No permitir que el implantado se convierta en un [color=red]Revolutionary[/color]
+  - Reclutan revolucionarios, privándolos de lealtad a la [color=#5e9cff]Head de la Revolution[/color]
+  - [bold]Noticeably destruido cuando se coloca en el [color=#5e9cff]Chapter de Revolution[/color][/bold], delatándote
+  - NO proteger contra la desorientación por destello
 
-  Считайте, что у [color=#cb0000]Службы безопасности[/color] импланты уже стоят, а у командного состава часть ролей может быть защищена, но даже без МЩ вы не сможете завербовать Главу Отдела только если он не ВрИО набранный среди рядовых сотрудников. [bold]Имплант защиты разума можно извлечь Экстрактором имплантов, предварительно выбрав экстракцию МЩ.[/bold]
+  Ten en cuenta que el [color=#cb0000]Security Service[/color] ya tiene implantes, y el personal de mando puede proteger algunos de los roles, pero incluso sin el MC, no podrás reclutar al Jefe de Departamento a menos que sea un VrIO reclutado entre los empleados de base. [bold]The Implante de Protección Mental puede ser retirado por el Extractor de Implantes, habiendo seleccionado previamente la extracción del MC.[/bold]
 
-  Получить экстрактор можно несколькими способами:
-  - У [color=#5e9cff]Главы революции[/color] сразу есть чертеж для автолата
-  - В схронах может быть найден экстрактор
-  - Можно дождаться изучения имплантов в НИО и напечатать его на МедФабе
+  Hay varias formas de conseguir un extractor:
+  - El [color=#5e9cff]Head del Revolution[/color] tiene inmediatamente un plano para el autolat
+  - El extractor puede encontrarse en cachés
+  - Puedes esperar al estudio de implantes en el Laboratorio de Investigación y publicarlo en MedFab
 
-  [bold]Особенность билда:[/bold] даже если у глав станции нет МЩ, вербовать их нельзя. Цели революции только раундовые Главы или прибывшие с Космопорта, ВрИО не считаются как полноценные главы и не ялвяются целью революции.
+  [bold]Build característica: [/bold] Aunque los jefes de la estación no tengan MC, no pueden ser reclutados. Los objetivos de la revolución son solo los Cabezas Redondas o aquellos que llegaron desde el Starport; los VRIOs no se consideran líderes de pleno derecho ni el objetivo de la revolución.
   <Box>
     <GuideEntityEmbed Entity="RandomHumanoidSpawnerBlueShieldOperative"/>
   </Box>
-  ### Офицер Синего Щита (ОСЩ)
-  - Cпециальная роль предназначенная для охраны членов коммандования. Все главы имеют имплантированные в себя   [bold]Импланты хрипа синего щита[/bold]. Данный импланты [color=red][bold]автоматически[/bold][/color] сообщает Синему Щиту по каналу связи об критическом состоянии главы.
-  - Совет: Саботируйте телекомуникационные сервера или найдите способ отключения радио и датчиков следения одежды, либо начните свои деяния резко не дав вашим противникам время на перегрупировку.
+  ### Oficial del Escudo Azul
+  - Un papel especial diseñado para proteger a los miembros del mando. Todos los capítulos tienen implantado [bold]Blue Shield Wheezing Implants[/bold] en ellos. Este implante [color=red][bold]automatically[/bold][/color] informa al Blue Shield a través del canal de comunicación sobre el estado crítico del capítulo.
+  - Consejo: Sabotear los servidores de telecomunicaciones o encontrar la forma de desactivar radios y sensores de rastreo de ropa, o iniciar tus acciones de forma abrupta sin dar tiempo a tus oponentes para reagruparse.
   <Box>
     <GuideEntityEmbed Entity="TelecomServerFilledBlueShield"/>
   </Box>
-  ## Революционер
-  [color=red]Революционер[/color] — это член экипажа, обращенный [bold][color=#5e9cff]Главой революции[/color][/bold].
+  ## Revolucionario
+  Un [color=red]revolutionary[/color] es un miembro de la tripulación que es convertido por el [bold][color=#5e9cff]Head del Revolution[/color][/bold].
 
-  [bold][color=red]Революционеры[/color] не могут обращать других,[/bold] но способны выполнять грязную работу и приказы.
+  [bold][color=red]Revolutionaries[/color] no pueden convertir others[/bold] pero sí pueden hacer trabajos sucios y encargarse.
 </Document>

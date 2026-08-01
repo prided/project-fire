@@ -1,16 +1,16 @@
 <Document>
-  # Унатхи
+  # Unathi
 
   <Box>
     <GuideEntityEmbed Entity="MobReptilian" Caption=""/>
   </Box>
 
-  Они могут есть ТОЛЬКО фрукты и мясо, но без вреда употребляют сырое мясо и пьют кровь.
-  Им подходит несколько более высокий диапазон температур, чем людям.
-  Они могут тянуть предметы хвостом, освобождая обе руки.
+  Solo pueden comer fruta y carne, pero comer carne cruda y beber sangre sin hacer daño.
+  Son adecuados para un rango de temperatura ligeramente superior al de los humanos.
+  Pueden tirar de objetos con la cola, liberando ambas manos.
 
-  Их безоружные атаки когтями наносят режущий урон вместо дробящего.
+  Sus ataques con garras desarmadas hacen daño cortante en lugar de contundente.
 
-  Они получают [color=#ffa500]на 30% больше урона от холода.[/color]
+  Aceptan un [color=#ffa500]30% más de Damage.[/color] fría
 
 </Document>

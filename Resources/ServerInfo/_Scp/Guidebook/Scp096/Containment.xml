@@ -1,66 +1,66 @@
-﻿<Document>
-  # Содержание SCP-096
+<Document>
+  # Contenido de SCP-096
 
-  По умолчанию SCP-096 появляется в своей камере содержания, которая ограничивает его зону передвижения и не дает выйти за ее пределы.
-  Камера содержания является сдерживающей мерой, которая делает содержание объекта безопасным.
+  Por defecto, SCP-096 aparecerá en su celda de contención, lo que restringe su movimiento y le impide salir de ella.
+  La cámara de contención es una medida de contención que hace que la contención de la instalación sea segura.
 
-  [textlink="Общая информация о скромнике" link="Scp096About"]
+  [textlink="General información sobre el modesto man" link="Scp096About"]
 
-  [textlink="Подробнее о методах побега, будучи скромником" link="Scp096ContainmentBreach"]
+  [textlink="More sobre métodos para escapar mientras se está modest" link="Scp096ContainmentBreach"]
 
-  ## Что нужно делать?
+  ## ¿Qué debería hacer?
 
-  Основной способ нарушения условий содержания для объекта - использование способности "Содрать кожу с лица". Она позволяет повредить лицо объекта, нанеся урон.
+  La principal forma de violar las condiciones de contención de un objeto es mediante la habilidad Skin Off Face. Te permite dañar la cara del sujeto, causando daño.
 
-  [textlink="Подробнее про способности" link="Scp096Abilities"]
+  [textlink="More sobre abilities" link="Scp096Abilities"]
 
-  Учтите, что использовать способность можно только спустя 15 минут после начала раунда, так как в это время действует механика "Безопасного времени", ограничивающая активность SCP объектов и дающая персоналу время на начальную подготовку к раунду.
+  Cabe señalar que la habilidad solo puede usarse 15 minutos después del inicio de la ronda, ya que es el momento en que se activa la mecánica de "Tiempo Seguro", que limita la actividad de los objetos SCP y da tiempo al personal para prepararse para la ronda.
 
-  Сдирание кожи с лица 5 раз позволит раскрошить лицо в мясо, что переведет скромника в состояние "Содранной кожи на лице". В этом состоянии он сможет выйти из камеры содержания и атаковать персонал.
+  Pelar la piel de la cara 5 veces desmoronará la cara en carne, lo que hará que la persona tímida entre en el estado de "cara desollada". En este estado, podrá salir de la celda de contención y atacar al bastón.
 
-  [textlink="Подробнее про состояния" link="Scp096States"]
+  [textlink="More sobre states" link="Scp096States"]
 
-  Задача персонала - не дать скромнику раскрошить свое лицо. Для этого требуется время от времени восстанавливать лицо объекта, используя медицинские пластыри.
+  La tarea del bastón es evitar que la persona modesta se deshaga la cara. Esto requiere restaurar la cara del objeto de vez en cuando usando tiritas médicas.
 
-  ## Как определить степень повреждения лица?
+  ## ¿Cómo determinar el grado de daño facial?
 
-  Персоналу важно вовремя провести процедуру восстановления лица скромника, поэтому грамотное определение состояние - ключевой фактор в этом вопросе.
+  Es importante que el personal lleve a cabo el procedimiento para restaurar el rostro de una persona modesta a tiempo, por lo que una determinación competente de la condición es un factor clave en este asunto.
 
-  Квалифицированный персонал, вроде научного и части медицинского, может сходу оценить степень тяжести травм у объекта. Эту степень отображает видимая им иконка, справа сверху над объектом.
+  El personal cualificado, como el personal científico y médico, puede evaluar inmediatamente la gravedad de las lesiones en un objeto. Este grado se muestra mediante el icono visible para ellos, en la parte superior derecha sobre el objeto.
 
-  Чем больше крови на лице иконки - тем больше поврежденность лица.
+  Cuanta más sangre haya en la cara del icono, mayor será el daño en la cara.
 
-  Альтернативным способом получения информации является осмотр скромника используя Shift+Click. В меню будет предоставлено визуальное описание состояния объекта, что может помочь оценить обстановку.
+  Una forma alternativa de obtener información es inspeccionar a la persona modesta usando Shift+Click. El menú proporcionará una descripción visual del estado del objeto, lo que puede ayudar a evaluar la situación.
 
-  Квалифицированный персонал, вроде научного, может оценить, насколько критичны данные повреждения и немедленно выдать оценку.
-  Информация о важности восстановления лица в данный момент будет написана ниже, если сотрудник обладает достаточной квалификацией.
+  El personal cualificado, como el personal científico, puede evaluar cuán graves son estas lesiones y emitir una evaluación inmediata.
+  La información sobre la importancia de la restauración facial en este momento se escribirá a continuación, si el empleado está suficientemente cualificado.
 
-  ## Ремонт камеры содержания
+  ## Reparación de cámaras de contención
 
-  Объект обладает способностью создавать мощный аномальный резонанс, наносящий колоссальный урон всем структурам вокруг с помощью звуковой волны. К счастью, камера содержания объекта спроектирована по образу "Безэховых камер", частично подавляя разрушающую способность.
+  El objeto tiene la capacidad de crear una poderosa resonancia anómala que causa daños tremendos a todas las estructuras a su alrededor con la ayuda de una onda sonora. Afortunadamente, la cámara de contención está diseñada a imagen de las "Cámaras Anecoicas", suprimiendo parcialmente la capacidad destructiva.
 
-  Но камера содержания не вечная! Постоянное воздействие сверхмощных звуковых волн вызывает деформацию и повреждение стен камеры содержания.
+  ¡Pero la cámara de contención no es eterna! La exposición constante a ondas sonoras de alta resistencia provoca deformación y daños en las paredes de la cámara de contención.
 
-  Для предотвращения нарушения условий содержания требуется проводить ремонтные работы каждые 20-25 минут, вызывая квалифицированный технический персонал с материалами и инструментами.
-  ## Что делать, если объект сбежал?
+  Para evitar brechas de contención, se requieren reparaciones cada 20 a 25 minutos, llamando a técnicos cualificados con materiales y herramientas.
+  ## ¿Qué hago si el objeto escapa?
 
-  На вооружении фонда имеются высокотехнологичные разработки в виде "Мешка на голову" и "Маски", которые можно надеть на объект.
-  Пока объект их носит, он не может атаковать и сопротивляться транспортировке.
+  La fundación está equipada con desarrollos tecnológicos avanzados en forma de "Bolsa en la cabeza" y "Máscara", que se pueden colocar sobre el objeto.
+  Mientras el objeto las lleva, no puede atacar ni resistirse al transporte.
 
-  Объект может разорвать сдерживающую экипировку спустя некоторое время после ее надевания. Чем лучше экипировка, тем сложнее ее разорвать.
+  El objeto puede destrozar el equipo de contención tras un tiempo de equiparlo. Cuanto mejor sea el equipo, más difícil será destrozarlo.
 
-  Если объект уничтожил свое лицо, то хорошим решением будет использовать нелетальное вооружение для усмирения объекта перед надеванием сдерживающей экипировки.
-  Учтите, что потребуется большая сила, чтобы усмирить объект. Одного вооруженного тайзером сотрудника не хватит!
+  Si el objeto ha destruido su cara, es buena idea usar armas no letales para pacificar el objeto antes de ponerse equipo disuasorio.
+  Ten en cuenta que hará falta mucha fuerza para pacificar el objeto. ¡Un empleado armado con un tailandés no es suficiente!
 
-  ## Фотографии
+  ## Fotos
 
-  Иногда случайность может стать решающим фактором. В игре существует случайный ивент, создающий по всему комплексу и в инвентарях игроков копии фотографии SCP-096.
+  A veces, el azar puede ser el factor decisivo. Hay un evento aleatorio en el juego que crea copias de la fotografía de SCP-096 por todo el complejo y en los inventarios de los jugadores.
 
-  Посмотревшие на фотографию станут целями скромника, переведя его в другое состояние.
+  Quienes vean la foto se convertirán en los objetivos de una persona modesta, trasladándola a otro estado.
 
-  Фотографии могут играть и на руку персоналу. Так, если посадить цель скромника в его камеру содержания, а затем вовремя ее закрыть, можно восстановить Особые Условия Содержания с незначительными потерями.
+  Las fotos también pueden favorecer al personal. Por ejemplo, si pones el objetivo de una persona modesta en su celda de contención y luego la cierras a tiempo, es posible restaurar los Procedimientos Especiales de Contención con pérdidas menores.
 
-  Фотографию также можно создать, использовав лабораторный фотоаппарат на скромнике.
+  También se puede crear una foto usando una cámara de laboratorio en una cámara modesta.
 
-  [textlink="Подробнее про уникальные взаимодействия" link="ScpResearchAdvanced"]
+  [textlink="Learn más sobre interactions" link="ScpResearchAdvanced"] únicos
 </Document>

@@ -1,9 +1,9 @@
-﻿<Document>
-  # Атмосферные системы
-  У атмоса есть множество устройств для перемещения, управления и другого воздействия на газ.
-  Эти устройства часто работают вместе, чтобы поддерживать безопасную атмосферу для экипажа или выполнять общую задачу.
+<Document>
+  # Sistemas atmosféricos
+  La atmósfera dispone de una variedad de dispositivos para mover, controlar y afectar de otro modo al gas.
+  Estos dispositivos suelen trabajar juntos para mantener un ambiente seguro para la tripulación o para realizar una tarea común.
 
-  Этот раздел описывает разные системы, доступные атмосу: как они соединяются и как их лучше использовать.
+  Esta sección describe los diferentes sistemas disponibles en la atmósfera, cómo se conectan y cómo utilizarlos mejor.
 
 
   <Box>
@@ -16,10 +16,10 @@
     <GuideEntityEmbed Entity="GasVolumePump" Caption=""/>
   </Box>
   <Box>
-    ## Трубопроводные сети
+    ## Redes de tuberías
   </Box>
   <Box>
-    [color=#999999][italic]Соединённые трубы с общей задачей, обычно называемые пайпнетами[italic][/color]
+    [color=#999999][italic]Connected tuberías con una tarea común, comúnmente conocida como pipenets[/italic][/color]
   </Box>
 
   <Box>
@@ -27,10 +27,10 @@
     <GuideEntityEmbed Entity="AirAlarm" Caption=""/>
   </Box>
   <Box>
-    ## Мониторинг и управление устройствами
+    ## Monitorizar y gestionar dispositivos
   </Box>
   <Box>
-    [color=#999999][italic]Мониторинг и управление устройствами, обслуживающими локальную атмосферу[italic][/color]
+    [color=#999999][italic]Monitoring y control de dispositivos que sirven a la atmosphere[/italic][/color] local
   </Box>
 
   <Box>
@@ -38,10 +38,10 @@
     <GuideEntityEmbed Entity="FireAlarm" Caption=""/>
   </Box>
   <Box>
-    ## Контроль огня и газов
+    ## Control de Fuego y Gas
   </Box>
   <Box>
-    [color=#999999][italic]Устройства для контроля и предотвращения утечек газа и пожаров[italic][/color]
+    [color=#999999][italic]Devices para monitorizar y prevenir fugas de gas y fires[/italic][/color]
   </Box>
 
   <Box>
@@ -49,10 +49,10 @@
     <GuideEntityEmbed Entity="AirCanister" Caption=""/>
   </Box>
   <Box>
-    ## Добыча и хранение газов
+    ## Producción y almacenamiento de gas
   </Box>
   <Box>
-    [color=#999999][italic]Устройства для добычи нового газа для станции и его хранения на потом[italic][/color]
+    [color=#999999][italic]Devices para la producción de nuevo gas para la estación y su almacenamiento para later[/italic][/color]
   </Box>
 
 </Document>

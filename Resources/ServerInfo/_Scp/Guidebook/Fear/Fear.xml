@@ -1,57 +1,57 @@
-﻿<Document>
+<Document>
 
-  # Система страха
+  # Sistema de miedo
 
-  [bold]Система страха - глобальная механика, влияющая на взаимодействие игроков с SCP и игроков с последствиями нарушений условий содержания SCP.[/bold]
+  [bold]Fear Sistema es una mecánica global que afecta cómo los jugadores interactúan con los SCP y los jugadores a las consecuencias de las brechas de contención SCP.[/bold]
 
-  [bold]Страх это механика, созданная в угоду иммерсивности. Это обратная связь между действиями персонажа и игроком, позволяющая передать эмоции персонажа на плоский экран монитора игрока[/bold]
+  [bold]Fear es una mecánica creada para la inmersión. Es una retroalimentación entre las acciones del personaje y el jugador, permitiéndote transferir las emociones del personaje a la pantalla plana de la monitor[/bold]
 
-  ## Как это работает?
+  ## ¿Cómo funciona?
 
-  У всех персонажей есть свои страхи. Стандартный ужастиков каждого сотрудника фонда это:
-  - [bold]Экзоревмофобия[/bold] - Страх внешнего потока реальности, инородного хода событий. Выражается в боязни SCP объектов
-  - [bold]Некрофобия[/bold] - Боязнь трупов, мертвых тел и другого, связанного с мертвыми.
+  Todos los personajes tienen sus propios miedos. Las historias de terror estándar de cada empleado de la fundación son:
+  - [bold]Exorheumophobia[/bold] - Miedo al flujo externo de la realidad, a un curso alienígena de acontecimientos. Expresado en el miedo a los objetos SCP
+  - [bold]Necrophobia[/bold] - Miedo a cadáveres, cadáveres y otras cosas relacionadas con los muertos.
 
-  Эти страхи влияют на то, что будет бояться персонаж. Посмотреть текущие страхи можно в окне персонажа, там, где цели антагонистов.
+  Estos miedos afectan a lo que el personaje tendrá miedo. Puedes ver los miedos actuales en la ventana del personaje, donde están los objetivos de los antagonistas.
 
-  А еще у всех персонажей есть несколько уровней страха
+  Y todos los personajes tienen varios niveles de miedo
 
-  - Никакой. Ты спокоен
-  - Тревожность. Что-то не так..
-  - Страх. Вы реально чего-то испугались
-  - Неконтролируемый ужас. ЧТО-ТО слишком РЕАЛЬНО, чтобы вы могли смириться с этим. Это кошмар.
+  "Ninguna. Estás tranquilo
+  - Ansiedad. Algo va mal...
+  - Miedo. De verdad tienes miedo de algo
+  - Horror incontrolable. ALGO DEMASIADO REAL para que lo aceptes. Es una pesadilla.
 
-  [bold]Персонажи могут испугаться, увидев источника страха или подойдя близко[/bold].
-  Конечно, не без исключений. Некоторый персонал комплекса привык к наблюдению за "страшными" объектами, отчего их это не волнует.
+  [bold]Sims pueden asustarse al ver la fuente del miedo o al close[/bold]
+  Por supuesto, no sin excepciones. Algunos miembros del personal del complejo están acostumbrados a vigilar objetos "aterradores", por eso no les importa.
 
-  Например, ученые готовы к тому, что их и SCP объекты будет разделять стекло. Отчего им комфортно смотреть на них через стекло.
+  Por ejemplo, los científicos están preparados para el hecho de que sus objetos y SCPs estarán separados por el vidrio. Esto les resulta cómodo mirarlos a través del cristal.
 
-  Медики посещают морги с самого начала обучения, так что вид мертвых тел их не пугает.
+  Los médicos visitan las morgues desde el principio de su formación, por lo que la visión de cadáveres no les asusta.
 
-  А охрана специально подготовлена к возможному столкновению с SCP объектами, отчего тверже держат оружие при стрельбе "на взводе".
+  Y los guardias están especialmente preparados para una posible colisión con objetos SCP, por eso sujetan sus armas con más firmeza cuando disparan "amartillados".
 
-  ## Как это выражается в игре?
+  ## ¿Cómo se expresa esto en el juego?
 
-  Каждый уровень страха, кроме никакого, накладывает на вашего персонажа негативные эффекты. Настроение понижается, стрелять становится сложнее, вас трясет, зрение становится затуманенным.
+  Cada nivel de miedo, salvo ninguno, impone efectos negativos a tu personaje. Tu ánimo baja, se vuelve más difícil disparar, tiemblas y tu visión se vuelve borrosa.
 
-  Все это является базовыми негативными модификаторы, их сила зависит от уровня страха.
+  Todos estos son modificadores negativos básicos, su fuerza depende del nivel de miedo.
 
-  Справиться с ними можно несколькими способами, но самый очевидный - избежать источника страха. Страх - это сигнал вашего мозга, что ЭТО стоит избегать ради собственной безопасности. Слушайте свои чувства.
+  Hay varias formas de afrontarlos, pero la más obvia es evitar la fuente del miedo. El miedo es la señal de tu cerebro de que ESTO merece la pena evitarlo por tu propia seguridad. Escucha tus sentimientos.
 
-  Но если вам придется пройти через это, [bold]попробуйте выпить.[/bold] Алкоголь притупляет эффекты страха.
+  Pero si tienes que pasar por ello, [bold]try drinking.[/bold] el alcohol amortigua los efectos del miedo.
 
-  А еще можете [bold]закрыть глаза.[/bold] Если вы не увидите ЕГО, то и бояться не стоит. Правда?
+  Y también puedes [bold]close tu eyes.[/bold] Si no le ves a ÉL, entonces no deberías tener miedo. ¿De verdad?
 
-  ## А где тут SCP объекты?
+  ## ¿Dónde están los objetos SCP aquí?
 
-  Помимо того, что разные SCP объекты, очевидно, по-разному страшные, некоторые из них могут использовать ваш страх в своих целях.
+  Además de que diferentes objetos SCP son obviamente aterradores de distintas maneras, algunos pueden explotar tu miedo para sus propios fines.
 
-  О садистических наклонностях SCP-106 всем давно известно, поэтому для вас не будет новостью, что он [bold]охотится за страхами[/bold].
-  Поэтому ни за что не попадайтесь ему, ведь иначе вы попадете в его [bold]ужасное карманное измерение[/bold], где предыдущие проблемы покажутся **ничем**
+  Las tendencias sádicas de SCP-106 llevan tiempo siendo conocidas por todos, así que no será ninguna novedad para ti que [bold]hunts para fears[/bold].
+  Por lo tanto, no te dejes pillar por él, porque si no acabarás en su [bold]terrible dimension[/bold], donde los problemas anteriores parecerán **nada**
 
-  ## Черты персонажа
+  ## Rasgos de carácter
 
-  Вместе со страхом добавлены новые черты персонажа, которые добавляют различные небольшие механики, связанные со страхом.
-  Попробуйте их, это может быть весело.
+  Junto con el miedo, se añaden nuevos rasgos de carácter que añaden varias pequeñas mecánicas relacionadas con el miedo.
+  Pruébalos, puede ser divertido.
 
 </Document>

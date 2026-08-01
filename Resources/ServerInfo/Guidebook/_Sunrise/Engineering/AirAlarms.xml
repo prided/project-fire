@@ -1,65 +1,65 @@
-﻿<Document>
-  # Воздушные сигнализации
-  Воздушная сигнализация - устройство, позволяющее централизованно наблюдать за всеми привязанными к ней атмосферными устройствами и управлять ими.
+<Document>
+  # Alarmas de aire
+  Una alarma aérea es un dispositivo que permite la monitorización y control centralizados de todos los dispositivos atmosféricos que le están conectados.
 
   <Box>
     <GuideEntityEmbed Entity="AirAlarm"/>
   </Box>
 
-  С её помощью атмосферика может быстро и эффективно управлять атмосферой в заданной области.
+  Con su ayuda, la atmósfera puede controlar la atmósfera de forma rápida y eficiente en una zona determinada.
 
-  В комнате часто есть настенная воздушная сигнализация для быстрого управления несколькими устройствами в этой комнате.
+  La habitación suele tener una alarma de aire montada en la pared para controlar rápidamente varios dispositivos en esa sala.
 
-  Как привязывать устройства, можно посмотреть в руководстве [textlink="Связь" link="Networking"].
+  Puedes ver cómo asignar dispositivos en el manual de [textlink="Communication" link="Networking"].
 
-  ## Интерфейс
-  При взаимодействии с воздушной сигнализацией открывается меню с 3 секциями:
-  - Верхняя: текущий статус воздушной сигнализации. Здесь показаны текущее давление и температура области, которую она отслеживает.
-  - Средняя: списки привязанных [textlink="воздушных вентиляций" link="AirVent"] и [textlink="воздушных скрубберов" link="AirScrubber"], а также всех сенсоров, отправляющих данные сигнализации.
-  - Нижняя: кнопки управления режимами работы воздушной сигнализации и переключатель автоматической смены режимов.
+  ## Interfaz
+  Al interactuar con la alarma de aire, se abre un menú con 3 secciones:
+  - Arriba: Estado actual de la alarma de aire. Esto muestra la presión y temperatura actuales del área que se está monitorizando.
+  - Medio: listas de [textlink="air ventilation" link="AirVent"] y [textlink="air scrubbers" link="AirScrubber"] enlazados, así como todos los sensores que envían datos de alarma.
+  - Inferior: Botones para controlar los modos de alarma de aire y el cambio automático de modo.
 
-  ## Статус тревоги
-  Воздушные сигнализации быстро показывают состояние отслеживаемой области цветом индикатора на устройстве:
-  - [color=green]Normal[/color]: в области безопасно дышать.
-  - [color=yellow]Warning[/color]: область начинает отклоняться от нужной атмосферы и становится небезопасной.
-  - [color=red]Danger[/color]: область больше не безопасна, нужны баллоны или скафандры.
+  ## Estado de la alarma
+  Las alarmas aéreas muestran rápidamente el estado del área monitorizada con el color del indicador en el dispositivo:
+  - [color=green]Normal[/color]: Es seguro respirar en la zona.
+  - [color=yellow]Warning[/color]: La zona comienza a desviarse de la atmósfera deseada y se vuelve insegura.
+  - [color=red]Danger[/color]: La zona ya no es segura, se necesitan tanques o trajes espaciales.
 
-  Воздушные сигнализации автоматически опускают привязанные [textlink="пожарные шлюзы" link="FireAndGasControl"], когда достигается статус [color=Red]Danger[/color].
-  Эти [textlink="пожарные шлюзы" link="FireAndGasControl"] автоматически поднимаются, когда статус возвращается к [color=green]Normal[/color].
+  Las alarmas aéreas bajan automáticamente el [textlink="fire locks" link="FireAndGasControl"] de la conexión cuando se alcanza el estado de [color=Red]Danger[/color].
+  Estas [textlink="fire locks" link="FireAndGasControl"] se elevan automáticamente cuando el estado vuelve a [color=green]Normal[/color].
 
-  У воздушных сигнализаций есть [textlink="сигнальные" link="Networking"] выходы для каждого из трёх статусов. Их можно использовать для активации других [textlink="сигнальных" link="Networking"] устройств при смене статуса.
+  Las alarmas de aire tienen [textlink="signal" link="Networking"] salidas para cada uno de los tres estados. Pueden usarse para activar otros dispositivos [textlink="signal" link="Networking"] cuando el estado cambia.
 
-  ## Сенсоры
-  Все [textlink="воздушные вентиляции" link="AirVent"] и [textlink="воздушные скрубберы" link="AirScrubber"] имеют встроенный сенсор, который отправляет данные воздушной сигнализации.
-  Эти сенсоры можно настраивать во вкладке [bold]Sensors[/bold] меню воздушной сигнализации.
+  ## Sensores
+  Todos los [textlink="air ventilation" link="AirVent"] y [textlink="air scrubbers" link="AirScrubber"] tienen un sensor incorporado que envía datos de alarmas aéreas.
+  Estos sensores pueden configurarse en la pestaña [bold]Sensors[/bold] del menú de alarma de aire.
 
-  Статус воздушной сигнализации напрямую определяется порогами каждого сенсора.
-  Если сенсор сообщает давление, температуру или состав газа вне заданных порогов, воздушная сигнализация изменит свой статус.
+  El estado de la alarma de aire se determina directamente por los umbrales de cada sensor.
+  Si el sensor informa de presión, temperatura o composición de gases fuera de los umbrales preestablecidos, la alarma de aire cambiará su estado.
 
-  Эти пороги можно настраивать и отключать по необходимости.
-  Например, если вы отслеживаете комнату с естественно низкой температурой, например морозильник, или высокой температурой, например камеру сгорания, можно подстроить температурные пороги под ожидаемые значения.
+  Estos umbrales pueden ajustarse y desactivarse según sea necesario.
+  Por ejemplo, si estás monitorizando una habitación con una temperatura naturalmente baja, como un congelador, o una temperatura alta, como una cámara de combustión, puedes ajustar los umbrales de temperatura para cumplir con tus expectativas.
 
-  Воздушный сенсор также можно построить и [textlink="привязать" link="Networking"] к воздушной сигнализации.
+  El sensor de aire también puede incorporarse y [textlink="bind" link="Networking"] a la alarma de aire.
 
   <Box>
     <GuideEntityEmbed Entity="AirSensor"/>
   </Box>
 
-  Это полезно для мониторинга областей, где ещё нет вентиляции или скруббера.
+  Esto es útil para monitorizar zonas donde aún no hay ventilación ni depurador.
 
-  ## Режимы работы
-  Для быстрого управления подключёнными устройствами у воздушных сигнализаций есть режимы работы, которые быстро меняют поведение всех привязанных устройств для достижения нужного эффекта.
-  - None: отключает все устройства, привязанные к воздушной сигнализации.
-  - Filtering: [textlink="воздушные вентиляции" link="AirVent"] включаются с external bound, выставленным на стандартное атмосферное давление. [textlink="воздушные скрубберы" link="AirScrubber"] включаются и обычно удаляют все отходные газы.
-  - Filtering (Wide): то же, что Filtering, но все привязанные [textlink="воздушные скрубберы" link="AirScrubber"] включают режим WideNet.
-  - Fill: [textlink="воздушные вентиляции" link="AirVent"] включаются с external bound, выставленным на максимальное давление [color=orange][protodata="GasVentPump" comp="GasVentPump" member="MaxPressure"/] кПа[/color]. [textlink="воздушные скрубберы" link="AirScrubber"] отключаются.
-  - Panic: [textlink="воздушные вентиляции" link="AirVent"] отключаются, а [textlink="воздушные скрубберы" link="AirScrubber"] переводятся в режим всасывания.
+  ## Modos de funcionamiento
+  Para un control rápido de los dispositivos conectados, las alarmas de aire tienen modos de funcionamiento que cambian rápidamente el comportamiento de todos los dispositivos conectados para lograr el efecto deseado.
+  - Ninguno: Desactiva todos los dispositivos vinculados a la alarma de aire.
+  - Filtrado: [textlink="air ventilation" link="AirVent"] se activan con el límite externo ajustado a presión atmosférica estándar. [textlink="air scrubbers" link="AirScrubber"] se activan y normalmente eliminan todos los gases residuales.
+  - Filtrado (Amplio): Igual que el Filtrado, pero todos los [textlink="air scrubbers" link="AirScrubber"] vinculados incluyen el modo WideNet.
+  - Relleno: [textlink="air ventilation" link="AirVent"] se encienden con el límite externo ajustado a una presión máxima de [color=orange][protodata="GasVentPump" comp="GasVentPump" member="MaxPressure"/] kPa[/color]. [textlink="air scrubbers" link="AirScrubber"] se apagan.
+  - Pánico: [textlink="air ventilation" link="AirVent"] se apagan y [textlink="air scrubbers" link="AirScrubber"] se ponen en modo succión.
 
-  Воздушные сигнализации автоматически переключаются между Filtering и Filtering (Wide) в зависимости от текущего состояния области.
-  - Если область достигает статуса [color=red]Danger[/color] или выше, воздушная сигнализация переключается в Filtering (Wide).
-  - Если область достигает статуса [color=green]Normal[/color] или [color=yellow]Warning[/color], воздушная сигнализация переключается в Filtering.
+  Las alarmas de aire cambian automáticamente entre Filtrado y Filtrado (Ancho) según el estado actual de la zona.
+  - Si el área alcanza un estado de [color=red]Danger[/color] o superior, la alarma de aire cambia a Filtrado (Ancho).
+  - Si el área alcanza [color=green]Normal[/color] o [color=yellow]Warning[/color] estado, la alarma de aire cambia a Filtrado.
 
-  Это поведение можно отключить, убрав галочку "Auto" в нижней секции меню воздушной сигнализации.
+  Este comportamiento puede desactivarse desmarcando la casilla "Auto" en la sección inferior del menú de alarma de ataque aéreo.
 
-  Полезные советы по устранению [textlink="разгерметизации" link="Spacing"] и [textlink="пожаров" link="Fires"] находятся в соответствующих руководствах.
+  Consejos útiles para solucionar [textlink="depressurization" link="Spacing"] y [textlink="fires" link="Fires"] están en las guías correspondientes.
 </Document>

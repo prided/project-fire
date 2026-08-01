@@ -1,64 +1,64 @@
-﻿<Document>
-  # Воздушная вентиляция
-  Воздушная вентиляция - стандартная вентиляция, встречающаяся во всех комнатах, которые нужно наполнять пригодной для дыхания атмосферой.
-  Её основная задача - передавать газы в окружающую атмосферу, пока не будет достигнуто заданное давление.
+<Document>
+  # Ventilación del aire
+  La ventilación del aire es la ventilación estándar que se encuentra en todas las habitaciones que necesitan estar llenas de una atmósfera respirable.
+  Su tarea principal es transferir gases a la atmósfera circundante hasta alcanzar la presión objetivo.
 
   <Box>
     <GuideEntityEmbed Entity="GasVentPump"/>
   </Box>
 
-  Для работы воздушной вентиляции требуется [textlink="питание" link="Power"] через ближайший [textlink="LV-кабель" link="VoltageNetworks"].
+  La ventilación del aire requiere [textlink="powered" link="Power"] por el [textlink="LV-cable" link="VoltageNetworks"] más cercano para trabajar.
 
-  Вентиляцию можно заварить любым сварочным инструментом, чтобы остановить её работу.
+  La ventilación puede soldarse con cualquier herramienta de soldadura para evitar que funcione.
 
-  ## Работа по умолчанию
-  По умолчанию воздушная вентиляция просто выпускает газ в окружающую атмосферу до давления [color=orange][protodata="GasVentPump" comp="GasVentPump" member="DefaultExternalBound"/] кПа[/color].
+  ## Operación por defecto
+  Por defecto, la ventilación del aire simplemente libera gas en la atmósfera circundante hasta una presión de [color=orange][protodata="GasVentPump" comp="GasVentPump" member="DefaultExternalBound"/] kPa[/color].
 
-  Скорость вентиляции зависит от разницы между удвоенным давлением подключённого [textlink="пайпнета" link="PipeNetworks"] и давлением окружающей атмосферы.
-  В виде словесной формулы:
+  La velocidad de ventilación depende de la diferencia entre la presión duplicada de la [textlink="pipeneta" link="PipeNetworks"] conectada y la presión de la atmósfera circundante.
+  En forma de fórmula verbal:
   <Box>
-    [italic]Скорость = 2 × давление пайпнета - давление окружающей атмосферы[/italic]
+    [italic]Velocity = 2 × la presión de la red de tubería es la presión de la atmosphere[/italic] circundante
   </Box>
 
-  Например, это означает, что вентиляция не сможет накачать 101.3 кПа, если давление газа внутри самой вентиляции упадёт ниже половины этого значения.
+  Por ejemplo, esto significa que la ventilación no podrá bombear 101,3 kPa si la presión del gas dentro de la propia ventilación cae por debajo de la mitad de este valor.
 
-  ## Блокировка по давлению
-  Воздушные вентиляции входят в [color=red]блокировку по давлению[/color], когда давление окружающей атмосферы ниже [color=orange][protodata="GasVentPump" comp="GasVentPump" member="UnderPressureLockoutThreshold"/] кПа[/color].
-  Это предотвращает трату полезных газов в космос, если комната не герметична.
-  Индикаторы на вентиляции станут [color=yellow]жёлтыми[/color], показывая это состояние.
+  ## Bloqueo de presión
+  Las rejillas de aire entran en [color=red]pressure blocking[/color] cuando la presión atmosférica ambiente está por debajo de [color=orange][protodata="GasVentPump" comp="GasVentPump" member="UnderPressureLockoutThreshold"/] kPa[/color].
+  Esto evita que gases útiles se desperdicien al espacio si la habitación no es hermética.
+  Las luces de la ventilación se encenden [color=yellow]yellow[/color] para indicar este estado.
 
-  Это можно [color=green]переопределить[/color], щёлкнув по вентиляции правой кнопкой и выбрав 'Release pressure lock out', либо поставив режим Fill на подключённой [textlink="воздушной сигнализации" link="AirAlarms"].
+  Esto se puede [color=green]overridden[/color] haciendo clic derecho en la ventilación y seleccionando 'Liberar bloqueo de presión', o configurando el modo de llenado en el [textlink="air alarm" link="AirAlarms"] conectado.
 
-  Важно помнить, что вентиляции в [color=red]блокировке по давлению[/color] всё равно очень медленно выпускают газ.
-  Количество выпускаемого газа зависит от текущего давления пайпнета, к которому они подключены.
+  Es importante recordar que la ventilación en [color=red]pressure blocking[/color] sigue liberando gases muy lentamente.
+  La cantidad de gas liberado depende de la presión actual del oleoducto al que están conectados.
 
-  ## Настройки
-  При [textlink="привязке" link="Networking"] к [textlink="воздушной сигнализации" link="AirAlarms"] воздушные вентиляции получают больше возможностей.
+  ## Escenarios
+  Cuando [textlink="binding" link="Networking"] a [textlink="air alarm" link="AirAlarms"], la ventilación del aire adquiere más capacidades.
 
-  У воздушных вентиляций есть два варианта "vent direction": Releasing и Siphoning.
-  - Releasing просто выпускает газы из подключённого пайпнета в атмосферу.
-  - Siphoning высасывает воздух из атмосферы в подключённый пайпнет. Индикаторы вентиляции станут [color=red]красными[/color], показывая это изменение.
+  La ventilación del aire tiene dos opciones de "dirección de ventilación": liberación y sifón.
+  - Liberar simplemente libera gases del oleoducto conectado hacia la atmósfera.
+  - El sifonamiento aspira aire de la atmósfera hacia la red de tubería conectada. Los indicadores de ventilación giran [color=red]red[/color] para indicar este cambio.
 
-  ## Границы давления
-  У вентиляций есть система границ давления, управляющая тем, до какого давления вентиляция будет накачивать атмосферу или забирать газ из подключённого пайпнета. Эти ограничения учитываются и в режиме выпуска, и в режиме всасывания.
+  ## Límites de presión
+  Las rejillas tienen un sistema de límite de presión que controla cuánta presión bombeará la ventilación la atmósfera o tomará gas de la red de tuberías conectada. Estos límites se tienen en cuenta tanto en los modos de extracción como en los de succión.
 
-  Настройка "PressureBound" имеет четыре варианта:
-  - ExternalBound заставляет вентиляцию соблюдать ограничения давления из поля External bound.
-  - InternalBound заставляет вентиляцию соблюдать ограничения давления из поля Internal bound.
-  - Both заставляет вентиляцию соблюдать ограничения и External, и Internal bound.
-  - NoBound отключает ограничения.
+  La configuración "PressureBound" tiene cuatro opciones:
+  - ExternalBound obliga a la ventilación a respetar los límites de presión del campo externo.
+  - InternalBound obliga a la ventilación a respetar los límites de presión del campo Internal bound.
+  - Ambos obligan a la ventilación a cumplir con los límites de límite externo e interno.
+  - NoBound desactiva restricciones.
 
-  Когда вентиляция в режиме выпуска:
-  - Если External bound задан на 101.3 кПа, вентиляция не накачает атмосферу выше 101.3 кПа.
-  - Если Internal bound задан на 50 кПа, вентиляция не будет брать газ из подключённой трубы, если её давление ниже 50 кПа.
+  Cuando la ventilación está en modo de extracción:
+  - Si el límite externo está ajustado a 101,3 kPa, la ventilación no bombeará la atmósfera por encima de 101,3 kPa.
+  - Si el enlace interno está ajustado a 50 kPa, la ventilación no tomará gas de la tubería conectada si su presión es inferior a 50 kPa.
 
-  Когда вентиляция в режиме всасывания:
-  - Если External bound задан на 101.3 кПа, вентиляция будет высасывать газы, пока атмосфера не достигнет 101.3 кПа.
-  - Если Internal bound задан на 50 кПа, вентиляция не будет проталкивать газы в пайпнет, если его давление выше 50 кПа.
+  Cuando la ventilación está en modo de succión:
+  - Si el límite externo está ajustado a 101,3 kPa, la ventilación absorberá gases hasta que la atmósfera alcance 101,3 kPa.
+  - Si el límite interno está ajustado a 50 kPa, la ventilación no empujará gases hacia la tubería si su presión es superior a 50 kPa.
 
-  Если PressureBounds всё ещё сбивают с толку, вот простой способ думать о них:
-  - External bound - верхний предел для окружающей атмосферы. "Я не буду накачивать окружающую атмосферу выше этого давления и не буду забирать из неё газ ниже этого давления".
-  - Internal bound - нижний предел для подключённого пайпнета. "Я не буду забирать газ из источника ниже этого давления и не буду проталкивать воздух в пайпнет выше этого давления".
-  - Настройки "Pressure bound" просто определяют, какие ограничения соблюдать или игнорировать.
+  Si los PressureBounds siguen siendo confusos, aquí tienes una forma sencilla de pensarlos:
+  - Límite externo - el límite superior para la atmósfera circundante. "No bombearé la atmósfera circundante por encima de esta presión, ni tomaré gas de ella por debajo de esta presión."
+  - Límite interno - el límite inferior para la red de tubería conectada. "No tomaré gas de la fuente por debajo de esta presión, y no empujaré aire hacia la tubería por encima de esta presión."
+  - Los ajustes de "presión limitada" simplemente determinan qué restricciones seguir o ignorar.
 
 </Document>

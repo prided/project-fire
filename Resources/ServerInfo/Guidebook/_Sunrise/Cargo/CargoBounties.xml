@@ -1,6 +1,6 @@
 <Document>
   # Cargo Bounties
-  Пока [textlink="Cargo" link="Cargo"] может зарабатывать [color=cyan]спесосы[/color], продавая почти всё, больше денег можно получить, выполняя [color=cyan]bounties[/color], которые выдаёт [color=cyan]Cargo Bounty Computer[/color].
+  Mientras [textlink="Cargo" link="Cargo"] puedas ganar [color=cyan]spears[/color] vendiendo casi todo, se puede ganar más dinero completando [color=cyan]bounties[/color] que [color=cyan]Cargo recompensa Computer[/color] otorga.
 
   ## Starting Bounties
 
@@ -9,10 +9,10 @@
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
   </Box>
 
-  Чтобы начать награду, взаимодействуйте с [color=cyan]Cargo Bounty Computer[/color]. Он показывает список текущих наград, и вы можете либо распечатать этикетку, либо пропустить её.
+  Para empezar una recompensa, interactúa con el Computer[color=cyan] [/color]Cargo de la recompensa. Muestra una lista de recompensas actuales, y puedes imprimir la etiqueta o omitirla.
 
-  - Распечатка этикетки даёт [color=cyan]Bounty Manifest[/color] со списком товаров, которые нужно добыть. Этикетку можно распечатывать сколько угодно, просто не работайте над недавно начатой задачей другого техника.
-  - Пропуск заменяет текущую награду на новую, ведь одновременно может быть только шесть активных. Пропуск имеет перезарядку 15 минут и аннулирует старую награду, чем можно рассердить других техников.
+  - Imprimir la etiqueta [color=cyan]Bounty Manifest[/color] da la lista de productos a obtener. Puedes imprimir la etiqueta todo lo que quieras, solo que no trabajes en la tarea que otro técnico ha empezado recientemente.
+  - El Pase reemplaza la recompensa actual por una nueva, ya que solo puede haber seis recompensas activas a la vez. El Pase tiene un tiempo de recarga de 15 minutos y cancela la recompensa antigua, lo que puede enfadar a otros Técnicos.
 
   ## Fulfilling Bounties
 
@@ -22,11 +22,11 @@
     <GuideEntityEmbed Entity="AppraisalTool"/>
   </Box>
 
-  С [color=cyan]Bounty Manifest[/color] вам остаётся собрать нужные товары, но большинство отделов отдадут их, если вы покажете Manifest.
+  Con [color=cyan]Bounty Manifest[/color], solo necesitas recoger los bienes que necesitas, pero la mayoría de departamentos los regalan si muestras Manifiesto.
 
-  После сбора вернитесь на грузовую и сложите всё в пустой [color=cyan]Crate[/color]. Закройте ящик и приклейте к нему Manifest.
+  Después de recoger, vuelve a la carga y pon todo en una [color=cyan]Crate[/color] vacía. Cierra la caja y pega un manifiesto sobre ella.
 
-  Чтобы подтвердить выполнение, используйте [color=cyan]Appraisal Tool[/color] на ящике. Он должен показать, что награда выполнена.
+  Para confirmar la finalización, usa la [color=cyan]Appraisal Tool[/color] en la caja. Debería mostrar que la recompensa ha sido completada.
 
   ## Selling Bounties
 
@@ -36,9 +36,9 @@
     <GuideEntityEmbed Entity="CargoPalletSell"/>
   </Box>
 
-  Как только вы проверили исполнение награды, действуйте как при обычной продаже.
+  Una vez que hayas comprobado la ejecución de la recompensa, procede como en una venta normal.
 
-  Привезите груз на [color=cyan]Trading Station[/color], продайте и всё готово!
+  ¡Lleva la carga al [color=cyan]Trading Station[/color], véndela y listo!
 
-  Когда вернётесь, на месте будет новая награда.
+  Cuando regreses, habrá una nueva recompensa.
 </Document>

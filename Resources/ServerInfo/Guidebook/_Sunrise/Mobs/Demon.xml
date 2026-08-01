@@ -1,11 +1,11 @@
 <Document>
-  # Арканы
+  # Arcanos
 
   <Box>
     <GuideEntityEmbed Entity="MobDemon" Caption=""/>
   </Box>
 
-  Арканы наносят колющий урон безоружными атаками.
-  В остальном они близки к обычным гуманоидам.
+  Los arcanos hacen daño perforante con ataques sin armas.
+  Por lo demás, son casi humanoides normales.
 
 </Document>

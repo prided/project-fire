@@ -1,33 +1,33 @@
-﻿<Document>
-  # Добыча и хранение газов
-  Газы часто расходуются безвозвратно. Независимо от того, потеряны ли они в [textlink="космос" link="Spacing"] или использованы в камере сгорания, станции нужно производить новый газ взамен потерянного.
-  Также станции нужно хранить этот газ безопасно и эффективно.
+<Document>
+  # Producción y almacenamiento de gas
+  Los gases suelen consumirse de forma irreversible. Ya sea que se pierdan en la [textlink="space" link="Spacing"] o se usen en la cámara de combustión, la planta necesita producir nuevo gas para reemplazar el perdido.
+  Además, la estación debe almacenar este gas de forma segura y eficiente.
 
-  ## Добытчики газа
-  Добытчики газа используются для пополнения газовых запасов станции. Они находятся в газовых резервуарах атмоса.
+  ## Productores de gas
+  Los productores de gas se utilizan para reponer las reservas de gas de la central. Se encuentran en los tanques de gas de la atmósfera.
 
   <Box>
     <GuideEntityEmbed Entity="GasMinerOxygenStation"/>
     <GuideEntityEmbed Entity="GasMinerNitrogenStation"/>
   </Box>
 
-  Добытчики газа постоянно производят газ комнатной температуры и подают его в окружающую атмосферу. Им не нужно питание, и они не прекращают работу, пока не достигнут заданного [bold]давления отсечки[/bold].
+  Los productores de gas producen constantemente gas a temperatura ambiente y lo alimentan a la atmósfera circundante. No necesitan energía y no dejan de funcionar hasta alcanzar un pressure[bold] de [/bold]cut predeterminado.
 
-  Дополнительную информацию о добытчиках газа можно увидеть, осмотрев их через [color=yellow][bold][keybind="ExamineEntity"][/bold][/color].
-  Попробуйте осмотреть добытчики газа, показанные выше.
+  Se puede consultar información adicional sobre los productores de gas inspeccionándolos a través del [color=yellow][bold][keybind="ExamineEntity"][/bold][/color].
+  Intenta inspeccionar los productores de gas que se muestran arriba.
 
-  Добытчики газа имеют уровни: у более крупных версий давление отсечки выше, чем у малых.
+  Los productores de gas tienen niveles: las versiones más grandes tienen presiones de corte más altas que las más pequeñas.
 
   <Box>
-    <GuideEntityEmbed Entity="GasMinerNitrogen" Caption="300 кПа"/>
-    <GuideEntityEmbed Entity="GasMinerNitrogenStation" Caption="1000 кПа"/>
-    <GuideEntityEmbed Entity="GasMinerNitrogenStationLarge" Caption="4500 кПа"/>
+    <GuideEntityEmbed Entity="GasMinerNitrogen" Caption="300 kPa"/>
+    <GuideEntityEmbed Entity="GasMinerNitrogenStation" Caption="1000 kPa"/>
+    <GuideEntityEmbed Entity="GasMinerNitrogenStationLarge" Caption="4500 kPa"/>
   </Box>
 
-  Если добытчики газа когда-либо открутят от станции, их можно снова закрепить обычным гаечным ключом.
+  Si los productores de gas alguna vez los desenroscan de la estación, se pueden asegurar de nuevo con una llave inglesa normal.
 
-  ## Хранение газа
-  Газовые резервуары используются для хранения газа, произведённого добытчиками, и для передачи его другим процессам. Они находятся в атмосе.
+  ## Almacenamiento de gas
+  Los depósitos de gas se utilizan para almacenar el gas producido por los productores y transferirlo a otros procesos. Están situados en la atmósfera.
 
   <Box>
     <GuideEntityEmbed Entity="WallReinforced" Rotation="0" Caption="" Margin="0"/>
@@ -52,15 +52,15 @@
   </Box>
 
   <Box>
-    [color=#999999][italic]Пример небольшого газового резервуара[italic][/color]
+    [color=#999999][italic]Example de una pequeña tank[/italic][/color] de gas
   </Box>
 
-  Различные атмосферные процессы подают газы в газовые резервуары и забирают их оттуда.
-  Например:
-  - Добытчик газа подаёт свежие газы в резервуары, если там есть место.
-  - Сеть переработки закачивает восстановленные газы в резервуары для повторного использования.
-  - Системы вроде distronet и камеры сгорания забирают газы из резервуаров.
+  Diversos procesos atmosféricos alimentan gases hacia y desde los tanques de gas.
+  Por ejemplo:
+  - El productor de gas alimenta los tanques con gases frescos, si hay espacio allí.
+  - La red de reciclaje bombea los gases recuperados en tanques para su reutilización.
+  - Sistemas como las cámaras de distronet y combustión toman gases de los tanques.
 
-  Газовые резервуары устроены так, чтобы их можно было измерять [textlink="газоанализатором" link="AtmosTools"].
-  Поскольку выходная вентиляция является [textlink="пассивной вентиляцией" link="PassiveVent"], можно использовать [textlink="газоанализатор" link="AtmosTools"] на входе [textlink="насоса" link="Pumps"], который забирает газ из резервуара, чтобы измерить содержимое резервуара.
+  Los depósitos de gasolina están diseñados para poder medirse [textlink="gas analyzer" link="AtmosTools"].
+  Dado que la ventilación de salida es [textlink="passive ventilation" link="PassiveVent"], es posible utilizar un [textlink="gas analyzer" link="AtmosTools"] [textlink="pump" link="Pumps"] de entrada que extrae gas del depósito para medir su contenido.
 </Document>

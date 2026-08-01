@@ -1,33 +1,33 @@
-﻿<Document>
+<Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]ДОКУМЕНТ[/bold][/color]
+                                  [color=#1B2333][bold]DOCUMENT[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
-[mono][color=#1E4C7A][bold]СНД / КОМ-ОВ[/bold][/color][/mono]
+[mono][color=#1E4C7A][bold]SND / COM-OV[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Станция:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Время:[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Составитель[/bold][/color]
-[bold][color=#4D5F80]Имя и Фамилия:[/color][/bold] [color=#0F5E2B][bold][signature="Имя и Фамилия"][/bold][/color]
-[bold][color=#4D5F80]Должность:[/color][/bold] [color=#7A4A00][bold][job="Должность"][/bold][/color]
+[color=#1B2333][bold]Compiler[/bold][/color]
+[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
+[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Заметка о начале военных действий[/bold][/color]
+[color=#1B2333][bold]Note sobre el brote de Hostilities[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[bold]Содержание:[/bold]
-Позывной Агента: [form="Позывной Агента"]
+[bold]Contents[/bold]
+Indicativo del agente: [form="Agent Callsign"]
 
-Неуважаемые корпоративные крысы {corpString}! Синдикат официально объявляет о начале военных действий с вами, а также о начале операции по вашему истреблению.
+¡Ratas corporativas irrespetuosas {corpString}! El Sindicato anuncia oficialmente el inicio de las hostilidades contigo, así como el inicio de una operación para exterminarte.
 
-[bold]Причина предъявления ноты[/bold]
+[bold]Reason por presentar el note[/bold]
 [mono]
-1) [form="Пункт 1"]
-2) [form="Пункт 2"]
+1) [form="Paragraph 1"]
+2) [form="Paragraph 2"]
 [/mono]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]Место для печатей[/color][/italic]
+                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
 
 
 

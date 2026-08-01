@@ -1,41 +1,41 @@
-﻿<Document>
+<Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]ОТЧЁТ[/bold][/color]
+                                  [color=#1B2333][bold]REPORT[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
-[mono][color=#1E4C7A][bold]{corpString} / КТК-СБ[/bold][/color][/mono]
+[mono][color=#1E4C7A][bold]{corpString} / CPC-SB[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Станция:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Время:[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Составитель[/bold][/color]
-[bold][color=#4D5F80]Имя и Фамилия:[/color][/bold] [color=#0F5E2B][bold][signature="Имя и Фамилия"][/bold][/color]
-[bold][color=#4D5F80]Должность:[/color][/bold] [color=#7A4A00][bold][job="Должность"][/bold][/color]
+[color=#1B2333][bold]Compiler[/bold][/color]
+[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
+[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Отчёт о истечении срока заключённого[/bold][/color]
+[color=#1B2333][bold]Report al expirar el plazo de imprisonment[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[bold]Отчёт:[/bold]
-Имя и фамилия заключённого: [form="Имя и фамилия заключённого"]
+[bold]Report[/bold]
+Nombre del prisionero: [form="Prisoner es Name"]
 
-Возраст: [form="Возраст"]
+Edad: [form="Age"]
 
-Раса: [form="Раса"]
+Raza: [form="Race"]
 
-Рост: [form="Рост"]
+Altura: [form="Growth"]
 
-Закон по которому судился заключённый: [form="Закон по которому судился заключённый"]
+La ley bajo la cual se juzgaba al prisionero: [form="The ley bajo la cual el acusado era tried"]
 
-[bold]Причина[/bold]
+[bold]Cause[/bold]
 [mono]
-1) [form="Пункт 1"]
-2) [form="Пункт 2"]
+1) [form="Paragraph 1"]
+2) [form="Paragraph 2"]
 [/mono]
 
-Время прибывания: [form="Время прибывания"]
+Tiempo de estancia: [form="Time de stay"]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]Место для печатей[/color][/italic]
+                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
 
 
 

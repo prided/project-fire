@@ -1,32 +1,32 @@
-﻿<Document>
+<Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]ДОКУМЕНТ[/bold][/color]
+                                  [color=#1B2333][bold]DOCUMENT[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
-[mono][color=#1E4C7A][bold]{corpString} / МЕД[/bold][/color][/mono]
+[mono][color=#1E4C7A][bold]{corpString} / MED[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Станция:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Время:[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Составитель[/bold][/color]
-[bold][color=#4D5F80]Имя и Фамилия:[/color][/bold] [color=#0F5E2B][bold][signature="Имя и Фамилия"][/bold][/color]
-[bold][color=#4D5F80]Должность:[/color][/bold] [color=#7A4A00][bold][job="Должность"][/bold][/color]
+[color=#1B2333][bold]Compiler[/bold][/color]
+[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
+[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Назначение рецептурного препарата[/bold][/color]
+[color=#1B2333][bold]Prescription drug[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[bold]Содержание:[/bold]
-Я, [form="Имя и Фамилия"], в должности [form="ДОЛЖНОСТЬ"], разрешаю хранение и использование рецептурного препарата или наркотического препарата «[form="полное наименование вещества"]» пациенту [form="Имя и Фамилия"], в должности [form="ДОЛЖНОСТЬ"].
-Поставленный диагноз: [form="Поставленный диагноз"]
+[bold]Contents[/bold]
+Yo, [form="Name y Surname"], en la posición de [form="POSITION"], autorizo el almacenamiento y uso de un medicamento con receta o narcótico "[form="full nombre del substance"]" al paciente [form="Name y Surname"], en el puesto de [form="POSITION"].
+Diagnóstico: [form="Diagnosis"]
 
-[bold]Причина выдачи препарата[/bold]
+[bold]Reason para emitir el drug[/bold]
 [mono]
-1) [form="Пункт 1"]
-2) [form="Пункт 2"]
+1) [form="Paragraph 1"]
+2) [form="Paragraph 2"]
 [/mono]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]Место для печатей[/color][/italic]
+                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
 
 
 

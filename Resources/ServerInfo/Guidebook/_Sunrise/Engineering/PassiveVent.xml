@@ -1,11 +1,11 @@
-﻿<Document>
-  # Пассивная вентиляция
-  Пассивная вентиляция соединяет [textlink="трубопроводную сеть" link="PipeNetworks"] с окружающей атмосферой без насоса.
+<Document>
+  # Ventilación pasiva
+  La ventilación pasiva conecta [textlink="pipeline network" link="PipeNetworks"] con la atmósfera circundante sin necesidad de bomba.
   <Box>
     <GuideEntityEmbed Entity="GasPassiveVent"/>
   </Box>
 
-  Она не требует [textlink="питания" link="Power"] и просто позволяет газу естественно течь между трубой и атмосферой по разнице давлений.
+  No requiere [textlink="nutrition" link="Power"] y simplemente permite que el gas fluya de forma natural entre la tubería y la atmósfera a lo largo de la diferencia de presión.
 
-  Пассивные вентиляции полезны для газовых хранилищ, камер сгорания и других систем, где нужен свободный обмен газом без активного управления.
+  La ventilación pasiva es útil para instalaciones de almacenamiento de gas, cámaras de combustión y otros sistemas donde se requiere un intercambio de gases libre sin control activo.
 </Document>

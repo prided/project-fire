@@ -1,17 +1,17 @@
 <Document>
-  # Вульпканины
+  # Vulpkaninas
 
   <Box>
     <GuideEntityEmbed Entity="MobVulpkanin" Caption=""/>
   </Box>
 
-  Вульпканины из-за густого меха [color=#1e90ff]предпочитают более холодные температуры[/color] и [color=#ffa500]быстрее перегреваются.[/color]
-  Их ловкие (но неуклюжие) ноги позволяют им прыгать на короткие дистанции — аккуратнее, чтобы не врезаться!
+  Los Vulpkanins, debido a su espeso pelaje, [color=#1e90ff]prefer temperatures[/color] y [color=#ffa500]overheat faster.[/color] más fríos
+  Sus piernas ágiles (pero torpes) les permiten saltar distancias cortas – ¡ten cuidado de no estrellarte!
 
-  Их диета позволяет безопасно есть сырое мясо, но теобромин для них ядовит.
+  Su dieta les permite comer carne cruda de forma segura, pero la teobromina es venenosa para ellos.
 
-  Их необычная форма морды затрудняет питьё, поэтому иногда часть выпитой жидкости проливается на пол.
-  Они оставляют уникальные расовые следы.
+  Su forma inusual del hocico dificulta beberlo, por lo que a veces parte del líquido que beben se derrama en el suelo.
+  Dejan huellas raciales únicas.
 
-  Они получают [color=#1e90ff]на 15% меньше урона от холода[/color], но [color=#ffa500]на 15% больше урона от жара.[/color]
+  Reciben un [color=#1e90ff]15% menos de Damage[/color] fría pero un [color=#ffa500]15% más de calor Damage.[/color]
 </Document>

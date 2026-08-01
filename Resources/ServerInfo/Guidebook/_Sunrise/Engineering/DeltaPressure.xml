@@ -1,17 +1,17 @@
-﻿<Document>
-  # Перепад давления
-  Перепад давления, или ΔP, - это разница давления между двумя областями.
-  Эта разница может создавать силу, действующую на объекты между областями, нанося некоторым объектам [bold]урон давлением[/bold].
+<Document>
+  # Caída de presión
+  La caída de presión, o ΔP, es la diferencia de presión entre dos áreas.
+  Esta diferencia puede crear una fuerza que actúa sobre objetos entre áreas, [bold]pressure damage[/bold] a algunos objetos.
 
-  Различные стеклянные объекты, например окна, виндоры и ставни, могут получать урон давлением, если ΔP между двумя сторонами достаточно велик.
-  Этот урон может разбить такие объекты, позволив газу свободно течь между областями.
+  Diversos objetos de vidrio, como ventanas, windors y contraventanas, pueden sufrir daños por presión si el ΔP entre ambos lados es lo suficientemente alto.
+  Este daño puede destrozar estos objetos, permitiendo que el gas fluya libremente entre las áreas.
 
-  У разных типов объектов разные пороги ΔP, которые они выдерживают до разрушения.
-  Обычно чем прочнее стекло, тем выше порог. Тонкие объекты также имеют более низкие пороги.
+  Diferentes tipos de objetos tienen diferentes umbrales ΔP, que soportan antes de ser destruidos.
+  Normalmente, cuanto más fuerte es el vidrio, mayor es el umbral. Los objetos delgados también tienen umbrales más bajos.
 
-  Стены, шлюзы и пожарные шлюзы не подвержены воздействию ΔP.
+  Los muros, compuertas y compuertas contra incendios no se ven afectados por el ΔP.
 
-  ## Обычное стекло и объекты
+  ## Cristal y objetos ordinarios
   <Box>
     <GuideEntityEmbed Entity="Window" Caption=""/>
     <GuideEntityEmbed Entity="WindowDirectional" Caption=""/>
@@ -20,11 +20,11 @@
     <GuideEntityEmbed Entity="InflatableWall" Caption=""/>
   </Box>
 
-  Обычное полноразмерное стекло и другие слабые объекты выдерживают ΔP до [color=orange][protodata="Window" comp="DeltaPressure" member="MinPressureDelta"/] кПа[/color], прежде чем начнут трескаться.
+  El vidrio normal de tamaño real y otros objetos débiles pueden soportar ΔP hasta [color=orange][protodata="Window" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] antes de comenzar a agrietarse.
 
-  Стекло четвертного размера, например направленные окна, выдерживает ΔP до [color=orange][protodata="WindowDirectional" comp="DeltaPressure" member="MinPressureDelta"/] кПа[/color], прежде чем начнёт трескаться.
+  El vidrio del tamaño de una moneda de veinticinco centavos, como las ventanas direccionales, puede soportar ΔP hasta [color=orange][protodata="WindowDirectional" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] antes de que comience a agrietarse.
 
-  ## Укреплённое стекло и объекты
+  ## Vidrio y objetos reforzados
   <Box>
     <GuideEntityEmbed Entity="ReinforcedWindow" Caption=""/>
     <GuideEntityEmbed Entity="WindowReinforcedDirectional" Caption=""/>
@@ -32,11 +32,11 @@
     <GuideEntityEmbed Entity="ShuttleWindow" Caption=""/>
   </Box>
 
-  Укреплённое полноразмерное стекло выдерживает ΔP до [color=orange][protodata="ReinforcedWindow" comp="DeltaPressure" member="MinPressureDelta"/] кПа[/color], прежде чем начнёт трескаться.
+  El vidrio reforzado de cuerpo entero puede soportar ΔP hasta [color=orange][protodata="ReinforcedWindow" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] antes de que comience a agrietarse.
 
-  Укреплённое стекло четвертного размера выдерживает ΔP до [color=orange][protodata="WindowReinforcedDirectional" comp="DeltaPressure" member="MinPressureDelta"/] кПа[/color], прежде чем начнёт трескаться.
+  El vidrio reforzado de un cuarto de dólar puede soportar ΔP hasta [color=orange][protodata="WindowReinforcedDirectional" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] antes de que comience a agrietarse.
 
-  ## Плазменное и урановое стекло
+  ## Plasma y vidrio de uranio
   <Box>
     <GuideEntityEmbed Entity="PlasmaWindow" Caption=""/>
     <GuideEntityEmbed Entity="PlasmaWindowDirectional" Caption=""/>
@@ -46,11 +46,11 @@
     <GuideEntityEmbed Entity="WindoorUranium" Caption=""/>
   </Box>
 
-  Плазменное и урановое стекло выдерживает ΔP до [color=orange][protodata="PlasmaWindow" comp="DeltaPressure" member="MinPressureDelta"/] кПа[/color], прежде чем начнёт трескаться.
+  El vidrio de plasma y uranio puede soportar el ΔP hasta [color=orange][protodata="PlasmaWindow" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] antes de que comience a agrietarse.
 
-  Плазменное и урановое стекло четвертного размера выдерживает ΔP до [color=orange][protodata="PlasmaWindowDirectional" comp="DeltaPressure" member="MinPressureDelta"/] кПа[/color], прежде чем начнёт трескаться.
+  El vidrio de plasma y uranio de tamaño de una moneda de veinticinco centavos puede soportar el ΔP hasta [color=orange][protodata="PlasmaWindowDirectional" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] antes de que comience a agrietarse.
 
-  ## Укреплённое плазменное и урановое стекло
+  ## Plasma reforzado y vidrio de uranio
 
   <Box>
     <GuideEntityEmbed Entity="ReinforcedPlasmaWindow" Caption=""/>
@@ -62,8 +62,8 @@
 
   </Box>
 
-  Укреплённое плазменное и урановое стекло выдерживает ΔP до [color=orange][protodata="ReinforcedPlasmaWindow" comp="DeltaPressure" member="MinPressureDelta"/] кПа[/color], прежде чем начнёт трескаться.
+  El vidrio reforzado de plasma y uranio puede resistir el ΔP hasta [color=orange][protodata="ReinforcedPlasmaWindow" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] antes de que comience a agrietarse.
 
-  Укреплённое плазменное и урановое стекло четвертного размера выдерживает ΔP до [color=orange][protodata="PlasmaReinforcedWindowDirectional" comp="DeltaPressure" member="MinPressureDelta"/] кПа[/color], прежде чем начнёт трескаться.
+  El plasma reforzado y el vidrio de uranio del tamaño de una moneda de veinticinco centavos pueden soportar el ΔP hasta [color=orange][protodata="PlasmaReinforcedWindowDirectional" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] antes de que comience a agrietarse.
 
 </Document>

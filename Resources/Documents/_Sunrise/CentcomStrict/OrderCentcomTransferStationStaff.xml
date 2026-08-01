@@ -1,32 +1,32 @@
-﻿<Document>
+<Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                    [color=#8D1010]☆★★[/color] [color=#1B2333][bold]ПРИКАЗ[/bold][/color] [color=#8D1010]★★☆[/color]
+                                    [color=#8D1010]☆★★ [/color] [color=#1B2333][bold]ORDER ★★ [/bold][/color] [color=#8D1010]☆[/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
-[mono][color=#1E4C7A][bold]{corpString} / ЦК-КОМ[/bold][/color]        [color=#7A4A00][bold]№ [form="Номер приказа"][/bold][/color][/mono]
+[mono][color=#1E4C7A][bold]{corpString} / CC-KOM[/bold][/color] [color=#7A4A00][bold]No [form="Order number"][/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Объект назначения:[/color] [color=#1B2333][form="Наименование объекта"][/color][/bold]
-[bold][color=#4D5F80]Время:[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Object de destino: [/color] [color=#1B2333][form="Name de la object"][/color][/bold]
+[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Составитель[/bold][/color]
-[bold][color=#4D5F80]Имя и Фамилия:[/color][/bold] [color=#0F5E2B][bold][signature="Имя и Фамилия"][/bold][/color]
-[bold][color=#4D5F80]Должность:[/color][/bold] [color=#7A4A00][bold][job="Должность"][/bold][/color]
+[color=#1B2333][bold]Compiler[/bold][/color]
+[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
+[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Приказ о трансфере персонала[/bold][/color]
+[color=#1B2333][bold]Order sobre la transferencia de personnel[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[color=#2D3442]В связи с выполнением текущего этапа работ [bold][color=#8D1010]приказываем начать трансфер персонала объекта[/color][/bold].[/color]
+[color=#2D3442]In en relación con la implementación de la fase actual de trabajo, [bold][color=#8D1010]we para iniciar la transferencia de la instalación personnel[/color][/bold].[/color]
 
 [bold][mono][color=#2D3442]
- ► [bold][color=#8D1010]С момента получения документа оповестить экипаж о готовности трансфера.[/color][/bold]
- ► [bold][color=#1E4C7A]Вызвать шаттл эвакуации в:[/color][/bold] [form="Время от начала смены"].
+ ► [bold][color=#8D1010]From el momento de recibir el documento, notifique a la tripulación la preparación del transfer.[/color][/bold]
+ ► [bold][color=#1E4C7A]Call el transbordador de evacuación en:[/color][/bold] [form="Time desde el inicio del shift"].
 [/color][/mono][/bold]
 
-[bold][color=#7A4A00]Ответственный за исполнение:[/color][/bold] [bold][color=#1E4C7A][form="Должность ответственного"][/color][/bold]
-[bold][color=#7A4A00]Срок исполнения:[/color][/bold] [bold][color=#8D1010][form="Время"][/color][/bold]
+[bold][color=#7A4A00]Responsible para la ejecución: [/color][/bold] [bold][color=#1E4C7A][form="Position del person"][/color][/bold] responsable
+[bold][color=#7A4A00]Deadline:[/color][/bold] [bold][color=#8D1010][form="Time"][/color][/bold]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]Место для печатей[/color][/italic]
+                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
 
 
 

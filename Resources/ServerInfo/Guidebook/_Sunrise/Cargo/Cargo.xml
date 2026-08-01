@@ -1,13 +1,13 @@
 <Document>
   # Cargo
 
-  Отдел снабжения, также известный как [color=cyan]Cargo[/color], обеспечивает станцию необходимыми ресурсами, такими как топливо и сырьё, а также предметами комфорта вроде лотерейных билетов и плюшевых игрушек.
+  El departamento de suministros, también conocido como [color=cyan]Cargo[/color], proporciona a la estación los recursos necesarios como combustible y materias primas, así como artículos de confort como boletos de lotería y peluches.
 
-  Они добывают [color=cyan]спесосы[/color] (валюта станции) разными способами: получают награды, продают разный хлам и занимаются утилизацией, что позволяет закупать всё, что нужно экипажу, у внешних поставщиков. Задача Cargo — удовлетворять потребности всей станции.
+  Extraen [color=cyan]spes[/color] (la moneda de la estación) de diversas formas: ganan recompensas, venden chatarra y la reciclan, lo que les permite comprar todo lo que la tripulación necesita a proveedores externos. La misión de Carga es satisfacer las necesidades de toda la estación.
 
   ## Personnel
 
-  Cargo состоит из [color=cyan]техников снабжения[/color] и [color=cyan]специалистов по утилизации[/color] и руководится [color=cyan]Quartermaster[/color].
+  La carga consta de [color=cyan]supply technicians[/color] y [color=cyan]disposal specialists[/color] y es gestionada por [color=cyan]Quartermaster[/color].
 
   <Box>
     <GuideEntityEmbed Entity="ToyFigurineCargoTech" Caption="Cargo Tech"/>
@@ -17,9 +17,9 @@
 
   ## Making Money
 
-  Основная проблема любого отдела Cargo — недостаток денег.
+  El principal problema de cualquier departamento de carga es la falta de dinero.
 
-  Cargo зарабатывает, продавая вещи на [color=cyan]Trading Station[/color]. Почти всё на станции имеет экономическую ценность, которую видно через [color=cyan]appraisal tool[/color]. Эта стоимость растёт, когда вы продаёте предмет как часть [textlink="bounty" link="CargoBounties"].
+  La carga genera dinero vendiendo objetos en [color=cyan]Trading Station[/color]. Casi todo en la estación tiene valor económico, visible a través de [color=cyan]appraisal tool[/color]. Este valor aumenta cuando vendes un objeto como parte de [textlink="bounty" link="CargoBounties"].
 
   <Box>
     <GuideEntityEmbed Entity="AppraisalTool"/>
@@ -27,9 +27,9 @@
     <GuideEntityEmbed Entity="CrateGenericSteel"/>
   </Box>
 
-  Найдя что-то ценное, доставьте это в [color=cyan]Cargo Bay[/color]. Если оно помещается в [color=cyan]Crate[/color], найдите пустой ящик и сложите туда предметы.
+  Cuando encuentres algo valioso, entrégalo al [color=cyan]Cargo Bay[/color]. Si cabe en el [color=cyan]Crate[/color], busca una caja vacía y pon los objetos allí.
 
-  Когда [color=cyan]Cargo Shuttle[/color] улетел, можно положить всё, что собираетесь продать, на [color=cyan]Cargo Pallets[/color]. После того как шаттл причалит, загрузите в него ящики и всё остальное, что хотите продать.
+  Cuando [color=cyan]Cargo Shuttle[/color] haya volado, puedes poner todo lo que vayas a vender en el [color=cyan]Cargo Pallets[/color]. Después de los muelles del transbordador, cárgalo con cajas y todo lo demás que quieras vender.
 
   <Box>
     <GuideEntityEmbed Entity="ComputerPalletConsole"/>
@@ -37,11 +37,11 @@
     <GuideEntityEmbed Entity="ComputerCargoOrders"/>
   </Box>
 
-  После загрузки отправьте шаттл на Trade Station. Там переложите продаваемые предметы на зелёные [color=cyan]Cargo Selling Pallets[/color], а затем подходите к [color=cyan]Cargo Sale Computer[/color] и нажимайте [italic]"Sell"[/italic].
+  Una vez cargado, envía la lanzadera a la Estación de Comercio. Allí, transfiere los objetos que vendes a la [color=cyan]Cargo verde de Pallets[/color] de venta, y luego ve a la Computer[color=cyan] de Venta de [/color]Cargo y haz clic en [italic]"Vender"[/italic].
 
-  Теперь можно забрать полученные спесосы, вернуться на станцию и положить их в [color=cyan]Cargo Request Computer[/color].
+  Ahora puedes recoger las lanzas recibidas, volver a la estación y ponerlas en el Computer[color=cyan] [/color]Cargo de Solicitudes.
 
-  Ещё больше заработать можно, выполняя [textlink="bounties" link="CargoBounties"] или продавая ценные вещи из [textlink="salvage" link="Salvage"].
+  Puedes ganar aún más completando [textlink="bounties" link="CargoBounties"] o vendiendo objetos de valor desde [textlink="salvage" link="Salvage"].
 
   ## Ordering
 
@@ -49,42 +49,42 @@
     <GuideEntityEmbed Entity="ComputerCargoOrders"/>
   </Box>
 
-  Каждый заказ начинается с [color=cyan]Cargo Request Computer[/color]. Прежде всего Cargo должен иметь достаточно спесосов. Если денег нет, нужно их добыть.
+  Cada pedido comienza con la [color=cyan]Cargo Solicitud Computer[/color]. Primero, la Carga debe tener suficientes lanzas. Si no hay dinero, tienes que conseguirlo.
 
-  Также Cargo сам решает, выполнять заявку или нет. При дефиците можно отказать в менее важных просьбах.
+  La carga también decide por sí misma si cumple o no la petición. En caso de escasez, se pueden rechazar solicitudes menos importantes.
 
-  Чтобы оформить заказ, нажмите на нужный товар, укажите получателя, напишите причину, зачем ему это, и нажмите "Approve".
+  Para hacer un pedido, haz clic en el producto deseado, especifica el destinatario, escribe el motivo por el que lo necesita y haz clic en "Aprobar".
 
-  Иногда есть публичный Cargo Request Computer; тогда достаточно только подтверждать заявки, которые люди оформили сами.
+  A veces hay un Ordenador de Solicitudes de Carga Pública; entonces basta con confirmar las solicitudes que las personas han realizado por sí mismas.
 
   <Box>
     <GuideEntityEmbed Entity="CargoPalletBuy"/>
     <GuideEntityEmbed Entity="PaperCargoInvoice"/>
   </Box>
 
-  После этого заказ необходимо доставить со [color=cyan]Trading Station[/color] обратно на станцию.
+  Después de eso, el pedido debe entregarse desde [color=cyan]Trading Station[/color] de vuelta a la estación.
 
-  На [color=cyan]Cargo Buying Pallets[/color] лежит ящик с заказом. Загрузите его на шаттл и привезите назад.
+  En la Pallets[color=cyan] [/color]Cargo de compras hay una caja con un pedido. Cárgalo en la lanzadera y tráelo de vuelta.
 
-  Когда ящик окажется на Cargo Dock, прочитайте этикетку [color=cyan]Cargo Invoice[/color], чтобы узнать получателя, и доставьте груз прямо ему.
+  Una vez que la caja esté en el Muelle de Carga, lee la etiqueta [color=cyan]Cargo Invoice[/color] para identificar al destinatario y entrega el envío directamente a él.
 
   ## Piloting
 
-  Заказы доставляет орбитальная [color=cyan]Trade Station[/color], а до станции их везёт [color=cyan]Cargo Shuttle[/color]. Шаттл не летает сам, поэтому его нужно пилотировать на месте или дистанционно.
+  Las órdenes las entrega un [color=cyan]Trade Station[/color] orbital, y [color=cyan]Cargo Shuttle[/color] las lleva a la estación. El transbordador no vuela solo, por lo que debe ser pilotado en el acto o a distancia.
 
   <Box>
     <GuideEntityEmbed Entity="ComputerShuttleCargo"/>
   </Box>
 
-  Чтобы лететь, найдите [color=cyan]Cargo Shuttle Console[/color]. Одна находится в Cargo Bay, другая — внутри шаттла.
+  Para volar, busca [color=cyan]Cargo Console[/color] del transbordador. Uno está en la bodega de carga, el otro dentro del transbordador.
 
-  После взаимодействия откроется навигационный экран. Вот как управлять:
+  Después de interactuar, se abrirá una pantalla de navegación. Así es como gestionarlo:
 
-  - Сначала переключитесь на экран [color=yellow]"DOCK"[/color] и [color=yellow]undock[/color] все шлюзы между шаттлом и станцией.
-  - После отсоединения можно пилотировать. [italic]Помните, что вы летите в космосе и импульс сохраняется.[/italic]
-  - Управление: [color=yellow][keybind="ShuttleStrafeUp"][/color] и [color=yellow][keybind="ShuttleStrafeDown"][/color] для движения вверх и вниз, [color=yellow][keybind="ShuttleStrafeLeft"][/color] и [color=yellow][keybind="ShuttleStrafeRight"][/color] для движения влево и вправо, [color=yellow][keybind="ShuttleRotateLeft"][/color] и [color=yellow][keybind="ShuttleRotateRight"][/color] для поворотов, а [color=yellow][keybind="ShuttleBrake"][/color] тормозит.
-  - Потом направьте шаттл к [color=cyan]Trade Station[/color].
-  - Как только прибудете, [color=yellow]dock[/color]итесь к шлюзам и всё готово.
+  - Primero, cambiar a la pantalla de [color=yellow]DOCK[/color] y [color=yellow]undock[/color] todas las puertas entre el transbordador y la estación.
+  - Una vez desconectado, puedes pilotar. [italic]Remember que estás volando en el espacio y el momento es conserved.[/italic]
+  - Controles: [color=yellow][keybind="ShuttleStrafeUp"][/color] y [color=yellow][keybind="ShuttleStrafeDown"][/color] para moverse arriba y abajo, [color=yellow][keybind="ShuttleStrafeLeft"][/color] y [color=yellow][keybind="ShuttleStrafeRight"][/color] para moverse a la izquierda y derecha, [color=yellow][keybind="ShuttleRotateLeft"][/color] y [color=yellow][keybind="ShuttleRotateRight"][/color] para girar y [color=yellow][keybind="ShuttleBrake"][/color] frenos.
+  "Entonces dirige la lanzadera hacia [color=cyan]Trade Station[/color].
+  - En cuanto llegues, [color=yellow]dock[/color] a las esclusas y listo.
 
-  [textlink="Узнайте о наградах, которые помогут увеличить прибыль на станции." link="CargoBounties"]
+  [textlink="Learn sobre las recompensas para ayudar a aumentar la profits." link="CargoBounties"]
 </Document>

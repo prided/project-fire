@@ -1,48 +1,48 @@
-﻿<Document>
-# Насосы
-  Насосы - основной способ активно перемещать газы через [textlink="пайпнет" link="PipeNetworks"].
-  Они забирают газ с одной стороны и выталкивают его на другую.
-  Есть два типа насосов:
+<Document>
+# Bombas
+  Las bombas son la principal forma de mover activamente los gases a través de [textlink="pipenet" link="PipeNetworks"].
+  Extraen gas de un lado y lo empujan hacia el otro.
+  Existen dos tipos de bombas:
 
   <Box>
-    <GuideEntityEmbed Entity="GasPressurePump" Caption="насос давления"/>
-    <GuideEntityEmbed Entity="GasVolumePump" Caption="объёмный насос"/>
+    <GuideEntityEmbed Entity="GasPressurePump" Caption="Bomba de presión"/>
+    <GuideEntityEmbed Entity="GasVolumePump" Caption="Bomba de desplazamiento positivo"/>
   </Box>
 
-  Важные вещи о насосах:
-  - Насосам [color=#a4885c]требуется питание[/color] через ближайший LV-кабель.
-  - Насосы выводят газ со стороны с красной полосой.
-  - Газ не может двигаться через насосы назад, хотя если вам нужно только это, лучше использовать [textlink="пассивный шлюз" link="PassiveGate"].
-  - Насосы не могут перемещать газы в трубы, где давление или объём превышают их [color=#a4885c]предел[/color]. Из-за этого они становятся [color=red]заблокированными[/color].
+  Cosas importantes sobre los extractores:
+  - Las bombas [color=#a4885c]require power[/color] a través del cable de baja tensión más cercano.
+  - Las bombas descargan el gas por el lateral con la franja roja.
+  - La gasolina no puede moverse hacia atrás por las bombas, aunque si eso es todo lo que quieres, lo mejor es usar [textlink="passive gateway" link="PassiveGate"].
+  - Las bombas no pueden mover gases a tuberías donde la presión o el volumen superan su [color=#a4885c]limit[/color]. Esto hace que se conviertan en [color=red]blocked[/color].
 
-  Когда насосы работают, они показывают цветную анимацию.
-  Если газа для перекачки нет или насос заблокирован, он показывает мигающую [color=red]красную[/color] анимацию.
-  Выключенные, обесточенные или незакреплённые насосы не показывают анимацию.
+  Cuando las bombas están funcionando, muestran una animación en color.
+  Si no hay gasolina que bombear o la bomba está bloqueada, muestra una animación de [color=red]red[/color] parpadeante.
+  Las bombas apagadas, desactivadas o sin asegurar no muestran animaciones.
 
-  ## Насосы давления
-  Насосы давления - самый распространённый тип насосов.
-  Они перемещают газ по [color=#a4885c]давлению[/color], поэтому полезны для точного контроля давления трубы или создания вакуума.
+  ## Bombas de presión
+  Las bombas de presión son el tipo de bomba más común.
+  Mueven el gas a través del [color=#a4885c]pressure[/color], por lo que son útiles para controlar con precisión la presión de la tubería o crear un vacío.
 
   <Box>
-    <GuideEntityEmbed Entity="GasPressurePump" Caption="насос давления"/>
+    <GuideEntityEmbed Entity="GasPressurePump" Caption="Bomba de presión"/>
   </Box>
 
-  Насос давления [color=red]не может[/color] переместить газ в трубу, давление которой выше или равно давлению, заданному на насосе.
+  La bomba de presión [color=red]cannot[/color] mover el gas hacia una tubería cuya presión sea mayor o igual a la presión establecida en la bomba.
 
-  Например, насос давления не сможет качать газ в трубу с текущим давлением 500 кПа, если сам насос выставлен на 500 кПа.
+  Por ejemplo, una bomba de presión no podrá bombear gas a una tubería con una presión de corriente de 500 kPa si la propia bomba está ajustada a 500 kPa.
 
-  Насосы давления могут качать до максимального давления [color=orange][protodata="GasPressurePump" comp="GasPressurePump" member="MaxTargetPressure"/] кПа[/color].
-  Они станут [color=red]заблокированными[/color], если попытаются протолкнуть газ в трубу с давлением выше этого значения.
+  Las bombas de presión pueden bombear hasta una presión máxima de [color=orange][protodata="GasPressurePump" comp="GasPressurePump" member="MaxTargetPressure"/] kPa[/color].
+  Se volverán [color=red]blocked[/color] si intentan empujar gas hacia una tubería con una presión superior a este valor.
 
-  ## Объёмные насосы
-  Объёмные насосы - альтернативный тип насоса, перемещающий газ по [color=#a4885c]объёму[/color].
+  ## Bombas de desplazamiento positivo
+  Las bombas de desplazamiento positivo son un tipo alternativo de bomba que mueve gas a través del [color=#a4885c]volume[/color].
 
   <Box>
-    <GuideEntityEmbed Entity="GasVolumePump" Caption="объёмный насос"/>
+    <GuideEntityEmbed Entity="GasVolumePump" Caption="Bomba de desplazamiento positivo"/>
   </Box>
 
-  Они крайне полезны для быстрого перемещения больших объёмов газа.
-  Обычно они могут достигать более высокого давления, чем насосы давления.
+  Son extremadamente útiles para el movimiento rápido de grandes volúmenes de gas.
+  Normalmente pueden alcanzar presiones más altas que las bombas de presión.
 
-  Хотя объёмные насосы работают по принципу объёма, они станут [color=red]заблокированными[/color], если попытаются протолкнуть газ в трубу с давлением выше [color=orange][protodata="GasVolumePump" comp="GasVolumePump" member="HigherThreshold"/] кПа[/color].
+  Aunque las bombas de desplazamiento positivo funcionan según el principio de volumen, se volverán [color=red]blocked[/color] si intentan empujar gas hacia una tubería con una presión superior a [color=orange][protodata="GasVolumePump" comp="GasVolumePump" member="HigherThreshold"/] kPa[/color].
 </Document>

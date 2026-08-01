@@ -1,28 +1,28 @@
-﻿<Document>
+<Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]ЗАПРОС[/bold][/color]
+                                  [color=#1B2333][bold]INQUIRY[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
-[mono][color=#1E4C7A][bold]{corpString} / МЕД[/bold][/color][/mono]
+[mono][color=#1E4C7A][bold]{corpString} / MED[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Станция:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Время:[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Составитель[/bold][/color]
-[bold][color=#4D5F80]Имя и Фамилия:[/color][/bold] [color=#0F5E2B][bold][signature="Имя и Фамилия"][/bold][/color]
-[bold][color=#4D5F80]Должность:[/color][/bold] [color=#7A4A00][bold][job="Должность"][/bold][/color]
+[color=#1B2333][bold]Compiler[/bold][/color]
+[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
+[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Запрос на проведение эвтаназии[/bold][/color]
+[color=#1B2333][bold]Request por euthanasia[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[bold]Запрос:[/bold]
-Я, [form="Имя и Фамилия"], в должности [form="ДОЛЖНОСТЬ"], прошу содействие медицинского отдела в проведении эвтаназии в качестве врачебного лечения по причине [form="указать причину запроса"].
-С последствиями данного решения ознакомлен, медицинским персоналом была установлена рациональность и гуманность данного решения.
-Претензий к к медицинскому отделу при соблюдении ими протоколов эвтаназии не имею.
-По окончании процедуры прошу утилизировать тело путем [form="способ утилизации"] при наличии на это возможности.
+[bold]Inquiry[/bold]
+Yo, [form="Name y Surname"], en la posición de [form="POSITION"], solicito la ayuda del departamento médico para realizar la eutanasia como tratamiento médico por el motivo [form="specify la razón de la request"].
+Conozco las consecuencias de esta decisión, el personal médico estableció la racionalidad y humanidad de esta decisión.
+No tengo reclamaciones contra el departamento médico si cumplen con los protocolos de eutanasia.
+Al final del procedimiento, le pido que se deshaga del cuerpo antes de [form="disposal method"] si es posible.
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]Место для печатей[/color][/italic]
+                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
 
 
 

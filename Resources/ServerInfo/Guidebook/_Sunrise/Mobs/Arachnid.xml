@@ -1,16 +1,16 @@
 <Document>
-  # Арахниды
+  # Arácnidos
 
   <Box>
     <GuideEntityEmbed Entity="MobArachnid" Caption=""/>
   </Box>
 
-  У них есть два дополнительных кармана в инвентаре. Они могут есть сырое мясо без последствий, но некоторые продукты вроде шоколада и лука для них ядовиты.
-  Они задыхаются на 50% быстрее, а их синюю кровь нельзя восполнить из железа — Ведь их кровь основана на меди.
+  Tienen dos bolsillos adicionales en su inventario. Pueden comer carne cruda sin consecuencias, pero algunos alimentos como el chocolate y la cebolla son venenosos para ellos.
+  Se asfixian un 50% más rápido y su sangre azul no puede reponerse a partir del hierro; al fin y al cabo, su sangre se basa en cobre.
 
-  Их безоружные атаки наносят колющий урон вместо дробящего.
+  Sus ataques sin armas causan daño perforante en lugar de contundente.
 
-  ## Шелководство
+  ## Sericultura
 
   <Box>
     <GuideEntityEmbed Entity="MaterialWebSilk" Caption=""/>
@@ -19,7 +19,7 @@
     <GuideEntityEmbed Entity="WallWeb" Caption=""/>
   </Box>
 
-  Арахниды могут создавать паутину (шёлк) ценой насыщения. Они (и только они) могут плести из паутины различные предметы — от одежды и щитов до целых стен.
+  Los arácnidos pueden crear telarañas (seda) a costa de la saturación. Ellos (y solo ellos) pueden tejer diversos objetos desde telarañas, desde ropa y escudos hasta paredes enteras.
 
 
 </Document>

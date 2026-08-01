@@ -1,64 +1,64 @@
-﻿<Document>
+<Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]РАСПОРЯЖЕНИЕ[/bold][/color]
+                                  [color=#1B2333][bold]ORDER[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
-[mono][color=#1E4C7A][bold]{corpString} / СБ[/bold][/color][/mono]
+[mono][color=#1E4C7A][bold]{corpString} / SAT[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Станция:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Время:[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Составитель[/bold][/color]
-[bold][color=#4D5F80]Имя и Фамилия:[/color][/bold] [color=#0F5E2B][bold][signature="Имя и Фамилия"][/bold][/color]
-[bold][color=#4D5F80]Должность:[/color][/bold] [color=#7A4A00][bold][job="Должность"][/bold][/color]
-
-[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Распоряжение о дежурстве[/bold][/color]
-[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-
-[bold]Содержание:[/bold]
-Приказываю заступить на дежурство следующим патрульным отрядам: [form="Приказываю заступить на дежурство следующим патрульным отрядам"]
-[mono]
-1) [form="наименование патрульного отряда"]
-2) [form="наименование патрульного отряда"]
-[/mono]
-Дополнительно: [form="наименование патрульного отряда, наименование патрульного отряда"]
-
-
-[bold]Патрульный отряд «Наименование»[/bold]
-
-[bold]Состав группы[/bold]
-[mono]
-1) [form="Имя и Фамилия"]
-2) [form="Имя и Фамилия"]
-[/mono]
-Дополнительно: [form="Имя и Фамилия, Имя и Фамилия"]
-
-[bold]Маршрут патруля[/bold]
-[mono]
-1) [form="точка/участок"]
-2) [form="точка/участок"]
-[/mono]
-Дополнительно: [form="точка/участок, точка/участок"]
-
-
-[bold]Патрульный отряд «Наименование»[/bold]
-
-[bold]Состав группы[/bold]
-[mono]
-1) [form="Имя и Фамилия"]
-2) [form="Имя и Фамилия"]
-[/mono]
-Дополнительно: [form="Имя и Фамилия, Имя и Фамилия"]
-
-[bold]Маршрут патруля[/bold]
-[mono]
-1) [form="точка/участок"]
-2) [form="точка/участок"]
-[/mono]
-Дополнительно: [form="точка/участок, точка/участок"]
+[color=#1B2333][bold]Compiler[/bold][/color]
+[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
+[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]Место для печатей[/color][/italic]
+[color=#1B2333][bold]Order en duty[/bold][/color]
+[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
+
+[bold]Contents[/bold]
+Ordeno que los siguientes destacamentos de patrulla retomen el servicio: [form="I ordeno a los siguientes destacamentos de patrulla que se retomen duty"]
+[mono]
+1) [form="name de la patrulla detachment"]
+2) [form="name de la patrulla detachment"]
+[/mono]
+Además: [form="name del escuadrón de patrulla, nombre del squad"] de patrulla
+
+
+[bold]Patrol plantilla "Nombre"[/bold]
+
+[bold]Composition de la group[/bold]
+[mono]
+1) [form="Name y Surname"]
+2) [form="Name y Surname"]
+[/mono]
+Opcional: [form="First y apellido, nombre y apellido Name"]
+
+[bold]Patrol route[/bold]
+[mono]
+1) [form="point/site"]
+2) [form="point/site"]
+[/mono]
+Opcional: [form="Point/Lot, Point/Lot"]
+
+
+[bold]Patrol plantilla "Nombre"[/bold]
+
+[bold]Composition de la group[/bold]
+[mono]
+1) [form="Name y Surname"]
+2) [form="Name y Surname"]
+[/mono]
+Opcional: [form="First y apellido, nombre y apellido Name"]
+
+[bold]Patrol route[/bold]
+[mono]
+1) [form="point/site"]
+2) [form="point/site"]
+[/mono]
+Opcional: [form="Point/Lot, Point/Lot"]
+
+[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
+                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
 
 
 

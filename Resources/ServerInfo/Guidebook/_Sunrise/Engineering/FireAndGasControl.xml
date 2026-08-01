@@ -1,7 +1,7 @@
-﻿<Document>
-  # Контроль огня и газов
-  К сожалению, [textlink="пожары" link="Fires"], [textlink="разгерметизации" link="Spacing"] и другие [textlink="атмосферные аварии" link="AtmosphericUpsets"] часто случаются на станции.
-  Такие аварии могут быстро распространяться по станции и делать атмосферу непригодной для экипажа.
+<Document>
+  # Control de Fuego y Gas
+  Desafortunadamente, [textlink="fires" link="Fires"], [textlink="depressurizations" link="Spacing"] y otras [textlink="atmospheric accidents" link="AtmosphericUpsets"] suelen ocurrir en la estación.
+  Estos accidentes pueden propagarse rápidamente por la estación y hacer que la atmósfera sea inadecuada para la tripulación.
 
   <Box>
     <GuideEntityEmbed Entity="Firelock"/>
@@ -10,33 +10,33 @@
     <GuideEntityEmbed Entity="FireAlarm"/>
   </Box>
 
-  Для борьбы с этим на станциях есть разные устройства, помогающие не дать авариям распространиться.
+  Para combatir esto, las estaciones cuentan con varios dispositivos para ayudar a prevenir la propagación de accidentes.
 
-  ## Пожарные шлюзы
-  Пожарные шлюзы - простой и эффективный способ не дать пожарам распространиться по станции.
+  ## Cerraduras cortafuego
+  Los candados cortafuegos son una forma sencilla y eficaz de evitar que los incendios se propaguen por toda la estación.
 
-  По условиям, которые обнаруживает пожарный шлюз, или по команде подключённой [textlink="воздушной" link="AirAlarms"] или пожарной сигнализации они могут закрывать секции станции, предотвращая распространение опасных условий.
+  Según las condiciones que detecte la esclusa de emergencia, o a la orden de una [textlink="air" link="AirAlarms"] o alarma de incendios conectada, pueden cerrar secciones de la estación, evitando la propagación de condiciones peligrosas.
 
-  ## Деление станции на секции
-  Пожарные шлюзы намеренно размещают в ключевых местах, чтобы делить станцию на секции. Открытые пространства вроде коридоров или променадов делятся на меньшие участки. Это предотвращает распространение опасных условий на всю станцию через соединённые комнаты, коридоры и другие открытые пространства.
+  ## Dividiendo una estación en secciones
+  Las esclusas de seguridad contra incendios se colocan intencionadamente en lugares clave para dividir la estación en secciones. Los espacios abiertos, como pasillos o pasarelas de madera, se dividen en secciones más pequeñas. Esto evita que las condiciones peligrosas se extiendan a toda la estación a través de salas, pasillos y otros espacios abiertos conectados.
 
-  ## Базовая работа
-  Когда пожарные шлюзы не подключены к [textlink="воздушной сигнализации" link="AirAlarms"] или пожарной сигнализации, они работают по условиям, которые сами обнаруживают. Пожарные шлюзы опустятся, если:
-  - Температура между двумя сторонами пожарного шлюза отличается на [color=orange][protodata="Firelock" comp="Firelock" member="TemperatureThreshold"/] K[/color] или больше.
-  - Давление между двумя сторонами пожарного шлюза отличается на [color=orange][protodata="Firelock" comp="Firelock" member="PressureThreshold"/] кПа[/color] или больше.
+  ## Trabajo básico
+  Cuando las compuertas contra incendios no están conectadas a [textlink="air alarm" link="AirAlarms"] o alarmas de incendio, funcionan en condiciones que detectan por sí mismas. Las compuertas contra incendios caerán si:
+  - La temperatura entre los dos lados de la esclusa cortafuegos varía en [color=orange][protodata="Firelock" comp="Firelock" member="TemperatureThreshold"/] K[/color] o más.
+  - La presión entre los dos lados de la esclusa cortafuegos varía en [color=orange][protodata="Firelock" comp="Firelock" member="PressureThreshold"/] kPa[/color] o más.
 
-  Если эти условия сохраняются, пожарный шлюз перейдёт в режим блокировки. У пожарных шлюзов в блокировке горят [color=red]красные[/color] индикаторы, и их нельзя открыть руками. Их могут открыть только люди с инженерным доступом или ломом.
+  Si estas condiciones persisten, la esclusa de emergencia entrará en modo de bloqueo. Las esclusas de emergencia tienen [color=red]red[/color] luces en la cerradura y no pueden abrirse a mano. Solo pueden abrirse personas con acceso de ingeniería o una palanca.
 
-  Обесточенный пожарный шлюз в режиме блокировки нельзя открыть инженерным доступом. В таком случае поможет только лом.
+  Un candado cortafuegos desactivado en modo bloqueo no puede abrirse mediante acceso de ingeniería. En este caso, solo una palanca ayudará.
 
-  Если условия между двумя сторонами пожарного шлюза возвращаются к допустимой разнице, шлюз отключает режим блокировки и снова может быть открыт кем угодно.
-  Помните: это означает только то, что условия с обеих сторон одинаковы, а не то, что они безопасны.
+  Si las condiciones entre ambos lados de la esclusa de incendio vuelven a una diferencia aceptable, la esclusa desactiva el modo de bloqueo y puede ser abierta de nuevo por cualquiera.
+  Recuerda: esto solo significa que las condiciones en ambos lados son las mismas, no que sean seguras.
 
-  Частый пример - пожарный шлюз, который опустился потому, что обе стороны открыты в космос.
+  Un ejemplo común es una esclusa de incendios, que se hundió porque ambos lados están abiertos al espacio.
 
-  ## Подключение к воздушным и пожарным сигнализациям
-  Пожарные шлюзы можно подключать к [textlink="воздушным сигнализациям" link="AirAlarms"] и пожарным сигнализациям, чтобы они получали команды на опускание.
-  Пожарные шлюзы используют [textlink="систему списков" link="Networking"], и подключать эти устройства можно мультитулом или сетевым конфигуратором.
+  ## Conexión con alarmas de aire e incendios
+  Las esclusas de aire contra incendios pueden conectarse a [textlink="air alarms" link="AirAlarms"] y alarmas de incendio para que reciban órdenes de bajada.
+  Los gateways Fire utilizan [textlink="list system" link="Networking"], y estos dispositivos pueden conectarse con una multiherramienta o un configurador de red.
 
   <Box>
     <GuideEntityEmbed Entity="Firelock" Caption=""/>
@@ -46,32 +46,32 @@
     <GuideEntityEmbed Entity="AirAlarm" Caption=""/>
   </Box>
 
-  У каждого пожарного шлюза есть собственный уникальный адрес. Процесс подключения вентиляций, скрубберов и сенсоров к воздушным сигнализациям очень похож.
+  Cada cerradura cortafuegos tiene su propia dirección única. El proceso de conectar ventilaciones, depuradores y sensores a las alarmas de aire es muy similar.
 
-  ## Работа под воздушной сигнализацией
-  При подключении к воздушной сигнализации пожарные шлюзы также опускаются по команде подключённой [textlink="воздушной сигнализации" link="AirAlarms"].
+  ## Trabaja bajo alarma de aire
+  Cuando se conecta a una alarma de aire, las esclusas de incendio también se bajan a orden del [textlink="air alarm" link="AirAlarms"] conectado.
 
-  Пожарные шлюзы опустятся, если воздушная сигнализация достигнет состояния тревоги [color=red]Danger[/color]. Они останутся опущенными, пока воздушная сигнализация не вернётся к [color=green]Green[/color].
+  Las esclusas de aire contra incendios se bajarán si la alarma de aire alcanza el estado de alarma [color=red]Danger[/color]. Permanecerán bajadas hasta que la alarma vuelva a [color=green]Green[/color].
 
-  Пожарные шлюзы в режиме блокировки не поднимутся, даже если воздушная сигнализация вернётся к [color=green]Green[/color]. Даже если перепад давления устранён, шлюз останется опущенным, пока воздушная сигнализация заново не отправит зелёное состояние.
+  Las esclusas de aire contra incendios en modo de bloqueo no se activarán aunque la alarma vuelva a [color=green]Green[/color]. Aunque se elimine la caída de presión, la esclusa permanecerá bajada hasta que la alarma de ataque aéreo vuelva a emitir un estado verde.
 
-  ## Работа под пожарной сигнализацией
-  При подключении к пожарной сигнализации пожарные шлюзы опускаются, если пожарная сигнализация сработала. Они останутся опущенными, пока пожарная сигнализация не будет сброшена.
+  ## Trabajo bajo alarmas de incendio
+  Cuando se conecta a una alarma de incendios, las compuertas se bajan si se ha activado la alarma de incendios. Permanecerán bajadas hasta que se reinicie la alarma de incendios.
 
-  ## Пожарные сигнализации
-  Пожарные сигнализации позволяют централизованно управлять всеми подключёнными пожарными шлюзами.
+  ## Alarmas de incendio
+  Las alarmas de incendio permiten que todas las esclusas cortafuegos conectadas estén controladas centralmente.
 
   <Box>
     <GuideEntityEmbed Entity="FireAlarm"/>
   </Box>
 
-  Устройства с сенсорами можно [textlink="привязать" link="Networking"] к пожарным сигнализациям. Они сработают, если сенсор войдёт в температурный порог [color=red]Danger[/color], заданный его настройками.
+  Los dispositivos con sensores pueden [textlink="bind" link="Networking"] a las alarmas de incendio. Se activarán si el sensor alcanza el umbral de temperatura del [color=red]Danger[/color] establecido por sus ajustes.
 
-  Когда пожарная сигнализация срабатывает, все подключённые пожарные шлюзы получают состояние тревоги [color=red]Danger[/color] и опускаются.
+  Cuando se activa la alarma de incendios, todas las esclusas de emergencia conectadas reciben un estado de alarma [color=red]Danger[/color] y se bajan.
 
-  Тревога автоматически сбрасывается, когда сенсор возвращается к температурному порогу [color=green]Normal[/color].
+  La alarma se reinicia automáticamente cuando el sensor vuelve al umbral de temperatura [color=green]Normal[/color].
 
-  Пожарную сигнализацию можно включить и сбросить вручную, взаимодействуя с ней.
+  La alarma de incendios puede activarse y reiniciarse manualmente interactuando con ella.
 
-  Это можно использовать, чтобы быстро вручную опустить пожарные шлюзы в комнате или поднять их после устранения аварии.
+  Esto puede utilizarse para bajar manualmente las esclusas de aire de una habitación o levantarlas una vez resuelto un accidente.
 </Document>

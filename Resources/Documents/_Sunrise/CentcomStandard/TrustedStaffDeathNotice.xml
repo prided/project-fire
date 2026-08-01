@@ -1,28 +1,28 @@
 <Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]ОТЧЁТ[/bold][/color]
+                                  [color=#1B2333][bold]REPORT[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
-[mono][color=#1E4C7A][bold]{corpString} / ЦК[/bold][/color][/mono]
+[mono][color=#1E4C7A][bold]{corpString} / CC[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Станция:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Время:[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Составитель[/bold][/color]
-[bold][color=#4D5F80]Имя и Фамилия:[/color][/bold] [color=#0F5E2B][bold][signature="Имя и Фамилия"][/bold][/color]
-[bold][color=#4D5F80]Должность:[/color][/bold] [color=#7A4A00][bold][form="Должность"][/bold][/color]
+[color=#1B2333][bold]Compiler[/bold][/color]
+[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
+[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][form="Position"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Отчёт о гибели доверенного персонала[/bold][/color]
+[color=#1B2333][bold]Report por la muerte de personnel[/bold][/color] de confianza
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[color=#2D3442]Я, [bold][color=#1E4C7A][signature="Имя и Фамилия"][/color][/bold], в должности [bold][color=#1E4C7A][form="Должность составителя"][/color][/bold], сообщаю о безвозвратной гибели [bold][color=#1E4C7A][form="ФИО погибшего"][/color][/bold], в должности [bold][color=#1E4C7A][form="Полная должность погибшего"][/color][/bold].[/color]
+[color=#2D3442]I, [bold][color=#1E4C7A][signature="Name y Surname"][/color][/bold], en la posición de [bold][color=#1E4C7A][form="Position de la compiler"][/color][/bold], informan de la muerte irreparable de [bold][color=#1E4C7A][form="Name de la deceased"][/color][/bold], en la posición de [bold][color=#1E4C7A][form="Full posición de la deceased"][/color][/bold].[/color]
 
-[bold][color=#7A4A00]Причина смерти:[/color][/bold] [color=#2D3442][form="Причина смерти"][/color]
-[bold][color=#7A4A00]Местоположение тела погибшего:[/color][/bold] [color=#2D3442][form="Местоположение тела погибшего"][/color]
-[bold][color=#7A4A00]Местоположение личных вещей погибшего:[/color][/bold] [color=#2D3442][form="Местоположение личных вещей погибшего"][/color]
+[bold][color=#7A4A00]Cause de la muerte: [/color][/bold] [color=#2D3442][form="Cause de death"][/color]
+[bold][color=#7A4A00]Location del cuerpo del difunto: [/color][/bold] [color=#2D3442][form="Location del cuerpo del deceased"][/color]
+[bold][color=#7A4A00]Location de pertenencias personales del fallecido:[/color][/bold] [color=#2D3442][form="Location de pertenencias personales de la deceased"][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]Место для печатей[/color][/italic]
+                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
 
 
 

@@ -1,28 +1,28 @@
-﻿<Document>
-  # Мониторинг и управление устройствами
-  Из-за того, что атмосферная сеть охватывает всю станцию, важно иметь способ наблюдать за устройствами и управлять ими из центрального места.
+<Document>
+  # Monitorización y gestión de dispositivos
+  Debido a que la red atmosférica cubre toda la estación, es importante disponer de una forma de observar y controlar dispositivos desde una ubicación central.
 
-  Используя эти системы, атмосферика может наблюдать за атмосферой по всей станции и управлять ею.
+  Utilizando estos sistemas, las atmósferas pueden observar y controlar la atmósfera en toda la estación.
 
   <Box>
     <GuideEntityEmbed Entity="AirAlarm" Caption=""/>
     <GuideEntityEmbed Entity="AirSensor" Caption=""/>
   </Box>
   <Box>
-    ## Воздушные сигнализации
+    ## Alarmas de aire
   </Box>
   <Box>
-    [color=#999999][italic]Мониторинг большой области и управление атмосферными устройствами[italic][/color]
+    [color=#999999][italic]Large monitorización de áreas y dispositivos atmosféricos control[/italic][/color]
   </Box>
 
   <Box>
     <GuideEntityEmbed Entity="ComputerAlert" Caption=""/>
   </Box>
   <Box>
-    ## Компьютер атмосферных тревог
+    ## Ordenador de Alarma Atmosférica
   </Box>
   <Box>
-    [color=#999999][italic]Станционный мониторинг воздушных сигнализаций[italic][/color]
+    [color=#999999][italic]Station monitorización del alarms[/italic][/color]
   </Box>
 
   <Box>
@@ -30,10 +30,10 @@
     <GuideEntityEmbed Entity="GasPipeSensor" Caption=""/>
   </Box>
   <Box>
-    ## Монитор атмосферных сетей
+    ## Monitor de Red Atmosférica
   </Box>
   <Box>
-    [color=#999999][italic]Мониторинг целых трубопроводных сетей[italic][/color]
+    [color=#999999][italic]Monitoring de toda la tubería networks[/italic][/color]
   </Box>
 
 </Document>

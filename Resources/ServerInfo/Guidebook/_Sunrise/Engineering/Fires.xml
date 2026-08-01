@@ -1,25 +1,25 @@
-﻿<Document>
-  # Пожары
-  Пожары, пожалуй, самые опасные атмосферные аварии, которые могут произойти на станции.
+<Document>
+  # Fuegos
+  Los incendios son quizás los accidentes atmosféricos más peligrosos que pueden ocurrir en una planta.
 
   <Box>
     <GuideEntityEmbed Entity="Firelock" Caption=""/>
     <GuideEntityEmbed Entity="FirelockGlass" Caption=""/>
   </Box>
 
-  Они часто создают газы с высоким давлением и высокой температурой, которые могут быстро распространиться по станции, если неосторожно открыть пожарные шлюзы или двери хотя бы на мгновение.
+  A menudo generan gases de alta presión y alta temperatura que pueden propagarse rápidamente por la planta si se abren descuidadamente las esclusas de aire o puertas contra incendios, aunque sea por un momento.
 
-  Если люди попадут в пожар, они могут быстро потерять сознание, умереть и даже сгореть в пепел, после чего их нельзя будет оживить.
+  Si las personas quedan atrapadas en un incendio, pueden perder el conocimiento rápidamente, morir e incluso convertirse en cenizas, tras lo cual no pueden ser reanimadas.
 
-  ## Борьба с пожарами
-  Ключевые элементы пожара - топливо и кислород.
-  Удаление любого из этих двух элементов потушит огонь.
-  Например, пожары без притока кислорода постепенно задохнутся, а пожары без топлива тоже погаснут.
+  ## Combatiendo incendios
+  Los elementos clave de un incendio son el combustible y el oxígeno.
+  Eliminar cualquiera de estos dos elementos apagará el fuego.
+  Por ejemplo, los incendios sin suministro de oxígeno se asfixiarán gradualmente, y los que no tienen combustible también se extinguirán.
 
-  Открытие пожара в космос потушит его, потому что весь газ просто уйдёт наружу.
-  После этого можно [textlink="починить" link="ExpandingRepairingStation"] [textlink="разгерметизацию" link="Spacing"] и снова накачать область.
+  Abrir un fuego hacia el espacio lo extinguirá, porque todo el gas simplemente se apagará.
+  Después de eso, puedes [textlink="repair" link="ExpandingRepairingStation"] [textlink="depressurization" link="Spacing"] y bombear la zona de nuevo.
 
-  ## Советы
-  - [bold]Знайте признаки будущего пожара.[/bold] Если область заполнена легко воспламеняющимися газами, вопрос лишь во времени, когда неосторожный пассажир их подожжёт. Постарайтесь изолировать область и как можно быстрее очистить её от газов.
-  - [bold]Предотвращайте распространение газов голофан-проектором.[/bold] Пропуск газа через пожарный шлюз может сделать другие комнаты опасными даже за мгновение. Это увеличит число комнат, которые придётся чинить.
+  ## Consejos
+  - [bold]Know las señales de un futuro fire.[/bold] Si la zona se llena de gases inflamables, la única pregunta es cuándo un pasajero desprevenido los prenderá fuego. Intenta aislar la zona y limpiarla de gases lo antes posible.
+  - [bold]Prevent el Proyector de Holofán para que no se propague gases.[/bold] Pasar gas por una esclusa de aire contra incendios puede hacer que otras habitaciones sean peligrosas incluso en un instante. Esto aumentará el número de habitaciones que necesitarán ser reparadas.
 </Document>

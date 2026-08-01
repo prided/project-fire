@@ -1,157 +1,157 @@
 <Document>
-  # Ксено
+  # Xeno
 
-  Ксено (ксеноморфы) - агрессивные инопланетные формы жизни, действующие стаей.
-  У них кислотная кровь, коллективный разум и способность вскрывать двери.
-  При разделке можно получить мясо ксеноморфа.
+  Los xenos (xenomorfos) son formas de vida alienígenas agresivas que actúan en manada.
+  Tienen sangre ácida, inteligencia colectiva y la capacidad de abrir puertas.
+  Cuando lo despedezcas, puedes obtener carne de Xenomorfo.
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # Известные варианты
-  # "Бурильщик"
+  # Variantes conocidas
+  # "Perforador"
 
-  Молодая форма, предпочитает прятаться и вести бой на ближней дистанции.
+  Una figura joven prefiere esconderse y luchar a corta distancia.
 
   <Box>
   <GuideEntityEmbed Entity="MobXeno"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 50
-  - [bold][color=#a4885c]Скорость:[/color][/bold] 4 м/с
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 6 [color=red]Brute[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] нет
-  - [bold][color=#a4885c]Особые способности:[/color][/bold] нет
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 50
+  - [bold][color=#a4885c] Velocidad: [/color][/bold] 4 m/s
+  - [bold][color=#a4885c]Damage (tipo): [/color][/bold] 6 [color=red]Brute[/color]
+  - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
+  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] ninguna
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # "Дрон"
+  # "Drone"
 
-  Рабочая каста улья. Поддерживает рой и помогает в строительстве гнезда.
+  Una casta de trabajo de la colmena. Sostiene al enjambre y ayuda en la construcción del nido.
 
   <Box>
   <GuideEntityEmbed Entity="MobXenoDrone"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 80
-  - [bold][color=#a4885c]Скорость:[/color][/bold] 4 м/с
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 6 [color=red]Brute[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] нет
-  - [bold][color=#a4885c]Особые способности:[/color][/bold] нет
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 80
+  - [bold][color=#a4885c] Velocidad: [/color][/bold] 4 m/s
+  - [bold][color=#a4885c]Damage (tipo): [/color][/bold] 6 [color=red]Brute[/color]
+  - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
+  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] ninguna
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # "Преторианец"
+  # "Pretoriano"
 
-  Крупный и живучий охранник улья.
+  Una colmena grande y tenaz.
 
   <Box>
   <GuideEntityEmbed Entity="MobXenoPraetorian"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 100
-  - [bold][color=#a4885c]Скорость:[/color][/bold] 4 м/с
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 6 [color=red]Brute[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] нет
-  - [bold][color=#a4885c]Особые способности:[/color][/bold] нет
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 100
+  - [bold][color=#a4885c] Velocidad: [/color][/bold] 4 m/s
+  - [bold][color=#a4885c]Damage (tipo): [/color][/bold] 6 [color=red]Brute[/color]
+  - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
+  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] ninguna
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # "Раваджер"
+  # "Ravajer"
 
-  Сильный рукопашник, опасен при прорывах и в ближнем бою.
+  Un luchador cuerpo a cuerpo fuerte, peligroso durante rupturas y en combate cuerpo a cuerpo.
 
   <Box>
   <GuideEntityEmbed Entity="MobXenoRavager"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 100
-  - [bold][color=#a4885c]Скорость:[/color][/bold] 4 м/с
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 10 [color=red]Brute[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] нет
-  - [bold][color=#a4885c]Особые способности:[/color][/bold] нет
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 100
+  - [bold][color=#a4885c] Velocidad: [/color][/bold] 4 m/s
+  - [bold][color=#a4885c]Damage (tipo): [/color][/bold] 10 [color=red]Brute[/color]
+  - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
+  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] ninguna
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # "Бегун"
+  # "Corredor"
 
-  Быстрая каста, использует тактику "ударил - ушел".
+  Casta rápida, usa la táctica de "golpear y salir".
 
   <Box>
   <GuideEntityEmbed Entity="MobXenoRunner"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 50
-  - [bold][color=#a4885c]Скорость:[/color][/bold] 6 м/с
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 5 [color=red]Brute[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] нет
-  - [bold][color=#a4885c]Особые способности:[/color][/bold] нет
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 50
+  - [bold][color=#a4885c] Velocidad: [/color][/bold] 6 m/s
+  - [bold][color=#a4885c]Damage (tipo): [/color][/bold] 5 [color=red]Brute[/color]
+  - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
+  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] ninguna
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # "Роуни"
+  # "Rowney"
 
-  Редкая разновидность бегуна.
+  Una variedad rara de corredor.
 
   <Box>
   <GuideEntityEmbed Entity="MobXenoRouny"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 50
-  - [bold][color=#a4885c]Скорость:[/color][/bold] 6 м/с
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 5 [color=red]Brute[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] нет
-  - [bold][color=#a4885c]Особые способности:[/color][/bold] нет
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 50
+  - [bold][color=#a4885c] Velocidad: [/color][/bold] 6 m/s
+  - [bold][color=#a4885c]Damage (tipo): [/color][/bold] 5 [color=red]Brute[/color]
+  - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
+  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] ninguna
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # "Плевун"
+  # "Escupidor"
 
-  Дистанционный боец, атакует кислотой.
+  Luchador a distancia, ataca con ácido.
 
   <Box>
   <GuideEntityEmbed Entity="MobXenoSpitter"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 50
-  - [bold][color=#a4885c]Скорость:[/color][/bold] 4 м/с
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 5 [color=orange]Caustic[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] нет
-  - [bold][color=#a4885c]Особые способности:[/color][/bold] Кислотный урон
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 50
+  - [bold][color=#a4885c] Velocidad: [/color][/bold] 4 m/s
+  - [bold][color=#a4885c]Damage Tipo:[/color][/bold] 5 [color=orange]Caustic[/color]
+  - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
+  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] Daño ácido
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # "Кислотная турель"
+  # "Torreta de Ácido"
 
-  Неподвижная оборонительная органика, стреляет кислотой.
+  Orgánicos defensivos inmóviles, dispara ácido.
 
   <Box>
   <GuideEntityEmbed Entity="WeaponTurretXeno"/>
   </Box>
-  - [bold][color=#a4885c]Прочность:[/color][/bold] 100
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 5 [color=orange]Caustic[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] нет
-  - [bold][color=#a4885c]Особые способности:[/color][/bold] Кислотный урон
+  - [bold][color=#a4885c]Durability:[/color][/bold] 100
+  - [bold][color=#a4885c]Damage Tipo:[/color][/bold] 5 [color=orange]Caustic[/color]
+  - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
+  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] Daño ácido
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # "Королева"
+  # "Reina"
 
-  Главный организм улья и самая опасная цель.
+  El organismo principal de la colmena y el objetivo más peligroso.
 
   <Box>
   <GuideEntityEmbed Entity="MobXenoQueen"/>
   </Box>
-  - [bold][color=#a4885c]Пороги здоровья:[/color][/bold] 300
-  - [bold][color=#a4885c]Скорость:[/color][/bold] 4 м/с
-  - [bold][color=#a4885c]Урон (тип):[/color][/bold] 12 [color=red]Brute[/color]
-  - [bold][color=#a4885c]Сопротивления:[/color][/bold] нет
-  - [bold][color=#a4885c]Особые способности:[/color][/bold] нет
+  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 300
+  - [bold][color=#a4885c] Velocidad: [/color][/bold] 4 m/s
+  - [bold][color=#a4885c]Damage (tipo): [/color][/bold] 12 [color=red]Brute[/color]
+  - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
+  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] ninguna
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # Цели миссий
-  ## Устранение
+  # Objetivos de la misión
+  ## Solución de problemas
   <Box>
   <GuideEntityEmbed Entity="MobXenoQueen"/>
   </Box>
-  Устранить крупную и опасную цель - [color=#a4885c]королеву[/color] - за отведенное время.
+  Elimina un objetivo grande y peligroso —el [color=#a4885c]queen[/color]— en el tiempo asignado.
 
-  ## Уничтожение
+  ## Destrucción
   <Box>
   <GuideEntityEmbed Entity="XenoWardingTower"/>
   </Box>
-  Уничтожить нужное число [color=#a4885c]вардинговых башен ксено[/color] за отведенное время.
+  Destruye el número requerido de [color=#a4885c]warding towers[/color] xeno en el tiempo asignado.
 </Document>

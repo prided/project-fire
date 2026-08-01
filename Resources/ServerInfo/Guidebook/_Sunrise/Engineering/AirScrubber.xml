@@ -1,29 +1,29 @@
-﻿<Document>
-  # Воздушный скруббер
-  Воздушный скруббер необходим для поддержания атмосферы без отходных газов, которые выделяют дышащие существа или создают атмосферные аварии.
-  Его основная задача - удалять нежелательные газы из окружающей атмосферы.
+<Document>
+  # Depurador de Aire
+  Un depurador de aire es esencial para mantener una atmósfera libre de gases residuales que los organismos respirables emiten o provocan accidentes atmosféricos.
+  Su función principal es eliminar gases no deseados de la atmósfera circundante.
   <Box>
     <GuideEntityEmbed Entity="GasVentScrubber"/>
   </Box>
-  Для работы воздушному скрубберу требуется [textlink="питание" link="Power"] через ближайший [textlink="LV-кабель" link="VoltageNetworks"].
+  El depurador de aire requiere [textlink="food" link="Power"] a través del [textlink="LV-cable" link="VoltageNetworks"] más cercano para funcionar.
 
-  По умолчанию воздушный скруббер удаляет из окружающей атмосферы все газы, кроме азота и кислорода. Он продолжит работать так, пока [textlink="привязанная" link="Networking"] [textlink="воздушная сигнализация" link="AirAlarms"] не задаст ему другой режим.
+  Por defecto, el depurador de aire elimina todos los gases de la atmósfera circundante excepto el nitrógeno y el oxígeno. Seguirá funcionando así hasta que [textlink="tied" link="Networking"] [textlink="air alarm" link="AirAlarms"] lo ajuste a un modo diferente.
 
-  Скруббер можно заварить любым сварочным инструментом, чтобы остановить его работу.
+  El depurador puede soldarse con cualquier herramienta de soldadura para evitar que funcione.
 
-  ## Настройки
-  При [textlink="привязке" link="Networking"] к [textlink="воздушной сигнализации" link="AirAlarms"] воздушные скрубберы получают больше возможностей.
+  ## Escenarios
+  Con [textlink="binding" link="Networking"] a [textlink="air alarm" link="AirAlarms"], los depuradores de aire tienen más opciones.
 
-  Целевые газы для очистки задаются в выпадающем списке "Gas filters". Помните, что выбор сбрасывается при смене режима [textlink="воздушной сигнализации" link="AirAlarms"].
+  Los gases objetivo para purificar se especifican en la lista desplegable "Filtros de gas". Recuerda que la selección se reinicia cuando cambias el modo [textlink="air alarm" link="AirAlarms"].
 
-  У воздушных скрубберов есть два варианта направления: Scrubbing и Siphoning.
-  - Scrubbing удаляет газы согласно выбранным фильтрам.
-  - Siphoning игнорирует все фильтры и высасывает из атмосферы все газы.
+  Los depuradores de aire tienen dos opciones: fregado y sifonado.
+  - El fregado elimina gases según los filtros seleccionados.
+  - El sifonamiento ignora todos los filtros y extrae todos los gases de la atmósfera.
 
-  Оба режима ограничены настройкой Rate, которая задаёт скорость в литрах, с которой скруббер высасывает газы из окружающей атмосферы.
+  Ambos modos están limitados por la configuración de Tasa, que determina la velocidad en litros a la que el depurador aspira gases de la atmósfera circundante.
 
-  У воздушных скрубберов также есть настройка WideNet, расширяющая радиус работы. Обычно скруббер очищает атмосферу только на той клетке, где он находится.
-  В режиме WideNet скруббер очищает газ с 4 клеток вокруг себя, как показано ниже:
+  Los depuradores de aire también cuentan con una configuración WideNet que amplía el rango de operación. Normalmente, un depurador solo limpia la atmósfera de la celda donde se encuentra.
+  En modo WideNet, el depurador limpia el gas de las 4 celdas que lo rodean, como se muestra a continuación:
 
   <Box>
     <GuideEntityEmbed Entity="FloorTileItemSteel" Caption=""/>
@@ -37,10 +37,10 @@
     <GuideEntityEmbed Entity="FloorTileItemSteel" Caption=""/>
   </Box>
 
-  Это фактически умножает общую скорость, потому что скруббер начинает работать сразу на 5 клетках.
+  Esto en realidad multiplica la velocidad total, porque el depurador empieza a trabajar en 5 celdas a la vez.
 
-  Скрубберы, [textlink="привязанные" link="Networking"] к [textlink="воздушной сигнализации" link="AirAlarms"] в автоматическом режиме, автоматически включат WideNet через режим "Filtering (Wide)" [textlink="воздушной сигнализации" link="AirAlarms"], когда в атмосфере будет обнаружена высокая концентрация нежелательных газов.
+  Los depuradores [textlink="tied" link="Networking"] a [textlink="air alarm" link="AirAlarms"] en modo automático activarán automáticamente WideNet mediante el modo "Filtrado (Ancho)" [textlink="air alarm" link="AirAlarms"] cuando se detecta una alta concentración de gases no deseados en la atmósfera.
 
-  WideNet крайне полезен для быстрого удаления больших объёмов трития из камер сжигания плазмы.
+  WideNet es extremadamente útil para eliminar rápidamente grandes volúmenes de tritio de las cámaras de combustión de plasma.
 
 </Document>

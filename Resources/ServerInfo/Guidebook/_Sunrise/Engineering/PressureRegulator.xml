@@ -1,23 +1,23 @@
-﻿<Document>
-  # Впускной регулятор давления
-  Впускной регулятор давления - пассивное устройство, позволяющее газу выходить из [textlink="пайпнета" link="PipeNetworks"], когда давление превышает заданный порог.
+<Document>
+  # Regulador de presión de entrada
+  El regulador de presión de entrada es un dispositivo pasivo que permite que el gas escape del [textlink="pipeneta" link="PipeNetworks"] cuando la presión supera un umbral predeterminado.
 
   <Box>
     <GuideEntityEmbed Entity="GasPressureRegulator"/>
   </Box>
 
-  ## Работа
-  Клапан автоматически [color=green]откроется[/color], когда давление в трубе превысит заданный порог, позволяя газу выйти в подключённую выходную трубу.
+  ## Trabajo
+  La válvula [color=green]open[/color] automáticamente cuando la presión en la tubería supere el umbral preestablecido, permitiendo que el gas escape hacia la tubería de salida conectada.
 
-  Клапан снова [color=red]закроется[/color], когда давление упадёт ниже заданного порога.
+  La válvula volverá a [color=red]close[/color] cuando la presión baje del umbral preestablecido.
 
-  Скорость потока клапана ограничена [color=orange][protodata="GasPressureRegulator" comp="GasPressureRegulator" member="MaxTransferRate"/] л/с[/color].
+  El caudal de la válvula está limitado a [color=orange][protodata="GasPressureRegulator" comp="GasPressureRegulator" member="MaxTransferRate"/] l/s[/color].
 
-  ## Примеры использования
-  Клапан часто используется для предотвращения избыточного давления в газовых системах, например в охлаждающих контурах [textlink="ТЭГ" link="TEG"] и [textlink="трубах" link="Pipes"], где это могло бы вызвать отказ системы, например забитые [textlink="насосы" link="Pumps"].
+  ## Ejemplos de uso
+  La válvula se utiliza a menudo para evitar sobrepresión en sistemas de gas, como circuitos de refrigeración [textlink="TEG" link="TEG"] y [textlink="pipes" link="Pipes"] donde podría causar fallos del sistema, como [textlink="pumps" link="Pumps"] obstruidos.
 
-  Клапан также можно использовать для сброса готового к применению горячего газа из камеры сгорания.
-  Например, иногда нежелательно надолго допускать падение давления в камере сгорания ниже определённого значения: газ может слишком сильно остыть и разрежиться, что приведёт к затуханию пламени.
+  La válvula también puede usarse para expulsar gas caliente listo para usar desde la cámara de combustión.
+  Por ejemplo, a veces no es deseable permitir que la presión en la cámara de combustión baje de cierto valor durante mucho tiempo: el gas puede enfriarse demasiado y encajar, lo que conducirá a la extinción de la llama.
 
-  Впускной регулятор давления можно использовать для сброса лишнего газа, сохраняя давление в камере сгорания выше определённого порога. Это может помочь поддерживать огонь в камере.
+  Un regulador de presión de admisión puede usarse para expulsar el exceso de gas manteniendo la presión en la cámara de combustión por encima de cierto umbral. Esto puede ayudar a mantener el fuego encendido en la cámara.
 </Document>

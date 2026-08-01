@@ -1,27 +1,27 @@
-﻿<Document>
+<Document>
   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
   [head=1]SCP[/head]
-  [bold]Обезопасить. Удержать. Сохранить.[/bold]
-  Предназначается для класса С+.
-  Является юридической собственностью Фонда SCP.
-  Участок-XX(№) | Код-Код(код отправителя-код получателя)
+  [bold]Secure. Alto. Save.[/bold]
+  Destinado a clase C+.
+  Es propiedad legal de la Fundación SCP.
+  Sitio-XX(No) | Código-código (Código del remitente-código receptor)
   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-  [head=3]Отчёт об эксперименте[/head]
+  [head=3]Experiment Report[/head]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-  [bold]Дата и время:[/bold] (дата/время)
-  [bold]Автор документа:[/bold] (ФИО)
-  [bold]Должность:[/bold] (полное наименование должности)
+  [bold]Date y Hora: [/bold] (Fecha/Hora)
+  [bold]Author del documento: [/bold] (nombre completo)
+  [bold]Position:[/bold] (título completo del puesto)
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-  [bold]Номер эксперимента:[/bold]
-  [bold]Экспериментаторы:[/bold]
-  [bold]Участники эксперимента:[/bold]
-  [bold]Описание эксперимента:[/bold] (Опишите то как был проведен эксперимент, желательно в подробностях)
-  [bold]Используемое оборудование:[/bold]
-  [bold]Результат эксперимента:[/bold]
-  [bold]Подпись:[/bold]_____
+  [bold]Experiment Número:[/bold]
+  [bold]Experimenters:[/bold]
+  [bold]Participants del experimento: [/bold]
+  [bold]Description del experimento: [/bold] (Describe cómo se llevó a cabo el experimento, preferiblemente en detalle)
+  [bold]Equipment Usados: [/bold]
+  [bold]Experiment resultado:[/bold]
+  [bold]Caption[/bold]_____
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-  [italic]Место для печатей[/italic]
+  [italic]A lugar para seals[/italic]
 
 
 </Document>

@@ -1,14 +1,14 @@
-﻿<Document>
-  # Конденсация газов
-  Конденсация газов позволяет превращать некоторые газы в жидкие реагенты для дальнейшего использования.
+<Document>
+  # Condensación de gases
+  La condensación de gases permite convertir algunos gases en reactivos líquidos para su uso posterior.
 
   <Box>
     <GuideEntityEmbed Entity="BaseGasCondenser"/>
   </Box>
 
-  Конденсатор газа принимает газ из подключённой [textlink="трубопроводной сети" link="PipeNetworks"] и преобразует подходящий газ в реагент внутри подключённой ёмкости.
+  El condensador de gas toma gas de la [textlink="pipeline network" link="PipeNetworks"] conectada y convierte el gas adecuado en un reactivo dentro del depósito conectado.
 
-  Это полезно для получения веществ из атмосферных процессов, например аммиака.
+  Esto es útil para obtener sustancias de procesos atmosféricos, como el amoníaco.
 
-  Если газ не подходит для конденсации или условия не выполнены, устройство не произведёт реагент.
+  Si el gas no es adecuado para la condensación o no se cumplen las condiciones, el dispositivo no producirá el reactivo.
 </Document>

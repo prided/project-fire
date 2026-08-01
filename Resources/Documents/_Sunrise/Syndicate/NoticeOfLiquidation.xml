@@ -1,35 +1,35 @@
-﻿<Document>
+<Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]ДОКУМЕНТ[/bold][/color]
+                                  [color=#1B2333][bold]DOCUMENT[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
-[mono][color=#1E4C7A][bold]СНД / КОМ-ОВ[/bold][/color][/mono]
+[mono][color=#1E4C7A][bold]SND / COM-OV[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Станция:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Время:[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Составитель[/bold][/color]
-[bold][color=#4D5F80]Имя и Фамилия:[/color][/bold] [color=#0F5E2B][bold][signature="Имя и Фамилия"][/bold][/color]
-[bold][color=#4D5F80]Должность:[/color][/bold] [color=#7A4A00][bold][job="Должность"][/bold][/color]
+[color=#1B2333][bold]Compiler[/bold][/color]
+[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
+[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]УВЕДОМЛЕНИЕ о начале военных действий[/bold][/color]
+[color=#1B2333][bold]NOTIFICATION del brote de hostilities[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[bold]Уведомление:[/bold]
-Позывной агента: [form="Позывной агента"]
+[bold]Notification[/bold]
+Indicativo del agente: [form="Agent Callsign"]
 
-Уважаемый [form="Имя и Фамилия"], в должности [form="ДОЛЖНОСТЬ"]! Руководством Синдиката принято решение о вашей немедленной ликвидации в ходе данной смены.
-Просим заранее подготовить завещание и направить его Медицинскому отделу станции.
-Уничтожение вашего тела будет произведено силами Синдиката.
+Queridos [form="Name y Surname"], en el puesto de [form="POSITION"]! La dirección del Sindicato ha decidido liquidaros inmediatamente durante este turno.
+Por favor, prepare un testamento con antelación y envíelo al Departamento Médico de la estación.
+La destrucción de tu cuerpo será llevada a cabo por el Sindicato.
 
-[bold]Причина ликвидации[/bold]
+[bold]Reason por liquidation[/bold]
 [mono]
-1) [form="Пункт 1"]
-2) [form="Пункт 2"]
+1) [form="Paragraph 1"]
+2) [form="Paragraph 2"]
 [/mono]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]Место для печатей[/color][/italic]
+                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
 
 
 

@@ -1,28 +1,28 @@
-﻿<Document>
-  # Радиаторы
-  Радиаторы - устройства, позволяющие обмениваться тепловой энергией между [textlink="пайпнетом" link="PipeNetworks"] и окружающей средой.
+<Document>
+  # Radiadores
+  Los radiadores son dispositivos que permiten el intercambio de energía térmica entre [textlink="pipenet" link="PipeNetworks"] y el medio ambiente.
 
   <Box>
     <GuideEntityEmbed Entity="HeatExchanger"/>
   </Box>
 
-  Радиаторы полностью пассивны: им не требуется питание.
-  Они всегда стремятся выровнять температуру газа в [textlink="пайпнете" link="PipeNetworks"] с окружающей средой.
+  Los radiadores son completamente pasivos: no requieren energía.
+  Siempre intentan igualar la temperatura del gas en [textlink="pipenete" link="PipeNetworks"] con el medio ambiente.
 
-  У радиаторов есть два способа передачи тепла: конвекция и излучение.
-  - Конвекция - передача тепла через движение газа.
-  - Излучение - передача тепла через электромагнитные волны.
+  Los radiadores tienen dos formas de transferir el calor: convección y radiación.
+  - La convección es la transferencia de calor a través del movimiento del gas.
+  - Radiación – la transferencia de calor a través de ondas electromagnéticas.
 
-  Если радиатор находится в вакууме, он сможет передавать тепло только излучением.
-  Если он находится в атмосфере, он сможет передавать тепло и конвекцией, и излучением.
+  Si el disipador está en vacío, solo podrá transferir calor por radiación.
+  Si está en la atmósfera, podrá transferir calor tanto por convección como por radiación.
 
-  При конвекции вы сможете охладиться или нагреться только до температуры атмосферы или [textlink="пайпнета" link="PipeNetworks"], с которым обмениваетесь теплом, если температура газа в [textlink="пайпнете" link="PipeNetworks"] или атмосфере остаётся той же.
+  Con la convección, solo puedes enfriar o calentar hasta la temperatura de la atmósfera o [textlink="pipeneta" link="PipeNetworks"] con la que intercambias calor, siempre que la temperatura del gas en la [textlink="pipenete" link="PipeNetworks"] o atmósfera se mantenga igual.
 
-  Если вы обмениваетесь теплом с космосом, охладиться можно только до температуры космоса.
-  Чтобы повысить эффективность излучения, можно строить радиаторы на решётке: так радиатор будет излучать больше тепла, чем при прямом креплении к обшивке.
+  Si intercambias calor con el espacio, solo puedes enfriarte hasta la temperatura del espacio.
+  Para aumentar la eficiencia de la radiación, puedes construir radiadores en una rejilla: de este modo, el radiador irradiará más calor que cuando está directamente conectado a la piel.
 
-  Газ естественно течёт через радиатор из-за разницы давлений, но для повышения потока можно использовать газовый насос.
+  El gas fluye naturalmente a través del radiador debido a la diferencia de presión, pero se puede usar una bomba de gas para aumentar el caudal.
 
-  Увеличение потока газа через радиатор увеличит скорость теплообмена.
+  Aumentar el flujo de gas a través del radiador incrementará la tasa de intercambio de calor.
 
   </Document>

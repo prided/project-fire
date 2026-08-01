@@ -1,25 +1,25 @@
-﻿<Document>
+<Document>
   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
   [head=1]SCP[/head]
-  [bold]Обезопасить. Удержать. Сохранить.[/bold]
-  Предназначается для класса С+.
-  Является юридической собственностью Фонда SCP.
-  Участок-XX(№) | Код-Код(код отправителя-код получателя)
+  [bold]Secure. Alto. Save.[/bold]
+  Destinado a clase C+.
+  Es propiedad legal de la Fundación SCP.
+  Sitio-XX(No) | Código-código (Código del remitente-código receptor)
   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-  [head=3]Отчёт об изучении объекта[/head]
+  [head=3]Object Estudio Report[/head]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-  [bold]Дата и время:[/bold] (дата/время)
-  [bold]Автор документа:[/bold] (ФИО)
-  [bold]Должность:[/bold] (полное наименование должности)
+  [bold]Date y Hora: [/bold] (Fecha/Hora)
+  [bold]Author del documento: [/bold] (nombre completo)
+  [bold]Position:[/bold] (título completo del puesto)
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-  [bold]Изучаемый объект:[/bold]
-  [bold]Проведение манипуляции с объектом:[/bold]
-  [bold]Изученные свойства объекта:[/bold]
-  [bold]Итоговый результат изучения:[/bold]
-  [bold]Подпись:[/bold]_____
+  [bold]Object en curso: [/bold]
+  [bold]Object manipulation[/bold]
+  [bold]Studied propiedades del objeto: [/bold]
+  [bold]Final resultado del estudio: [/bold]
+  [bold]Caption[/bold]_____
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-  [italic]Место для печатей[/italic]
+  [italic]A lugar para seals[/italic]
 
 
 </Document>

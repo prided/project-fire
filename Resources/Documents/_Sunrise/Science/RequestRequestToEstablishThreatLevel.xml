@@ -1,29 +1,29 @@
-﻿<Document>
+<Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]ЗАПРОС[/bold][/color]
+                                  [color=#1B2333][bold]INQUIRY[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
-[mono][color=#1E4C7A][bold]{corpString} / НИО[/bold][/color][/mono]
+[mono][color=#1E4C7A][bold]{corpString} / NIO[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Станция:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Время:[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Составитель[/bold][/color]
-[bold][color=#4D5F80]Имя и Фамилия:[/color][/bold] [color=#0F5E2B][bold][signature="Имя и Фамилия"][/bold][/color]
-[bold][color=#4D5F80]Должность:[/color][/bold] [color=#7A4A00][bold][job="Должность"][/bold][/color]
+[color=#1B2333][bold]Compiler[/bold][/color]
+[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
+[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Запрос на установление уровня угрозы[/bold][/color]
+[color=#1B2333][bold]Threat Nivel Request[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[bold]Запрос:[/bold]
-Требуемый уровень кода угрозы: [form="Дельта/Гамма"]
+[bold]Inquiry[/bold]
+Nivel de código de amenaza requerido: [form="Delta/Gamma"]
 
-Я, [form="Имя и Фамилия"], в должности [form="ДОЛЖНОСТЬ"], прошу рассмотреть возможность установления на станции уровня угрозы: [form="Дельта/Гамма"]
+Yo, [form="Name y Surname"], en la posición de [form="POSITION"], os pido que consideréis la posibilidad de establecer un nivel de amenaza en la estación: [form="Delta/Gamma"]
 
-Обстоятельства, в связи с которыми запрашивается введение кода угрозы: [form="Нарушение условий содержания Сингулярности и т.д."]
+Circunstancias para las que se solicita el código de amenaza: [form="Violation de las condiciones de contención de la Singularidad, etc."]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]Место для печатей[/color][/italic]
+                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
 
 
 

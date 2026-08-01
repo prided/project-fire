@@ -1,24 +1,24 @@
 <Document>
-  # Слаймолюди
+  # Hombres Slime
 
   <Box>
     <GuideEntityEmbed Entity="MobSlimePerson" Caption=""/>
   </Box>
 
-  Они дышат азотом вместо кислорода. Азот есть в воздухе станции, но его сложнее найти в сжатых баллонах. Они получают серьёзный урон, если их обливают или опрыскивают водой, но
-  (как и другие виды) могут пить воду безопасно, чтобы утолить жажду.
-  Они выдыхают закись азота и не подвержены её эффектам.
-  Их тело может перерабатывать 6 реагентов одновременно вместо 2.
+  Respiran nitrógeno en lugar de oxígeno. El nitrógeno está presente en el aire de la estación, pero es más difícil de encontrar en cilindros comprimidos. Sufren daños graves si se rocian o rocian con agua, pero
+  (como otras especies) pueden beber agua de forma segura para saciar la sed.
+  Exhalan óxido nitroso y no se ven afectados por sus efectos.
+  Su cuerpo puede procesar 6 reactivos a la vez en lugar de 2.
 
-  У слаймолюдей есть [bold]внутренний инвентарь 2x3[/bold] в их слизистой мембране. Любой может увидеть, что там лежит, и достать это без вашего согласия,
-  так что будьте осторожны.
+  Los Hombres Slime tienen [bold] inventario interno 2x3[/bold] en su membrana mucosa. Cualquiera puede ver lo que hay ahí y sacarlo sin tu consentimiento,
+  Así que ten cuidado.
 
-  У слаймолюдей примерно [color=#1e90ff]вдвое[/color] выше регенерация по сравнению с другими гуманоидами, и они могут восстанавливаться от значительно больших ран — вплоть до [color=#1e90ff]втрое[/color] быстрее, чем остальные.
+  Los slimemen tienen aproximadamente [color=#1e90ff]double[/color] regeneración en comparación con otros humanoides y pueden recuperarse de heridas significativamente mayores, hasta [color=#1e90ff]three times[/color] más rápido que otros.
 
-  Их слизистая «кровь» не может восполняться из железа. Слизь — это источник
-  умеренно питательной пищи для других видов, хотя пить кровь коллег обычно не одобряется.
-  Они задыхаются на 80% медленнее, но получают на 9% больше урона от давления. Это делает их наиболее способными к выживанию в жёстком вакууме. На какое-то время.
+  Su "sangre" mucosa no puede reponerse a partir del hierro. La mucosidad es la fuente de
+  alimento moderadamente nutritivo para otras especies, aunque beber la sangre de sus colegas suele estar mal visto.
+  Se asfixian un 80% más despacio, pero reciben un 9% más de daño por presión. Esto les hace más capaces de sobrevivir en un vacío duro. Durante un tiempo.
 
-  Они получают [color=#1e90ff]на 40% меньше дробящего урона[/color], но [color=#ffa500]на 50% больше урона от холода, на 20% больше режущего и на 20% больше колющего урона[/color].
+  Reciben [color=#1e90ff]40% menos damage[/color] contundentes, pero [color=#ffa500]50% más de daño de frío, 20% más de corte y un 20% más de Piercing[/color].
 
 </Document>

@@ -1,17 +1,17 @@
-﻿<Document>
-  # Сигнальный клапан
-  Сигнальный клапан - клапан, которым можно управлять через [textlink="сигналы" link="Networking"].
+<Document>
+  # Válvula de alarma
+  Una válvula de señal es una válvula que puede ser accionada a través de [textlink="signals" link="Networking"].
   <Box>
     <GuideEntityEmbed Entity="SignalControlledValve"/>
   </Box>
 
-  Сигнальный клапан похож на ручной клапан. Газ может свободно течь в обе стороны, а сам клапан можно переключать вручную.
+  Una válvula de señal es similar a una válvula manual. El gas puede fluir libremente en ambas direcciones, y la propia válvula puede conmutarse manualmente.
 
-  У сигнального клапана есть 3 [textlink="сигнальных" link="Networking"] входа: открыть, закрыть и переключить состояние.
+  La válvula de alarma tiene 3 [textlink="alarm" link="Networking"] de entrada: abierto, cerrado y estado de alternación.
 
-  Сигнальные клапаны можно применять в разных задачах, например:
-  - Дистанционное управление клапанами в опасных или недоступных экипажу местах
-  - Удобное управление клапаном в труднодоступной зоне
-  - Автоматизация с другими [textlink="сигнальными" link="Networking"] машинами и оборудованием, например [textlink="воздушными сигнализациями" link="AirAlarms"] и удалёнными сигнализаторами
+  Las válvulas de señal pueden utilizarse en una variedad de aplicaciones, tales como:
+  - Control remoto de válvulas en zonas peligrosas o inaccesibles
+  - Control cómodo de válvulas en zonas de difícil acceso
+  - Automatización con otras máquinas y equipos [textlink="signal" link="Networking"], por ejemplo, [textlink="air alarms" link="AirAlarms"] y alarmas remotas
 
 </Document>

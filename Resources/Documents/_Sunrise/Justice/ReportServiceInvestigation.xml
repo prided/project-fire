@@ -1,28 +1,28 @@
-﻿<Document>
+<Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]ОТЧЁТ[/bold][/color]
+                                  [color=#1B2333][bold]REPORT[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
-[mono][color=#1E4C7A][bold]{corpString} / ЮР-КОМ[/bold][/color][/mono]
+[mono][color=#1E4C7A][bold]{corpString} / TU-KOM[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Станция:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Время:[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Составитель[/bold][/color]
-[bold][color=#4D5F80]Имя и Фамилия:[/color][/bold] [color=#0F5E2B][bold][signature="Имя и Фамилия"][/bold][/color]
-[bold][color=#4D5F80]Должность:[/color][/bold] [color=#7A4A00][bold][job="Должность"][/bold][/color]
+[color=#1B2333][bold]Compiler[/bold][/color]
+[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
+[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Отчёт о служебном расследовании[/bold][/color]
+[color=#1B2333][bold]Official Investigación Report[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[bold]Отчёт:[/bold]
-Я, [form="Имя и Фамилия"], в должности Агента Внутренних Дел, в ходе внутренней проверки, запрошенной [form="Имя и Фамилия"], в должности [form="ДОЛЖНОСТЬ"] по причине [form="причина проверки"] выявил следующие нарушения:
+[bold]Report[/bold]
+Yo, [form="Name y Surname"], en el cargo de Agente de Asuntos Internos, en el curso de la auditoría interna solicitada por [form="Name y Surname"], en el cargo de [form="POSITION"] por motivos del [form="reason del inspection"] revelé las siguientes violaciones:
 
 
-Также хочу сообщить об следующих итогах допроса в рамках служебного расследования:
+También quiero informar sobre los siguientes resultados del interrogatorio como parte de la investigación interna:
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]Место для печатей[/color][/italic]
+                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
 
 
 

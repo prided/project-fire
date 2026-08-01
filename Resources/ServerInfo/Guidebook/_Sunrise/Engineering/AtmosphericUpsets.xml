@@ -1,13 +1,13 @@
-﻿<Document>
-  # Атмосферные аварии
-  Атмосферная авария - это любое нарушение безопасной атмосферы станции.
+<Document>
+  # Accidentes atmosféricos
+  Un accidente atmosférico es cualquier violación de la atmósfera segura de una estación.
 
-  Самые частые виды атмосферных аварий:
-  - [textlink="Пожары" link="Fires"]
-  - [textlink="Разгерметизация" link="Spacing"]
-  - [textlink="Перепад давления" link="DeltaPressure"]
+  Los tipos más comunes de accidentes atmosféricos:
+  - [textlink="Fires" link="Fires"]
+  - [textlink="Depressurization" link="Spacing"]
+  - [textlink="Pressure drop" link="DeltaPressure"]
 
-  Атмосферные техники должны быстро оценивать такие ситуации, устранять причину и возвращать область к безопасному состоянию.
+  Los técnicos atmosféricos deben evaluar rápidamente estas situaciones, eliminar la causa y devolver el área a un estado seguro.
 
-  Обычно это означает: изолировать область, остановить утечку или пожар, затем восстановить давление, температуру и состав газов.
+  Esto suele significar: aislar la zona, detener una fuga o un incendio, y luego restaurar la presión, temperatura y composición de los gases.
 </Document>

@@ -1,25 +1,25 @@
-﻿<Document>
-  # Трубы
-  Трубы используются для перемещения газов из одного места в другое.
-  Для строительства доступно много видов труб:
+<Document>
+  # Gaitas
+  Las tuberías se utilizan para mover gases de un lugar a otro.
+  Existen muchos tipos de tuberías disponibles para la construcción:
 
   <Box>
-    <GuideEntityEmbed Entity="GasPipeStraight" Caption="прямая"/>
-    <GuideEntityEmbed Entity="GasPipeHalf" Caption="половина"/>
-    <GuideEntityEmbed Entity="GasPipeBend" Caption="изгиб"/>
-    <GuideEntityEmbed Entity="GasPipeTJunction" Caption="Т-соединение"/>
-    <GuideEntityEmbed Entity="GasPipeFourway" Caption="четверник"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Directo"/>
+    <GuideEntityEmbed Entity="GasPipeHalf" Caption="Mitad"/>
+    <GuideEntityEmbed Entity="GasPipeBend" Caption="Bending"/>
+    <GuideEntityEmbed Entity="GasPipeTJunction" Caption="Conexión T"/>
+    <GuideEntityEmbed Entity="GasPipeFourway" Caption="Cuádruple"/>
   </Box>
 
-  Трубы [color=#a4885c]автоматически соединяются[/color] с другими трубами, когда их закрепляют к корпусу гаечным ключом, образуя [textlink="сеть труб" link="PipeNetworks"].
-  Сеть труб обычно называют [textlink="пайпнетом" link="PipeNetworks"].
+  Las tuberías [color=#a4885c]automatically connect[/color] a otras tuberías cuando se fijan al cuerpo con una llave inglesa, formando una [textlink="network of pipes" link="PipeNetworks"].
+  Una red de tuberías se conoce comúnmente como [textlink="pipenet" link="PipeNetworks"].
 
-  Трубы [color=red]не соединяются[/color] с трубами, которые уже подключены к другой трубе.
-  Например, поставить изогнутую трубу поверх прямой, чтобы сделать самодельное Т-соединение, не получится.
+  Las tuberías se [color=red]not connected[/color] a tuberías que ya están conectadas a otra tubería.
+  Por ejemplo, no podrás poner una tubería curva encima de una recta para hacer una conexión en T casera.
 
-  Однако две трубы могут находиться на одной клетке, если одна не перекрывает соединение другой трубы.
-  Например, две изогнутые трубы можно разместить на одной клетке: одна будет вести газ с севера на восток, а другая - с запада на юг.
+  Sin embargo, dos tubos pueden estar en la misma jaula, siempre que uno no se solape con la conexión del otro.
+  Por ejemplo, se pueden colocar dos tuberías curvas en la misma celda: una conducirá gas de norte a este y la otra de oeste a sur.
 
-  Трубы и большую часть оборудования, работающего с газами, можно красить краскопультом.
-  Обычно так различают воздушную и отходную части станционного пайпнета распределения.
+  Las tuberías y la mayoría del equipo que funciona con gases pueden pintarse con una pistola de spray.
+  Normalmente, así se distinguen las partes de aire y residuos de la tubería de distribución de la estación.
 </Document>

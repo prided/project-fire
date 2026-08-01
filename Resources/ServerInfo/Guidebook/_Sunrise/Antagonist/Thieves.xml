@@ -1,5 +1,5 @@
 <Document>
-  # Воры
+  # Ladrones
 
   <Box>
     [color=#999999][italic]"Yoink! I'll be taking that! And that! Ooh, don't mind if I do!"[/italic][/color]
@@ -8,31 +8,31 @@
     <GuideEntityEmbed Entity="ClothingNeckCloakVoid" Caption=""/>
   </Box>
 
-  Воры — мелкие, но хитрые [color=green]преступники[/color], которые не могут удержаться от чужого добра. После последнего ареста вам вставили [bold]имплант пацифиста[/bold], но это не остановит вас от пополнения коллекции.
+  Los ladrones son [color=green]criminals[/color] mezquinos pero astutos que no pueden resistirse a los bienes ajenos. Tras la última detención, te insertaron con un [bold]pacifist implant[/bold], pero eso no te impedirá reponer tu colección.
 
-  ## Искусство кражи
-  В отличие от других антагонистов, [bold]вам важно не попадаться[/bold], потому что имплант не позволит вам атаковать без причины.
-  Вы можете убежать, только если [color=#cb0000]Служба безопасности[/color] начнёт драку, и, так как вы действуете в одиночку, вам некому помочь выбираться из беды.
+  ## El arte del robo
+  A diferencia de otros antagonistas, [bold]it importante que no te caught[/bold] porque el implante no te permite atacar sin motivo.
+  Solo puedes escapar si el [color=#cb0000]Security[/color] empieza una pelea, y como actúas solo, no hay nadie que te ayude a salir de problemas.
 
-  Несмотря ни на что, вы успешно вынесете желаемое с помощью настойчивости, ловкости рук, нескольких инструментов и ваших [color=cyan]навыков карманника[/color].
+  Pase lo que pase, lograrás con perseverancia, juego de manos, unas pocas herramientas y tu [color=cyan]pickpocket skills[/color].
 
-  Эти навыки дают вам преимущество: [bold]умение брать вещи у людей, пока они даже не заметят.[/bold] С практикой вы можете вытащить кошелёк и продолжать разговор.
+  Estas habilidades te dan una ventaja: [bold] poder quitarle cosas a la gente antes de que siquiera notice.[/bold] Con práctica, puedes sacar la cartera y mantener la conversación.
 
-  Советуют взять перчатки, иначе по отпечаткам вас всё равно выведут.
+  Te aconsejan llevar guantes, si no, seguirás sacando de las huellas.
 
-  ## Инструменты профессии
-  У вас есть ещё два преимущества: [color=cyan]маяк[/color] и [color=cyan]сумка[/color].
+  ## Herramientas de la profesión
+  Tienes dos ventajas más: [color=cyan]lighthouse[/color] y [color=cyan]bag[/color].
 
-  [color=cyan]Маяк[/color] обеспечивает безопасную доставку сокровищ домой, которые сложно тащить на эвакуации. Найдите укромное место, разверните маяк и выставьте координаты убежища.
-  Все блестящие предметы поблизости будут [bold]телепортированы в хранилище по окончании смены,[/bold] что выполнит вашу задачу.
+  El [color=cyan]Lighthouse[/color] garantiza la entrega segura de los tesoros a casa, que son difíciles de llevar durante la evacuación. Busca un lugar apartado, despliega la baliza y establece las coordenadas del refugio.
+  Todos los objetos brillantes cercanos se [bold]teleported al almacén al final del shift[/bold] que completará tu tarea.
 
-  Однако, если его найдут, он моментально выдаст вас и сделает возврат украденного простым. [bold]Спрячьте его тщательно![/bold]
+  Sin embargo, si se encuentra, te traicionará al instante y facilitará recuperar los bienes robados. ¡[bold]Hide con cuidado! ¡[/bold]
 
   <Box>
     <GuideEntityEmbed Entity="ThiefBeacon"/>
   </Box>
 
-  В [color=cyan]сумке[/color] могут лежать... всё, что вы успели захватить. [bold]Вы можете выбрать два набора[/bold], чтобы устроить грандиозную аферу.
+  La [color=cyan]bag[/color] puede contener... cualquier cosa que hayas conseguido. [bold]You elegir dos sets[/bold] para montar una gran estafa.
 
   <Box>
     <GuideEntityEmbed Entity="SatchelThief"/>
@@ -49,16 +49,16 @@
     <GuideEntityEmbed Entity="Telecrystal" Caption="Syndie"/>
   </Box>
 
-  ## Центр коллекции
-  Клептомания приведёт вас далеко. Один день вы будете тащить фигурки, другой — крупную промышленную машину.
+  ## Centro de Recogida
+  La cleptomanía te llevará lejos. Un día arrastrarás figuritas, al siguiente una gran máquina industrial.
 
-  Всё равно — рано или поздно всё окажется в коллекции.
+  En fin, tarde o temprano todo acabará en la colección.
 
-  Вы можете украсть предметы, если [bold]они при вас при прибытии в CentComm.[/bold] Если нет, кладите крупные вещи рядом с маяком — [bold]он перенесёт их в хранилище.[/bold]
+  Puedes robar objetos si [bold]you los llevas contigo cuando llegues a la CentComm.[/bold] Si no, coloca objetos grandes cerca de la baliza, [bold]it los moverás a la storage.[/bold]
 
-  Некоторые [italic]живые[/italic] объекты будут неохотно сотрудничать. Убедитесь, что они живы и находятся вместе с вами или маяком к концу смены.
+  Algunos [italic]live[/italic] objetos serán reacios a cooperar. Asegúrate de que estén vivos y contigo o con la baliza al final del turno.
 
-  Среди ваших желаний могут быть, но не ограничиваются:
+  Tus deseos pueden incluir, pero no se limitan a:
 
   <Box>
     <GuideEntityEmbed Entity="ToyFigurineGreytider" Caption="Figurines"/>

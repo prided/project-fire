@@ -1,16 +1,16 @@
 <Document>
-  # Милира
+  # Milira
 
   <Box>
     <GuideEntityEmbed Entity="MobMilira" Caption=""/>
   </Box>
 
-  Милира обладают крыльями (их можно раскрывать и складывать).
-  Они чувствительны к высоким температурам.
+  Las milira tienen alas (se pueden abrir y plegar).
+  Son sensibles a las altas temperaturas.
 
-  Они получают [color=#ffa500]на 15% больше дробящего и теплового урона[/color],
-  [color=#ffa500]на 10% больше режущего и колющего урона[/color],
-  но [color=#1e90ff]на 30% меньше урона от холода[/color].
+  Reciben [color=#ffa500]15% más de Contundente y Calor Damage[/color]
+  [color=#ffa500]10% más de Cutting and Piercing Damage[/color]
+  pero [color=#1e90ff]30% menos de Damage[/color] en frío.
 
   <Box>
     <GuideEntityEmbed Entity="ClothingOuterArmorMiliraLight" Caption=""/>
@@ -18,5 +18,5 @@
     <GuideEntityEmbed Entity="ClothingOuterHardsuitMilira" Caption=""/>
   </Box>
 
-  Обычная броня и скафандры блокируют милирам свободное раскрытие крыльев, но особая броня специально для них позволяет раскрывать крылья и летать.
+  La armadura normal y los trajes espaciales impiden que los Milir abran las alas libremente, pero una armadura especial específicamente para ellos les permite abrir las alas y volar.
 </Document>

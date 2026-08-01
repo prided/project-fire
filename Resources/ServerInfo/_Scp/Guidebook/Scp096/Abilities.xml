@@ -1,44 +1,44 @@
-﻿<Document>
-  # Способности SCP-096
+<Document>
+  # Habilidades de SCP-096
 
-  Здесь будут описаны доступные объекту активируемые способности и уникальные механики, связанные с ним.
+  Esto describirá las habilidades activadas disponibles para el objeto y las mecánicas únicas asociadas.
 
-  [textlink="Общая информация о скромнике" link="Scp096About"]
+  [textlink="General información sobre el modesto man" link="Scp096About"]
 
-  ## Способность "Издать жалостный крик"
+  ## Capacidad de "soltar un grito de lástima"
 
-  Активация данной способности создает мощный аномальный резонанс, разрушающий окружающие структуры звуковой волной.
-  Данная способность работает только внутри камеры содержания. Используйте ее, чтобы разрушать камеру содержания.
+  Activar esta habilidad crea una poderosa resonancia anómala que destruye las estructuras circundantes con una onda sonora.
+  Esta habilidad solo funciona dentro de la cámara de contención. Úsala para destruir la cámara de contención.
 
-  [textlink="Подробнее о методах побега" link="Scp096ContainmentBreach"]
+  [textlink="More sobre la huida methods" link="Scp096ContainmentBreach"]
 
-  ## Способность "Содрать кожу с лица"
+  ## Capacidad para "pelar la piel de la cara"
 
-  Активация данной способности наносит урон вашему лицу, разбрызгивая повсюду вашу кровь.
-  Использование способности 5 раз подряд нанесет лицу критический урон, переведя вас в "Состояние содранного лица"
+  Activar esta habilidad daña tu cara, salpicando tu sangre por todas partes.
+  Usar esta habilidad cinco veces seguidas te golpeará la cara de forma crítica, poniéndote en Cara Desollada
 
-  [textlink="Подробнее про состояния" link="Scp096States"]
+  [textlink="More sobre states" link="Scp096States"]
 
-  [bold]Для активации данной способности требуется стоять на месте и не двигаться в течение пары секунд, пока полоска прогресса над вашей головой не закончится.[/bold]
+  [bold]To activar esta habilidad, tienes que quedarte quieto y no moverte durante un par de segundos hasta que la barra de progreso sobre tu cabeza ends.[/bold]
 
-  Способность имеет долгий откат!
+  ¡La habilidad tiene un tiempo de recarga largo!
 
-  ## Способность "Присесть"
+  ## Habilidad de agacharse
 
-  Активация данной способности переводит вас в состояния "Сидя". Объект меняет внешний вид и теряет возможность двигаться.
-  В данном состоянии скромник чаще выделяет слезную жидкость.
+  Activar esta habilidad te pone en estado de "Sentado". El objeto cambia de aspecto y pierde la capacidad de moverse.
+  En esta condición, una persona modesta tiene más probabilidades de secretar líquido lacrimal.
 
-  В целом, состояние не имеет практического смысла. Вы можете использовать его в любое время.
+  En general, el estado no tiene un significado práctico. Puedes usarlo en cualquier momento.
 
-  ## Механика безопасного времени
+  ## Mecánica de Tiempo Seguro
 
-  В течение первых 15ти минут с начала раунда вы не сможете использовать вашу способность "Содрать кожу с лица".
+  Durante los primeros 15 minutos desde el inicio de la ronda, no podrás usar tu habilidad "Peel Face".
 
-  Эта механика ограничивает SCP объекты в начале раунда, давая персоналу время на стартовую подготовку к смене.
+  Esta mecánica restringe los objetos SCP al inicio de la ronda, dando tiempo al personal para empezar a prepararse para el cambio.
 
-  ## Механика зрения
+  ## La mecánica de la visión
 
-  В игре присутствует уникальная система, которая проверяет видимость каждого персонажа другим персонажем.
+  El juego tiene un sistema único que comprueba la visibilidad de cada personaje por parte de otro personaje.
 
-  [bold]Если вы и другой человек посмотрите друг другу в лицо, это переведет вас в состояние "Пред-ярости", а после в состояние "Ярости"[/bold]. Увидевший вас человек станет вашей законной целью, которую вы сможете с легкостью устранить.
+  [bold]If tú y la otra persona os miráis la cara, entrarás en un estado de "Pre-Ira" y luego en un estado de "Ira"[/bold] La persona que te vea se convertirá en tu objetivo legítimo, que puedes eliminar fácilmente.
 </Document>

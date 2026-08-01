@@ -1,16 +1,16 @@
 <Document>
-  # Таяраны
+  # Tajaranos
 
   <Box>
     <GuideEntityEmbed Entity="MobTajaran" Caption=""/>
   </Box>
 
-  Таяраны: кошачья раса с когтями и характерным акцентом.
-  Их безоружные атаки наносят режущий урон.
-  Вспышки действуют на них сильнее обычного.
+  Tayarans: Una raza felina con garras y un acento distintivo.
+  Sus ataques sin armas infligen daño cortante.
+  Las bengalas tienen un efecto más fuerte sobre ellos de lo habitual.
 
-  Они умеют прыгать на короткие дистанции, как вульпы.
-  При питье могут расплескивать жидкость, но реже, чем вульпканины.
-  Они оставляют уникальные расовые следы.
+  Pueden saltar distancias cortas, como vulps.
+  Cuando beben, pueden salpicar líquido, pero con menos frecuencia que las vulpcaninas.
+  Dejan huellas raciales únicas.
 
 </Document>

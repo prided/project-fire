@@ -1,6 +1,6 @@
-﻿<Document>
-  # Трубопроводные сети
-  Трубопроводные сети, обычно называемые пайпнетами, - это серия соединённых [textlink="труб" link="Pipes"], обычно выполняющих общую задачу.
+<Document>
+  # Redes de tuberías
+  Las redes de tuberías, comúnmente conocidas como redes de tuberías, son una serie de [textlink="pipes" link="Pipes"] conectadas que suelen realizar una función común.
 
   <Box>
     <GuideEntityEmbed Entity="GasPipeStraight" Caption=""/>
@@ -12,30 +12,30 @@
     <GuideEntityEmbed Entity="GasVolumePump" Caption=""/>
   </Box>
 
-  Пайпнеты используются по всей станции, чтобы доставлять, удалять или иначе перемещать газ.
-  Хорошие примеры - станционные Distro и Wastenet, которые соответственно доставляют пригодный для дыхания воздух и удаляют отходные газы.
+  Se utilizan redes de tubería en toda la estación para entregar, retirar o mover gas de otro modo.
+  Buenos ejemplos son la estación Distro y Wastenet, que suministran respectivamente aire respirable y eliminan los gases residuales.
 
-  ## Как работают пайпнеты
-  В Space Station 14 пайпнет ведёт себя как единый определённый объём с точками входа и выхода на концах сети.
-  Принудительная подача или откачка газа [textlink="насосом" link="Pumps"] влияет на всю сеть, а не только на трубу, к которой он подключён.
+  ## Cómo funcionan las redes de tubería
+  En la Estación Espacial 14, la tubería se comporta como un único volumen definido con puntos de entrada y salida en los extremos de la red.
+  El suministro forzado de gas o el bombeo [textlink="pump" link="Pumps"] afecta a toda la red, no solo a la tubería a la que está conectada.
 
-  Пайпнеты разделяются только устройствами, способными прерывать поток, или некоторыми специальными устройствами.
-  Например, [textlink="насос давления" link="Pumps"] не позволит газу пройти через себя, если он не запитан или ему нечего качать.
+  Las redes de tubería solo están separadas por dispositivos capaces de interrumpir la transmisión, o por algunos dispositivos especiales.
+  Por ejemplo, [textlink="pressure pump" link="Pumps"] no permitirá que pase gasolina si no está alimentada o no tiene nada que bombear.
 
-  Примеры устройств, разделяющих трубопроводные сети:
-  - [textlink="Насосы давления и объёмные насосы" link="Pumps"]
-  - [textlink="Газовые смесители и фильтры" link="MixingAndFiltering"]
-  - [textlink="Все клапаны" link="Valves"]
-  - [textlink="Радиаторы" link="Radiators"]
+  Ejemplos de dispositivos que separan redes de tuberías:
+  - [textlink="Pressure bombas y desplazamiento positivo pumps" link="Pumps"]
+  - [textlink="Gas grifos y filters" link="MixingAndFiltering"]
+  - [textlink="All valves" link="Valves"]
+  - [textlink="Radiators" link="Radiators"]
 
-  Ниже показан пример пайпнета, разделённого [textlink="насосом" link="Pumps"] на два отдельных пайпнета:
+  Aquí tienes un ejemplo de una tubería dividida en dos redes de tubería separadas [textlink="pump" link="Pumps"]:
 
   <Box>
-    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Пайпнет 1" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Pipenet 1" Rotation="90"/>
     <GuideEntityEmbed Entity="GasPipeStraight" Caption="" Rotation="90"/>
-    <GuideEntityEmbed Entity="GasPressurePump" Caption="Разделитель сетей" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPressurePump" Caption="Separador de red" Rotation="90"/>
     <GuideEntityEmbed Entity="GasPipeStraight" Caption="" Rotation="90"/>
-    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Пайпнет 2" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Pipenet 2" Rotation="90"/>
   </Box>
 
 </Document>

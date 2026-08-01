@@ -1,12 +1,12 @@
 <Document>
- # Правило 5 - Взаимодействие с игроками, вышедшими из игры и получившими статус SSD
- Игроки в ССД — это игроки, которые отсоединились из игры. При осмотре таких игроков пишется, что «Он рассеянно смотрит в пустоту и ни на что не реагирует. Он может скоро прийти в себя»
+ # Regla 5 – Interactuar con jugadores que abandonan el juego y se convierten en SSD
+ Los jugadores en SJS son aquellos que se han desconectado del juego. Al examinar a estos jugadores, se escribe que "Mira distraídamente al vacío y no reacciona a nada. Puede que pronto vuelva en sí."
 
- Причиной этому могут быть проблемы с соединением или другие технические неполадки. Быть убитым или ограбленным из-за этого мало кому понравится. Цель на убийство у антагонистов по задумке должна быть трудной и интересной. Убивать игрока в ССД не интересно ни для убийцы, ни для жертвы. В случае если ваша цель ССД, то не бойтесь спрашивать помощи у администраторов в Ahelp.
+ La razón puede ser problemas de conexión u otros problemas técnicos. No mucha gente querrá que la maten o la roben por esto. El objetivo de matar a los antagonistas debería ser difícil e interesante. Matar a un jugador en SJS no es interesante ni para el asesino ni para la víctima. Si tu objetivo es SJS, no tengas miedo de pedir ayuda a los administradores de Ahelp.
 
- - Запрещено трогать или взаимодействовать с ССД игроками, кроме как в следующих случаях: относить их в крио, оказывать медицинскую помощь или спасать их от непосредственной опасности (например, выносить из пожара).
- - Аналогично, если на игроке с ССД висит статус «Разыскивается», его нельзя задерживать без разрешения администратора.
- - Если игрок вышел в ССД во время или сразу после задержания, то разрешается продолжать задержание и арест.
- - Аналогично, если вы антагонист, и если ваша цель вышла в ССД сразу после того, как вы её атаковали, вы можете продолжать.
- - Если вам кажется, что ситуация вынуждает к взаимодействию с игроком в ССД (например, чтобы забрать важное снаряжение с капитана), сначала воспользуйтесь Ahelp.
+ - Está prohibido tocar o interactuar con jugadores de SJS, salvo en los siguientes casos: crionizarlos, prestarles asistencia médica o salvarlos de un peligro inmediato (por ejemplo, sacarlos de un incendio).
+ - De manera similar, si un jugador con SJS tiene un estatus de "Buscado", no puede ser detenido sin permiso del administrador.
+ - Si un jugador entra en la SJS durante o inmediatamente después del arresto, se le permite continuar con la detención y el arresto.
+ - Igualmente, si eres el antagonista, y tu objetivo entró en el SJS inmediatamente después de que lo atacaras, puedes continuar.
+ - Si sientes que la situación te obliga a interactuar con un jugador en el SJS (por ejemplo, para tomar equipo importante del capitán), primero usa Ahelp.
 </Document>

@@ -1,17 +1,17 @@
 <Document>
-  # Резоми
+  # Rezomi
 
   <Box>
     <GuideEntityEmbed Entity="MobResomi" Caption=""/>
   </Box>
 
-  Резоми могут прыгать на короткие дистанции и имеют когти.
-  Они довольно хрупкие и хуже переносят высокие температуры.
-  У них есть переключаемое ночное зрение.
+  Rezomi puede saltar distancias cortas y tener garras.
+  Son bastante frágiles y menos tolerantes a las altas temperaturas.
+  Tienen visión nocturna conmutable.
 
-  Они получают [color=#ffa500]на 25% больше урона от жара[/color],
-  но [color=#1e90ff]на 25% меньше урона от холода[/color].
+  Absorben un [color=#ffa500]25% más de calor Damage[/color]
+  pero [color=#1e90ff]25% menos de Damage[/color] en frío.
 
-  Из-за небольшого роста резоми можно переносить в сумке или рюкзаке.
+  Debido a su pequeña estatura, el rezomi puede llevarse en una bolsa o mochila.
 
 </Document>

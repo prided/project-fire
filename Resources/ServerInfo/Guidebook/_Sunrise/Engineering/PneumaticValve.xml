@@ -1,43 +1,43 @@
-﻿<Document>
-  # Пневматический клапан
-  Пневматический клапан - двунаправленный клапан, управляемый входным давлением.
+<Document>
+  # Válvula neumática
+  Una válvula neumática es una válvula bidireccional controlada por la presión de entrada.
   <Box>
     <GuideEntityEmbed Entity="PressureControlledValve"/>
   </Box>
 
-  У пневматического клапана 3 соединения: вход, выход и управление.
-  Стороной "input" будет входное или выходное соединение с наибольшим давлением, и она может переключаться, делая клапан двунаправленным.
+  La válvula neumática tiene 3 conexiones: entrada, salida y control.
+  El lado de "entrada" será la conexión de entrada o salida con la presión más alta, y puede conmutarse, haciendo que la válvula sea bidireccional.
 
   <Box>
-    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Вход/выход"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Entrada/Salida"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Управление" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Controles" Rotation="90"/>
     <GuideEntityEmbed Entity="PressureControlledValve" Caption=""/>
     <GuideEntityEmbed Entity="FloorTileItemSteel" Caption=""/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Вход/выход"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Entrada/Salida"/>
   </Box>
 
-  Клапан [color=green]откроется[/color], когда давление на выходной стороне ниже давления на управляющей стороне на [color=orange][protodata="PressureControlledValve" comp="PressureControlledValve" member="Threshold"/] кПа[/color].
+  La válvula [color=green]open[/color] cuando la presión en el lado de salida sea [color=orange][protodata="PressureControlledValve" comp="PressureControlledValve" member="Threshold"/] kPa[/color] menor que la presión en el lado de control.
 
-  Клапан снова [color=red]закроется[/color], когда давление выходной стороны достигнет давления управляющей стороны с разницей в пределах [color=orange][protodata="PressureControlledValve" comp="PressureControlledValve" member="Threshold"/] кПа[/color].
+  La válvula volverá a [color=red]close[/color] cuando la presión del lado de salida alcance la presión del lado de control con una diferencia de [color=orange][protodata="PressureControlledValve" comp="PressureControlledValve" member="Threshold"/] kPa[/color].
 
-  Например, пневматический клапан с управляющим давлением 500 кПа откроется, когда выходное давление будет 500 кПа - [color=orange][protodata="PressureControlledValve" comp="PressureControlledValve" member="Threshold"/] кПа[/color] или ниже, и закроется, когда выходное давление будет 500 кПа - [color=orange][protodata="PressureControlledValve" comp="PressureControlledValve" member="Threshold"/] кПа[/color] или выше.
+  Por ejemplo, una válvula neumática con una presión de control de 500 kPa se abrirá cuando la presión de salida sea de 500 kPa – [color=orange][protodata="PressureControlledValve" comp="PressureControlledValve" member="Threshold"/] kPa[/color] o inferior y se cerrará cuando la presión de salida sea de 500 kPa – [color=orange][protodata="PressureControlledValve" comp="PressureControlledValve" member="Threshold"/] kPa[/color] o más.
 
-  Управляющее давление клапана определяется соединением с пайпнетом, поэтому его можно менять на ходу [textlink="насосом" link="Pumps"] или другим источником контроля давления.
+  La presión de control de la válvula está determinada por la conexión a la red de tuberías, por lo que puede cambiarse en el [textlink="pump" link="Pumps"] de la marcha u otra fuente de control de presión.
 
-  ## Отличия от насосов
+  ## Diferencias con bombas
 
-  Пневматический клапан отличается от [textlink="насоса" link="Pumps"], который перемещает газ за счёт работы.
-  Пневматический клапан - пассивное устройство, перемещающее газ за счёт более высокого давления входного газа, поэтому иногда он может заполнять объёмы быстрее, чем [textlink="насос" link="Pumps"].
+  Una válvula neumática es diferente de una válvula [textlink="pump" link="Pumps"], que mueve el gas durante su funcionamiento.
+  Una válvula neumática es un dispositivo pasivo que mueve gas debido a una mayor presión de gas de entrada, por lo que a veces puede llenar volúmenes más rápido que [textlink="pump" link="Pumps"].
 
-  Например, пневматический клапан с управляющим давлением 500 кПа заполнит объём быстрее, чем [textlink="насос" link="Pumps"] давления, выставленный на 500 кПа.
-  Однако [textlink="насос" link="Pumps"] сможет точнее поддерживать давление в объёме.
+  Por ejemplo, una válvula neumática con una presión de control de 500 kPa llenará el volumen más rápido que una [textlink="pump" link="Pumps"] de presión fijada en 500 kPa.
+  Sin embargo, [textlink="pump" link="Pumps"] podrá mantener la presión en volumen con mayor precisión.
 
-  Пневматический клапан можно применять в разных задачах, например:
-  - Для автоматического выпуска газов из камеры сгорания по управляющему входу
-  - Для быстрого заполнения объёма на основе настраиваемого управляющего давления
+  La válvula neumática puede utilizarse en diversas aplicaciones, por ejemplo:
+  - Para la salida automática de gases de la cámara de combustión a través de la entrada de control
+  - Para llenado de volumen rápido basado en presión de control ajustable
 
 </Document>
