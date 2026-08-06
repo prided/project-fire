@@ -1,8 +1,8 @@
 ﻿[contributors]
-enable = true
+enable = false
 
 [servers_hub]
 enable = true
 
 [sponsor]
-enabled = true
+enabled = false

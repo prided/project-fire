@@ -1,32 +1,32 @@
 ﻿<Document>
 
-  ## Основные термины
-  ТЗС - Тяжёлая зона содержания
+  ## Términos básicos
+  ZCP - Zona de Contención Pesada
 
-  ЛЗС - Лёгкая зона содержания
+  ZCL - Zona de Contención Ligera
 
-  ВАЗ - внешняя административная зона (включает ЛЗС и АЗ)
+  ZAE - Zona Administrativa Exterior (incluye la ZCL y la ZA)
 
-  АЗ - Административная зона
+  ZA - Zona Administrativa
 
-  ОУС - Особые условия содержания
+  CEC - Condiciones Especiales de Contención
 
-  НУС - Нарушение условий содержания
+  BC - Brecha de Contención
 
-  ВУС - Восстановление условий содержания
+  RC - Restablecimiento de la Contención
 
-  КС - Камера содержания
+  CC - Cámara de Contención
 
-  РУ - Региональное управление
+  DR - Dirección Regional
 
-  ПХ - Повстанцы Хаоса
+  IC - Insurgencia del Caos
 
-  ШПХ - Шпионы повстанцев Хаоса
+  AIC - Agentes de la Insurgencia del Caos
 
-  МОГ - Мобильная оперативная группа
+  FTM - Fuerza de Tarea Móvil
 
-  ПК - Правовой кодекс
+  CL - Código Legal
 
-  КЭ - Кодекс этики
+  CE - Código de Ética
 
 </Document>
