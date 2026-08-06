@@ -7,9 +7,10 @@ safe_time_enabled = false
 [game]
 # Straight in-game baby
 lobbyenabled = true
-lobbyduration = 300
+lobbyduration = 120
 # Dev map for faster loading & convenience
 map = "ScpComplexStandard"
+preset = "Thaumiel"
 role_timers = false
 admin_job_tracking = true
 role_loadout_timers = false

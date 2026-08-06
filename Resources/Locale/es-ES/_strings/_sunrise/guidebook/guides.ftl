@@ -57,3 +57,5 @@ guide-entry-sr-rule-excep-10 = Excepción/Precedente 10
 guide-entry-sr-rule-cep = Política de escalada de conflictos
 guide-entry-sr-rule-ccp = Política de creación de personajes
 guide-entry-sr-rule-pana = Prevención del arresto por parte de no antagonistas
+guide-entry-improvised-grenade-casing = Improvised grenade casing
+guide-entry-detonator-triggers = Explosive cord and triggers
