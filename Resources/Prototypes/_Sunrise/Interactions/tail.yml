@@ -4,9 +4,9 @@
   icon: FriendlyPatTailIcon
   category: Tail
   interactionMessages:
-  - "%user нежно гладит хвостик %target"
-  - "%user ласково проводит ладонью по хвосту %target"
-  - "%user игриво поглаживает ладонью хвостик %target"
+  - "%user acaricia suavemente la cola de %target"
+  - "%user pasa la palma con cariño por la cola de %target"
+  - "%user acaricia juguetonamente la cola de %target"
   appearConditions:
   - !type:HasTargetCondition
     allowSelfTargeting: false

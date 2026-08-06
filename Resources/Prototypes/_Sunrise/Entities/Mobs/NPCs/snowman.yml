@@ -36,8 +36,8 @@
     - FootstepSound
   - type: InteractionPopup
     successChance: 0.8
-    interactSuccessString: Вы гладите снеговика по его холодной тыкве.
-    interactFailureString: Слишком холодно чтоб трогать.
+    interactSuccessString: Acaricias la fría cabeza de calabaza del muñeco de nieve.
+    interactFailureString: Hace demasiado frío para tocarlo.
     interactSuccessSound:
       path: /Audio/Effects/Footsteps/snowstep4.ogg
   - type: GhostRole

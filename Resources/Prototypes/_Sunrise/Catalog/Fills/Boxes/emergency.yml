@@ -107,7 +107,7 @@
         - id: FoodSnackNutribrick
         - id: DrinkWaterBottleFull
   - type: Label
-    currentLabel: без балона
+    currentLabel: sin cilindro
 
 - type: entity
   parent: BoxSurvivalBase
@@ -253,7 +253,7 @@
         - id: Flare
         - id: EmergencyMedipen
   - type: Label
-    currentLabel: без балона
+    currentLabel: sin cilindro
 
 - type: entity
   parent: BoxSurvivalBase

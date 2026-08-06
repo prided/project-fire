@@ -10,7 +10,7 @@
       stationProto: NanotrasenPrison
       components:
       - type: StationNameSetup
-        mapNameTemplate: '{0} Планетарная тюрьма Nox {1}'
+        mapNameTemplate: '{0} Prisión planetaria Nox {1}'
         nameGenerator:
           !type:NanotrasenNameGenerator
           prefixCreator: 'TG'

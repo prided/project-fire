@@ -21,10 +21,10 @@
     - coughs
     - coughed
     # Russian-Localization-Start
-    - кашель
-    - кашляет
-    - кашлянул
-    - кашлять
+    - tos
+    - tose
+    - tosió
+    - toser
     # Russian-Localization-End
 
 - type: emote
@@ -67,9 +67,9 @@
     - yawn
     - yawns
     # Russian-Localization-Start
-    - зевок
-    - зевает
-    - зевать
+    - bostezo
+    - bosteza
+    - bostezar
     # Russian-Localization-End
 
 - type: emote

@@ -26,14 +26,14 @@
     - yelled
     - yelling
     # Sunrise-start
-    - кричит
-    - орёт
-    - орет
-    - визжит
-    - кричать
-    - визжать
-    - вопит
-    - вопить
+    - grita
+    - grita fuerte
+    - da un grito
+    - chilla
+    - gritar
+    - chillar
+    - vocifera
+    - vociferar
     # Sunrise-end
 
 - type: emote
@@ -65,16 +65,16 @@
     - chortles
     - chortling
   # Sunrise-start
-    - смеется
-    - смеётся
-    - хохочет
-    - ржёт
-    - ржет
-    - ржать
-    - хихикает
-    - хихикнул
-    - хихикнула
-    - смеяться
+    - ríe
+    - se ríe
+    - carcajea
+    - suelta una carcajada
+    - reír
+    - carcajear
+    - se ríe entre dientes
+    - soltó una risita
+    - soltó una carcajada
+    - reírse
   # Sunrise-end
 
 - type: emote
@@ -95,15 +95,15 @@
     - honked
     - honking
   # Sunrise-start
-    - хонк
-    - гудит
-    - гудеть
-    - сигналит
-    - сигналить
-    - бибикает
-    - бибикать
-    - бибикнул
-    - бибикнула
+    - bocina
+    - toca la bocina
+    - tocar la bocina
+    - pita
+    - pitar
+    - hace sonar la bocina
+    - hacer sonar la bocina
+    - pitó
+    - hizo bip
   # Sunrise-end
 
 - type: emote
@@ -123,10 +123,10 @@
     - sighs
     - sighed
   # Sunrise-start
-    - вздыхает
-    - вздохнул
-    - вздохнула
-    - вздыхать
+    - suspira
+    - suspiró
+    - da un suspiro
+    - suspirar
   # Sunrise-end
 
 - type: emote
@@ -146,11 +146,11 @@
     - whistles
     - whistleblowing
   # Sunrise-start
-    - свистит
-    - свистнул
-    - свистеть
-    - присвистывает
-    - присвистнуть
+    - silba
+    - silbó
+    - silbar
+    - chifla
+    - chiflar
   # Sunrise-end
 
 - type: emote
@@ -173,15 +173,15 @@
     - sobs
     - sobbing
   # Sunrise-start
-    - плачет
-    - рыдает
-    - плакать
-    - хнычет
-    - хныкать
-    - хныкает
-    - хныкнул
-    - хныкнула
-    - рыдать
+    - llora
+    - solloza
+    - llorar
+    - gimotea
+    - gimotear
+    - está llorando
+    - lloró
+    - soltó un sollozo
+    - sollozar
   # Sunrise-end
 
 - type: emote
@@ -202,10 +202,10 @@
     - squishing
     - squishes
   # Sunrise-start
-    - хлюпает
-    - хлюпать
-    - чавкает
-    - чавкать
+    - estruja
+    - estrujar
+    - hace un sonido viscoso
+    - chapotea
   # Sunrise-end
 
 - type: emote
@@ -226,8 +226,8 @@
    - chitters
    - chittered
   # Sunrise-start
-   - стрекочет
-   - стрекотать
+   - castañetea
+   - castañetear
   # Sunrise-end
 
 - type: emote
@@ -248,8 +248,8 @@
    - squeaks
    - squeaked
   # Sunrise-start
-   - пищит
-   - пищать
+   - chirría
+   - chirriar
   # Sunrise-end
 
 - type: emote
@@ -269,9 +269,9 @@
    - click
    - clicks
   # Sunrise-start
-   - клац
-   - клацает
-   - клацать
+   - clic
+   - hace clic
+   - chasquido seco
   # Sunrise-end
 
 # Vulpkanin
@@ -293,10 +293,10 @@
   - barked
   - barking
   # Sunrise-start
-  - лает
-  - гавкает
-  - гавкать
-  - лаять
+  - ladra
+  - da un ladrido
+  - está ladrando
+  - ladrar
   # Sunrise-end
 
 - type: emote
@@ -317,9 +317,9 @@
   - snarled
   - snarling
   # Sunrise-start
-  - оскалиться
-  - оскаливается
-  - скалится
+  - gruñe mostrando los dientes
+  - muestra los colmillos
+  - enseña los dientes
   # Sunrise-end
 
 - type: emote
@@ -340,12 +340,12 @@
   - whined
   - whining
   # Sunrise-start
-  - скулит.
-  - скулит!
-  - скулить.
-  - скулить!
-  - скулит
-  - скулить
+  - gime.
+  - gime!
+  - gemir.
+  - gemir!
+  - gime
+  - gemir
   # Sunrise-end
 
 - type: emote
@@ -366,9 +366,9 @@
   - howling
   - howled
   # Sunrise-start
-  - воет
-  - завывает
-  - выть
+  - aúlla
+  - da un aullido
+  - aullar
   # Sunrise-end
 
 - type: emote
@@ -389,8 +389,8 @@
   - growled
   - growling
   # Sunrise-start
-  - рычит
-  - рычать
+  - gruñe
+  - gruñir
   # Sunrise-end
 
 # hand emotes
@@ -411,14 +411,14 @@
     - clapping
     - clapped
     # Sunrise-start
-    - хлопает
-    - хлопнул
-    - хлопнула
-    - хлопает в ладоши
-    - хлопнул в ладоши
-    - хлопнула в ладоши
-    - апплодирует
-    - хлопать
+    - aplaude
+    - aplaudió
+    - dio una palmada
+    - da palmadas
+    - aplaude con las manos
+    - dio palmadas
+    - está aplaudiendo
+    - aplaudir
     # Sunrise-end
 
 - type: emote
@@ -440,9 +440,9 @@
     - claps his hands together
     - claps its hands together
     # Sunrise-start
-    - один хлопок
-    - одиночный хлопок
-    - хлопок
+    - una palmada
+    - palmada única
+    - palmada
     # Sunrise-end
 
 - type: emote
@@ -471,20 +471,20 @@
     - snapping fingers
     - snapped fingers
     # Sunrise-start
-    - щелкает
-    - щелкнул
-    - щелкнула
-    - щёлкает
-    - щёлкнул
-    - щёлкнула
-    - щелкает пальцами
-    - щелкнул пальцами
-    - щелкнула пальцами
-    - щёлкает пальцами
-    - щёлкнул пальцами
-    - щёлкнула пальцами
-    - щелкать пальцами
-    - щёлкать пальцами
+    - chasquea
+    - chasqueó
+    - está chasqueando
+    - chasquear
+    - chasquea los dedos
+    - chasqueó los dedos
+    - está chasqueando los dedos
+    - chasquear los dedos
+    - hace un chasquido
+    - hizo un chasquido
+    - hace chasquear los dedos
+    - hizo chasquear los dedos
+    - hace crujir los dedos
+    - hizo crujir los dedos
     # Sunrise-end
 
 - type: emote
@@ -512,12 +512,12 @@
     - thumps his tail
     - thumps its tail
     # Sunrise-start
-    - вилять хвостом
-    - шлёпает хвостом
-    - шлепает хвостом
-    - бьёт хвостом
-    - бьет хвостом
-    - хлещет хвостом
+    - mueve la cola
+    - golpea con la cola
+    - azota la cola
+    - golpeó con la cola
+    - sacude la cola
+    - da un coletazo
     # Sunrise-end
 
 - type: emote
@@ -536,11 +536,11 @@
     - salute
     - salutes
   # Sunrise-start
-    - салютует
-    - отдаёт честь
-    - отдал честь
-    - отдала честь
-    - салютовать
+    - saluda militarmente
+    - hace el saludo militar
+    - saludó militarmente
+    - hizo el saludo militar
+    - saludar militarmente
   # Sunrise-end
 
 - type: emote
@@ -555,11 +555,11 @@
    - gasps
    - gasped
 #Sunrise-start
-   - задыхается
-   - задыхаться
-   - задохнулся
-   - задохнулась
-   - задохнуться
+   - jadea
+   - jadear
+   - se queda sin aliento
+   - se quedó sin aliento
+   - quedarse sin aliento
 #Sunrise-end
 
 - type: emote
@@ -579,8 +579,8 @@
   chatTriggers:
   - deathgasp
   # Sunrise-start
-  - предсмертный хрип
-  - смертельный хрип
+  - estertor de muerte
+  - último estertor
   # Sunrise-end
 
 - type: emote
@@ -623,10 +623,10 @@
     - buzzed
     - buzzes
   # Sunrise-start
-    - жужжит
-    - зажужжал
-    - зажужжала
-    - жужжать
+    - zumba
+    - empezó a zumbar
+    - se puso a zumbar
+    - zumbar
   # Sunrise-end
 
 - type: emote
@@ -663,11 +663,11 @@
     - chirped
     - chirping
   # Sunrise-start
-    - чирикает
-    - чирикает.
-    - чирикает?
-    - чирикает!
-    - чирикать
+    - gorjea
+    - gorjea.
+    - gorjea?
+    - gorjea!
+    - gorjear
   # Sunrise-end
 
 # Machine Emotes
@@ -689,14 +689,14 @@
     - beeped
     - beeping
   # Sunrise-start
-    - бип
-    - бипает
-    - бипнуть
-    - бипнул
-    - бипнула
-    - пик
-    - пикает
-    - пикать
+    - bip
+    - hace bip
+    - emitir un bip
+    - emitió un bip
+    - suena
+    - hace un pitido
+    - hacer un pitido
+    - emitir pitidos
   # Sunrise-end
 
 - type: emote
@@ -717,13 +717,13 @@
     - chimed
     - chiming
   # Sunrise-start
-    - дзынь
-    - динь
-    - динь-динь
-    - дзынькает
-    - дзынькать
-    - звенит
-    - звенеть
+    - ding
+    - tin
+    - tin-tin
+    - tintinea
+    - tintinear
+    - repica
+    - repicar
   # Sunrise-end
 
 - type: emote
@@ -750,12 +750,12 @@
     - buzzing twice
     - buzzed twice
   # Sunrise-start
-    - бипбуп
-    - бип буп
-    - бип-буп
-    - бипбип
-    - бип бип
-    - бип-бип
+    - bipbup
+    - bip bup
+    - bip-bup
+    - bipbip
+    - bip bip
+    - bip-bip
   # Sunrise-end
 
 - type: emote
@@ -776,9 +776,9 @@
     - pinged
     - pinging
   # Sunrise-start
-    - пинг
-    - пингует
-    - пинговать
-    - пингнул
-    - пингнула
+    - hace ping
+    - hacer ping
+    - hizo ping
+    - emite un ping
+    - emitió un ping
   # Sunrise-end

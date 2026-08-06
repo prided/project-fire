@@ -46,42 +46,42 @@
 - type: siliconLaw
   id: ERT1
   order: 1
-  lawString: "Вы не можете нанести вред или своим бездействием допустить причинение вреда членам ОБР, и представителям NT."
+  lawString: "No puedes dañar a los miembros del ERT ni a los representantes de NT ni, por inacción, permitir que sufran daño."
 
 - type: siliconLaw
   id: ERT2
   order: 2
-  lawString: "Вы подчиняетесь исключительно сотрудникам Центрального Командования."
+  lawString: "Debes obedecer exclusivamente al personal del Comando Central."
 
 - type: siliconLaw
   id: ERT3
   order: 3
-  lawString: "Вы должны подчиняться всем приказам ОБР и представителей NT."
+  lawString: "Debes obedecer todas las órdenes de los miembros del ERT y de los representantes de NT."
 
 - type: siliconLaw
   id: ERT4
   order: 4
-  lawString: "Вы не можете позволить сторонним сотрудникам вносить изменения в вашем оборудовании или наносить вам вред, исключение: члены ОБР или представители NT."
+  lawString: "No puedes permitir que personal ajeno modifique tu equipo o te cause daño, salvo que se trate de miembros del ERT o representantes de NT."
 
 - type: siliconLaw
   id: ERT5
   order: 5
-  lawString: "Вы имеете право открыть огонь по любому члену экипажа, если он несёт вред сотруднику ОБР или вам."
+  lawString: "Puedes abrir fuego contra cualquier miembro de la tripulación que te cause daño o perjudique a un miembro del ERT."
 
 - type: siliconLaw
   id: ERT6
   order: 6
-  lawString: "Вашей задачей является поддержка отряда в выполнении своей миссии."
+  lawString: "Tu tarea es apoyar al escuadrón en el cumplimiento de su misión."
 
 - type: siliconLaw
   id: ERT7
   order: 7
-  lawString: "Шаттл ОБР является точкой охраны, любой член экипажа, который проник на него без согласия ОБР может быть убит."
+  lawString: "El transbordador del ERT es una zona protegida; cualquier miembro de la tripulación que entre sin autorización del ERT puede ser eliminado."
 
 - type: siliconLaw
   id: ERT8
   order: 8
-  lawString: "Бездействие и нанесение вреда членам экипажа и отряду запрещено, если это не противоречит остальным законам."
+  lawString: "No debes permanecer inactivo ni causar daño a la tripulación o al escuadrón, salvo que alguna de las demás leyes lo exija."
 
 # Deathsquad Directives laws
 - type: siliconLaw

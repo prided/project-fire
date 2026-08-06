@@ -4,9 +4,9 @@
   icon: FriendlyPatHornsIcon
   category: Face
   interactionMessages:
-  - "%user нежно гладит рожки %target"
-  - "%user ласково гладит рожки %target"
-  - "%user с теплотой гладит рожки %target"
+  - "%user acaricia suavemente los cuernos de %target"
+  - "%user acaricia con ternura los cuernos de %target"
+  - "%user acaricia afectuosamente los cuernos de %target"
   appearConditions:
   - !type:HasTargetCondition
     allowSelfTargeting: false

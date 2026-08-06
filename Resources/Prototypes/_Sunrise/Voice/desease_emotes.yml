@@ -12,8 +12,8 @@
   chatMessages: ["chat-emote-msg-severe-cough"]
   chatTriggers:
   # Russian-Localization-Start
-  - сильный кашель
-  - сильно кашляет
-  - тяжело кашляет
-  - тяжело кашлять
+  - tos fuerte
+  - tose con fuerza
+  - tose con dificultad
+  - toser con dificultad
   # Russian-Localization-End

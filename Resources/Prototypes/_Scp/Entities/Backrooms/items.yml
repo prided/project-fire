@@ -350,7 +350,7 @@
   - type: SpawnOnUse
     entities:
     - ScpBackroomsSlime
-    popupNoCharges: Посох слабо мерцает, источая иссекающие остатки энергии # TODO: Засунуть в лок
+    popupNoCharges: El bastón emite un tenue resplandor mientras libera sus últimas reservas de energía. # TODO: Засунуть в лок
     soundSuccessFul:
       path: /Audio/Weapons/Guns/Gunshots/Magic/staff_door.ogg
   - type: UseDelay

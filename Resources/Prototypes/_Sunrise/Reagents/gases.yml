@@ -217,7 +217,7 @@
       - !type:Jitter
       - !type:PopupMessage
         visualType: Medium
-        messages: ["Вы чувствуете как ваше тело наполняется энергией", "Вы чувствуете как начинают болеть ваши мышцы"]
+        messages: ["Sientes cómo tu cuerpo se llena de energía", "Sientes cómo empiezan a dolerte los músculos"]
         type: Local
         probability: 0.05
 

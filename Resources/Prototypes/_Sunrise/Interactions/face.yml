@@ -12,9 +12,9 @@
     categories: [ "щёки", "рот" ]
     requireExposed: true
   interactionMessages:
-  - "%user нежно треплет щёчки %target"
-  - "%user слегка растягивает щёчки %target"
-  - "%user тискает щечки %target"
+  - "%user pellizca cariñosamente las mejillas de %target"
+  - "%user estira ligeramente las mejillas de %target"
+  - "%user aprieta las mejillas de %target"
   cooldown: 1
 
 - type: interaction
@@ -31,9 +31,9 @@
     categories: [ "лицо" ]
     requireExposed: true
   interactionMessages:
-  - "%user нежно проводит ладонью по лицу %target"
-  - "%user ласково гладит ладонью лицо %target"
-  - "%user слегка поглаживает ладонью лицо %target"
+  - "%user pasa suavemente la palma por el rostro de %target"
+  - "%user acaricia con ternura el rostro de %target"
+  - "%user acaricia ligeramente el rostro de %target con la palma"
   interactionSounds:
   - FacePatsSound
   cooldown: 3
@@ -61,9 +61,9 @@
     checkInitiator: true
     allowedSpecies: [ Vulpkanin, Felinid ]
   interactionMessages:
-  - "%user по-собачьи облизывает щёки %target"
-  - "%user по-собачьи облизывает губы %target"
-  - "%user по-собачьи лижет в нос %target"
+  - "%user lame las mejillas de %target como un perro"
+  - "%user lame los labios de %target como un perro"
+  - "%user lame la nariz de %target como un perro"
   interactionSounds:
   - FaceLickDoggyStyleSound1
   - FaceLickDoggyStyleSound2

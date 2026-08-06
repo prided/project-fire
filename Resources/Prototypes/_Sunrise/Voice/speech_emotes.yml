@@ -11,7 +11,7 @@
   blacklist:
     components:
     - BorgChassis
-  chatMessages: [мя!]
+  chatMessages: ["¡mii!"]
   chatTriggers:
     - mew
     - mew.
@@ -19,10 +19,10 @@
     - mews
     - mews.
     - mews!
-    - мя
-    - мя.
-    - мя!
-    - мявкать
+    - mii
+    - mii.
+    - mii!
+    - maullar suavemente
 
 - type: emote
   id: Meow
@@ -36,7 +36,7 @@
   blacklist:
     components:
     - BorgChassis
-  chatMessages: [мяу!]
+  chatMessages: ["¡miau!"]
   chatTriggers:
     - Meows
     - Meows.
@@ -44,13 +44,13 @@
     - Meow
     - Meow.
     - Meow!
-    - мяу
-    - мяу.
-    - мяу!
-    - мяукает
-    - мяукает.
-    - мяукает!
-    - мяукать
+    - miau
+    - miau.
+    - miau!
+    - maúlla
+    - maúlla.
+    - maúlla!
+    - maullar
 
 - type: emote
   id: Hisses
@@ -64,12 +64,12 @@
   blacklist:
     components:
     - BorgChassis
-  chatMessages: [шипит!]
+  chatMessages: ["¡sisea!"]
   chatTriggers:
-  - шипит
-  - шипит.
-  - шипит!
-  - шипеть
+  - sisea
+  - sisea.
+  - sisea!
+  - sisear
   - hiss
   - hiss.
   - hiss!
@@ -89,12 +89,12 @@
   blacklist:
     components:
     - BorgChassis
-  chatMessages: [мурчит!]
+  chatMessages: ["¡ronronea!"]
   chatTriggers:
-    - мурчит
-    - мурчит.
-    - мурчит!
-    - мурчать
+    - ronronea
+    - ronronea.
+    - ronronea!
+    - ronronear
     - Purrs
     - Purrs.
     - Purrs!
@@ -112,35 +112,35 @@
     - BorgChassis
   chatMessages: ["chat-emote-msg-oink"]
   chatTriggers:
-  - хрюкает.
-  - хрюкает!
-  - хрюкать.
-  - хрюкать!
-  - хрюкать
-  - хрю.
-  - хрю!
-  - хрю
-  - хряк.
-  - хряк
-  - хряк!
+  - gruñe como cerdo.
+  - gruñe como cerdo!
+  - gruñir como cerdo.
+  - gruñir como cerdo!
+  - gruñir como cerdo
+  - oinc.
+  - oinc!
+  - oinc
+  - oink.
+  - oink
+  - oink!
 
 - type: emote
   id: Vomit
   name: chat-emote-name-vomit
   category: Vocal
-  chatMessages: [тошнит]
+  chatMessages: ["vomita"]
 
 - type: emote
   id: Headache
   name: chat-emote-name-headache
   category: Vocal
-  chatMessages: [голова болит]
+  chatMessages: ["le duele la cabeza"]
 
 - type: emote
   id: Insult
   name: chat-emote-name-insult
   category: Vocal
-  chatMessages: [инсульт]
+  chatMessages: ["sufre un derrame cerebral"]
 
 - type: emote
   id: Whines
@@ -182,10 +182,10 @@
   - screes.
   - screes!
   - screes?
-  - скри
-  - скри.
-  - скри!
-  - верещит
+  - scrii
+  - scrii.
+  - scrii!
+  - chilla agudamente
 
 - type: emote
   id: Call
@@ -213,10 +213,10 @@
   - calls.
   - calls!
   - calls?
-  - зовёт
-  - зовёт.
-  - зовёт!
-  - зовёт?
+  - llama
+  - llama.
+  - llama!
+  - llama?
 
 - type: emote
   id: Squawk
@@ -244,15 +244,15 @@
   - squawks.
   - squawks!
   - squawks?
-  - сквуэк
-  - сквуэк.
-  - сквуэк!
-  - сквуэк?
-  - сквуэкает
-  - сквуэкает.
-  - сквуэкает!
-  - сквуэкает?
-  - скрипит
+  - cuac
+  - cuac.
+  - cuac!
+  - cuac?
+  - grazna
+  - grazna.
+  - grazna!
+  - grazna?
+  - grazna con estridencia
 
 - type: emote
   id: Trill
@@ -280,10 +280,10 @@
   - trilling.
   - trilling!
   - trilling?
-  - трещит
-  - трещит.
-  - трещит!
-  - трещит?
+  - trina
+  - trina.
+  - trina!
+  - trina?
 
 - type: emote
   id: Roars
@@ -299,15 +299,15 @@
     - BorgChassis
   chatMessages: ["chat-emote-msg-roar"]
   chatTriggers:
-    - ревёт.
-    - ревёт!
-    - реветь.
-    - реветь!
-    - ревёт
-    - реветь
-    - ревет.
-    - ревет!
-    - ревет
+    - ruge.
+    - ruge!
+    - rugir.
+    - rugir!
+    - ruge
+    - rugir
+    - da un rugido.
+    - da un rugido!
+    - da un rugido
     - roar
     - roar.
     - roar!
@@ -329,12 +329,12 @@
     - BorgChassis
   chatMessages: ["chat-emote-msg-rumble"]
   chatTriggers:
-   - рокочет
-    - рокочет.
-    - рокочет!
-    - рокотать
-    - рокотать.
-    - рокотать!
+    - retumba
+    - retumba.
+    - retumba!
+    - retumbar
+    - retumbar.
+    - retumbar!
     - rumbles
     - rumbles!
     - rumbles.
