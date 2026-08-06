@@ -12,12 +12,12 @@ paper-neutralized-mode-info =
 paper-safe-mode-info =
     ​[bold]EVALUACIÓN DEL NIVEL DE AMENAZA: CONTROLADO[/bold]
     
-    El Sitio contiene varios objetos anómalos de clase Safe. También pueden encontrarse bajo supervisión una o más instancias controladas de mayor riesgo.
-    ​[bullet] El personal podrá circular por las áreas autorizadas, excepto por las celdas de contención restringidas.
-    ​[bullet] Presencia confirmada: objetos de clase Safe, instancias controladas de SCP-035 y una instancia de clase Euclid.
-    ​[bullet] El riesgo para el personal se considera bajo mientras se cumplan los procedimientos establecidos.
+    El área contiene varios objetos anómalos clasificados como Safe. Puede haber uno o más sujetos controlados de alto riesgo bajo observación.
+    ​[bullet] El personal de la instalación puede desplazarse libremente por el área, salvo por las cámaras de contención de objetos SCP.
+    ​[bullet] Presencia detectada: objetos de clase Safe e instancias controladas de SCP-035 y/o un objeto de clase Euclid.
+    ​[bullet] Las amenazas para el personal se consideran improbables si se siguen los procedimientos estándar.
     
-    ​[italic]Recordatorio:[/italic] Toda desviación de los procedimientos de manipulación autorizados puede provocar un incidente localizado.
+    ​[italic]Recordatorio:[/italic] Desviarse de los procedimientos aprobados para manipular objetos puede provocar incidentes localizados.
 paper-euclid-mode-info =
     ​[bold]EVALUACIÓN DEL NIVEL DE AMENAZA: ELEVADO[/bold]
     

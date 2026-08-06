@@ -74,7 +74,7 @@ ent-ActionToggleEyes = Abrir y cerrar los ojos
     .desc = Cierra los ojos para protegerlos o ábrelos para disfrutar de los colores vibrantes.
 ent-ActionToggleWagging = Moviendo la cola
     .desc = Empieza o deja de mover la cola.
-ent-FakeMindShieldToggleAction = [color=green]Toggle la mente falsa shield[/color]
+ent-FakeMindShieldToggleAction = [color=green]Alternar el escudo mental falso[/color]
     .desc = Activar/desactivar la transmisión del implante de escudo mental falso
 ent-ActionToggleParamedicSiren = Activar Sirena de Paramédico
     .desc = Enciende o apaga la sirena del paramédico.

@@ -88,7 +88,7 @@ accent-words-mothroach-1 = ¡Piu!
 # Crab
 accent-words-crab-1 = Chick.
 accent-words-crab-2 = ¡Pull-clack!
-accent-words-crab-3 = ¿Click?
+accent-words-crab-3 = ¿Clac?
 accent-words-crab-4 = ¡Tipi-tap!
 accent-words-crab-5 = Tacaño de chik-tap.
 accent-words-crab-6 = Chikichik.

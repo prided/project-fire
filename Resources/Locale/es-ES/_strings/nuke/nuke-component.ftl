@@ -1,5 +1,5 @@
 nuke-component-cant-anchor-floor = ¡Los tornillos de montaje no se fijan en el suelo!
-nuke-component-cant-anchor-toggle = The nuclear authentication disk is required to toggle the floor bolts!
+nuke-component-cant-anchor-toggle = ¡Se necesita el disco de autenticación nuclear para alternar los pernos del suelo!
 nuke-component-announcement-sender = Ojiva nuclear
 nuke-component-announcement-armed = ¡El mecanismo para destruir el complejo ha sido activado! Hasta la destrucción del complejo: { $time } segundos. Lugar de lanzamiento: { $location }.
 nuke-component-announcement-unarmed = ¡El mecanismo de destrucción del complejo está desactivado! ¡Que tengas un buen día!

@@ -1,5 +1,5 @@
 # Msg
-command-description-msg-subtle = Sends a combination of a popup and a message to the input entities. Behaves same as the Subtle Message admin verb. Outputs entities that successfuly received a message.
-command-description-msg-chat = Sends a chat message to the sessions of the input entities. Outputs entities that successfuly received a message.
-command-description-msg-popup = Displays a popup above the input entiites. Can specify to only be visible to the target.
-command-description-msg-tippy = Sends a Tippy to the sessions of the input entities. All parameters must be specified. Outputs entities that successfuly received a tippy.
+command-description-msg-subtle = Envía una combinación de ventana emergente y mensaje a las entidades de entrada. Se comporta como el verbo administrativo Mensaje sutil y devuelve las entidades que lo recibieron correctamente.
+command-description-msg-chat = Envía un mensaje de chat a las sesiones de las entidades de entrada. Devuelve las entidades que recibieron correctamente el mensaje.
+command-description-msg-popup = Muestra una ventana emergente sobre las entidades de entrada. Puede configurarse para que solo sea visible para el objetivo.
+command-description-msg-tippy = Envía un Tippy a las sesiones de las entidades de entrada. Deben especificarse todos los parámetros. Devuelve las entidades que lo recibieron correctamente.

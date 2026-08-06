@@ -256,8 +256,8 @@ figurines-mime-7 = !!!
 figurines-mime-8 = ....!
 figurines-mime-9 = ???
 
-figurines-musician-1 = Never gonna give you up!
-figurines-musician-2 = Never gonna let you down!
+figurines-musician-1 = ¡Nunca voy a abandonarte!
+figurines-musician-2 = ¡Nunca voy a decepcionarte!
 figurines-musician-3 = La música es un arte.
 figurines-musician-4 = Gracias, estaré aquí toda la noche.
 figurines-musician-5 = Soy una orquesta solista.

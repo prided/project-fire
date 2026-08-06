@@ -1,2 +1,2 @@
 ent-BolaSyndicate = syndicate bola
-    .desc = A syndicate bola clearly not intended for peaceful purposes.
+    .desc = Una boleadora del Sindicato claramente diseñada para fines poco pacíficos.

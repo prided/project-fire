@@ -371,14 +371,14 @@ reagent-effect-guidebook-plant-robust-harvest =
     } la potencia de la planta { $increase } hasta el máximo en la { $limit }. Hace que la planta pierda sus semillas cuando la potencia alcanza { $seedlesstreshold }. Intentar aumentar la potencia más allá de { $limit } puede causar un 10% de probabilidad de reducir los rendimientos.
 reagent-effect-guidebook-plant-seeds-add =
     { $chance ->
-        [1] Restores the
-       *[other] restore the
-    } seeds of the plant
+        [1] Restaura las
+       *[other] restaura las
+    } semillas de la planta
 reagent-effect-guidebook-plant-seeds-remove =
     { $chance ->
-        [1] Removes the
-       *[other] remove the
-    } seeds of the plant
+        [1] Elimina las
+       *[other] elimina las
+    } semillas de la planta
 reagent-effect-guidebook-cause-flesh-cultist-infection =
     { $chance ->
         [1] Causas

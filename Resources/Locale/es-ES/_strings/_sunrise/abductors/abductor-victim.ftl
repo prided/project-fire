@@ -1,4 +1,4 @@
-objective-issuer-abductor-victim = [color=#d64119]You[/color]
+objective-issuer-abductor-victim = [color=#d64119]Tú[/color]
 abductor-victim-role-greeting =
     De repente, pensamientos extraños surgieron en tu cabeza.
     Solo necesitas cumplir el objetivo que se ha formado de forma maniática en tu cabeza.

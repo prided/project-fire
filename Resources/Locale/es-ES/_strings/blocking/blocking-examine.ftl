@@ -15,6 +15,6 @@ comp-shield-damaged-6 = [color=red]It está monstruosamente desfigurado y casi c
 
 # Shown when examining the e-shield. Each entry represents the e-shield's health condition
 comp-eshield-damaged-1 = Parece absolutamente intacto.
-comp-eshield-damaged-2 = [color=yellow]The indicador de batería es yellow.[/color]
-comp-eshield-damaged-3 = [color=orange]The indicador de batería es naranja, la cúpula de luz está flickering.[/color]
-comp-eshield-damaged-4 = [color=red]The indicador de batería está en rojo, la cúpula de luz apenas holds.[/color]
+comp-eshield-damaged-2 = [color=yellow]La luz de la batería es amarilla.[/color]
+comp-eshield-damaged-3 = [color=orange]La luz de la batería es naranja y la luz sólida parpadea.[/color]
+comp-eshield-damaged-4 = [color=red]La luz de la batería es roja y la luz sólida apenas se mantiene encendida.[/color]

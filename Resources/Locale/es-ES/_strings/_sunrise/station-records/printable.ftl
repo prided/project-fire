@@ -4,15 +4,15 @@ printed-station-records-content =
     ​[head=1]SCP[/head]
     ​[bold]Secure. Contain. Protect.[/bold]
     ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-    ​[bold]Printout de la base de datos del complejo personnel[/bold]
+    ​[bold]Impresión de la base de datos del personal del complejo[/bold]
 
     ​[head=2]Basic Information[/head]
 
     ​[bullet] [color=#594D4A][bold]Name[/bold][/color] [italic]{$name}[/italic]
     ​[bullet] [color=#594D4A][bold]Position:[/bold][/color] [italic]{$job}[/italic]
-    ​[bullet] [color=#594D4A][bold]Department:[/bold][/color] [italic]{$department}[/italic]
-    ​[bullet] [color=#594D4A][bold]Personnel Clase:[/bold][/color] [italic]{$class}[/italic]
-    ​[bullet] [color=#594D4A][bold]Security Autorización: [/bold][/color] [italic]{$access}[/italic]
+    ​[bullet] [color=#594D4A][bold]Departamento:[/bold][/color] [italic]{$department}[/italic]
+    ​[bullet] [color=#594D4A][bold]Clase de personal:[/bold][/color] [italic]{$class}[/italic]
+    ​[bullet] [color=#594D4A][bold]Autorización de seguridad: [/bold][/color] [italic]{$access}[/italic]
     ​[bullet] [color=#594D4A][bold]Age[/bold][/color] [italic]{$age}[/italic]
     ​[bullet] [color=#594D4A][bold]Gender:[/bold][/color] [italic]{$gender}[/italic]
     ​[bullet] [color=#594D4A][bold]View[/bold][/color] [italic]{$species}[/italic]

@@ -1,1 +1,1 @@
-contraband-examine-text-Soviet = [color=orange]This artículo es un contrabando soviético altamente ilegal[/color]
+contraband-examine-text-Soviet = [color=orange]Este artículo es contrabando soviético altamente ilegal.[/color]

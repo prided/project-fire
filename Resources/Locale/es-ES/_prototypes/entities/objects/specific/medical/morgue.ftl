@@ -1,6 +1,6 @@
-ent-BodyBag = Body Bag
+ent-BodyBag = bolsa para cadáveres
     .desc = Una bolsa de plástico diseñada para almacenar y transportar cadáveres, y evitar que se pudran.
-ent-BodyBagFolded = Body Bag
+ent-BodyBagFolded = bolsa para cadáveres
     .desc = Una bolsa de plástico diseñada para almacenar y transportar cadáveres, y evitar que se pudran.
     .suffix = Folded
 ent-Ash = Cenizas

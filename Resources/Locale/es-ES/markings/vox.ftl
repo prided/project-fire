@@ -61,8 +61,8 @@ marking-TattooVoxUnderbelly = Underbelly
 marking-VoxScarEyeRight-vox_scar_eye_right = Right Eye Scar
 marking-VoxScarEyeRight = Eye Scar (Right)
 
-marking-VoxScarEyeLeft-vox_scar_eye_left = Left Eye Scar
-marking-VoxScarEyeLeft = Eye Scar (Left)
+marking-VoxScarEyeLeft-vox_scar_eye_left = Cicatriz en el ojo (izquierda)
+marking-VoxScarEyeLeft = Cicatriz en el ojo (izquierda)
 
 marking-VoxScarTopSurgeryShort-vox_scar_top_surgery_short = Thoracotomy Scar
 marking-VoxScarTopSurgeryShort = Thoracotomy Scar

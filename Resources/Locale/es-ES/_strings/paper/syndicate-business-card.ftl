@@ -1,1 +1,1 @@
-syndicate-business-card-base = { "           " }Nothing personal, solo negocios.
+syndicate-business-card-base = { "           " }Nada personal, solo negocios.

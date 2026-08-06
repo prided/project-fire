@@ -9,6 +9,6 @@ discord-watchlist-connection-entry =
        *[other] { " " }(expira <t:{ $expiry }:R>)
     }{ $otherWatchlists ->
         [0] { "" }
-        [one] { " " }and { $otherWatchlists } otra lista de vigilancia
-       *[other] { " " }and { $otherWatchlists } otras listas de vigilancia
+        [one] { " " }y { $otherWatchlists } otra lista de vigilancia
+       *[other] { " " }y { $otherWatchlists } otras listas de vigilancia
     }

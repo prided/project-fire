@@ -1,56 +1,56 @@
-﻿### Interaction Messages
+### Interaction Messages
 
 # System
 
 ## When trying to ingest without the required utensil... but you gotta hold it
-ingestion-you-need-to-hold-utensil = You need to be holding {INDEFINITE($utensil)} {$utensil} to eat that!
+ingestion-you-need-to-hold-utensil = ¡Debes sostener {INDEFINITE($utensil)} {$utensil} para comer eso!
 
-ingestion-try-use-is-empty = {CAPITALIZE(THE($entity))} is empty!
-ingestion-try-use-wrong-utensil = You can't {$verb} {THE($food)} with {INDEFINITE($utensil)} {$utensil}.
+ingestion-try-use-is-empty = ¡{CAPITALIZE(THE($entity))} está vacío!
+ingestion-try-use-wrong-utensil = No puedes {$verb} {THE($food)} con {INDEFINITE($utensil)} {$utensil}.
 
-ingestion-remove-mask = You need to take off the {$entity} first.
+ingestion-remove-mask = Primero debes quitarte {$entity}.
 
 ## Failed Ingestion
 
-ingestion-you-cannot-ingest-any-more = You can't {$verb} any more!
-ingestion-other-cannot-ingest-any-more = {CAPITALIZE(SUBJECT($target))} can't {$verb} any more!
+ingestion-you-cannot-ingest-any-more = ¡Ya no puedes {$verb} más!
+ingestion-other-cannot-ingest-any-more = ¡{CAPITALIZE(SUBJECT($target))} ya no puede {$verb} más!
 
-ingestion-cant-digest = You can't digest {THE($entity)}!
-ingestion-cant-digest-other = {CAPITALIZE(SUBJECT($target))} can't digest {THE($entity)}!
+ingestion-cant-digest = ¡No puedes digerir {THE($entity)}!
+ingestion-cant-digest-other = ¡{CAPITALIZE(SUBJECT($target))} no puede digerir {THE($entity)}!
 
 ## Action Verbs, not to be confused with Verbs
 
-ingestion-verb-food = Eat
-ingestion-verb-drink = Drink
+ingestion-verb-food = Comer
+ingestion-verb-drink = Beber
 
 # Edible Component
 
-edible-nom = Nom. {$flavors}
-edible-nom-other = Nom.
-edible-slurp = Slurp. {$flavors}
-edible-slurp-other = Slurp.
-edible-swallow = You swallow { THE($food) }
-edible-gulp = Gulp. {$flavors}
-edible-gulp-other = Gulp.
+edible-nom = Ñam. {$flavors}
+edible-nom-other = Ñam.
+edible-slurp = Sorbe. {$flavors}
+edible-slurp-other = Sorbe.
+edible-swallow = Tragas { THE($food) }
+edible-gulp = Glup. {$flavors}
+edible-gulp-other = Glup.
 
-edible-has-used-storage = You cannot {$verb} { THE($food) } with an item stored inside.
+edible-has-used-storage = No puedes {$verb} { THE($food) } mientras haya un objeto guardado dentro.
 
 ## Nouns
 
-edible-noun-edible = edible
-edible-noun-food = food
-edible-noun-drink = drink
-edible-noun-pill = pill
+edible-noun-edible = comestible
+edible-noun-food = comida
+edible-noun-drink = bebida
+edible-noun-pill = pastilla
 
 ## Verbs
 
-edible-verb-edible = ingest
-edible-verb-food = eat
-edible-verb-drink = drink
-edible-verb-pill = swallow
+edible-verb-edible = ingerir
+edible-verb-food = comer
+edible-verb-drink = beber
+edible-verb-pill = tragar
 
 ## Force feeding
 
-edible-force-feed = {CAPITALIZE(THE($user))} is trying to make you {$verb} something!
-edible-force-feed-success = {CAPITALIZE(THE($user))} forced you to {$verb} something! {$flavors}
-edible-force-feed-success-user = You successfully feed {THE($target)}
+edible-force-feed = ¡{CAPITALIZE(THE($user))} está intentando obligarte a {$verb} algo!
+edible-force-feed-success = ¡{CAPITALIZE(THE($user))} te obligó a {$verb} algo! {$flavors}
+edible-force-feed-success-user = Alimentas correctamente a {THE($target)}

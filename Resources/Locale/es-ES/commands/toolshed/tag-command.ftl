@@ -1,12 +1,12 @@
 command-description-tag-list =
-    Lists tags on the given entities.
+    Enumera las etiquetas de las entidades indicadas.
 command-description-tag-with =
-    Returns only the entities with the given tag from the piped list of entities.
+    Devuelve únicamente las entidades que tengan la etiqueta indicada dentro de la lista canalizada.
 command-description-tag-add =
-    Adds a tag to the given entities.
+    Añade una etiqueta a las entidades indicadas.
 command-description-tag-rm =
-    Removes a tag from the given entities.
+    Elimina una etiqueta de las entidades indicadas.
 command-description-tag-addmany =
-    Adds a list of tags to the given entities.
+    Añade una lista de etiquetas a las entidades indicadas.
 command-description-tag-rmmany =
-    Removes a list of tags from the given entities.
+    Elimina una lista de etiquetas de las entidades indicadas.

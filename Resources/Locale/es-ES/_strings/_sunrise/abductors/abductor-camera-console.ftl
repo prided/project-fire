@@ -23,7 +23,7 @@ abductors-ghost-role-rules =
     Se permite recordar el conocimiento general del juego, como cocinar, cómo usar objetos, etc.
     Absolutamente [color=red]NOT[/color] tienes permitido recordar, por ejemplo, el nombre, la apariencia, etc. de tu personaje anterior.
 abductor-round-end-agent-name = Abductor
-objective-issuer-abductors = [color=#FD0098]Mother Ship[/color]
+objective-issuer-abductors = [color=#FD0098]Nave nodriza[/color]
 objective-condition-abduct-title = Secuestra a { $count } gente.
 objective-condition-abduct-description = (usa el Gizmo en la víctima inmovilizada, luego usa el Gizmo en la consola del abductor y selecciona la acción de atracción), luego reemplaza su corazón por una de las glándulas, colócalos en el experimentador y haz clic en Terminar experimento.
 abductor-role-greeting = Soy un científico de combate profesional de una raza de alta tecnología. Mi tarea es secuestrar personas, realizar experimentos con ellas y devolverlas ilesas y salvas para la pureza del experimento. No me interesa destruir la estación, matarlos o ayudar a la tripulación.

@@ -23,7 +23,7 @@ admin-notes-hide = Escóndete
 admin-notes-delete-confirm = ¿Estás seguro?
 admin-notes-edited = Última modificación de { $author } a { $date }
 admin-notes-unbanned = { $admin } no prohibido en { $date }
-admin-notes-message-desc = [color=white]You recibido { $count ->
+admin-notes-message-desc = [color=white]Has recibido { $count ->
         [1] Nuevo mensaje de la administración
        *[other] Nuevos mensajes de la administración
     } desde el último partido en la server.[/color]

@@ -1,4 +1,4 @@
-advertisement-ammo-1 = Free Station: ¡Tu punto de referencia para todo lo relacionado con la Segunda Enmienda!
+advertisement-ammo-1 = Estación de Liberación: ¡Tu referencia para todo lo relacionado con la Segunda Enmienda!
 advertisement-ammo-2 = ¡Sé patriota hoy, toma un arma en las manos!
 advertisement-ammo-3 = ¡Armas de alta calidad a precios bajos!
 advertisement-ammo-4 = ¡Mejor muerto que rojo!

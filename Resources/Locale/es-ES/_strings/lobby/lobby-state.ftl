@@ -21,5 +21,5 @@ lobby-state-player-status-round-time =
     }
 lobby-state-song-text = Interpretación de: [color=white]{ $songTitle }[/color], intérprete [color=white]{ $songArtist }[/color]
 lobby-state-song-no-song-text = No hay ninguna canción sonando en el vestíbulo.
-lobby-state-song-unknown-title = [color=dimgray]Unknown name[/color]
-lobby-state-song-unknown-artist = [color=dimgray]Unknown performer[/color]
+lobby-state-song-unknown-title = [color=dimgray]Título desconocido[/color]
+lobby-state-song-unknown-artist = [color=dimgray]Artista desconocido[/color]

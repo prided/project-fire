@@ -33,7 +33,7 @@ alerts-crit-desc = Estás gravemente herido e inconsciente.
 alerts-dead-name = Fallecimiento
 alerts-dead-desc = Estás muerto. ¡Aviso, aún puedes resucitar!
 alerts-health-name = Salud
-alerts-health-desc = [color=green]Blue y green[/color] bien. [color=red]Red[/color] malo.
+alerts-health-desc = [color=green]Azul y verde[/color]: bien. [color=red]Rojo[/color]: mal.
 alerts-battery-name = Batería
 alerts-battery-desc = Si se acaba la batería, no podrás usar tus habilidades.
 alerts-no-battery-name = Sin batería

@@ -1,2 +1,2 @@
 command-description-marked =
-    Returns the value of $marked as a List<EntityUid>.
+    Devuelve el valor de $marked como List<EntityUid>.

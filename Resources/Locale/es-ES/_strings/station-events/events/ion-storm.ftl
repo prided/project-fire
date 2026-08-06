@@ -14,7 +14,7 @@ ion-storm-x-and-y = { $x } y { $y }
 # subjects can generally be threats or jobs or objects
 # thing is specified above it
 ion-storm-law-on-station = { $joined } { $subjects } ENCONTRADO EN LA ESTACIÓN
-ion-storm-law-call-shuttle = THE SHUTTLE MUST BE CALLED BECAUSE OF { $joined } { $subjects } ON THE STATION
+ion-storm-law-call-shuttle = SE DEBE LLAMAR AL TRANSBORDADOR DEBIDO A { $joined } { $subjects } EN LA ESTACIÓN
 ion-storm-law-no-shuttle = NO SE PUEDE LLAMAR AL TRANSBORDADOR DEBIDO A LA PRESENCIA DE { $joined } { $subjects } EN LA ESTACIÓN
 ion-storm-law-crew-are = TODO { $who } AHORA { $joined } { $subjects }
 ion-storm-law-subjects-harmful = { $adjective } { $subjects } CAUSAR DAÑOS A LA SALUD DEL PERSONAL

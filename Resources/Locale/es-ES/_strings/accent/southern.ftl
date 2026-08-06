@@ -8,5 +8,5 @@ accent-southern-words-4 = No comer
 accent-southern-words-replace-4 = No es así
 accent-southern-words-5 = NO LO SON
 accent-southern-words-replace-5 = No es así
-accent-southern-words-6 = are not
+accent-southern-words-6 = no son
 accent-southern-words-replace-6 = ain't

@@ -1,1 +1,1 @@
-toggle-magboots-verb-get-data-text = Botas magnéticas toggle
+toggle-magboots-verb-get-data-text = Alternar botas magnéticas

@@ -61,6 +61,6 @@ ent-PlayerBorgGenericService = Hombre de Servicio Cyborg
 ent-PlayerBorgSecurityCombatBattery = SB ciborg de combate
     .suffix = Batería, herramientas
     .desc = { ent-BorgChassisGeneric.desc }
-ent-PlayerBorgSpiderSyndicateBattery = Sindicato Araña Cyborg (Battery)
+ent-PlayerBorgSpiderSyndicateBattery = cíborg araña del Sindicato (batería)
     .suffix = Batería, herramientas
     .desc = { ent-BorgChassisSyndicateSpider.desc }

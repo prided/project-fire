@@ -27,47 +27,45 @@ book-text-ame-scribbles =
     La regla de oro es 2 inyecciones por cada núcleo. Para ahorrar combustible, puedes suministrar menos.
     Si pones más, esto provocará un sobrecalentamiento de la PRESA, lo que eventualmente provocará una explosión. Vamos a prescindir de ella.
     No olvides rellenar el DAM, ya que el combustible suele agotarse en el momento más inoportuno.
-book-text-agrichemkit-manual =
-    Thank you for choosing the safe-for-all-ages NanoTrasen Agri-Chem is Fun! chemistry kit, the best learning-adjacent toy of 2468! Be prepared to discover all about the biggest innovations in agriculture since people buried fish with their corn seeds.
+book-text-agrichemkit-manual = Gracias por elegir el kit de química NanoTrasen ¡La agroquímica es divertida!, seguro para todas las edades y el mejor juguete casi educativo de 2468. Prepárate para descubrir las mayores innovaciones agrícolas desde que la gente enterraba peces junto a sus semillas de maíz.
 
-    Contents:
-    5 handily labeled 30u bottles, 1 each of nitrogen, phosphorus, hydrogen, potassium, and ethanol
-    2 Safe-T-Fun(TM) sized 5u vials, 1 each of chlorine and radium
-    1 30u empty bottle, ready for your experiments.
+      Contenido:
+      5 botellas de 30 u debidamente etiquetadas: una de nitrógeno, fósforo, hidrógeno, potasio y etanol.
+      2 viales Safe-T-Fun™ de 5 u, uno de cloro y otro de radio.
+      1 botella vacía de 30 u, lista para tus experimentos.
 
-    First Experiment: EZ Nutrient
-    To create EZ Nutrient, a fertilizer densely packed with nutrients required for healthy plants, mix equal parts nitrogen, phosphorus, and potassium. To make a full bottle, thats 10u of each.
-    A little bottle of EZ Nutrient replaces a big stack of produce you'd otherwise compost to keep your plants growing strong. And crops you compost are crops you didn't make a profit on, so keep that EZ Nutrient flowing.
+      Primer experimento: Nutriente EZ
+      Para crear Nutriente EZ, un fertilizante repleto de los nutrientes necesarios para cultivar plantas sanas, mezcla partes iguales de nitrógeno, fósforo y potasio. Para preparar una botella completa, usa 10 u de cada uno.
+      Una pequeña botella de Nutriente EZ sustituye una gran pila de productos que, de otro modo, tendrías que convertir en composta para mantener fuertes tus plantas. Los cultivos que conviertes en composta son cultivos con los que no obtuviste ganancias, así que no dejes de usar Nutriente EZ.
 
-    Second Experiment: Ammonia and Diethylamine
-    Mix 3 parts hydrogen to 1 part nitrogen to make ammonia. It's a healthy, nutritious treat for your crops that aren't at their best.
-    But if you want to impress the judges at your local NanoTrasen-sponsored County Fair, you'll need to add an equal amount of ethanol to your ammonia.
-    This will mix into Diethylamine, a miracle fertilizer that can make plants grow faster AND live longer! Keep the crops you love with you longer thanks to Diethylamine.
+      Segundo experimento: amoniaco y dietilamina
+      Mezcla 3 partes de hidrógeno con 1 de nitrógeno para producir amoniaco. Es un premio saludable y nutritivo para los cultivos que no están en su mejor momento.
+      Pero si quieres impresionar a los jueces de la feria local patrocinada por NanoTrasen, tendrás que añadir a tu amoniaco la misma cantidad de etanol.
+      ¡Esto se combinará para formar dietilamina, un fertilizante milagroso que permite que las plantas crezcan más rápido Y vivan más! Conserva por más tiempo los cultivos que amas gracias a la dietilamina.
 
-    Third Experiment: Unstable Mutagen
-    When you're ready to show everyone you're the greatest botanist on the station, you'll need to mix up some unstable mutagen and hope for the best. Despite the scary name, unstable mutagen is entirely safe when applied to plants, but do not drink the appealingly green chemical yourself.
+      Tercer experimento: mutágeno inestable
+      Cuando estés listo para demostrar que eres el mejor botánico de la estación, tendrás que preparar mutágeno inestable y esperar lo mejor. A pesar de su nombre aterrador, el mutágeno inestable es completamente seguro cuando se aplica a las plantas, pero no bebas esa tentadora sustancia química verde.
+      
+      Mezcla partes iguales de radio, fósforo y cloro para obtener un lote verde brillante de mutágeno inestable: la manera segura y divertida de aprovechar tu granja. ¡Los 15 u que permite preparar este kit podrían introducirte al estrellato agroquímico!
+      El mutágeno inestable puede tener una gran variedad de efectos sobre la vida vegetal, como cambios drásticos en todo tipo de parámetros de crecimiento, frutos llenos de fármacos útiles, plantas que brillan en la oscuridad o la creación de especies completamente nuevas.
+      
+      Cada planta responde de manera diferente al mutágeno inestable. Conviene aplicar dosis pequeñas a varios cultivos e intentar cruzar los mejores rasgos de cada uno. Aplicar varias dosis a una sola planta puede acumular múltiples cambios y dificultar la selección de rasgos deseables.
+      El mutágeno inestable es completamente seguro cuando se usa como fertilizante, y NanoTrasen no se responsabiliza por cultivos muertos, facturas de agua excesivas, plantas recién dotadas de conciencia que formulen preguntas existenciales ni trabajadores agrícolas estrangulados por la flora que puedan aparecer casualmente durante su uso.
+      No bebas mutágeno inestable. Lávate bien las manos después de manipularlo. Lávate los ojos si lo observaste durante más de 30 minutos en un periodo de 24 horas. Guárdalo en una habitación oscura entre 293 y 295 K. No lo uses durante días festivos corporativos. Si empiezas a oír voces que te ordenan beberlo, comunícate con tu médico, jefe de personal o exorcista.
+book-text-combat-bakery-kit = ¡Gracias por elegir nuestro kit de panadería de combate!
+      El paquete contiene dos (2) croissants arrojadizos patentados por CyberSun y una (1) espada de baguette con patente pendiente.
+      La placa de microondas Donk Co. incluida permite construir un microondas capaz de hornear más armas.
+      Al igual que con las armas horneadas, asegúrate de comerte esta nota después de usarla. Buena suerte, agente.
 
-    Mix equal parts radium, phosphorus, and chlorine together to get a bright green batch of unstable mutagen, the safe and fun way to get the most of your farm. The 15u this kit lets you make could be your introduction to agrichemical stardom!
-    Unstable mutagen can have a wide variety of effects on plant life, including drastic changes to all sorts of growth parameters, produce full of helpful pharmaceuticals, plants that glow in the dark, or creating entirely new species.
+      Receta de espada de baguette:
+      Masa x 1
+      Sal, 5 u
+      Pimienta, 5 u
+      Varilla de metal x 1
+      Tiempo de cocción: 15 segundos
 
-    Each individual plant responds to unstable mutagen differently, so you may want to use small doses on multiple crops and try to crossbreed the best traits from each of those. Applying multiple doses to one plant can stack multiple changes and make it harder to single out desirable traits.
-    Unstable mutagen is entirely safe when used as a fertilizer, and NanoTrasen takes no responsibility for dead crops, excessive water bills, newly sentient plants asking existential questions, or flora-strangled farmhands that may coincidentally occur while using it.
-    Do not drink unstable mutagen. Wash your hands thoroughly after handing. Wash your eyes if you have looked at unstable mutagen for over 30 minutes in a 24 hour period. Store in a dark room between 293–295K. Do not use on corporate holidays. If you begin hearing voices telling you to drink unstable mutagen, please contact your doctor, head of personnel, or exorcist.
-book-text-combat-bakery-kit =
-    Thank you for choosing our combat bakery kit!
-    Enclosed are two (2) CyberSun patented Throwing Croissants, and one (1) patent-pending Baguette Sword.
-    The included Donk Co. microwave board can construct a microwave capable of baking more weapons.
-    Just like the baked weapons, be sure to eat this note after use. Good luck, agent.
-
-    Baguette Sword Recipe:
-    Dough x 1
-    Salt 5u
-    Pepper 5u
-    Metal Rod x 1
-    Cook Time: 15 seconds
-
-    Throwing Croissant Recipe:
-    Raw Croissant x 1
-    Butter Slice x 1
-    Glass Shard x 1
-    Cook Time: 5 seconds
+      Receta de cruasán arrojadizo:
+      Croissant crudo x 1
+      Rebanada de mantequilla x 1
+      Fragmento de vidrio x 1
+      Tiempo de cocción: 5 segundos

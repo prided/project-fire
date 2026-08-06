@@ -1,10 +1,10 @@
 command-description-scale-set =
-    Sets an entity's sprite size to a certain scale (without changing its fixture).
+    Establece el tamaño del sprite de una entidad en una escala determinada sin modificar su fixture.
 command-description-scale-get =
-    Get an entity's sprite scale as set by ScaleVisualsComponent. Does not include any changes directly made in the SpriteComponent.
+    Obtiene la escala del sprite de una entidad según ScaleVisualsComponent. No incluye cambios realizados directamente en SpriteComponent.
 command-description-scale-multiply =
-    Multiply an entity's sprite size with a certain factor (without changing its fixture).
+    Multiplica el tamaño del sprite de una entidad por un factor determinado sin modificar su fixture.
 command-description-scale-multiplyvector =
-    Multiply an entity's sprite size with a certain 2d vector (without changing its fixture).
+    Multiplica el tamaño del sprite de una entidad por un vector 2D determinado sin modificar su fixture.
 command-description-scale-multiplywithfixture =
-    Multiply an entity's sprite size with a certain factor (including its fixture).
+    Multiplica el tamaño del sprite de una entidad por un factor determinado, incluido su fixture.

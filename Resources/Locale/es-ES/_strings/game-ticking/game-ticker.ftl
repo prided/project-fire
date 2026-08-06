@@ -23,7 +23,7 @@ game-ticker-get-info-preround-text =
     Mapa actual: [color=white]{ $mapName }[/color]
     Modo de juego actual: [color=white]{ $gmTitle }[/color]
     >[color=yellow]{ $desc }[/color]
-game-ticker-no-map-selected = ¡[color=red]The mapa aún no ha sido seleccionado[/color]
+game-ticker-no-map-selected = [color=yellow]¡Aún no se seleccionó un mapa![/color]
 game-ticker-player-no-jobs-available-when-joining = Al intentar unirme al juego, no había roles disponibles.
 # Displayed in chat to admins when a player joins
 player-join-message = ¡El jugador { $name } dentro!

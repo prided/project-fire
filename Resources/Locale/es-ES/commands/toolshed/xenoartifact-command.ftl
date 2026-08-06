@@ -1,10 +1,10 @@
 command-description-xenoartifact-list =
-    List all EntityUids of spawned artifacts.
+    Enumera todos los EntityUid de los artefactos generados.
 command-description-xenoartifact-printMatrix =
-    Prints out matrix that displays all edges between nodes.
+    Imprime una matriz que muestra todas las aristas entre nodos.
 command-description-xenoartifact-totalResearch =
-    Gets all research points that can be extracted from artifact currently.
+    Obtiene todos los puntos de investigación que pueden extraerse del artefacto actual.
 command-description-xenoartifact-averageResearch =
-    Calculates amount of research points average generated xeno artifact will output when fully activated.
+    Calcula el promedio de puntos de investigación que generará un artefacto xenológico cuando esté completamente activado.
 command-description-xenoartifact-unlockAllNodes =
-    Unlocks all nodes of artifact.
+    Desbloquea todos los nodos del artefacto.

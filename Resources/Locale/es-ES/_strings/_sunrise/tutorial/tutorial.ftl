@@ -7,7 +7,7 @@ tutorial-time = Tiempo: [color=cyan]{ $time } min.[/color]
 tutorial-status = Estado: { $status }
 tutorial-completed = [color=green]Passed[/color]
 tutorial-is-not-completed = [color=red]Not passed[/color]
-round-is-not-ready = ¡[color=red]The ronda aún no ha empezado[/color]
+round-is-not-ready = ¡[color=red]La ronda aún no ha comenzado[/color]!
 tap-to-start-tutorial-label = ¡Haz clic para empezar!
 tutorial-status-loading = [color=cyan]Loading...[/color]
 tutorial-start-denied-max-active = Todas las plazas de aprendizaje están ocupadas. Por favor, inténtalo de nuevo más tarde.

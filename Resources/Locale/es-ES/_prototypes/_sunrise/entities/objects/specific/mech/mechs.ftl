@@ -7,7 +7,7 @@ ent-MechMiningPod = Shakhtersky bajo
     .desc = A pesar de su tamaño, la cápsula minera tiene una supervivencia increíble en el espacio.
     .suffix = Lleno
 ent-MechDollHouse = Casa de muñecas
-    .desc = SSSP Heavy Mech: Una variante comunista del Durand con armadura mejorada y una potente ametralladora.
+    .desc = Meca pesado de la SSSP: una variante comunista del Durand con blindaje mejorado y una potente ametralladora.
 ent-MechDollHouseBattery = { ent-MechDollHouse }
     .desc = { ent-MechDollHouse.desc }
     .suffix = Batería
@@ -57,4 +57,3 @@ ent-MechRoverSyndieBattery = { ent-MechRoverSyndie }
 ent-MechRoverSyndieFilled = { ent-MechRoverSyndieBattery }
     .suffix = Batería, llena
     .desc = { ent-MechRoverSyndieBattery.desc }
-

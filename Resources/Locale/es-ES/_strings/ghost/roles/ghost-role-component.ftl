@@ -10,7 +10,7 @@ ghost-role-information-nonantagonist-rules =
     Se te permite recordar el conocimiento del juego en su conjunto, como cómo cocinar, cómo usar objetos, etc.
     Absolutamente [color=red]NOT[/color] tienes permitido recordar, por ejemplo, el nombre, la apariencia, etc. de tu personaje anterior.
 ghost-role-information-freeagent-rules =
-    Eres un [color=yellow][bold]Free Agent[/bold][/color]. Eres libre de actuar como antagonista o no antagonista.
+    Eres un [color=yellow][bold]agente libre[/bold][/color]. Puedes actuar como antagonista o como no antagonista.
     No recuerdas nada de tu vida anterior, ni nada de lo que aprendiste como fantasma.
     Se te permite recordar el conocimiento del juego en su conjunto, como cómo cocinar, cómo usar objetos, etc.
     Absolutamente [color=red]NOT[/color] tienes permitido recordar, por ejemplo, el nombre, la apariencia, etc. de tu personaje anterior.
@@ -20,11 +20,11 @@ ghost-role-information-antagonist-rules =
     Se te permite recordar el conocimiento del juego en su conjunto, como cómo cocinar, cómo usar objetos, etc.
     Absolutamente [color=red]NOT[/color] tienes permitido recordar, por ejemplo, el nombre, la apariencia, etc., de tu personaje anterior.
 ghost-role-information-rules-team-antagonist =
-    You are a [color=red][bold]Team Antagonist[/bold][/color]. Your intentions are clear, and harmful to the station and its crew.
-    You must [bold]work with your team[/bold] or follow reasonable directions from your team leaders.
-    You don't remember any of your previous life, and you don't remember anything you learned as a ghost.
-    You are allowed to remember knowledge about the game in general, such as how to cook, how to use objects, etc.
-    You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
+    Eres un [color=red][bold]antagonista de equipo[/bold][/color]. Tus intenciones son claras y perjudiciales para la estación y su tripulación.
+    Debes [bold]trabajar con tu equipo[/bold] o seguir las instrucciones razonables de sus líderes.
+    No recuerdas nada de tu vida pasada ni nada que aprendiste como fantasma.
+    Puedes recordar conocimientos generales del juego, como cocinar, usar objetos y demás.
+    Bajo ningún concepto tienes permitido [color=red]recordar[/color] ni mencionar el nombre, la apariencia u otros datos de tu personaje anterior.
 ghost-role-information-familiar-rules =
     Eres un [color=#6495ed][bold]Familiar[/bold][/color]. Sirve a los intereses de tu amo, sean cuales sean.
     No recuerdas nada de tu vida anterior, ni nada de lo que aprendiste como fantasma.

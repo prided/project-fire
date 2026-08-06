@@ -1,4 +1,4 @@
 command-description-mind-get =
-    Grabs the mind from the entity, if any.
+    Obtiene la mente de la entidad, si tiene una.
 command-description-mind-control =
-    Assumes control of an entity with the given player.
+    Asume el control de una entidad con el jugador indicado.

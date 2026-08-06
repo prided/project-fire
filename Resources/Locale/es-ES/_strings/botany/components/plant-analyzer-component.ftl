@@ -6,8 +6,8 @@ plant-analyzer-component-nutrition = Alimentos:
 plant-analyzer-component-toxins = Toxinas:
 plant-analyzer-component-pests = Plagas:
 plant-analyzer-component-weeds = Malezas:
-plant-analyzer-component-alive = [color=green]ALIVE[color]
-plant-analyzer-component-dead = [color=red]DEAD[color]
+plant-analyzer-component-alive = [color=green]VIVA[color]
+plant-analyzer-component-dead = [color=red]MUERTA[color]
 plant-analyzer-component-unviable = [color=red]DEATH GENE[color]
 plant-analyzer-component-mutating = [color=#00ff5f]MUTATES[color]
 plant-analyzer-component-kudzu = [color=red]KUZU[color]
@@ -26,7 +26,7 @@ plant-analyzer-output =
             }
        *[other]
             Tiene [color=lightgreen]{ $yield } { $potency }[/color]{ $seedless ->
-                [true] { " " }but [color=red]no seeds[/color]
+                [true] { " " }pero [color=red]sin semillas[/color]
                *[false] { $nothing }
             }{ " " }{ $yield ->
                 [one] Flor
@@ -38,7 +38,7 @@ plant-analyzer-output =
                         [one] { " " }highlights
                        *[other] { " " }
                     }{ " " }[bold]{ $gases }[/bold] y
-            }{ " " }will convertirse en { $yield ->
+            }{ " " } se convertirá en { $yield ->
                 [one] { " " }{ INDEFINITE($firstProduce) } [color=#a4885c]{ $produce }[/color]
                *[other] { " " }[color=#a4885c]{ $producePlural }[/color]
             }.{ $chemCount ->

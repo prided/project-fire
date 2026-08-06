@@ -1,46 +1,46 @@
 scp106-dimension-shift-alarm-announcement =
-    EMERGENCY ANNOUNCEMENT TO FACILITY PERSONNEL!
+    ¡ANUNCIO DE EMERGENCIA PARA EL PERSONAL DE LA INSTALACIÓN!
 
-    Multiple breaches of stable reality have been detected. The number of dragged subjects exceeds the acceptable threshold.
-    Probability of spatial collapse is 95%. Zone isolation does not guarantee safety. Normality will destabilize in {$time}
+    Se detectaron múltiples brechas en la realidad estable. La cantidad de sujetos arrastrados supera el umbral aceptable.
+    La probabilidad de colapso espacial es del 95 %. El aislamiento de la zona no garantiza la seguridad. La normalidad se desestabilizará en {$time}
 
-    INCIDENT CLASSIFICATION: DIMENSIONAL SHIFT
+    CLASIFICACIÓN DEL INCIDENTE: CAMBIO DIMENSIONAL
 
-    Do not respond to their voices.
+    No respondas a sus voces.
 
 scp106-many-humans-in-backrooms-alarm-announcement =
-    COUNTDOWN STARTED!!
+    ¡¡COMENZÓ LA CUENTA REGRESIVA!!
 
-    {$time} until phase collapse
-    SCP-106 is violating the boundaries of the known. Reality is losing its grip
+    {$time} hasta el colapso de fase
+    SCP-106 está transgrediendo los límites de lo conocido. La realidad está perdiendo el control
 
-    Evacuate the survivors. Close your eyes
-    Do not breathe
+    Evacua a los supervivientes. Cierra los ojos.
+    No respires
 
 scp106-dimension-shift-averted-announcement =
-    Anomalous SCP-106 activity has been localized.
-    Spatial parameters have been stabilized. Reality has been restored. The critical number of missing subjects has been normalized.
+    La actividad anómala SCP-106 ha sido localizada.
+    Los parámetros espaciales se han estabilizado. La realidad ha sido restaurada. La cantidad crítica de sujetos desaparecidos se ha normalizado.
 
-    Listen to the silence, while it still belongs to you.
+    Escucha el silencio mientras aún te pertenezca.
 
 scp106-dimension-shift-passed-alarm-announcement =
-    Reality has held
+    La realidad ha resistido.
 
-    All rifts are sealed. The continuum is secured with reality anchors. The merging of worlds has been prevented.
-    The complex remains within the space known to us.
+    Todas las grietas están selladas. El continuo está asegurado con anclas de realidad. Se ha impedido la fusión de los mundos.
+    El complejo permanece dentro del espacio que conocemos.
 
-    Personnel, you have done the impossible.
-    But remember: cracks can reappear. Be prepared.
+    Personal, han logrado lo imposible.
+    Pero recuerda: las grietas pueden reaparecer. Mantente alerta.
 
 dimensional-shift-start-alarm-announcement =
-    ‼ PROTOCOL DIMENSIONAL SHIFT INITIATED ‼
-    CONTAINMENT BREACH
+    ‼ PROTOCOLO DE CAMBIO DIMENSIONAL INICIADO ‼
+    BRECHA DE CONTENCIÓN
 
-    Rifts are consuming the structure of the complex. Local geometry is destroyed.
-    Spatial isolation is impossible.
+    Las grietas están consumiendo la estructura del complejo. La geometría local ha sido destruida.
+    El aislamiento espacial es imposible.
 
-    CONTACT WITH PRIMARY REALITY LOST.
-    RESIDUAL PERCEPTIONS DO NOT CONFORM TO ACCEPTABLE COGNITIVE PATTERNS.
+    SE PERDIÓ EL CONTACTO CON LA REALIDAD PRIMARIA.
+    LAS PERCEPCIONES RESIDUALES NO SE AJUSTAN A PATRONES COGNITIVOS ACEPTABLES.
 
-    THREE-LEVEL DETONATION ACTIVATED.
-    SAFETY WILL BE ACHIEVED AT AN ABSOLUTE PRICE
+    DETONACIÓN DE NIVEL TRES ACTIVADA.
+    LA SEGURIDAD SE ALCANZARÁ A UN PRECIO ABSOLUTO

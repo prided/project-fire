@@ -2,11 +2,11 @@ genpop-prisoner-id-expire = ¡Has cumplido tu condena! Ahora puedes salir de la 
 genpop-prisoner-id-popup-not-served = ¡El mandato aún no se ha cumplido!
 genpop-prisoner-id-crime-default = [REDACTADO]
 genpop-prisoner-id-examine-wait =
-    Has servido { $minutes } { $minutes ->
+    Has cumplido { $minutes } { $minutes ->
         [1] minute
        *[other] minutes
     } { $seconds } { $seconds ->
-        [1] second
+        [1] segundo
        *[other] seconds
     } de { $sentence } minutos del tiempo acordado para { $crime }.
 genpop-prisoner-id-examine-wait-perm = Cumples cadena perpetua por { $crime }.
