@@ -1,16 +1,16 @@
 
 [color=#ffffff]Opciones del panel de aparición de entidades[/color]
-[color=#a4885c]Default[/color] genera entidades pequeñas, como tazas, sin alinearlas con nada, pero alinea con la cuadrícula las entidades de bloque, como las paredes.
-[color=#a4885c]PlaceFree[/color] genera todas las entidades sin alinearlas.
-[color=#a4885c]PlaceNearby[/color] limita el radio de aparición a unas 2 casillas.
-[color=#a4885c]SnapgridCenter[/color] alinea la entidad con el centro de la casilla.
-[color=#a4885c]SnapgridBorder[/color] alinea la entidad con el borde de la casilla.
+[color=#a4885c]Predeterminado (Default)[/color] genera entidades pequeñas, como tazas, sin alinearlas con nada, pero alinea con la cuadrícula las entidades de bloque, como las paredes.
+[color=#a4885c]Colocación libre (PlaceFree)[/color] genera todas las entidades sin alinearlas.
+[color=#a4885c]Colocación cercana (PlaceNearby)[/color] limita el radio de aparición a unas 2 casillas.
+[color=#a4885c]Ajustar al centro de la cuadrícula (SnapgridCenter)[/color] alinea la entidad con el centro de la casilla.
+[color=#a4885c]Ajustar al borde de la cuadrícula (SnapgridBorder)[/color] alinea la entidad con el borde de la casilla.
 
 [color=#ffffff]Opciones de alineación con la cuadrícula[/color]
-[color=#a4885c]AlignSimilar[/color] ajusta la entidad a otras entidades similares. Actualmente no funciona.
-[color=#a4885c]AlignTileAny[/color] alinea la entidad con la cuadrícula.
-[color=#a4885c]AlignTileEmpty[/color] requiere que la casilla de destino esté vacía.
-[color=#a4885c]AlignTileNonDense[/color] no permite colisionadores en la casilla de destino.
-[color=#a4885c]AlignTileDense[/color] requiere que haya colisionadores en la casilla de destino.
-[color=#a4885c]AlignWall[/color] ajusta la entidad a medias casillas verticales.
-[color=#a4885c]AlignWallProper[/color] ajusta la entidad al centro de los bordes de la casilla.
+[color=#a4885c]Alinear con similares (AlignSimilar)[/color] ajusta la entidad a otras entidades similares. Actualmente no funciona.
+[color=#a4885c]Alinear con cualquier casilla (AlignTileAny)[/color] alinea la entidad con la cuadrícula.
+[color=#a4885c]Alinear con una casilla vacía (AlignTileEmpty)[/color] requiere que la casilla de destino esté vacía.
+[color=#a4885c]Alinear con una casilla no densa (AlignTileNonDense)[/color] no permite colisionadores en la casilla de destino.
+[color=#a4885c]Alinear con una casilla densa (AlignTileDense)[/color] requiere que haya colisionadores en la casilla de destino.
+[color=#a4885c]Alinear con la pared (AlignWall)[/color] ajusta la entidad a medias casillas verticales.
+[color=#a4885c]Alinear correctamente con la pared (AlignWallProper)[/color] ajusta la entidad al centro de los bordes de la casilla.
