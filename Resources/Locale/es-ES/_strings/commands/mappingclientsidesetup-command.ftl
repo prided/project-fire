@@ -1,2 +1,2 @@
-cmd-mappingclientsidesetup-desc = Configura del lado del cliente el control de iluminación y otros ajustes similares. El comando «mapping» lo envía al cliente.
-cmd-mappingclientsidesetup-help = Uso: mappingclientsidesetup
+cmd-mappingclientsidesetup-desc = Sets up the lighting control and such settings client-side. Sent by 'mapping' to client.
+cmd-mappingclientsidesetup-help = Usage: mappingclientsidesetup

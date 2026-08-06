@@ -30,7 +30,7 @@ rev-role-greeting =
     Deshacerse de todo el personal de mando de la estación.
     Viva la revolución!
 rev-briefing = Ayuda a los líderes de la revolución a deshacerse del mando de la estación para capturarla.
-rev-banned = Fuiste convertido, pero no puedes desempeñar este rol debido a un veto.
+rev-banned = You have been converted but are unable to play due to a ban for this role.
 
 ## General
 

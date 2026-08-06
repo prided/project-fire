@@ -19,7 +19,7 @@ salvage-magnet-resources =
     }
 salvage-magnet-resources-count =
     { $count ->
-        [1] (Pequeño)
+        [1] (Little)
         [2] (Medio)
         [3] (Medio)
         [4] (Mucho)

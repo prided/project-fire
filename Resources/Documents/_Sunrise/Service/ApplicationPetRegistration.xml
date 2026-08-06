@@ -1,38 +1,38 @@
 <Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]APPLICATION[/bold][/color]
+                                  [color=#1B2333][bold]SOLICITUD[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
 [mono][color=#1E4C7A][bold]{corpString} / PD-SRV[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Estación:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Hora:[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Compiler[/bold][/color]
-[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
-[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
+[color=#1B2333][bold]Redactor[/bold][/color]
+[bold][color=#4D5F80]Nombre y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Nombre y apellido"][/bold][/color]
+[bold][color=#4D5F80]Cargo:[/color][/bold] [color=#7A4A00][bold][job="Cargo"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Application para el registro de un animal[/bold][/color]
+[color=#1B2333][bold]Solicitud de registro de mascota[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[bold]Application[/bold]
-Yo, [form="Name y Surname"], en el puesto de [form="POSITION"], pedimos al Jefe de Personal que registre el animal descrito a continuación y le asigne el estatus de "mascota".
+[bold]Solicitud[/bold]
+Yo, [form="Nombre y apellido"], en el puesto de [form="Cargo"], pido al Jefe de Personal que registre el animal descrito a continuación y le asigne el estatus de "mascota".
 
-Apodo: [form="Nickname"]
+Apodo: [form="Apodo"]
 Color: [form="Color"]
-Raza: [form="Breed"]
+Raza: [form="Raza"]
 
-[bold]Reason por registration[/bold]
+[bold]Motivo de registro[/bold]
 [mono]
-1) [form="Paragraph 1"]
-2) [form="Paragraph 2"]
+1) [form="Párrafo 1"]
+2) [form="Párrafo 2"]
 [/mono]
 
 
 Desde el momento en que este documento se sella con el sello del Jefe de Personal, me comprometo a proteger a la mascota que me ha sido confiada, alimentarla a tiempo y proporcionar atención médica.
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
+                     [italic][color=#5A616F]Lugar para sellos[/color][/italic]
 
 
 

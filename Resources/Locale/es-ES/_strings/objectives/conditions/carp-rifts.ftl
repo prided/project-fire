@@ -1,5 +1,5 @@
 objective-carp-rifts-title =
-    Abre { $count } { $count ->
+    Open { $count } { $count ->
         [one] Falla de la Carpa
         [few] Fallas de carpa
        *[other] Fallas de carpa

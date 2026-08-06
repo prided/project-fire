@@ -11,7 +11,7 @@ materials-unit-piece = Unidades
 # bunches of bananium
 materials-unit-bunch = Unidades
 # slabs of meat
-materials-unit-slab = trozos
+materials-unit-slab = Chunks
 # webs of silk
 materials-unit-web = Líneas
 # chunks of ore

@@ -1,28 +1,28 @@
 <Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]CONTRACT[/bold][/color]
+                                  [color=#1B2333][bold]CONTRATO[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
 [mono][color=#1E4C7A][bold]{corpString} / PD-YUR[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Estación:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Hora:[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Compiler[/bold][/color]
-[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
-[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
-
-[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Contract para la provisión de assistance[/bold][/color] legal
-[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-
-[bold]Contents[/bold]
-Yo, [form="Name y Surname"], en la posición [form="POSITION"], pido a [form="Name y Surname"], en el puesto [form="POSITION"], que me proporcionen asistencia legal en relación con: [form="describe la razón por la que necesitas assistance"] legal.
-
-
-Yo, [form="Name y Surname"], en la posición de [form="POSITION"], acepto una solicitud de asistencia legal [form="Name y Surname"], en la posición de [form="POSITION"], en la pregunta [form="formulate una versión corta del motivo por el que estabas contacted"].
+[color=#1B2333][bold]Redactor[/bold][/color]
+[bold][color=#4D5F80]Nombre y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Nombre y apellido"][/bold][/color]
+[bold][color=#4D5F80]Cargo:[/color][/bold] [color=#7A4A00][bold][job="Cargo"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
+[color=#1B2333][bold]Contrato de asistencia legal[/bold][/color]
+[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
+
+[bold]Contenido:[/bold]
+Yo, [form="Nombre y apellido"], en el cargo de [form="Cargo"], solicito a [form="Nombre y apellido"], en el cargo de [form="Cargo"], que me proporcione asistencia legal por el siguiente motivo: [form="describir brevemente el motivo por el que se necesita asistencia legal"].
+
+
+Yo, [form="Nombre y apellido"], en el cargo de [form="Cargo"], acepto la solicitud de asistencia legal de [form="Nombre y apellido"], en el cargo de [form="Cargo"], respecto al siguiente asunto: [form="describir brevemente el motivo de la solicitud"].
+
+[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
+                     [italic][color=#5A616F]Lugar para sellos[/color][/italic]
 
 
 

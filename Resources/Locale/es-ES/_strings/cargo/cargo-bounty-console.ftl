@@ -14,7 +14,7 @@ bounty-console-description-label = [color=gray]{ $description }[/color]
 bounty-console-id-label = ID#{ $id }
 bounty-console-flavor-left = Solicitudes recibidas de comerciantes locales sin escrúpulos.
 bounty-console-flavor-right = v1.4
-bounty-manifest-header = [font size=14][bold]Manifiesto oficial[/bold] de solicitud (ID#{ $id })[/font]
+bounty-manifest-header = [font size=14][bold]Official Manifest[/bold] de solicitud (ID#{ $id })[/font]
 bounty-manifest-list-start = Manifiesto:
 bounty-console-tab-available-label = Disponible
 bounty-console-tab-history-label = Historia

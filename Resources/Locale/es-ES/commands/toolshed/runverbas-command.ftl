@@ -1,2 +1,2 @@
 command-description-runverbas =
-    Ejecuta un verbo sobre las entidades de entrada con el usuario indicado.
+    Runs a verb over the input entities with the given user.

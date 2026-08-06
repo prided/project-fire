@@ -1,2 +1,2 @@
 command-description-rejuvenate =
-    Rejuvenece las entidades indicadas: restaura toda su salud, elimina efectos de estado, etcétera.
+    Rejuvenates the given entities, restoring them to full health, clearing status effects, etc.

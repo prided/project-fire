@@ -1,24 +1,24 @@
 <Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                [color=#8D1010]☆★★ [/color] [color=#1B2333][bold]ANSWER DEL CC[/bold][/color] [color=#8D1010]☆[/color] ★★
+                                [color=#8D1010]☆★★ [/color] [color=#1B2333][bold]RESPUESTA DEL CC[/bold][/color] [color=#8D1010]☆[/color] ★★
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
-[mono][color=#1E4C7A][bold]{corpString} / CC-KOM[/bold][/color] [color=#7A4A00][bold]No [form="Answer number"][/bold][/color][/mono]
+[mono][color=#1E4C7A][bold]{corpString} / CC-KOM[/bold][/color] [color=#7A4A00][bold]N.º [form="Número de respuesta"][/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Object de destino: [/color] [color=#1B2333][form="Name de la object"][/color][/bold]
-[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Objeto de destino: [/color] [color=#1B2333][form="Nombre del objeto"][/color][/bold]
+[bold][color=#4D5F80]Hora:[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Compiler de la document[/bold][/color]
-[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
-[bold][color=#4D5F80]Position del compilador:[/color][/bold] [color=#7A4A00][bold][form="Position del compiler"][/bold][/color]
+[color=#1B2333][bold]Redactor del documento[/bold][/color]
+[bold][color=#4D5F80]Nombre y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Nombre y apellido"][/bold][/color]
+[bold][color=#4D5F80]Cargo del redactor:[/color][/bold] [color=#7A4A00][bold][form="Cargo del redactor"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Central Mando Response[/bold][/color]
+[color=#1B2333][bold]Respuesta del Mando Central[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[color=#2D3442][bold][color=#1B2333]Dear[/color][/bold] [bold][color=#1E4C7A][form="Addressee(s)"][/color][/bold], su mensaje ha sido recibido por el Mando Central y ha sido tomado nota. Queremos informarle que [bold][color=#1E4C7A][form="Response Text"][/color][/bold].[/color]
+[color=#2D3442][bold][color=#1B2333]Estimado(s)[/color][/bold] [bold][color=#1E4C7A][form="Destinatario(s)"][/color][/bold]: el Mando Central recibió su mensaje y tomó nota de su contenido. Le informamos que [bold][color=#1E4C7A][form="Texto de la respuesta"][/color][/bold].[/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
+                     [italic][color=#5A616F]Lugar para sellos[/color][/italic]
 
 
 

@@ -9,8 +9,8 @@ flesh-cult-and-traitor-description = En la estación, el culto a la carne y a lo
 flesh-cult-round-end-agent-name = Cultista de la Carne
 flesh-cult-round-end-cultist-live-amount-none = ¡[color=green]All cultistas han sido destruidos[/color]
 flesh-cult-round-end-cultist-live-amount-low = [color=green]Almost todos los cultistas estaban destroyed.[/color]
-flesh-cult-round-end-flesh-heart-succes = [bold][color=red]La estación se convirtió en la morada de la carne[/color][/bold]
-flesh-cult-round-end-flesh-heart-fail = [bold][color=green]El Culto de la Carne no logró su objetivo[/color][/bold]
+flesh-cult-round-end-flesh-heart-succes = [bold][color=red]The estación se ha convertido en la morada de la carne[/color][/bold]
+flesh-cult-round-end-flesh-heart-fail = [bold][color=green]The Culto de la Carne no ha logrado su objetivo[/color][/bold]
 # Shown at the end of a round of Traitor
 flesh-cult-user-was-a-cultist = [color=gray]{ $user }[/color] era un cultista de la carne.
 flesh-cult-user-was-a-cultist-named = [color=White]{ $name }[/color] ([color=gray]{ $user }[/color]) era un cultista de la carne.
@@ -24,13 +24,13 @@ flesh-cult-was-a-cultist-with-objectives-named = [color=White]{ $name }[/color] 
 flesh-cult-user-was-a-cultist-leader-with-objectives = [color=gray]{ $user }[/color] fue líder de un culto de carne con los siguientes objetivos:
 flesh-cult-user-was-a-cultist-leader-with-objectives-named = [color=White]{ $name }[/color] ([color=gray]{ $user }[/color]) fue líder de un culto de carne con los siguientes propósitos:
 flesh-cult-was-a-cultist-leader-with-objectives-named = [color=White]{ $name }[/color] fue líder de un culto de carne con los siguientes objetivos:
-flesh-cult-round-end-leader = [bold]El líder del Culto de la Carne fue: [color=White]{ $name }[/color] ([color=gray]{ $username }[/color])[/bold]
+flesh-cult-round-end-leader = [bold]The líder del culto a la carne fue: [color=White]{ $name }[/color] ([color=gray]{ $username }[/color])[/bold]
 preset-flesh-cult-objective-issuer-flesh-cult = [color=#e0106a]Cult de la flesh[/color]
 objective-issuer-flesh-cult = [color=#e0106a]Cult de la flesh[/color]
 # Shown at the end of a round of Traitor
-flesh-cult-objective-condition-success = { $condition } | [color=green]¡Éxito! [/color]
+flesh-cult-objective-condition-success = { $condition } | [color=green]Success! [/color]
 # Shown at the end of a round of Traitor
-flesh-cult-objective-condition-fail = { $condition } | [color=red]¡Fracaso![/color] ({ $progress } %)
+flesh-cult-objective-condition-fail = { $condition } | [color=red]Failure![/color] ({ $progress }%)
 flesh-cult-title = El culto de la carne
 flesh-cult-description = Ha aparecido una secta en la emisora que quiere apoderarse de la emisora.
 flesh-cult-not-enough-ready-players = ¡No hay suficientes jugadores listos para jugar! De los { $minimumPlayers } jugadores necesarios, { $readyPlayersCount } están listos.

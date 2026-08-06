@@ -5,7 +5,7 @@ particle-accelerator-control-menu-device-version-label = Acelerador de partícul
 particle-accelerator-control-menu-power-label = [bold]Meals:[/bold]
 particle-accelerator-control-menu-strength-label = [bold]Strength:[/bold]
 particle-accelerator-control-menu-alarm-control-1 = [bold][color=red]PARTICLE POWER[/bold][/color]
-particle-accelerator-control-menu-alarm-control-2 = [bold][color=red]FALLO DEL LIMITADOR[/bold][/color]
+particle-accelerator-control-menu-alarm-control-2 = [bold][color=red]LIMITER FAILURE[/bold][/color]
 particle-accelerator-control-menu-scan-parts-button = Piezas de escaneo
 particle-accelerator-control-menu-check-containment-field-warning = ¡Asegúrate de que el campo de contención esté activo!
 particle-accelerator-control-menu-status-label = [bold]Status[/bold]

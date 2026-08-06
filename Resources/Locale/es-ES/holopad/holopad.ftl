@@ -1,7 +1,7 @@
 # Window headers
 holopad-window-title = { CAPITALIZE($title) }
 holopad-window-subtitle = [color=white][bold]Holographic Comunicación System[/bold][/color]
-holopad-window-options = [color=darkgray][font size=10][italic]Selecciona una opción de la siguiente lista[/italic][/font][/color]
+holopad-window-options = [color=darkgray][font size=10][italic]Please seleccionar una opción de la lista below[/italic][/font][/color]
 # Call status
 holopad-window-no-calls-in-progress = No hay holollamadas activas
 holopad-window-incoming-call = Holocampana entrante de:

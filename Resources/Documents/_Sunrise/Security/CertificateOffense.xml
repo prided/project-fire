@@ -1,38 +1,38 @@
 <Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]TESTIMONY[/bold][/color]
+                                  [color=#1B2333][bold]TESTIMONIO[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
 [mono][color=#1E4C7A][bold]{corpString} / SAT[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Estación:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Hora:[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Compiler[/bold][/color]
-[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
-[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
+[color=#1B2333][bold]Redactor[/bold][/color]
+[bold][color=#4D5F80]Nombre y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Nombre y apellido"][/bold][/color]
+[bold][color=#4D5F80]Cargo:[/color][/bold] [color=#7A4A00][bold][job="Cargo"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Certificate de Offense[/bold][/color]
+[color=#1B2333][bold]Declaración de infracción[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[bold]Contents[/bold]
-Yo, [form="Name y Surname"], en la posición de [form="POSITION"], testifiego sobre delitos/admito personalmente haber cometido delitos previstos en los artículos:
+[bold]Contenido:[/bold]
+Yo, [form="Nombre y apellido"], en el cargo de [form="Cargo"], testifico sobre delitos/admito personalmente haber cometido delitos previstos en los artículos:
 [mono]
-1) [form="Paragraph 1"]
-2) [form="Paragraph 2"]
+1) [form="Párrafo 1"]
+2) [form="Párrafo 2"]
 [/mono]
 
 Respecto a este incidente, puedo explicar lo siguiente.
 
-Escena del crimen: [form="Crime scene"]
-Motivos para cometer un delito: [form="Motives para cometer un crime"]
-Contra quién se cometió el delito: [form="Against contra quién fue el delito committed"]
-La naturaleza y el alcance del daño causado por el delito: [form="The la naturaleza y la extensión del daño causado por el crime"]
-Cómplices en el crimen: [form="Accomplices en crime"]
-Cronología completa de los acontecimientos: [form="Full cronología de events"]
+Escena del crimen: [form="Delito escena"]
+Motivos para cometer un delito: [form="Motivos para cometer un delito"]
+Contra quién se cometió el delito: [form="Contra quién fue el delito cometido"]
+La naturaleza y el alcance del daño causado por el delito: [form="El la naturaleza y la extensión del daño causado por el delito"]
+Cómplices en el crimen: [form="Cómplices en delito"]
+Cronología completa de los acontecimientos: [form="Completo cronología de hechos"]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
+                     [italic][color=#5A616F]Lugar para sellos[/color][/italic]
 
 
 

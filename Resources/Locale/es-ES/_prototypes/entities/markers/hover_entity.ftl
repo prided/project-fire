@@ -1,2 +1,2 @@
-ent-hoverentity = entidad flotante
+ent-hoverentity = hover entity
     .desc = { "" }

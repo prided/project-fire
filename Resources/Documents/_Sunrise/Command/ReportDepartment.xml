@@ -1,32 +1,32 @@
 <Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]REPORT[/bold][/color]
+                                  [color=#1B2333][bold]INFORME[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
 [mono][color=#1E4C7A][bold]{corpString} / COM[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Estación:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Hora:[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Compiler[/bold][/color]
-[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
-[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
+[color=#1B2333][bold]Redactor[/bold][/color]
+[bold][color=#4D5F80]Nombre y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Nombre y apellido"][/bold][/color]
+[bold][color=#4D5F80]Cargo:[/color][/bold] [color=#7A4A00][bold][job="Cargo"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Report sobre el trabajo de la department[/bold][/color]
+[color=#1B2333][bold]Informe de actividad del departamento[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[bold]Report[/bold]
-Número de empleados en el departamento: [form="Number de employees"]
-Número de becarios: [form="Number de interns"]
+[bold]Informe:[/bold]
+Número de empleados en el departamento: [form="Número de empleados"]
+Número de becarios: [form="Número de pasantes"]
 
-Empleados inactivos del departamento: [form="Inactive empleados del department"]
+Empleados inactivos del departamento: [form="Inactivo empleados del departamento"]
 Nombre completo, título del puesto, motivo
 
-El grado de preparación del objetivo: [form="The grado de preparación del target"]
-Estado general del departamento: [form="General estado del department"]
+El grado de preparación del objetivo: [form="El grado de preparación del objetivo"]
+Estado general del departamento: [form="General estado del departamento"]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
+                     [italic][color=#5A616F]Lugar para sellos[/color][/italic]
 
 
 

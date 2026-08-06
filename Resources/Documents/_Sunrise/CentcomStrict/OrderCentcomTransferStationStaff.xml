@@ -1,32 +1,32 @@
 <Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                    [color=#8D1010]☆★★ [/color] [color=#1B2333][bold]ORDER ★★ [/bold][/color] [color=#8D1010]☆[/color]
+                                    [color=#8D1010]☆★★ [/color] [color=#1B2333][bold]ORDEN ★★ [/bold][/color] [color=#8D1010]☆[/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
-[mono][color=#1E4C7A][bold]{corpString} / CC-KOM[/bold][/color] [color=#7A4A00][bold]No [form="Order number"][/bold][/color][/mono]
+[mono][color=#1E4C7A][bold]{corpString} / CC-KOM[/bold][/color] [color=#7A4A00][bold]N.º [form="Número de orden"][/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Object de destino: [/color] [color=#1B2333][form="Name de la object"][/color][/bold]
-[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Objeto de destino: [/color] [color=#1B2333][form="Nombre del objeto"][/color][/bold]
+[bold][color=#4D5F80]Hora:[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Compiler[/bold][/color]
-[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
-[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
+[color=#1B2333][bold]Redactor[/bold][/color]
+[bold][color=#4D5F80]Nombre y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Nombre y apellido"][/bold][/color]
+[bold][color=#4D5F80]Cargo:[/color][/bold] [color=#7A4A00][bold][job="Cargo"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Order sobre la transferencia de personnel[/bold][/color]
+[color=#1B2333][bold]Orden de traslado del personal de la estación[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[color=#2D3442]In en relación con la implementación de la fase actual de trabajo, [bold][color=#8D1010]we para iniciar la transferencia de la instalación personnel[/color][/bold].[/color]
+[color=#2D3442]En relación con la implementación de la fase actual de trabajo, [bold][color=#8D1010]ordenamos iniciar el traslado del personal de la instalación[/color][/bold].[/color]
 
 [bold][mono][color=#2D3442]
- ► [bold][color=#8D1010]From el momento de recibir el documento, notifique a la tripulación la preparación del transfer.[/color][/bold]
- ► [bold][color=#1E4C7A]Call el transbordador de evacuación en:[/color][/bold] [form="Time desde el inicio del shift"].
+ ► [bold][color=#8D1010]A partir del momento en que reciba el documento, notifique a la tripulación la preparación del traslado.[/color][/bold]
+ ► [bold][color=#1E4C7A]Solicitar el transbordador de evacuación a las:[/color][/bold] [form="Hora desde el inicio del turno"].
 [/color][/mono][/bold]
 
-[bold][color=#7A4A00]Responsible para la ejecución: [/color][/bold] [bold][color=#1E4C7A][form="Position del person"][/color][/bold] responsable
-[bold][color=#7A4A00]Deadline:[/color][/bold] [bold][color=#8D1010][form="Time"][/color][/bold]
+[bold][color=#7A4A00]Responsable de la ejecución:[/color][/bold] [bold][color=#1E4C7A][form="Cargo de la persona responsable"][/color][/bold]
+[bold][color=#7A4A00]Plazo:[/color][/bold] [bold][color=#8D1010][form="Hora"][/color][/bold]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
+                     [italic][color=#5A616F]Lugar para sellos[/color][/italic]
 
 
 

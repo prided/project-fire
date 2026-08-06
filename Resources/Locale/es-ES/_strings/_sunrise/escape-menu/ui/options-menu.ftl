@@ -35,5 +35,5 @@ ui-options-trace-tooltip =
     Y el hitscan no mostrará la textura de humo detrás de la bala voladora.
 ui-options-tts-enabled = Integración TTC
 ui-options-tts-queue = ¿Usar la cola para la radio TTS?
-ui-options-tts-radio-ghost-enabled = TTS de walkie-talkies para fantasmas
+ui-options-tts-radio-ghost-enabled = Walkie-talkies TTS en Ghost
 ui-options-function-open-messenger = Mensajero abierto

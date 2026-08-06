@@ -9,7 +9,7 @@ changeling-absorb-fail-absorbed = Ya lo has absorbido.
 changeling-absorb-fail-unabsorbable = El objetivo no es absorbible.
 changeling-absorb-end-self = Otra materia orgánica ha sido absorbida. Estás evolucionando.
 changeling-absorb-end-self-ling = Otro Genestealer ha sido consumido. Evolucionas más rápido.
-changeling-absorb-onexamine = [color=red]El cuerpo se siente hueco.[/color]
+changeling-absorb-onexamine = [color=red]The cuerpo parece empty.[/color]
 changeling-transform-cycle = Cambié a { $target } de ADN.
 changeling-transform-cycle-empty = ¡No tienes ninguna hebra de ADN!
 changeling-transform-others = ¡El cuerpo de { CAPITALIZE(THE($user)) } se curva y toma la forma de otra criatura!

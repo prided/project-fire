@@ -35,4 +35,4 @@ comp-kitchen-spike-hooked = ¡[color=red]{ CAPITALIZE($victim) } está empalada 
 
 comp-kitchen-spike-meat-name = { $name } ({ $victim })
 
-comp-kitchen-spike-victim-examine = [color=orange]{ CAPITALIZE($target) } parece bastante delgado.[/color]
+comp-kitchen-spike-victim-examine = [color=orange]{ CAPITALIZE($target) } parece bastante lean.[/color]

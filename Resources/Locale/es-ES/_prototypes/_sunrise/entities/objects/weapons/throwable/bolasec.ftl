@@ -1,2 +1,2 @@
-ent-BolaSecurity = bola de seguridad
-    .desc = Una bola mejorada, diseñada para detener a criminales especialmente peligrosos.
+ent-BolaSecurity = security bola
+    .desc = An improved bola designed for the detention of particularly dangerous criminals.

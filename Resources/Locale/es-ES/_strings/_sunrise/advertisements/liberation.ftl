@@ -1,4 +1,4 @@
-advertisement-liberation-1 = Estación Libre: ¡Tu referencia para todo lo relacionado con la Segunda Enmienda!
+advertisement-liberation-1 = Free Station: ¡Tu punto de referencia para todo lo relacionado con la Segunda Enmienda!
 advertisement-liberation-2 = ¡Sé patriota hoy, toma un arma en las manos!
 advertisement-liberation-3 = ¡Armas de alta calidad a precios bajos!
 advertisement-liberation-4 = ¡Mejor muerto que rojo!

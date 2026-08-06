@@ -1,1 +1,1 @@
-equip-spray-verb-press = Presionar
+equip-spray-verb-press = Press

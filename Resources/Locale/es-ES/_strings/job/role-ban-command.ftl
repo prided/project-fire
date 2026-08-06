@@ -46,4 +46,4 @@ cmd-roleban-inf = Para siempre
 cmd-roleban-until = hasta { $expires }
 # Department bans
 cmd-departmentban-desc = Evita que el usuario desempeñe roles que forman parte del departamento
-cmd-departmentban-help = Uso: departmentban <nombre o ID de usuario> <departamento> <motivo> [duración en minutos; omítela o usa 0 para un veto permanente]
+cmd-departmentban-help = Uso: departmentban <nombre o ID de usuario> <department> <reason> [duración en minutos, no especificar o 0 por siempre]

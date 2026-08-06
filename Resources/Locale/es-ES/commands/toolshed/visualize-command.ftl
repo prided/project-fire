@@ -1,2 +1,2 @@
 command-description-visualize =
-    Toma la lista de entidades de entrada y las coloca en una ventana de la interfaz para facilitar su exploración.
+    Takes the input list of entities and puts them into a UI window for easy browsing.

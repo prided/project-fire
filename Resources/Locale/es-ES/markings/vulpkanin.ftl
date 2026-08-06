@@ -127,7 +127,7 @@ marking-VulpBellyCrest-belly_crest = Belly
 marking-VulpBellyCrest = Vulpkanin Belly Crest
 
 marking-VulpBellyFull-belly_full = Belly
-marking-VulpBellyFull = Vientre completo de vulpkanin
+marking-VulpBellyFull = Vulpkanin Belly Full
 
 marking-VulpBellyFox-belly_fox = Belly
 marking-VulpBellyFox = Vulpkanin Belly Fox
@@ -223,7 +223,7 @@ marking-VulpHairApollo = Apollo
 marking-VulpHairBelle = Belle
 marking-VulpHairBraided = Braided Hair
 marking-VulpHairBun = Bun
-marking-VulpHairCleanCut = Corte limpio
+marking-VulpHairCleanCut = Clean Cut
 marking-VulpHairCurl = Curl
 marking-VulpHairHawk = Hawk
 marking-VulpHairJagged = Jagged

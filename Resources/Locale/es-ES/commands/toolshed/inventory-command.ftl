@@ -1,20 +1,20 @@
 command-description-inventory-getflags =
-    Obtiene todas las entidades situadas en ranuras del inventario canalizado que coincidan con una determinada bandera de ranura.
+    Gets all entities in slots on the piped inventory entity matching a certain slot flag.
 command-description-inventory-getnamed =
-    Obtiene todas las entidades situadas en ranuras del inventario canalizado que coincidan con un nombre de ranura determinado.
+    Gets all entities in slots on the piped inventory entity matching a certain slot name.
 command-description-inventory-forceput =
-    Coloca una entidad determinada en la primera entidad canalizada que tenga una ranura con la bandera indicada y elimina cualquier objeto que estuviera antes en ella.
+    Puts a given entity on the first piped entity that has a slot matching the given flag, deleting any item previously in that slot.
 command-description-inventory-forcespawn =
-    Genera el prototipo indicado en la primera entidad canalizada que tenga una ranura con la bandera especificada y elimina cualquier objeto que estuviera antes en ella.
+    Spawns a given prototype on the first piped entity that has a slot matching the given flag, deleting any item previously in that slot.
 command-description-inventory-put =
-    Coloca una entidad determinada en la primera entidad canalizada que tenga una ranura con la bandera indicada y desequipa cualquier objeto que estuviera antes en ella.
+    Puts a given entity on the first piped entity that has a slot matching the given flag, unequiping any item previously in that slot.
 command-description-inventory-spawn =
-    Genera el prototipo indicado en la primera entidad canalizada que tenga una ranura con la bandera especificada y desequipa cualquier objeto que estuviera antes en ella.
+    Spawns a given prototype on the first piped entity that has a slot matching the given flag, unequiping any item previously in that slot.
 command-description-inventory-tryput =
-    Intenta colocar una entidad determinada en la primera entidad canalizada que tenga una ranura compatible con el indicador especificado; falla si ya hay un objeto en esa ranura.
+    Tries to put a given entity on the first piped entity that has a slot matching the given flag, failing if any item is in currently in that slot.
 command-description-inventory-tryspawn =
-    Intenta generar un prototipo determinado en la primera entidad canalizada que tenga una ranura compatible con el indicador especificado; falla si ya hay un objeto en esa ranura.
+    Tries to spawn a given prototype on the first piped entity that has a slot matching the given flag, failing if any item is in currently in that slot.
 command-description-inventory-ensure =
-    Coloca una entidad determinada en la primera entidad canalizada que tenga una ranura con la bandera indicada, si aún no existe ninguna, y al final devuelve el UID de lo que haya en la ranura.
+    Puts a given entity on the first piped entity that has a slot matching the given flag if none exists, passing through the UID of whatever is in the slot by the end.
 command-description-inventory-ensurespawn =
-    Genera el prototipo indicado en la primera entidad canalizada que tenga una ranura con la bandera especificada, si aún no existe ninguno, y al final devuelve el UID de lo que haya en la ranura.
+    Spawns a given prototype on the first piped entity that has a slot matching the given flag if none exists, passing through the UID of whatever is in the slot by the end.

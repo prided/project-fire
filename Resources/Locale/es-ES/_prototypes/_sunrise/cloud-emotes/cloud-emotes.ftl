@@ -1,6 +1,6 @@
 cmd-emote-desc = Plays emote
-cmd-emote-help = Uso: emote <emoticón>
-cmd-emote-invalid-emote = Este emoticón no existe.
-cmd-emote-ghost = No puedes usar emoticones como fantasma.
-cmd-emote-timeout = Termina el emoticón anterior primero.
+cmd-emote-help = Usage: emote <emote>
+cmd-emote-invalid-emote = This emote doesn't exist.
+cmd-emote-ghost = You can't use emotes as ghosts.
+cmd-emote-timeout = Finish previous emote first.
 cmd-emote-hint-1 = <emote>

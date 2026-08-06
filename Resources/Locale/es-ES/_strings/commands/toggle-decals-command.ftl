@@ -1,2 +1,2 @@
-cmd-toggledecals-desc = Alterna la superposición de calcomanías.
-cmd-toggledecals-help = Uso: toggledecals
+﻿cmd-toggledecals-desc = Toggles decal overlay.
+cmd-toggledecals-help = Usage: toggledecals

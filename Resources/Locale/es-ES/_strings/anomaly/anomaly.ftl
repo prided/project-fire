@@ -45,7 +45,7 @@ anomaly-gorilla-charge-limit =
         [few] Carga
        *[other] Cargos
     }[/color].
-anomaly-gorilla-charge-infinite = Tiene [color=gold]cargas infinitas[/color]. [italic]Por ahora...[/italic]
+anomaly-gorilla-charge-infinite = Quedan [color=gold]infinite charges[/color] más. [italic]For now...[/italic]
 anomaly-sync-connected = Anomalía Enlazada con Éxito
 anomaly-sync-disconnected = ¡La conexión con la anomalía se ha perdido!
 anomaly-sync-no-anomaly = No hay anomalía dentro del rango.
@@ -75,8 +75,8 @@ anomaly-generator-flavor-right = v1.1
 anomaly-behavior-unknown = [color=red]MISTAKE. Imposible de count.[/color]
 anomaly-behavior-title = Análisis de desviaciones conductuales:
 anomaly-behavior-point = [color=gold]Anomaly genera un { $mod }% de points[/color]
-anomaly-behavior-safe = [color=forestgreen]La anomalía es extremadamente estable. Sus pulsaciones son muy poco frecuentes.[/color]
-anomaly-behavior-slow = [color=forestgreen]Las pulsaciones son mucho menos frecuentes.[/color]
+anomaly-behavior-safe = [color=forestgreen]The anomalía es extremadamente estable. Extremadamente rara pulses.[/color]
+anomaly-behavior-slow = [color=forestgreen]The frecuencia de pulsos es significativamente reduced.[/color]
 anomaly-behavior-light = [color=forestgreen]Pulse potencia es significativamente reduced.[/color]
 anomaly-behavior-balanced = No se detectaron desviaciones de comportamiento.
 anomaly-behavior-delayed-force = La frecuencia de las pulsaciones se reduce significativamente, pero su intensidad aumenta.
@@ -87,6 +87,6 @@ anomaly-behavior-sensivity = Se ha detectado una reacción fuerte a las partícu
 anomaly-behavior-invisibility = Se detectó distorsión del flujo de luz.
 anomaly-behavior-secret = Se detectó interferencia. Algunos datos no pueden leerse
 anomaly-behavior-inconstancy = [color=crimson]Impermanence ha sido detectado. Con el tiempo, los tipos de partículas pueden change.[/color]
-anomaly-behavior-fast = [color=crimson]La frecuencia de las pulsaciones aumentó considerablemente.[/color]
-anomaly-behavior-strenght = [color=crimson]La potencia de las pulsaciones aumentó considerablemente.[/color]
+anomaly-behavior-fast = [color=crimson]The frecuencia de pulsos es significativamente increased.[/color]
+anomaly-behavior-strenght = [color=crimson]The potencia de los pulsos es significativamente increased.[/color]
 anomaly-behavior-moving = [color=crimson]Coordinate inestabilidad detected.[/color]

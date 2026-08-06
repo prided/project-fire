@@ -75,7 +75,7 @@ ent-JugWeldingFuel = { ent-Jug }
 # Sunrise-Edit
 ent-JugPunctTranex = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = Objeto y Tranex
+    .suffix = Item & Tranex
 ent-JugPyraDerma = { ent-Jug }
     .desc = { ent-Jug.desc }
     .suffix = Pira & Derma

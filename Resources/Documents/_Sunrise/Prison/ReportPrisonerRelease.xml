@@ -1,41 +1,41 @@
 <Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]REPORT[/bold][/color]
+                                  [color=#1B2333][bold]INFORME[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
 [mono][color=#1E4C7A][bold]{corpString} / CPC-SB[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Estación:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Hora:[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Compiler[/bold][/color]
-[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
-[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
+[color=#1B2333][bold]Redactor[/bold][/color]
+[bold][color=#4D5F80]Nombre y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Nombre y apellido"][/bold][/color]
+[bold][color=#4D5F80]Cargo:[/color][/bold] [color=#7A4A00][bold][job="Cargo"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Report al expirar el plazo de imprisonment[/bold][/color]
+[color=#1B2333][bold]Informe de liberación de prisionero[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[bold]Report[/bold]
-Nombre del prisionero: [form="Prisoner es Name"]
+[bold]Informe:[/bold]
+Nombre del prisionero: [form="Prisionero es Nombre"]
 
-Edad: [form="Age"]
+Edad: [form="Edad"]
 
-Raza: [form="Race"]
+Raza: [form="Raza"]
 
-Altura: [form="Growth"]
+Altura: [form="Crecimiento"]
 
-La ley bajo la cual se juzgaba al prisionero: [form="The ley bajo la cual el acusado era tried"]
+La ley bajo la cual se juzgaba al prisionero: [form="El ley bajo la cual el acusado era intentó"]
 
-[bold]Cause[/bold]
+[bold]Causa:[/bold]
 [mono]
-1) [form="Paragraph 1"]
-2) [form="Paragraph 2"]
+1) [form="Párrafo 1"]
+2) [form="Párrafo 2"]
 [/mono]
 
-Tiempo de estancia: [form="Time de stay"]
+Tiempo de estancia: [form="Hora de estancia"]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
+                     [italic][color=#5A616F]Lugar para sellos[/color][/italic]
 
 
 

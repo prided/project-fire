@@ -29,4 +29,4 @@ guidebook-reagent-recipes-mix-info =
                *[false] por encima { $minTemp }K
             }
     }
-guidebook-reagent-physical-description = [italic]La sustancia parece { $description }.[/italic].
+guidebook-reagent-physical-description = [italic]The sustancia parece { $description }.[/italic].

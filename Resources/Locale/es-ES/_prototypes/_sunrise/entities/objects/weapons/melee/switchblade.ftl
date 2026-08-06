@@ -1,2 +1,2 @@
 ent-WeaponMeleeSwitchblade = Navaja automática
-    .desc = ¡SCHINK! Qué genial.
+    .desc = ¡CLICK! Y qué guay es.

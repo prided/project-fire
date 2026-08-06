@@ -199,8 +199,8 @@ stack-wizcoin = Vizoin
 stack-abyssium-ore = Mineral del Abismo
 stack-abyssium-bar = Barra del Abismo
 
-ent-VendingMachineRestockDonk = Caja de recarga de Donk on the Go
-    .desc = Una caja llena de lo que legalmente se considera comida. Cárgala en la máquina Donk on the Go para reabastecerla.
+ent-VendingMachineRestockDonk = Caja de recarga Donk on the Go
+    .desc = Una caja llena de lo que legalmente se considera comida. Cárgalo en la máquina Donk on the Go para recargarlo.
 
 ent-AirlockBrigmedLocked = { ent-AirlockMedical }
     .desc = { ent-AirlockMedical.desc }

@@ -1,33 +1,33 @@
 <Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]CONTRACT[/bold][/color]
+                                  [color=#1B2333][bold]CONTRATO[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
 [mono][color=#1E4C7A][bold]SND / KOM-S[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Estación:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Hora:[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Compiler[/bold][/color]
-[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
-[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
+[color=#1B2333][bold]Redactor[/bold][/color]
+[bold][color=#4D5F80]Nombre y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Nombre y apellido"][/bold][/color]
+[bold][color=#4D5F80]Cargo:[/color][/bold] [color=#7A4A00][bold][job="Cargo"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Business deal[/bold][/color]
+[color=#1B2333][bold]Acuerdo comercial[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[bold]Contents[/bold]
-Indicativo del agente: [form="Agent Callsign"]
+[bold]Contenido:[/bold]
+Indicativo del agente: [form="Indicativo del agente"]
 
-El sindicato amablemente ofrece llegar a un acuerdo entre la emisora y el agente [form="the el agente sign"] de llamada. Por parte de la emisora, es necesario:
+El Sindicato propone formalizar un acuerdo entre la estación y el agente [form="indicativo del agente"]. La estación deberá:
 
-[bold]Reason por cumplir los términos del transaction[/bold]
+[bold]Motivo para cumplir los términos de la transacción:[/bold]
 [mono]
-1) [form="Paragraph 1"]
-2) [form="Paragraph 2"]
+1) [form="Párrafo 1"]
+2) [form="Párrafo 2"]
 [/mono]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
+                     [italic][color=#5A616F]Lugar para sellos[/color][/italic]
 
 
 

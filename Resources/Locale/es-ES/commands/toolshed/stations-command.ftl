@@ -1,20 +1,20 @@
 command-description-stations-list =
-    Devuelve una lista de todas las estaciones.
+    Returns a list of all stations.
 command-description-stations-get =
-    Obtiene la estación activa si, y solo si, existe una sola.
+    Gets the active station, if and only if there is only one.
 command-description-stations-getowningstation =
-    Obtiene la estación a la que «pertenece» una entidad determinada (dentro de ella).
+    Gets the station that a given entity is "owned by" (within)
 command-description-stations-grids =
-    Devuelve todas las cuadrículas asociadas a la estación de entrada.
+    Returns all grids associated with the input station.
 command-description-stations-config =
-    Devuelve la configuración asociada a la estación de entrada, si existe.
+    Returns the config associated with the input station, if any.
 command-description-stations-addgrid =
-    Añade una cuadrícula a la estación indicada.
+    Adds a grid to the given station.
 command-description-stations-rmgrid =
-    Elimina una cuadrícula de la estación indicada.
+    Removes a grid from the given station.
 command-description-stations-rename =
-    Cambia el nombre de la estación indicada.
+    Renames the given station.
 command-description-stations-largestgrid =
-    Devuelve la cuadrícula más grande que tenga la estación indicada, si existe.
+    Returns the largest grid the given station has, if any.
 command-description-stations-rerollBounties =
-    Borra todas las recompensas actuales de la estación y genera una nueva selección.
+    Clears all the current bounties for the station and gets a new selection.

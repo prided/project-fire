@@ -4,4 +4,4 @@ ghost-command-help-text =
     Ten en cuenta que esta acción es irreversible y no podrás volver al cuerpo de tu personaje.
 ghost-command-no-session = No estás en sesión, no puedes usar fantasma.
 ghost-command-denied = No puedes convertirte en fantasma ahora mismo.
-ghost-command-error-lobby = No puedes convertirte en fantasma ahora. ¡No estás en la partida!
+ghost-command-error-lobby = You can't ghost right now. You are not in the game!

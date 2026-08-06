@@ -24,7 +24,7 @@ ghost-roles-window-raffle-in-progress-button =
        *[other] { $players } jugadores
     })
 ghost-roles-window-leave-raffle-button =
-    Salir (quedan { $time }, { $players ->
+    Leave ({ $time } left, { $players ->
         [one] { $players } jugador
         [few] { $players } jugador
        *[other] { $players } jugadores

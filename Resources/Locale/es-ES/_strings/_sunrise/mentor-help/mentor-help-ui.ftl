@@ -73,7 +73,7 @@ mentor-help-label-subject = Asunto:
 
 
 help-choice-title = Selecciona el tipo de asistencia
-help-choice-title-label = [color=white][font size=16]¿Qué tipo de ayuda necesitas?[/font][/color]
+help-choice-title-label = [color=white][font size=16]What tipo de ayuda necesitas[/font][/color]
 help-choice-ahelp-button = Asistencia administrativa
 help-choice-mhelp-button = Mentor-ayuda
 help-choice-ahelp-desc-label = [color=#CCCCCC][font size=12]• Ayuda para administradores - Para quejas de jugadores, informes de errores y violations[/font][/color] de reglas

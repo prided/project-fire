@@ -1,4 +1,4 @@
-advertisement-smartfridge-1 = ¡Hola, mundo!
+advertisement-smartfridge-1 = Hello world!
 advertisement-smartfridge-2 = POR FAVOR, DÉJAME SALIR
 advertisement-smartfridge-3 = Puedo hacer un quintillón de cálculos por segundo. Ahora soy un frigorífico.
 advertisement-smartfridge-4 = Está disponible una nueva actualización de firmware.

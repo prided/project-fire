@@ -1,33 +1,33 @@
 <Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]REPORT[/bold][/color]
+                                  [color=#1B2333][bold]INFORME[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
 [mono][color=#1E4C7A][bold]{corpString} / SAT[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Estación:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Hora:[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Compiler[/bold][/color]
-[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
-[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
-
-[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Investigation Report[/bold][/color]
-[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-
-[bold]Report[/bold]
-Pruebas, pruebas materiales: [form="Evidence, material evidence"]
-
-Sospechoso(s): [form="Suspect(s)"]
-
-Testigo(s) entrevistado(s): [form="Interviewed testigo(s)"]
-
-Resumen de la investigación: [form="Summary de la investigation"]
-
-El caso podría cerrarse debido a [form="disclosure o imposibilidad de más investigation"].
+[color=#1B2333][bold]Redactor[/bold][/color]
+[bold][color=#4D5F80]Nombre y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Nombre y apellido"][/bold][/color]
+[bold][color=#4D5F80]Cargo:[/color][/bold] [color=#7A4A00][bold][job="Cargo"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
+[color=#1B2333][bold]Informe de investigación[/bold][/color]
+[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
+
+[bold]Informe:[/bold]
+Pruebas y evidencias materiales: [form="Pruebas y evidencias materiales"]
+
+Sospechoso(s): [form="Sospechoso(s)"]
+
+Testigo(s) entrevistado(s): [form="Testigo(s) entrevistado(s)"]
+
+Resumen de la investigación: [form="Resumen de la investigación"]
+
+El caso podría cerrarse debido a [form="divulgación o imposibilidad de más investigación"].
+
+[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
+                     [italic][color=#5A616F]Lugar para sellos[/color][/italic]
 
 
 

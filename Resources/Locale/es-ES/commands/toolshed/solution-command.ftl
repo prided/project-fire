@@ -1,4 +1,4 @@
 command-description-solution-get =
-    Obtiene la solución indicada de la entidad especificada.
+    Grabs the given solution off the given entity.
 command-description-solution-adjreagent =
-    Ajusta el reactivo indicado en la solución especificada.
+    Adjusts the given reagent on the given solution.

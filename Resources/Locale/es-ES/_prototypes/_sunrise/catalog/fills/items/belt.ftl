@@ -7,5 +7,5 @@ ent-ClothingBeltMilitaryWebbingMedSunriseFilled = { ent-ClothingBeltMilitaryWebb
     .suffix = Lleno
     .desc = { ent-ClothingBeltMilitaryWebbingMedSunrise.desc }
 ent-ClothingAbductorBeltFilled = { ent-ClothingAbductorBelt }
-    .suffix = Lleno
+    .suffix = Filled
     .desc = { ent-ClothingAbductorBelt.desc }

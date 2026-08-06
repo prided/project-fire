@@ -1,10 +1,10 @@
 command-description-clone-humanoidappearance =
-    Clona la apariencia humanoide de la entidad proporcionada en todas las entidades de entrada.
+    Clones the humanoid appearance of provided entity to all input entities.
 command-description-clone-comps =
-    Clona todos los componentes de la entidad proporcionada en todas las entidades de entrada. Solo funciona con componentes compatibles.
+    Clones all components from the provided entity to all input entities. Only works for supported components.
 command-description-clone-equipment =
-    Clona el equipo de la entidad proporcionada en todas las entidades de entrada. Utiliza prototipos base, por lo que los cambios en el equipo no se conservarán en las versiones clonadas.
+    Clones the equipment from the provided entity to all input entities. Uses base prototypes, meaning changes to equipment won't persist to the cloned versions.
 command-description-clone-implants =
-    Clona los implantes de la entidad proporcionada en todas las entidades de entrada. Utiliza prototipos base, por lo que los cambios en los implantes no se conservarán en las versiones clonadas.
+    Clones the implants from the provided entity to all input entities. Uses base prototypes, meaning changes to implants won't persist to the cloned versions.
 command-description-clone-storage =
-    Clona el almacenamiento de la entidad proporcionada en todas las entidades de entrada. Utiliza prototipos base, por lo que los cambios en el contenido no se conservarán en las versiones clonadas.
+    Clones the storage from the provided entity to all input entities. Uses base prototypes, meaning changes to contents won't persist to the cloned versions.

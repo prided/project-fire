@@ -129,7 +129,7 @@ storyteller-metadata-gamerulemeteorswarmmedium-start = Atención: la estación f
 storyteller-metadata-gamerulemeteorswarmlarge-start = ¡Amenaza crítica de meteoritos! ¡Un gran enjambre de asteroides ha impactado en la estación!
 
 # Antagonists & Threats (Literary starting events)
-storyteller-metadata-bloodcult-start = Un antiguo mal susurraba en la oscuridad: seguidores fanáticos del [color=#8B0000]Culto de Sangre[/color] surgían entre la tripulación.
+storyteller-metadata-bloodcult-start = Un antiguo mal susurraba en la oscuridad: seguidores fanáticos de la [color=#8B0000]Blood Cult[/color] nacían entre la tripulación.
 storyteller-metadata-fleshcult-start = La carne tiene hambre, la carne crece: la terrible [color=#800080]Cult de Flesh[/color] ha echado sus horribles raíces en la estación.
 storyteller-metadata-ninjaspawn-start = Sensores de alta tecnología registraron un desplazamiento de fase: el esquivo [color=#4B0082]Space Ninja[/color] penetró secretamente en la placa.
 storyteller-metadata-dragonspawn-start = El vacío cósmico dio origen a un monstruo: no muy lejos de la estación, ¡una antigua [color=#D2691E]Dragon[/color] cósmica!

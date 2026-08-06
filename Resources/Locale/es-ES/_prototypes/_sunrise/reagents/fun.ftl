@@ -1,9 +1,9 @@
 reagent-name-aphrodisiac = Aphrodisiac
-reagent-desc-aphrodisiac = Una sustancia que aumenta la excitación o el placer.
-reagent-physical-desc-aphrodisiac = Líquido brillante de color rojo rubí que resplandece suavemente bajo la luz.
+reagent-desc-aphrodisiac = A substance that increases arousal or pleasure.
+reagent-physical-desc-aphrodisiac = Shimmering, ruby-red liquid that glows softly in the light.
 reagent-name-celliminol = celliminol
-reagent-desc-celliminol = Un compuesto criogénico. Es una potente sustancia desarrollada por la compañía, eficaz en criaturas vivas y muertas.
+reagent-desc-celliminol = A cryogenics chemical. A powerful chemical developed by the company. Effective on living and dead creatures.
 reagent-name-inc = inc
 reagent-desc-inc = inc
 reagent-name-universal-evaporator = universal evaporator
-reagent-desc-universal-evaporator = Evapora reactivos líquidos al descomponer los inhibidores que impiden que se conviertan en gas.
+reagent-desc-universal-evaporator = Evaporates liquid reagents by breaking down the inhibitors that prevent them from becoming gas.

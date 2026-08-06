@@ -1,36 +1,36 @@
 <Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                    [color=#8D1010]☆★★ [/color] [color=#1B2333][bold]ORDER ★★ [/bold][/color] [color=#8D1010]☆[/color]
+                                    [color=#8D1010]☆★★ [/color] [color=#1B2333][bold]ORDEN ★★ [/bold][/color] [color=#8D1010]☆[/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
-[mono][color=#1E4C7A][bold]{corpString} / CC-KOM[/bold][/color] [color=#7A4A00][bold]No [form="Order number"][/bold][/color][/mono]
+[mono][color=#1E4C7A][bold]{corpString} / CC-KOM[/bold][/color] [color=#7A4A00][bold]N.º [form="Número de orden"][/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Object de destino: [/color] [color=#1B2333][form="Name de la object"][/color][/bold]
-[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Objeto de destino: [/color] [color=#1B2333][form="Nombre del objeto"][/color][/bold]
+[bold][color=#4D5F80]Hora:[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Compiler[/bold][/color]
-[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
-[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
+[color=#1B2333][bold]Redactor[/bold][/color]
+[bold][color=#4D5F80]Nombre y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Nombre y apellido"][/bold][/color]
+[bold][color=#4D5F80]Cargo:[/color][/bold] [color=#7A4A00][bold][job="Cargo"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Order de la presencia de la emisora heads[/bold][/color]
+[color=#1B2333][bold]Orden sobre la presencia de jefes[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[color=#2D3442][bold][color=#1B2333]Dear Command[/color][/bold], como parte de la inspección [bold][color=#1E4C7A]regular realizada por el Command[/color][/bold] [bold][color=#8D1010] Central, debe proporcionar un report[/color][/bold] sobre la presencia del departamento actual heads.[/color]
+[color=#2D3442][bold][color=#1B2333]Estimado personal de mando[/color][/bold]: como parte de la [bold][color=#1E4C7A]inspección periódica del Mando Central[/color][/bold], [bold][color=#8D1010]se debe presentar un informe[/color][/bold] sobre los jefes de departamento que se encuentran en funciones.[/color]
 
-[bold][color=#7A4A00]The informe debe indicar: [/color][/bold]
+[bold][color=#7A4A00]El informe debe indicar: [/color][/bold]
 [bold][mono][color=#2D3442]
- ► [bold][color=#8D1010]List de Jefes de Departamento: [/color][/bold] los actuales jefes de cada departamento.
- ► [bold][color=#1E4C7A]Data del responsable: [/color][/bold] Nombre y apellidos, puesto, estado (en el puesto / Interino / suspendido / trasladado / incapacitado / fallecido), número total de empleados y lista de puestos.
- ► [bold][color=#7A4A00]Upon jubilación del jefe:[/color][/bold] indican qué ocurrió, a quién se ha asignado el Ejecutivo Interino; si no se nombra el Ejecutivo Interino, la razón de la falta de reemplazo.
+ ► [bold][color=#8D1010]Lista de jefes de departamento:[/color][/bold] responsables actuales de cada departamento.
+ ► [bold][color=#1E4C7A]Datos del responsable:[/color][/bold] nombre y apellido, cargo, estado (en funciones / interino / suspendido / trasladado / incapacitado / fallecido), número total de empleados y lista de cargos.
+ ► [bold][color=#7A4A00]En caso de ausencia del jefe:[/color][/bold] indique qué ocurrió y quién fue nombrado interino; si no se nombró a nadie, indique el motivo.
 [/color][/mono][/bold]
 
-[color=#2D3442]The datos deben corresponder a la composición real de la dirección en el momento de enviar el report.[/color]
+[color=#2D3442]Los datos deben corresponder a la composición real del personal directivo al momento de enviar el informe.[/color]
 
-[bold][color=#7A4A00]Responsible por proporcionar [/color][/bold] [bold][color=#1E4C7A][form="Position de los responsables person"][/color][/bold]
-[bold][color=#7A4A00]Deadline:[/color][/bold] [bold][color=#8D1010][form="Time"][/color][/bold]
+[bold][color=#7A4A00]Responsable de la presentación:[/color][/bold] [bold][color=#1E4C7A][form="Cargo de la persona responsable"][/color][/bold]
+[bold][color=#7A4A00]Fecha límite:[/color][/bold] [bold][color=#8D1010][form="Hora"][/color][/bold]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
+                     [italic][color=#5A616F]Lugar para sellos[/color][/italic]
 
 
 

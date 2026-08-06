@@ -31,10 +31,11 @@ thief-backpack-category-chemistry-description =
     Bote de efedrina, jeringa, coctelera vacía y jabón omega
 thief-backpack-category-syndie-name = Reclutamiento de Sindicatos
 thief-backpack-category-syndie-description =
-    ¿Baratijas de un pasado repudiado o robadas a un agente descuidado?
-    Conseguiste algunos contactos. Whiskey, echo...
-    Incluye: un emag, un quebrantador de accesos, cigarrillos Interdyne, una palabra clave del Sindicato,
-    un inhibidor de radio, un encendedor y unos extraños cristales rojos.
+    ¿Baratijas del pasado olvidado o robadas a un agente negligente?
+    Has encontrado alguna conexión. Whisky, eco...
+    El paquete incluye: Emag, Access Hacker, Cigarrillos Interdyne, IA de Syndicate, Implante EMR, Implante de la risa,
+    Palabra clave del sindicato, mechero, interferidor de comunicaciones,
+    y unos extraños cristales rojos.
 thief-backpack-category-sleeper-name = Conjunto Sonya
 thief-backpack-category-sleeper-description =
     Como dice la canción: Hasta que cerremos los ojos para siempre;

@@ -1,13 +1,13 @@
-power-radiation-collector-gas-tank-missing = La ranura del tanque de plasma está [color=darkred]vacía[/color].
+power-radiation-collector-gas-tank-missing = El hueco del cilindro de plasma es [color=darkred]empty[/color].
 power-radiation-collector-gas-tank-present =
-    La ranura del tanque de plasma está [color=darkgreen]ocupada[/color] y el indicador del tanque marca [color={ $fullness ->
-       *[0] red] vacío
-        [1] red] casi vacío
-        [2] yellow] medio lleno
-        [3] lime] lleno
+    El hueco del cilindro de plasma está [color=darkgreen]full[/color] y el indicador del cilindro está en [color={ $fullness ->
+       *[0] rojo] vacío
+        [1] rojo] pequeño
+        [2] amarillo] medio lleno
+        [3] relleno de cal]
     }[/color].
 power-radiation-collector-enabled =
-    Está [color={ $state ->
-        [true] darkgreen] encendido
-       *[false] darkred] apagado
+    Está en modo [color={ $state ->
+        [true] verde oscuro] en
+       *[false] oscuro] apagado
     }[/color].

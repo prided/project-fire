@@ -1,39 +1,39 @@
-mob-name-disease = Enfermedad inteligente
-mob-description-disease = Plague Inc. 2.0
-ghostrole-disease-name = Enfermedad inteligente
-ghostrole-disease-description = Una enfermedad común que decidió volverse inteligente de repente. ¿A quién no le ha pasado?
-disease-round-end-result = [color=green]Había una enfermedad inteligente en la estación. Tenía:[/color]
-disease-round-end-result-infected = Infectados: [color=gold]{ $count }[/color]
-disease-round-end-result-infects = Infectados al final de la ronda: [color=gold]{ $count }[/color]
-disease-round-end-result-immuned = [color=gold]{ $count }[/color] personas tenían inmunidad.
-disease-agent-name = Enfermedad inteligente
-disease-biohazard-announcement = Se confirmó una amenaza biológica de nivel 7 a bordo de la estación. Todo el personal debe tomar precauciones para evitar que se propague la contaminación.
-disease-biohazard-announcement-sender = Mando Central
-disease-not-enough-evolution-points = No hay suficientes puntos de evolución
-disease-symptom-headache = Sientes un leve dolor de cabeza.
+mob-name-disease = Intelligent Disease
+mob-description-disease = plague inc 2.0
+ghostrole-disease-name = intelligent disease
+ghostrole-disease-description = An ordinary disease that suddenly decided to become intelligent. Who hasn't been there?
+disease-round-end-result = [color=green]There was an intelligent disease on the station. It had:[/color]
+disease-round-end-result-infected = Infected: [color=gold]{ $count }[/color]
+disease-round-end-result-infects = Infected at round end: [color=gold]{ $count }[/color]
+disease-round-end-result-immuned = [color=gold]{ $count }[/color] people had immunity.
+disease-agent-name = Intelligent Disease
+disease-biohazard-announcement = Confirmed level 7 biological threat aboard the station. All personnel must take precautions to prevent the spread of contamination.
+disease-biohazard-announcement-sender = Central Command
+disease-not-enough-evolution-points = Not enough evolution points
+disease-symptom-headache = You feel a slight headache.
 
-disease-zombie-success = ¡Se convirtieron correctamente { count } infectados en zombis!
+disease-zombie-success = Successfully converted { count } infected to zombies!
 
-action-disease-infect-name = Infectar
-action-disease-infect-description = Intenta infectar a un objetivo. Consume cargas.
+action-disease-infect-name = Infect
+action-disease-infect-description = Attempt to infect a target. Uses charges.
 
-action-disease-shop-name = Tienda de la enfermedad
-action-disease-shop-description = Abre el menú de mutaciones de la enfermedad.
+action-disease-shop-name = Disease Shop
+action-disease-shop-description = Open the disease mutation menu.
 
-disease-info-header = ESTADÍSTICAS DE LA ENFERMEDAD
-disease-info-core-statistics = Estadísticas principales
-disease-info-base-chance = Probabilidad base de infección
-disease-info-cough-sneeze-chance = Probabilidad de tos o estornudo
-disease-info-lethal = Nivel de letalidad
-disease-info-shield = Nivel de protección
-disease-info-infection-statistics = Estadísticas de infección
-disease-info-infected-count = Infectados actualmente
-disease-info-total-infected = Total de infectados (histórico)
+disease-info-header = DISEASE STATISTICS
+disease-info-core-statistics = Core Statistics
+disease-info-base-chance = Base Infection Chance
+disease-info-cough-sneeze-chance = Cough/Sneeze Chance
+disease-info-lethal = Lethality Level
+disease-info-shield = Shield Level
+disease-info-infection-statistics = Infection Statistics
+disease-info-infected-count = Currently Infected
+disease-info-total-infected = Total Infected (All Time)
 
-disease-infect-charge-purchased = ¡Carga de infección comprada correctamente!
-disease-infect-charge-max-reached = ¡Ya tienes el máximo de cargas ({ $maxCharges })! Se reembolsó la compra.
+disease-infect-charge-purchased = Infect charge purchased successfully!
+disease-infect-charge-max-reached = Already at maximum charges ({ $maxCharges })! Purchase refunded.
 
-disease-death-reward = ¡Recibiste { $points } puntos de enfermedad por la muerte de otra enfermedad!
+disease-death-reward = Received { $points } Disease Points from another disease's death!
 
-disease-upgrade-purchased = ¡Mejora comprada correctamente!
-disease-upgrade-max-reached = ¡Se alcanzó el nivel máximo de mejora!
+disease-upgrade-purchased = Upgrade purchased successfully!
+disease-upgrade-max-reached = Maximum upgrade level reached!

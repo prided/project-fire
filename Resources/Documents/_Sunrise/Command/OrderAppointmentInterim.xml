@@ -1,25 +1,25 @@
 <Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]ORDER[/bold][/color]
+                                  [color=#1B2333][bold]ORDEN[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
 [mono][color=#1E4C7A][bold]{corpString} / COM[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Estación:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Hora:[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Compiler[/bold][/color]
-[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
-[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
+[color=#1B2333][bold]Redactor[/bold][/color]
+[bold][color=#4D5F80]Nombre y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Nombre y apellido"][/bold][/color]
+[bold][color=#4D5F80]Cargo:[/color][/bold] [color=#7A4A00][bold][job="Cargo"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Order de nombramiento en el VRIO[/bold][/color]
+[color=#1B2333][bold]Orden de nombramiento interino[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[bold]Order[/bold]
-Sobre la base de [form="specify el reason"] y conforme a los procedimientos internos,
+[bold]Orden[/bold]
+Sobre la base de [form="especificar el motivo"] y conforme a los procedimientos internos,
 PIDO:
 
-Nombra a [form="Name y Surname"] al cargo de [form="Position"] en funciones.
+Nombra a [form="Nombre y apellido"] al cargo de [form="Cargo"] en funciones.
 Funciones del designado:
 [mono]
 1) Garantizar la implementación de procedimientos operativos estándar.
@@ -30,7 +30,7 @@ Funciones del designado:
 A la llegada del Jefe de Departamento desde la estación de transferencia de personal, el Oficial en funciones se compromete a entregar un mayor acceso, especialmente objetos y equipos valiosos.
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
+                     [italic][color=#5A616F]Lugar para sellos[/color][/italic]
 
 
 

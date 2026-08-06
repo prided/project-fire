@@ -1,64 +1,64 @@
 <Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]ORDER[/bold][/color]
+                                  [color=#1B2333][bold]ORDEN[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
 [mono][color=#1E4C7A][bold]{corpString} / SAT[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Estación:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Hora:[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Compiler[/bold][/color]
-[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
-[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
-
-[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Order en duty[/bold][/color]
-[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-
-[bold]Contents[/bold]
-Ordeno que los siguientes destacamentos de patrulla retomen el servicio: [form="I ordeno a los siguientes destacamentos de patrulla que se retomen duty"]
-[mono]
-1) [form="name de la patrulla detachment"]
-2) [form="name de la patrulla detachment"]
-[/mono]
-Además: [form="name del escuadrón de patrulla, nombre del squad"] de patrulla
-
-
-[bold]Patrol plantilla "Nombre"[/bold]
-
-[bold]Composition de la group[/bold]
-[mono]
-1) [form="Name y Surname"]
-2) [form="Name y Surname"]
-[/mono]
-Opcional: [form="First y apellido, nombre y apellido Name"]
-
-[bold]Patrol route[/bold]
-[mono]
-1) [form="point/site"]
-2) [form="point/site"]
-[/mono]
-Opcional: [form="Point/Lot, Point/Lot"]
-
-
-[bold]Patrol plantilla "Nombre"[/bold]
-
-[bold]Composition de la group[/bold]
-[mono]
-1) [form="Name y Surname"]
-2) [form="Name y Surname"]
-[/mono]
-Opcional: [form="First y apellido, nombre y apellido Name"]
-
-[bold]Patrol route[/bold]
-[mono]
-1) [form="point/site"]
-2) [form="point/site"]
-[/mono]
-Opcional: [form="Point/Lot, Point/Lot"]
+[color=#1B2333][bold]Redactor[/bold][/color]
+[bold][color=#4D5F80]Nombre y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Nombre y apellido"][/bold][/color]
+[bold][color=#4D5F80]Cargo:[/color][/bold] [color=#7A4A00][bold][job="Cargo"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
+[color=#1B2333][bold]Orden de servicio de seguridad[/bold][/color]
+[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
+
+[bold]Contenido:[/bold]
+Ordeno que los siguientes destacamentos de patrulla retomen el servicio: [form="Destacamentos que deben retomar el servicio"]
+[mono]
+1) [form="nombre del destacamento de patrulla"]
+2) [form="nombre del destacamento de patrulla"]
+[/mono]
+Además: [form="nombre del escuadrón de patrulla, nombre del escuadrón"] de patrulla
+
+
+[bold]Destacamento de patrulla «Nombre»[/bold]
+
+[bold]Integrantes del grupo[/bold]
+[mono]
+1) [form="Nombre y apellido"]
+2) [form="Nombre y apellido"]
+[/mono]
+Opcional: [form="Nombre y apellido, nombre y apellido"]
+
+[bold]Ruta de patrulla[/bold]
+[mono]
+1) [form="punto/sitio"]
+2) [form="punto/sitio"]
+[/mono]
+Opcional: [form="Punto/Sitio, Punto/Sitio"]
+
+
+[bold]Destacamento de patrulla «Nombre»[/bold]
+
+[bold]Integrantes del grupo[/bold]
+[mono]
+1) [form="Nombre y apellido"]
+2) [form="Nombre y apellido"]
+[/mono]
+Opcional: [form="Nombre y apellido, nombre y apellido"]
+
+[bold]Ruta de patrulla[/bold]
+[mono]
+1) [form="punto/sitio"]
+2) [form="punto/sitio"]
+[/mono]
+Opcional: [form="Punto/Sitio, Punto/Sitio"]
+
+[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
+                     [italic][color=#5A616F]Lugar para sellos[/color][/italic]
 
 
 

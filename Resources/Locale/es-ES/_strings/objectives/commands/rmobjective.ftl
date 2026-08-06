@@ -7,5 +7,5 @@ cmd-rmobjective-success = ¡Objetivo eliminado con éxito!
 cmd-rmobjective-failed = El objetivo no pudo ser eliminado. ¿Quizá el índice está fuera de rango? ¡Revisa los objetivos!
 cmd-rmobjective-invalid-index = El índice de { $index } no podía analizarse como un entero.
 cmd-rmobjective-invalid-objective-info = INVÁLIDO
-cmd-rmobjective-player-completion = <jugador>
-cmd-rmobjective-index-completion = <índice>
+cmd-rmobjective-player-completion = <Player>
+cmd-rmobjective-index-completion = <Index>

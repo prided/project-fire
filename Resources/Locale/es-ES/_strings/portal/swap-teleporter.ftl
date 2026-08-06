@@ -7,7 +7,7 @@ swap-teleporter-popup-teleport-cancel-link = ¡No está vinculado a otro disposi
 swap-teleporter-popup-teleport-other = { CAPITALIZE($entity) } se activa y te encuentras en otro lugar.
 swap-teleporter-popup-teleport-fail = { CAPITALIZE($entity) } se activa, pero no puede llevarte a ningún sitio.
 swap-teleporter-verb-destroy-link = Ruptura del enlace cuántico
-swap-teleporter-examine-link-present = [color=forestgreen]Está vinculado a otro dispositivo.[/color] Usa Alt+Clic para romper el enlace cuántico.
+swap-teleporter-examine-link-present = [color=forestgreen]There es la comunicación cuántica con otro device.[/color] Alt-click para romper la conexión cuántica.
 swap-teleporter-examine-link-absent = [color=yellow]No Quantum Communication.[/color] Use en otro dispositivo para establecer una conexión cuántica.
 swap-teleporter-examine-time-remaining =
     Tiempo de recarga: [color=purple]{ $second } { $second ->

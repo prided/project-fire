@@ -69,7 +69,7 @@ prisoner-management-occupied = Ocupado
 prisoner-management-unequipped = No equipado
 prisoner-management-no-cells = Las cámaras no están configuradas
 prisoner-management-sentence = Trimestre: {$sentence} min.
-prisoner-management-warning = [color=yellow]Advertencia[/color]
+prisoner-management-warning = [color=yellow]Warning[/color]
 prisoner-management-countdown-finished = [color=green]Term served[/color]
 prisoner-management-paroled-info = [color=green]Released en parole[/color]
 

@@ -14,4 +14,4 @@ electrify-door-on = Activar la sobrecarga
 electrify-door-off = Desactivar la sobrecarga
 toggle-light = Luz de interruptor
 ai-device-not-responding = El dispositivo no responde
-ai-consciousness-download-warning = Tu conciencia se está descargando.
+ai-consciousness-download-warning = Your consciousness is being downloaded.

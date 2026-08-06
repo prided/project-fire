@@ -20,7 +20,7 @@ zombie-round-end-amount-none = ¡[color=green]All los zombis han sido destruidos
 zombie-round-end-amount-low = [color=green]Almost todos los zombis estaban destroyed.[/color]
 zombie-round-end-amount-medium = [color=yellow]{ $percent }% de la tripulación fue convertida en zombies.[/color]
 zombie-round-end-amount-high = [color=crimson]{ $percent }% de la tripulación fue convertida en zombies.[/color]
-zombie-round-end-amount-all = [color=darkred]¡Toda la tripulación se convirtió en zombi![/color]
+zombie-round-end-amount-all = ¡[color=darkred]The tripulación entera se convirtió en zombis[/color]
 zombie-round-end-survivor-count =
     { $count ->
         [one] El único superviviente fue:

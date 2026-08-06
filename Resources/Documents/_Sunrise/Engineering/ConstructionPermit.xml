@@ -1,26 +1,26 @@
 <Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]PERMISSION[/bold][/color]
+                                  [color=#1B2333][bold]AUTORIZACIÓN[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
 [mono][color=#1E4C7A][bold]{corpString} / ING[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Estación:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Hora:[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Compiler[/bold][/color]
-[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
-[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
+[color=#1B2333][bold]Redactor[/bold][/color]
+[bold][color=#4D5F80]Nombre y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Nombre y apellido"][/bold][/color]
+[bold][color=#4D5F80]Cargo:[/color][/bold] [color=#7A4A00][bold][job="Cargo"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Construction permit[/bold][/color]
+[color=#1B2333][bold]Permiso de construcción[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[bold]Contents[/bold]
-Yo, [form="Name y Surname"], en calidad de [form="POSITION"], autorizo llevar a cabo [form="Name y Surname"], en calidad de [form="POSITION"], la remodelación de una parte de la estación [form="indication del lugar de redevelopment"] con el fin de [form="reason para redevelopment"].
-Alcance acordado de la reurbanización: [form="Agreed alcance de redevelopment"]
+[bold]Contenido:[/bold]
+Yo, [form="Nombre y apellido"], en calidad de [form="Cargo"], autorizo llevar a cabo [form="Nombre y apellido"], en calidad de [form="Cargo"], la remodelación de una parte de la estación [form="indicación del lugar de remodelación"] con el fin de [form="motivo para remodelación"].
+Alcance acordado de la reurbanización: [form="Acordado alcance de remodelación"]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
+                     [italic][color=#5A616F]Lugar para sellos[/color][/italic]
 
 
 

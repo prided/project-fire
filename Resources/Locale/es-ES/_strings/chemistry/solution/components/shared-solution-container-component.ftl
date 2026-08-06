@@ -6,17 +6,17 @@ shared-solution-container-component-on-examine-main-text = Contiene [color={$col
 examinable-solution-has-recognizable-chemicals = Reconocerás en la composición: {$recognizedString}.
 examinable-solution-recognized = [color={$color}]{$chemical}[/color]
 
-examinable-solution-on-examine-volume = El recipiente { $fillLevel ->
+examinable-solution-on-examine-volume = Container { $fillLevel ->
     [exact] Contiene [color=white]{$current}/{$max}u[/color]
    *[other] [bold]{ -solution-vague-fill-level(fillLevel: $fillLevel) }[/bold].
 }
 
-examinable-solution-on-examine-volume-no-max = El recipiente { $fillLevel ->
+examinable-solution-on-examine-volume-no-max = In container { $fillLevel ->
     [exact] contiene [color=white]{$current}u[/color].
    *[other] [bold]{ -solution-vague-fill-level(fillLevel: $fillLevel) }[/bold].
 }
 
-examinable-solution-on-examine-volume-puddle = El charco { $fillLevel ->
+examinable-solution-on-examine-volume-puddle = Puddle { $fillLevel ->
     [exact] [color=white]{$current}u[/color].
     [full] ¡Enormes y brillantes!
     [mostlyfull] ¡Enormes y brillantes!
@@ -28,10 +28,10 @@ examinable-solution-on-examine-volume-puddle = El charco { $fillLevel ->
 
 -solution-vague-fill-level =
     { $fillLevel ->
-        [full] [color=white]lleno[/color]
-        [mostlyfull] [color=#DFDFDF]casi lleno[/color]
-        [halffull] [color=#C8C8C8]medio llena[/color]
-        [halfempty] [color=#C8C8C8]medio vacío[/color]
-        [mostlyempty] [color=#A4A4A4]casi vacío[/color]
-       *[empty] [color=gray]vacío[/color]
+        [full] [color=white]complete[/color]
+        [mostlyfull] [color=#DFDFDF]almost complete[/color]
+        [halffull] [color=#C8C8C8]half full[/color]
+        [halfempty] [color=#C8C8C8]half empty[/color]
+        [mostlyempty] [color=#A4A4A4]almost empty[/color]
+       *[empty] [color=gray]empty[/color]
     } 

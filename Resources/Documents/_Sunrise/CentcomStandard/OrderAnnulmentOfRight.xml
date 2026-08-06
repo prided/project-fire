@@ -1,26 +1,26 @@
 <Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#8D1010]☆[/color] [color=#1B2333][bold]ORDER[/bold][/color] [color=#8D1010]☆[/color]
+                                  [color=#8D1010]☆[/color] [color=#1B2333][bold]ORDEN[/bold][/color] [color=#8D1010]☆[/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
 [mono][color=#1E4C7A][bold]{corpString} / CC[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Estación:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Hora:[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Compiler[/bold][/color]
-[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
-[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold]Representative {corpString}[/bold][/color]
+[color=#1B2333][bold]Redactor[/bold][/color]
+[bold][color=#4D5F80]Nombre y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Nombre y apellido"][/bold][/color]
+[bold][color=#4D5F80]Cargo:[/color][/bold] [color=#7A4A00][bold]Representante {corpString}[/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Order revocar el right[/bold][/color]
+[color=#1B2333][bold]Orden de revocación de derechos[/bold][/color]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
 
-[color=#2D3442]I, [bold][color=#1E4C7A][signature="Name y Surname"][/color][/bold], mientras ocupan el cargo de [bold][color=#1E4C7A][form="Position"][/color][/bold], revocan el derecho del oficial del mando [bold][color=#1E4C7A][signature="Name y Apellido del employee"][/color][/bold], en el puesto de [bold][color=#1E4C7A][form="Position del employee"][/color][/bold], el ítem [bold][color=#8D1010][form="Item number"][/color][/bold] "[form="Summary de item"]" en los Procedimientos Operativos Estándar de la sección "Permisos", por las siguientes razones:  [bold][color=#8D1010][form="Cause"][/color][/bold].[/color]
+[color=#2D3442]Yo, [bold][color=#1E4C7A][signature="Nombre y apellido"][/color][/bold], en el ejercicio del cargo de [bold][color=#1E4C7A][form="Cargo"][/color][/bold], revoco el derecho del oficial del mando [bold][color=#1E4C7A][signature="Nombre y apellido del empleado"][/color][/bold], en el puesto de [bold][color=#1E4C7A][form="Cargo del empleado"][/color][/bold], el ítem [bold][color=#8D1010][form="Artículo número"][/color][/bold] "[form="Resumen de artículo"]" en los Procedimientos Operativos Estándar de la sección "Permisos", por las siguientes razones:  [bold][color=#8D1010][form="Causa"][/color][/bold].[/color]
 
-[color=#2D3442]The derecho/permiso expira tras el sello del documento con el sello del Representante {corpString}, tras lo cual me comprometo a notificar inmediatamente al Mando Central mi decision.[/color]
+[color=#2D3442]El derecho/permiso expira tras el sello del documento con el sello del Representante {corpString}, tras lo cual me comprometo a notificar inmediatamente al Mando Central mi decisión.[/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
+                     [italic][color=#5A616F]Lugar para sellos[/color][/italic]
 
 
 

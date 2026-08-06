@@ -152,15 +152,15 @@ station-goal-scp-8 =
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
     | A la atención del Mando de la Fundación:
     | El objetivo asignado para el turno actual es [bold]INVESTIGACIÓN SCP[/bold].
-    |   [bullet/]Desarrollar nuevos métodos de contención para reducir el riesgo de fugas.
-    |   [bullet/]Construir un puesto central de observación para analizar el comportamiento de los SCP en tiempo real.
-    |   [bullet/]Organizar ejercicios de entrenamiento para el personal con la participación de objetos SCP «agresivos».
-    |   [bullet/]Investigar las posibles interacciones cruzadas entre SCP para obtener nuevos datos.
-    |   [bullet/]Preparar una serie de informes para la administración de la Fundación a partir de los experimentos realizados.
-    |   [bullet/]Crear un escenario para evacuar por completo el complejo en caso de una brecha de contención masiva.
-    |   [bullet/]Evaluar la eficacia del sistema de vigilancia SCP en condiciones reales.
+    | [bullet/]Desarrolle nuevos métodos de alojamiento para reducir los riesgos de fugas.
+    | [bullet/]Construya un puesto central de observación para analizar el comportamiento de los SCP en tiempo real.
+    | [bullet/]Organice un ejercicio de entrenamiento para personal que involucra objetos SCP 'agresivos'.
+    | [bullet/]Explore las posibilidades de interacciones cruzadas entre SCPs para obtener nuevos datos.
+    | [bullet/]Prepare una serie de informes para la gestión de la Fundación basados en los experimentos realizados.
+    | [bullet/]Desarrolle un escenario para la evacuación completa del complejo en caso de una brecha masiva de contención.
+    | [bullet/]Evalúe la eficacia del sistema de vigilancia SCP en condiciones reales.
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   [color=#9c9492]Responsables del objetivo: [bold] DEPARTAMENTO DE INVESTIGACIÓN, DIRECCIÓN DEL COMPLEJO, DEPARTAMENTO DE INGENIERÍA  { $station }[/bold][/color]
+    | [color=#9c9492]Responsables del objetivo: [bold] DEPARTAMENTO DE INVESTIGACIÓN, DIRECTOR DEL COMPLEJO, DEPARTAMENTO DE INGENIERÍA { $station }[/bold][/color]
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
     | [italic]Espacio reservado para sellos y firmas[/italic]
 station-goal-scp-9 =

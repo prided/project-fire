@@ -1,29 +1,29 @@
 <Document>
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                                  [color=#1B2333][bold]INQUIRY[/bold][/color]
+                                  [color=#1B2333][bold]CONSULTA[/bold][/color]
 [color=#4A4F5D][mono]────────────────────────────────────────────[/mono][/color]
 [mono][color=#1E4C7A][bold]{corpString} / NIO[/bold][/color][/mono]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[bold][color=#4D5F80]Station:[/color] [color=#1B2333]{stationName}[/color][/bold]
-[bold][color=#4D5F80]Time[/color] [color=#1B2333]{timeString}[/color][/bold]
+[bold][color=#4D5F80]Estación:[/color] [color=#1B2333]{stationName}[/color][/bold]
+[bold][color=#4D5F80]Hora:[/color] [color=#1B2333]{timeString}[/color][/bold]
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Compiler[/bold][/color]
-[bold][color=#4D5F80]Name y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Name y Surname"][/bold][/color]
-[bold][color=#4D5F80]Position:[/color][/bold] [color=#7A4A00][bold][job="Position"][/bold][/color]
-
-[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-[color=#1B2333][bold]Threat Nivel Request[/bold][/color]
-[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-
-[bold]Inquiry[/bold]
-Nivel de código de amenaza requerido: [form="Delta/Gamma"]
-
-Yo, [form="Name y Surname"], en la posición de [form="POSITION"], os pido que consideréis la posibilidad de establecer un nivel de amenaza en la estación: [form="Delta/Gamma"]
-
-Circunstancias para las que se solicita el código de amenaza: [form="Violation de las condiciones de contención de la Singularidad, etc."]
+[color=#1B2333][bold]Redactor[/bold][/color]
+[bold][color=#4D5F80]Nombre y apellido: [/color][/bold] [color=#0F5E2B][bold][signature="Nombre y apellido"][/bold][/color]
+[bold][color=#4D5F80]Cargo:[/color][/bold] [color=#7A4A00][bold][job="Cargo"][/bold][/color]
 
 [mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
-                     [italic][color=#5A616F]A lugar para seals[/color][/italic]
+[color=#1B2333][bold]Solicitud de establecimiento del nivel de amenaza[/bold][/color]
+[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
+
+[bold]Consulta[/bold]
+Nivel de CÓDIGO de amenaza requerido: [form="Delta/Gamma"]
+
+Yo, [form="Nombre y apellido"], en el cargo de [form="Cargo"], Les pido que consideren la posibilidad de establecer un nivel de amenaza en la estación: [form="Delta/Gamma"]
+
+Circunstancias para las que se solicita el CÓDIGO de amenaza: [form="Infracción de las condiciones de contención de la Singularidad, etc."]
+
+[mono][color=#4A4F5D]════════════════════════════════════════════[/color][/mono]
+                     [italic][color=#5A616F]Lugar para sellos[/color][/italic]
 
 
 

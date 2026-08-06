@@ -1,1 +1,1 @@
-cmd-midipanic-desc = Desactiva todas las notas de todos los reproductores MIDI activos.
+cmd-midipanic-desc = Turns off every note for every active MIDI renderer.

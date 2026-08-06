@@ -1,4 +1,4 @@
 command-description-storage-fasttake =
-    Toma el objeto colocado más recientemente de la entidad de almacenamiento canalizada.
+    Takes the most recently placed item from the piped storage entity.
 command-description-storage-insert =
-    Inserta la entidad canalizada en la entidad de almacenamiento indicada.
+    Inserts the piped entity into the given storage entity.
