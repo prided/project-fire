@@ -5,7 +5,7 @@
   Cada transformador ([color=orange]HV[/color], [color=yellow]MV[/color], [color=green]LV[/color]) dispone de una pequeña reserva, pero la operación de un sector completo de la estación requiere unidades SMES.
 
   ## SMES básico
-  El Superconducting Magnetic Energy Storage (SMES) recibe energía de [color=orange]alta tensión[/color] mediante un terminal de cable y la suministra a la red a través del cable situado debajo.
+  El almacenamiento magnético de energía superconductora (SMES) recibe energía de [color=orange]alta tensión[/color] mediante un terminal de cable y la suministra a la red a través del cable situado debajo.
 
   <Box>
     <GuideEntityEmbed Entity="SMESBasic"/>

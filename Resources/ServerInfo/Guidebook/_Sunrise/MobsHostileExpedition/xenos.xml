@@ -147,11 +147,11 @@
   <Box>
   <GuideEntityEmbed Entity="MobXenoQueen"/>
   </Box>
-  Elimina un objetivo grande y peligroso —el [color=#a4885c]queen[/color]— en el tiempo asignado.
+  Elimina un objetivo grande y peligroso —la [color=#a4885c]reina[/color]— en el tiempo asignado.
 
   ## Destrucción
   <Box>
   <GuideEntityEmbed Entity="XenoWardingTower"/>
   </Box>
-  Destruye el número requerido de [color=#a4885c]warding towers[/color] xeno en el tiempo asignado.
+  Destruye el número requerido de [color=#a4885c]torres de guardia xeno[/color] en el tiempo asignado.
 </Document>

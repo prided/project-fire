@@ -52,7 +52,7 @@
   </Box>
 
   <Box>
-    [color=#999999][italic]Ejemplo de un tanque pequeño de almacenamiento[italic][/color]
+    [color=#999999][italic]Ejemplo de un tanque pequeño de almacenamiento[/italic][/color]
   </Box>
 
   Distintos procesos introducen o retiran gases de estos tanques.
@@ -61,6 +61,6 @@
   - La red de reciclaje introduce gases recuperados para reutilizarlos.
   - Sistemas como la red de distribución y la cámara de combustión extraen gases.
 
-  El contenido de los tanques puede medirse con un [textlink="Gas Analyzer" link="AtmosTools"].
+  El contenido de los tanques puede medirse con un [textlink="analizador de gases" link="AtmosTools"].
   Debido a que la salida utiliza una [textlink="ventilación pasiva" link="PassiveVent"], puede aplicar un [textlink="analizador de gases" link="AtmosTools"] sobre la entrada de la [textlink="bomba" link="Pumps"] que extrae gas del tanque.
 </Document>

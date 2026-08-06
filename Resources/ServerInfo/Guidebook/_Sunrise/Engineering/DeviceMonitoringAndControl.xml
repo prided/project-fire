@@ -1,28 +1,28 @@
 <Document>
-  # Monitorización y gestión de dispositivos
-  Debido a que la red atmosférica cubre toda la estación, es importante disponer de una forma de observar y controlar dispositivos desde una ubicación central.
+  # Supervisión y control de dispositivos
+  Debido a que la red atmosférica abarca toda la estación, es importante supervisar y controlar los dispositivos desde una ubicación central.
 
-  Utilizando estos sistemas, las atmósferas pueden observar y controlar la atmósfera en toda la estación.
+  Estos sistemas permiten al personal de Atmósfera vigilar y regular las condiciones atmosféricas de toda la estación.
 
   <Box>
     <GuideEntityEmbed Entity="AirAlarm" Caption=""/>
     <GuideEntityEmbed Entity="AirSensor" Caption=""/>
   </Box>
   <Box>
-    ## Alarmas de aire
+    ## Alarmas atmosféricas
   </Box>
   <Box>
-    [color=#999999][italic]Supervisión y control centralizados de áreas extensas y dispositivos atmosféricos[/italic][/color]
+    [color=#999999][italic]Supervisión y control de dispositivos atmosféricos en áreas amplias[/italic][/color]
   </Box>
 
   <Box>
     <GuideEntityEmbed Entity="ComputerAlert" Caption=""/>
   </Box>
   <Box>
-    ## Computadora de alarmas atmosféricas
+    ## Consola de alertas atmosféricas
   </Box>
   <Box>
-    [color=#999999][italic]Supervisión de las alarmas de la estación[/italic][/color]
+    [color=#999999][italic]Supervisión de las alarmas atmosféricas de toda la estación[/italic][/color]
   </Box>
 
   <Box>
@@ -30,10 +30,10 @@
     <GuideEntityEmbed Entity="GasPipeSensor" Caption=""/>
   </Box>
   <Box>
-    ## Monitor de Red Atmosférica
+    ## Monitor de red atmosférica
   </Box>
   <Box>
-    [color=#999999][italic]Monitoring de toda la tubería networks[/italic][/color]
+    [color=#999999][italic]Supervisión de redes completas de tuberías[/italic][/color]
   </Box>
 
 </Document>

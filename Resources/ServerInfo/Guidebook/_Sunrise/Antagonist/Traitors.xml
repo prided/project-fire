@@ -91,7 +91,7 @@
     <GuideEntityEmbed Entity="ClothingOuterHardsuitRd" Caption=""/>
     <GuideEntityEmbed Entity="HandTeleporter" Caption=""/>
   </Box>
-  - Robar al [color=#cb0000]jefe de seguridad[/color] la [bold]Energy Magnum[/bold].
+  - Robar al [color=#cb0000]jefe de seguridad[/color] la [bold]magnum de energía[/bold].
   <Box>
     <GuideEntityEmbed Entity="WeaponEnergyMagnum" Caption=""/>
   </Box>

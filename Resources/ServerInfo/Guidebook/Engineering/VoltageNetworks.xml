@@ -35,7 +35,7 @@
 
   ## Red de media tensión
   La red de [color=Yellow]media tensión[/color] alimenta APC y maquinaria de alto consumo compatible únicamente con [color=Yellow]media tensión[/color].
-  El Particle Accelerator es un ejemplo, ya que utiliza [color=Yellow]media tensión[/color].
+  El acelerador de partículas es un ejemplo, ya que utiliza [color=Yellow]media tensión[/color].
 
   <Box>
     <GuideEntityEmbed Entity="ParticleAcceleratorEndCap" Caption="" Margin="0"/>
@@ -58,7 +58,7 @@
   </Box>
 
   <Box>
-    [color=#999999][italic]Particle Accelerator[italic][/color]
+    [color=#999999][italic]acelerador de partículas[/italic][/color]
   </Box>
 
   Las subestaciones suministran [color=Yellow]media tensión[/color]. Son máquinas grandes que convierten energía procedente de la red de [color=Orange]alta tensión[/color] a [color=Yellow]media tensión[/color].

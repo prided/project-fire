@@ -3,8 +3,8 @@
   Los ingenieros pueden examinar una red y consultar estadísticas útiles.
   Esta información permite diagnosticar problemas eléctricos e identificar sus causas.
 
-  ## Power Monitoring Computer
-  La Power Monitoring Computer permite inspeccionar todas las redes eléctricas de la estación.
+  ## Computadora de monitoreo eléctrico
+  La computadora de monitoreo eléctrico permite inspeccionar todas las redes eléctricas de la estación.
 
   <Box>
     <GuideEntityEmbed Entity="ComputerPowerMonitoring"/>
@@ -31,7 +31,7 @@
   - Si la producción supera la carga, los SMES se están cargando.
 
   ## Pestañas de dispositivos
-  La Power Monitoring Computer dispone de una pestaña para cada categoría.
+  La computadora de monitoreo eléctrico dispone de una pestaña para cada categoría.
   Estas pestañas muestran las estadísticas de los dispositivos correspondientes.
   Por ejemplo:
   - Al seleccionar una fuente se indica qué equipos reciben energía, cuánta potencia entrega y cuáles están conectados.

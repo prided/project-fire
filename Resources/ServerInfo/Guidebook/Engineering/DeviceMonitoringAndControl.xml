@@ -12,17 +12,17 @@
     ## Alarmas atmosféricas
   </Box>
   <Box>
-    [color=#999999][italic]Supervisión y control de dispositivos atmosféricos en áreas amplias[italic][/color]
+    [color=#999999][italic]Supervisión y control de dispositivos atmosféricos en áreas amplias[/italic][/color]
   </Box>
 
   <Box>
     <GuideEntityEmbed Entity="ComputerAlert" Caption=""/>
   </Box>
   <Box>
-    ## Atmospheric Alerts Computer
+    ## Consola de alertas atmosféricas
   </Box>
   <Box>
-    [color=#999999][italic]Supervisión de las alarmas atmosféricas de toda la estación[italic][/color]
+    [color=#999999][italic]Supervisión de las alarmas atmosféricas de toda la estación[/italic][/color]
   </Box>
 
   <Box>
@@ -30,10 +30,10 @@
     <GuideEntityEmbed Entity="GasPipeSensor" Caption=""/>
   </Box>
   <Box>
-    ## Atmospheric Network Monitor
+    ## Monitor de red atmosférica
   </Box>
   <Box>
-    [color=#999999][italic]Supervisión de redes completas de tuberías[italic][/color]
+    [color=#999999][italic]Supervisión de redes completas de tuberías[/italic][/color]
   </Box>
 
 </Document>

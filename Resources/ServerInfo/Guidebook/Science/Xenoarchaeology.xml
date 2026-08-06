@@ -27,25 +27,25 @@
 
   ## Equipo
   <Box>
-    <GuideEntityEmbed Entity="MachineArtifactAnalyzer" Caption="Artifact Analyzer"/>
-    <GuideEntityEmbed Entity="ComputerAnalysisConsole" Caption="Analysis Console"/>
-    <GuideEntityEmbed Entity="NodeScanner" Caption="Node Scanner"/>
+    <GuideEntityEmbed Entity="MachineArtifactAnalyzer" Caption="analizador de artefactos"/>
+    <GuideEntityEmbed Entity="ComputerAnalysisConsole" Caption="consola de análisis"/>
+    <GuideEntityEmbed Entity="NodeScanner" Caption="escáner de nodos"/>
   </Box>
-  - [bold]Artifact Analyzer:[/bold] dispositivo fijo que escanea artefactos y envía los datos a la consola.
-  - [bold][textlink="Analysis Console:" link="AnalysisConsole"][/bold] dispositivo fijo que muestra el árbol de nodos. Debe vincularse con un Artifact Analyzer mediante un multímetro.
-  - [bold]Node Scanner:[/bold] dispositivo portátil que muestra el ID del nodo en proceso de activación e indica si el artefacto está listo. Permite operar dentro de la cámara, junto al artefacto, sin acceso directo a la consola.
+  - [bold]analizador de artefactos:[/bold] dispositivo fijo que escanea artefactos y envía los datos a la consola.
+  - [bold][textlink="consola de análisis:" link="AnalysisConsole"][/bold] dispositivo fijo que muestra el árbol de nodos. Debe vincularse con un analizador de artefactos mediante un multímetro.
+  - [bold]escáner de nodos:[/bold] dispositivo portátil que muestra el ID del nodo en proceso de activación e indica si el artefacto está listo. Permite operar dentro de la cámara, junto al artefacto, sin acceso directo a la consola.
 
   <Box>
     <GuideEntityEmbed Entity="CrateArtifactContainer" Caption="Artifact Container"/>
     <GuideEntityEmbed Entity="HandheldArtifactContainer" Caption="Handheld Container"/>
   </Box>
-  - [bold]Artifact Containers:[/bold] almacenan y transportan artefactos de forma segura e impiden la activación de nodos.
+  - [bold]contenedores de artefactos:[/bold] almacenan y transportan artefactos de forma segura e impiden la activación de nodos.
   <Box>
-    <GuideEntityEmbed Entity="MachineArtifactCrusher" Caption="Artifact Crusher"/>
+    <GuideEntityEmbed Entity="MachineArtifactCrusher" Caption="trituradora de artefactos"/>
   </Box>
-  - [bold]Artifact Crusher:[/bold] tritura artefactos para obtener fragmentos. Cuatro fragmentos permiten reconstruir un artefacto nuevo.
+  - [bold]trituradora de artefactos:[/bold] tritura artefactos para obtener fragmentos. Cuatro fragmentos permiten reconstruir un artefacto nuevo.
   <Box>
-    <GuideEntityEmbed Entity="ArtifactFragment" Caption="Artifact Fragment"/>
+    <GuideEntityEmbed Entity="ArtifactFragment" Caption="fragmento de artefacto"/>
   </Box>
-  - [bold]Artifact Fragment:[/bold] componente de un artefacto destruido. Pueden combinarse cuatro fragmentos desde el menú de fabricación para reconstruir un artefacto.
+  - [bold]fragmento de artefacto:[/bold] componente de un artefacto destruido. Pueden combinarse cuatro fragmentos desde el menú de fabricación para reconstruir un artefacto.
 </Document>

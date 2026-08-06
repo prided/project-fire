@@ -1,5 +1,5 @@
 <Document>
-  # Thermo-electric Engine (TEG)
+  # Motor termoeléctrico (TEG)
 
   El TEG produce energía mediante el intercambio de calor entre gases calientes y fríos.
   En la estación, el gas caliente suele obtenerse al quemar plasma, mientras que un conjunto de tuberías [textlink="intercambiadoras de calor" link="Radiators"] en el espacio irradia energía para enfriar los gases en circulación.
@@ -96,7 +96,7 @@
   El conjunto de [textlink="depuradores" link="AirScrubber"] extrae los gases quemados y los envía hacia el TEG.
   No utilice la configuración predeterminada de los [textlink="depuradores" link="AirScrubber"], porque también retirará el plasma valioso.
 
-  Utilice un Network Configurator para vincular todos los [textlink="depuradores" link="AirScrubber"] con una alarma atmosférica cercana. Configure los [textlink="depuradores" link="AirScrubber"] para retirar todo excepto oxígeno y plasma, y active el sifonado.
+  Utilice un configurador de red para vincular todos los [textlink="depuradores" link="AirScrubber"] con una alarma atmosférica cercana. Configure los [textlink="depuradores" link="AirScrubber"] para retirar todo excepto oxígeno y plasma, y active el sifonado.
   Así se recopilará y enviará al TEG la mayor cantidad de calor disponible.
 
   Esta es solo una configuración posible; [color=#a4885c]adapte los sistemas según las necesidades.[/color]

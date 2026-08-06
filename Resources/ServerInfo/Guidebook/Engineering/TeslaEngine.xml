@@ -1,6 +1,6 @@
 <Document>
-  # Tesla Engine
-  El Tesla Engine es un generador potente que utiliza una esfera de rayos contenida para producir energía.
+  # Motor Tesla
+  El motor Tesla es un generador potente que utiliza una esfera de rayos contenida para producir energía.
   <Box>
     <GuideEntityEmbed Entity="TeslaGenerator"/>
   </Box>
@@ -8,13 +8,13 @@
     <GuideEntityEmbed Entity="TeslaEnergyBall"/>
   </Box>
 
-  Las Tesla Coils convierten en energía las descargas generadas por la esfera.
+  Las bobinas Tesla convierten en energía las descargas generadas por la esfera.
 
   ## Campo de contención
   El motor requiere un campo de contención que impida el escape de la esfera y la destrucción de la estación.
 
   Se recomienda utilizar el campo de tamaño mínimo.
-  Un campo mayor permite que la esfera se acerque a equipo sensible y lo alcance, ignorando barras de conexión a tierra y Tesla Coils instaladas.
+  Un campo mayor permite que la esfera se acerque a equipo sensible y lo alcance, ignorando barras de conexión a tierra y bobinas Tesla instaladas.
 
   <Box>
     <GuideEntityEmbed Entity="ContainmentFieldGenerator" Caption="" Margin="0"/>
@@ -35,7 +35,7 @@
   ## Descargas eléctricas
   Mientras el motor está activo, la esfera descarga periódicamente sobre los objetos cercanos.
 
-  Tiene preferencia por ciertos elementos, como las Tesla Coils y las barras de conexión a tierra.
+  Tiene preferencia por ciertos elementos, como las bobinas Tesla y las barras de conexión a tierra.
 
   Si no encuentra ninguno, alcanzará casi cualquier objeto de la estación que pueda recibir energía, como subestaciones, APC y maquinaria general.
 
@@ -43,8 +43,8 @@
 
   La esfera también puede alcanzar criaturas y tripulantes. Utilice guantes aislantes antes de aproximarse.
 
-  ## Tesla Coils
-  Las Tesla Coils transforman las descargas en energía para la estación.
+  ## Bobinas Tesla
+  Las bobinas Tesla transforman las descargas en energía para la estación.
 
   <Box>
     <GuideEntityEmbed Entity="TeslaCoil" Caption=""/>
@@ -76,7 +76,7 @@
   </Box>
 
   No reciben daño de las descargas.
-  Por ello pueden formar una red de seguridad para el caso de que las Tesla Coils queden dañadas o destruidas.
+  Por ello pueden formar una red de seguridad para el caso de que las bobinas Tesla queden dañadas o destruidas.
 
   Los ingenieros deben utilizarlas para proteger equipos sensibles, como los emisores que alimentan el campo de contención.
 
@@ -92,10 +92,10 @@
     <GuideEntityEmbed Entity="ClothingHandsGlovesColorYellow"/>
   </Box>
 
-  Puede destruirse mediante antipartículas disparadas con un Portable Particle Decelerator. Sin embargo, el Tesla es mucho más resistente que la singularidad y requiere numerosos impactos.
+  Puede destruirse mediante antipartículas disparadas con un desacelerador de partículas portátil. Sin embargo, el Tesla es mucho más resistente que la singularidad y requiere numerosos impactos.
   Se recomienda que varias personas utilicen desaceleradores al mismo tiempo.
 
-  Los Portable Particle Decelerators pueden ser investigados y fabricados por Ciencia o adquiridos mediante Carga.
+  Los desaceleradores de partículas portátiles pueden ser investigados y fabricados por Ciencia o adquiridos mediante Carga.
 
   <Box>
     <GuideEntityEmbed Entity="WeaponParticleDecelerator"/>

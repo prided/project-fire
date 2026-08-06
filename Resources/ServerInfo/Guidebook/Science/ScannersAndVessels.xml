@@ -1,7 +1,7 @@
 <Document>
-## Anomaly Scanner
+## Escáner de anomalías
 
-El Anomaly Scanner se utiliza para recopilar distintos datos sobre las anomalías. Puede encontrarse dentro de los casilleros del departamento científico.
+El escáner de anomalías se utiliza para recopilar distintos datos sobre las anomalías. Puede encontrarse dentro de los casilleros del departamento científico.
 
 <Box>
 <GuideEntityEmbed Entity="AnomalyScanner"/>
@@ -9,9 +9,9 @@ El Anomaly Scanner se utiliza para recopilar distintos datos sobre las anomalía
 
 El escaneo indica la gravedad, estabilidad general, producción aproximada de puntos, reacción ante cada tipo de partícula y tiempo restante hasta el siguiente pulso. Las reacciones pueden utilizarse junto con el A.P.E. para manipular la anomalía.
 
-## Anomaly Vessel
+## Contenedor de anomalías
 
-El Anomaly Vessel es una máquina que genera puntos a partir de anomalías. Utilice el Anomaly Scanner sobre un recipiente vacío para vincularlo con la última anomalía escaneada.
+El contenedor de anomalías es una máquina que genera puntos a partir de anomalías. Utilice el escáner de anomalías sobre un recipiente vacío para vincularlo con la última anomalía escaneada.
 
 <Box>
 <GuideEntityEmbed Entity="MachineAnomalyVessel"/>

@@ -56,8 +56,8 @@
 
   Se recomienda [color=#a4885c]bloquearlos[/color] mediante [color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color] para impedir que un intruso desactive el campo y provoque una brecha de contención.
 
-  ## Particle Accelerator
-  El Particle Accelerator (PA) es una estructura de varias casillas que dispara partículas aceleradas desde sus emisores.
+  ## Acelerador de partículas
+  El acelerador de partículas (PA) es una estructura de varias casillas que dispara partículas aceleradas desde sus emisores.
 
   <Box>
     <GuideEntityEmbed Entity="ParticleAcceleratorEndCap" Caption="" Margin="0"/>

@@ -22,8 +22,8 @@
 
   Ambos modos están limitados por la configuración de Tasa, que determina la velocidad en litros a la que el depurador aspira gases de la atmósfera circundante.
 
-  Los depuradores de aire también cuentan con una configuración WideNet que amplía el rango de operación. Normalmente, un depurador solo limpia la atmósfera de la celda donde se encuentra.
-  En modo WideNet, el depurador limpia el gas de las 4 celdas que lo rodean, como se muestra a continuación:
+  Los depuradores de aire también cuentan con una configuración de red amplia que amplía el radio de operación. Normalmente, un depurador solo limpia la atmósfera de la casilla donde se encuentra.
+  En modo de red amplia, el depurador limpia el gas de las 4 casillas que lo rodean, como se muestra a continuación:
 
   <Box>
     <GuideEntityEmbed Entity="FloorTileItemSteel" Caption=""/>
@@ -41,6 +41,6 @@
 
   Los depuradores [textlink="vinculados" link="Networking"] a una [textlink="alarma atmosférica" link="AirAlarms"] en modo automático activarán WideNet mediante el modo «Filtrado (amplio)» de la [textlink="alarma atmosférica" link="AirAlarms"] cuando se detecte una concentración elevada de gases no deseados.
 
-  WideNet es extremadamente útil para eliminar rápidamente grandes volúmenes de tritio de las cámaras de combustión de plasma.
+  La red amplia es extremadamente útil para eliminar rápidamente grandes volúmenes de tritio de las cámaras de combustión de plasma.
 
 </Document>

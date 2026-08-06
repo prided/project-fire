@@ -14,7 +14,7 @@
   Si lleva varias, la esclusa comprobará todas.
   El mismo comportamiento se aplica a las identificaciones dentro de un PDA.
 
-  El nivel requerido puede modificarse mediante un Access Configurator o un Multitool aplicado sobre la electrónica de la puerta después de desmantelarla.
+  El nivel requerido puede modificarse mediante un configurador de acceso o un Multitool aplicado sobre la electrónica de la puerta después de desmantelarla.
 
   <Box>
     <GuideEntityEmbed Entity="AccessConfigurator" Caption=""/>
@@ -31,12 +31,12 @@
   El acceso de emergencia permite que cualquier persona abra la puerta sin importar su nivel. En este modo, las luces superiores parpadean en amarillo.
 
   ## Control remoto
-  La IA de la estación o un Door Remote pueden controlar las esclusas a distancia.
+  La IA de la estación o un control remoto de puertas pueden controlar las esclusas a distancia.
   <Box>
     <GuideEntityEmbed Entity="PlayerStationAiEmpty" Caption=""/>
   </Box>
   <Box>
-    [color=#999999][italic]La IA de la estación dispone de control remoto sobre todas las esclusas[italic][/color]
+    [color=#999999][italic]La IA de la estación dispone de control remoto sobre todas las esclusas[/italic][/color]
   </Box>
 
   <Box>
@@ -48,7 +48,7 @@
     <GuideEntityEmbed Entity="DoorRemoteResearch" Caption=""/>
   </Box>
   <Box>
-    [color=#999999][italic]Controles remotos de puertas con capacidad operativa ilimitada[italic][/color]
+    [color=#999999][italic]Controles remotos de puertas con capacidad operativa ilimitada[/italic][/color]
   </Box>
 
 

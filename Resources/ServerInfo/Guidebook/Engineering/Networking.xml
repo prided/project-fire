@@ -5,7 +5,7 @@
 
   Existen dos métodos: el sistema de enlaces y el sistema de listas.
 
-  Puede utilizar un Multitool o un Network Configurator para operar ambos.
+  Puede utilizar un Multitool o un configurador de red para operar ambos.
   Cambie de sistema mediante [color=yellow][bold][keybind="AltActivateItemInHand"][/bold][/color], o coloque el cursor sobre el dispositivo y presione [color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color].
 
   <Box HorizontalAlignment="Stretch">

@@ -1,20 +1,20 @@
 <Document>
   # Cíborgs
-  Los cíborgs son híbridos entre persona y máquina, construidos por la división de [textlink="robótica"  link="Robotics"] de Ciencia para cumplir distintas funciones en la estación. Están sujetos a [color=cyan]leyes de silicio[/color] de cumplimiento estricto y sirven incondicionalmente a la tripulación. [italic](La mayor parte del tiempo.)[italic]
+  Los cíborgs son híbridos entre persona y máquina, construidos por la división de [textlink="robótica"  link="Robotics"] de Ciencia para cumplir distintas funciones en la estación. Están sujetos a [color=cyan]leyes de silicio[/color] de cumplimiento estricto y sirven incondicionalmente a la tripulación. [italic](La mayor parte del tiempo.)[/italic]
 
   ## Componentes básicos
   <Box>
     <GuideEntityEmbed Entity="CyborgEndoskeleton" Caption="Endoesqueleto de cíborg"/>
-    <GuideEntityEmbed Entity="ExosuitFabricator" Caption="Exosuit Fabricator"/>
+    <GuideEntityEmbed Entity="ExosuitFabricator" Caption="fabricador de exotrajes"/>
   </Box>
-  Todos los cíborgs se construyen sobre un endoesqueleto fabricado en un [color=#a4885c]Exosuit Fabricator[/color]. Puede consultar los pasos posteriores de montaje al [color=#a4885c]examinar[/color] el endoesqueleto. Una vez construido, es posible instalar módulos y celdas de energía mejoradas para agregar herramientas o prolongar la autonomía.
+  Todos los cíborgs se construyen sobre un endoesqueleto fabricado en un [color=#a4885c]fabricador de exotrajes[/color]. Puede consultar los pasos posteriores de montaje al [color=#a4885c]examinar[/color] el endoesqueleto. Una vez construido, es posible instalar módulos y celdas de energía mejoradas para agregar herramientas o prolongar la autonomía.
 
   Los cíborgs recién construidos necesitan un [color=#a4885c]cerebro[/color] capaz de interactuar con el cuerpo electrónico. Existen dos tipos principales. Ambos pueden hablar de manera independiente si el chasis es retirado del servicio, sustituido o sufre un desmontaje no programado.
-  - La [color=#a4885c]Man-Machine Interface[/color], abreviada MMI, es un dispositivo que permite la comunicación entre un cerebro biológico y componentes electrónicos. De este modo, quienes sufrieron accidentes laborales graves pueden continuar prestando servicio después de perder su cuerpo.
-  - El [color=#a4885c]Positronic Brain[/color] es un cerebro completamente artificial con actividad neuronal espontánea. El tiempo necesario para organizar sus neuronas sintéticas puede variar considerablemente, pero permite crear cíborgs sin extraer el cerebro de un tripulante.
+  - La [color=#a4885c]interfaz hombre-máquina[/color], abreviada MMI, es un dispositivo que permite la comunicación entre un cerebro biológico y componentes electrónicos. De este modo, quienes sufrieron accidentes laborales graves pueden continuar prestando servicio después de perder su cuerpo.
+  - El [color=#a4885c]cerebro positrónico[/color] es un cerebro completamente artificial con actividad neuronal espontánea. El tiempo necesario para organizar sus neuronas sintéticas puede variar considerablemente, pero permite crear cíborgs sin extraer el cerebro de un tripulante.
   <Box>
-    <GuideEntityEmbed Entity="MMIFilled" Caption="Man-Machine Interface"/>
-    <GuideEntityEmbed Entity="PositronicBrain" Caption="Positronic Brain"/>
+    <GuideEntityEmbed Entity="MMIFilled" Caption="interfaz hombre-máquina"/>
+    <GuideEntityEmbed Entity="PositronicBrain" Caption="cerebro positrónico"/>
   </Box>
   Ambos cerebros pueden fabricarse sin investigación adicional.
 
@@ -37,7 +37,7 @@
   <Box>
     <GuideEntityEmbed Entity="BorgModuleTool" Caption="Módulo de herramientas para cíborg"/>
   </Box>
-  Los cíborgs no tienen manos y, por tanto, no pueden recoger objetos como la mayoría de los jugadores. En su lugar, reciben equipo mediante distintos [color=#a4885c]módulos[/color]. Cada tipo comienza con un conjunto específico, pero pueden instalarse módulos adicionales como mejoras. Estos módulos se fabrican en el [color=#a4885c]Exosuit Fabricator[/color].
+  Los cíborgs no tienen manos y, por tanto, no pueden recoger objetos como la mayoría de los jugadores. En su lugar, reciben equipo mediante distintos [color=#a4885c]módulos[/color]. Cada tipo comienza con un conjunto específico, pero pueden instalarse módulos adicionales como mejoras. Estos módulos se fabrican en el [color=#a4885c]fabricador de exotrajes[/color].
 
   Los módulos [color=#a4885c]genéricos[/color] aumentan la versatilidad. Pueden instalarse en cualquier chasis y proporcionan herramientas útiles, como palancas, GPS y capacidad para manipular cables. [bold]El chasis genérico puede admitir hasta cinco módulos adicionales.[/bold]
   <Box>
@@ -58,8 +58,7 @@
     <GuideEntityEmbed Entity="BorgModuleChemical" Caption="Química"/>
   </Box>
   <Box>
-    [italic]Ejemplos de módulos especializados. Observe los colores de la carcasa y de la placa de circuito.
+    [italic]Ejemplos de módulos especializados. Observe los colores de la carcasa y de la placa de circuito.[/italic]
   </Box>
   Es posible obtener módulos adicionales con capacidades avanzadas o nuevas mediante las [textlink="tecnologías"  link="Technologies"] investigadas por el personal científico.
 </Document>
-

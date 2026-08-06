@@ -27,7 +27,7 @@
 
   - [color=cyan]Traje presurizado Spationaut[/color]: permite sobrevivir en el espacio. [italic]Recuerde activar el casco para respirar y encender la linterna integrada[/italic].
   - [color=cyan]Botas magnéticas[/color]: proporcionan adherencia al explorar restos espaciales y evitan resbalones.
-  - [color=cyan]Oxígeno/Nitrógeno[/color]: según su especie, necesitará [color=cyan]Nitrógeno[/color] (slimes y vox) u [color=cyan]Oxígeno[/color] (las demás especies). El [color=cyan]Gas Tank Dispenser[/color] contiene todos los tanques necesarios; lleve una reserva adecuada.
+  - [color=cyan]Oxígeno/Nitrógeno[/color]: según su especie, necesitará [color=cyan]Nitrógeno[/color] (slimes y vox) u [color=cyan]Oxígeno[/color] (las demás especies). El [color=cyan]dispensador de tanques de gas[/color] contiene todos los tanques necesarios; lleve una reserva adecuada.
 
   <Box>
     <GuideEntityEmbed Entity="WeaponProtoKineticAccelerator"/>
@@ -35,7 +35,7 @@
 
   Todos los Especialistas en Rescate deben portar un arma para defenderse de amenazas hostiles.
 
-  - [color=cyan]Proto-Kinetic Accelerator[/color]: esta arma tiene munición ilimitada y permite extraer minerales y desplazarse lentamente por el espacio. Ciencia puede fabricar mejoras para aumentar el daño, el alcance y la velocidad de disparo.
+  - [color=cyan]acelerador protocinético[/color]: esta arma tiene munición ilimitada y permite extraer minerales y desplazarse lentamente por el espacio. Ciencia puede fabricar mejoras para aumentar el daño, el alcance y la velocidad de disparo.
 
   <Box>
     <GuideEntityEmbed Entity="Pickaxe"/>
@@ -59,7 +59,7 @@
   - [color=cyan]Extintor[/color]: alternativa improvisada a una mochila propulsora. En el espacio, el retroceso de un extintor permite impulsarse en la dirección opuesta. Puede rellenarse con cualquier líquido.
   - [color=cyan]Arma de agarre[/color]: herramienta de desplazamiento de gran utilidad. Se dispara como cualquier arma y puede retraerse al recargar. Después de engancharse a una superficie, presione [color=yellow][bold][keybind="UseSecondary"][/bold][/color] para acercarse.
   - [color=cyan]PDA de Rescate[/color]: incluye el programa GPS AstroNav, que permite utilizar el dispositivo como GPS mientras lo sostiene. Registre las coordenadas de la estación antes de partir.
-  - [color=cyan]Mass Scanner Computer[/color]: consola que proporciona una vista superior de la estación y de entidades cercanas en el espacio. Utilícela para confirmar la ubicación y dirección de restos o asteroides antes de viajar.
+  - [color=cyan]computadora de escaneo de masas[/color]: consola que proporciona una vista superior de la estación y de entidades cercanas en el espacio. Utilícela para confirmar la ubicación y dirección de restos o asteroides antes de viajar.
 
   <Box>
     <GuideEntityEmbed Entity="RadioHandheld"/>
@@ -73,7 +73,7 @@
   - [color=cyan]Sistema de posicionamiento global[/color]: GPS de reserva idéntico al instalado en el PDA. Resulta útil como respaldo o para el personal recién incorporado.
   - [color=cyan]Cinturón de herramientas[/color]: contiene el equipo necesario para desmontar máquinas y recuperar componentes de pecios y del asteroide minero. Utilícelo cuando no tenga previsto extraer minerales.
 
-  ## Extracciones del Salvage Magnet
+  ## Extracciones del imán de Rescate
 
   Una vez preparado, puede iniciar la exploración.
 
@@ -81,9 +81,9 @@
     <GuideEntityEmbed Entity="SalvageMagnet"/>
   </Box>
 
-  El [color=cyan]Salvage Magnet[/color] es una máquina que atrae restos espaciales hacia una zona cercana.
+  El [color=cyan]imán de Rescate[/color] es una máquina que atrae restos espaciales hacia una zona cercana.
 
-  El Salvage Magnet presenta cinco opciones, compuestas al azar por [color=cyan]asteroides[/color], [color=cyan]pecios[/color] y [color=cyan]restos espaciales[/color]. Después de seleccionar una opción, la estructura permanecerá atraída durante [bold]6 minutos[/bold]. Al concluir ese periodo, cualquier objeto que permanezca en la cuadrícula desaparecerá. Si ninguna opción resulta conveniente, las ofertas no seleccionadas se renuevan cada [bold]3 minutos[/bold].
+  El imán de Rescate presenta cinco opciones, compuestas al azar por [color=cyan]asteroides[/color], [color=cyan]pecios[/color] y [color=cyan]restos espaciales[/color]. Después de seleccionar una opción, la estructura permanecerá atraída durante [bold]6 minutos[/bold]. Al concluir ese periodo, cualquier objeto que permanezca en la cuadrícula desaparecerá. Si ninguna opción resulta conveniente, las ofertas no seleccionadas se renuevan cada [bold]3 minutos[/bold].
 
   Durante esos 6 minutos, desplácese hasta la cuadrícula atraída, recupere todos los recursos posibles y regrese a la estación.
 
@@ -95,9 +95,9 @@
     <GuideEntityEmbed Entity="OreProcessor"/>
   </Box>
 
-  El Salvage Magnet proporciona información sobre los recursos presentes en un asteroide, lo que permite establecer prioridades según las necesidades actuales de la estación. Es una opción de minería relativamente segura porque los asteroides no contienen criaturas hostiles, aunque todavía pueden presentar otras amenazas.
+  El imán de Rescate proporciona información sobre los recursos presentes en un asteroide, lo que permite establecer prioridades según las necesidades actuales de la estación. Es una opción de minería relativamente segura porque los asteroides no contienen criaturas hostiles, aunque todavía pueden presentar otras amenazas.
 
-  Desplácese por la zona y extraiga mineral con el [color=cyan]pico[/color] y la [color=cyan]bolsa de minerales[/color]. Después de recolectarlo, puede refinarlo mediante el [color=cyan]Ore Processor[/color].
+  Desplácese por la zona y extraiga mineral con el [color=cyan]pico[/color] y la [color=cyan]bolsa de minerales[/color]. Después de recolectarlo, puede refinarlo mediante el [color=cyan]procesador de minerales[/color].
 
   Proceda con precaución: dentro de rocas aparentemente normales pueden ocultarse fragmentos de [color=red]Gibtonite[/color], listos para explotar ante la menor alteración.
 
@@ -111,9 +111,9 @@
 
   Los [color=cyan]restos espaciales[/color] son una opción versátil que proporciona materiales básicos importantes, como acero y vidrio, que escasean al inicio del turno. Los objetos y residuos están dispersos y deben recogerse. Considere arrastrar un casillero o una caja presente en los restos para facilitar el almacenamiento.
 
-  Los restos contienen numerosas amenazas. Las [color=red]carpas espaciales[/color] y los [color=red]Sharkminnows[/color] atacan a cualquier integrante de Rescate que se acerque. En ocasiones también hay [color=red]minas terrestres[/color] capaces de incapacitar a un explorador desprevenido.
+  Los restos contienen numerosas amenazas. Las [color=red]carpas espaciales[/color] y los [color=red]carpotiburones[/color] atacan a cualquier integrante de Rescate que se acerque. En ocasiones también hay [color=red]minas terrestres[/color] capaces de incapacitar a un explorador desprevenido.
 
-  Al regresar, coloque los residuos recuperados en el [color=cyan]Recycler[/color] del departamento para convertirlos en materiales útiles y entréguelos a Carga para su distribución. Si encuentra objetos valiosos, como [color=yellow]monedas, anillos y relojes,[/color] entréguelos a Carga para venderlos en la [color=cyan]Automated Trade Station[/color].
+  Al regresar, coloque los residuos recuperados en el [color=cyan]reciclador[/color] del departamento para convertirlos en materiales útiles y entréguelos a Carga para su distribución. Si encuentra objetos valiosos, como [color=yellow]monedas, anillos y relojes,[/color] entréguelos a Carga para venderlos en la [color=cyan]estación comercial automatizada[/color].
 
   ### Pecios
 
@@ -123,21 +123,21 @@
     <GuideEntityEmbed Entity="WeaponProtoKineticAccelerator"/>
   </Box>
 
-  El Salvage Magnet informa el tamaño de cada pecio. Su peligrosidad y valor varían considerablemente, pero suelen contener amenazas más diversas que los [color=cyan]restos espaciales[/color]. Mantenga distancia de los organismos hostiles y dispáreles con el [color=cyan]Proto-Kinetic Accelerator[/color]. Busque objetos y maquinaria valiosos, y utilice la [color=cyan]Appraisal Tool[/color] para consultar su valor.
+  El imán de Rescate informa el tamaño de cada pecio. Su peligrosidad y valor varían considerablemente, pero suelen contener amenazas más diversas que los [color=cyan]restos espaciales[/color]. Mantenga distancia de los organismos hostiles y dispáreles con el [color=cyan]acelerador protocinético[/color]. Busque objetos y maquinaria valiosos, y utilice la [color=cyan]herramienta de tasación[/color] para consultar su valor.
 
   ## Progresión y mejoras
 
   El equipo inicial permite cumplir las funciones básicas, pero el equipo avanzado facilita el trabajo y proporciona los recursos necesarios para explorar el peligroso [color=red]asteroide minero[/color].
 
-  ### Salvage Job Board
+  ### Tablón de trabajos de Rescate
 
   <Box>
     <GuideEntityEmbed Entity="ComputerSalvageJobBoard"/>
   </Box>
 
-  La [color=cyan]Salvage Job Board[/color] es una computadora ubicada en la bahía de Rescate. Cumple una función equivalente a la [color=cyan]Cargo Bounty Computer[/color] y permite entregar materiales específicos para obtener spesos y desbloquear [color=yellow]equipo avanzado de Rescate[/color].
+  El [color=cyan]tablón de trabajos de Rescate[/color] es una computadora ubicada en la bahía de Rescate. Cumple una función equivalente a la [color=cyan]computadora de contratos de carga[/color] y permite entregar materiales específicos para obtener spesos y desbloquear [color=yellow]equipo avanzado de Rescate[/color].
 
-  Cuando reúna los suministros necesarios, imprima una [color=cyan]Salvage Job Shipment Label[/color] y fíjela a la caja o al casillero que contenga los artículos. Utilice la [color=cyan]Appraisal Tool[/color] para confirmar que la carga está lista. Después puede trasladarla a la [color=cyan]Automated Trade Station[/color] para obtener spesos y desbloquear cajas especializadas en la [color=cyan]Cargo Request Computer[/color].
+  Cuando reúna los suministros necesarios, imprima una [color=cyan]etiqueta de envío de trabajos de Rescate[/color] y fíjela a la caja o al casillero que contenga los artículos. Utilice la [color=cyan]herramienta de tasación[/color] para confirmar que la carga está lista. Después puede trasladarla a la [color=cyan]estación comercial automatizada[/color] para obtener spesos y desbloquear cajas especializadas en la [color=cyan]computadora de solicitudes de carga[/color].
 
   <Box>
     <GuideEntityEmbed Entity="Fulton1"/>
@@ -145,10 +145,10 @@
     <GuideEntityEmbed Entity="SeismicCharge"/>
   </Box>
 
-  Completar trabajos de Rescate aumentará su rango y desbloqueará nuevas compras en la [color=cyan]Cargo Request Computer[/color], entre ellas:
+  Completar trabajos de Rescate aumentará su rango y desbloqueará nuevas compras en la [color=cyan]computadora de solicitudes de carga[/color], entre ellas:
 
-  - [color=cyan]Fultons[/color]: después de vincular un Fulton con una Fulton Beacon, puede fijarlo a estructuras no ancladas, como cajas o máquinas, para transportarlas hasta la baliza tras una breve espera. Resulta especialmente útil para trasladar objetos y personas.
-  - [color=cyan]Armas Crusher[/color]: conjunto de armas cuerpo a cuerpo mejoradas. La [color=red]Crusher Dagger[/color] mejora el cuchillo de supervivencia y ataca automáticamente con mucha mayor velocidad. La [color=red]Crusher[/color] y la [color=red]Crusher Glaive[/color] son armas de asta de gran tamaño que disparan proyectiles especiales cuando se empuñan. Los proyectiles no causan daño por sí solos, pero si ataca rápidamente cuerpo a cuerpo a un enemigo marcado, absorberá parte de su salud. Todas las armas Crusher incluyen un reflector.
+  - [color=cyan]Dispositivos Fulton[/color]: después de vincular uno con una baliza Fulton, puede fijarlo a estructuras no ancladas, como cajas o máquinas, para transportarlas hasta la baliza tras una breve espera. Resulta especialmente útil para trasladar objetos y personas.
+  - [color=cyan]Armas trituradoras[/color]: conjunto de armas cuerpo a cuerpo mejoradas. La [color=red]daga trituradora[/color] mejora el cuchillo de supervivencia y ataca automáticamente con mucha mayor velocidad. La [color=red]trituradora[/color] y la [color=red]guja trituradora[/color] son armas de asta de gran tamaño que disparan proyectiles especiales cuando se empuñan. Los proyectiles no causan daño por sí solos, pero si ataca rápidamente cuerpo a cuerpo a un enemigo marcado, absorberá parte de su salud. Todas las armas trituradoras incluyen un reflector.
   - [color=cyan]Cargas sísmicas[/color]: explosivos de minería destinados a fragmentar asteroides o abrir acceso a pecios peligrosos. Para una demolición segura, vincúlelas con un detonador remoto o configúrelas para iniciar la detonación al fijarlas a una pared.
 
   ### Coordinación con Ciencia
@@ -170,13 +170,13 @@
 
   Ciencia es la única fuente de distintos equipos de gran utilidad, entre ellos:
 
-  - [color=cyan]Equipo de minería[/color]: Ciencia puede proporcionar [color=yellow]taladros mineros y escáneres de minerales[/color], que aceleran y facilitan la extracción. También puede construir un [color=yellow]Industrial Ore Processor[/color], que convierte el mineral en materiales terminados con mayor eficiencia.
-  - [color=cyan]Handheld Mass Scanner[/color]: versión portátil de la Mass Scanner Computer. Requiere una batería, pero permite consultar su posición desde cualquier lugar del espacio.
+  - [color=cyan]Equipo de minería[/color]: Ciencia puede proporcionar [color=yellow]taladros mineros y escáneres de minerales[/color], que aceleran y facilitan la extracción. También puede construir un [color=yellow]procesador industrial de minerales[/color], que convierte el mineral en materiales terminados con mayor eficiencia.
+  - [color=cyan]escáner de masas portátil[/color]: versión portátil de la computadora de escaneo de masas. Requiere una batería, pero permite consultar su posición desde cualquier lugar del espacio.
   - [color=cyan]Mejoras para el PKA[/color]: puede instalar hasta dos mejoras distintas de un conjunto de tres: [color=red]daño,[/color] [color=yellow]cadencia de disparo[/color] y [color=green]alcance[/color].
 
   ## Asteroide minero
 
-  Una vez que domine el Salvage Magnet, el distante [color=red]asteroide minero[/color] será el siguiente objetivo. Para llegar suele necesitarse un transbordador o mochilas propulsoras. Debido a los peligros excepcionales de la zona, no debe explorarse en solitario.
+  Una vez que domine el imán de Rescate, el distante [color=red]asteroide minero[/color] será el siguiente objetivo. Para llegar suele necesitarse un transbordador o mochilas propulsoras. Debido a los peligros excepcionales de la zona, no debe explorarse en solitario.
 
   <Box>
     <GuideEntityEmbed Entity="MobGoliath"/>
@@ -188,7 +188,7 @@
 
   Las criaturas del asteroide minero superan ampliamente las amenazas presentes en pecios y restos espaciales.
 
-  - [color=cyan]Goliaths[/color]: criaturas de gran tamaño capaces de incapacitar objetivos mediante tentáculos y dejarlos indefensos ante sus garras y dientes. Son difíciles de eliminar, pero pueden procesarse para obtener valiosas [color=cyan]placas de piel de Goliath,[/color] utilizadas en trabajos de Rescate y para mejorar el traje Spationaut.
-  - [color=cyan]Hivelords[/color]: anomalías rápidas y de comportamiento errático. Prefieren mantener la distancia y expulsan pequeñas [color=cyan]crías de Hivelord[/color] para rodear al personal de Rescate. No son especialmente resistentes; atáquelas con rapidez antes de que formen una horda. Pueden procesarse para obtener [color=cyan]núcleos de Hivelord,[/color] que se deterioran rápidamente, se utilizan en trabajos de Rescate y pueden consumirse sin procesar para recuperar salud.
-  - [color=cyan]Basilisks[/color]: amenazas cubiertas de hielo que permanecen en las sombras. Disparan proyectiles de energía congelante que dañan y ralentizan a sus objetivos antes de aproximarse para eliminarlos. Después de abatirlos, pueden procesarse para obtener valioso [color=cyan]mineral de diamante[/color].
+  - [color=cyan]Goliats[/color]: criaturas de gran tamaño capaces de incapacitar objetivos mediante tentáculos y dejarlos indefensos ante sus garras y dientes. Son difíciles de eliminar, pero pueden procesarse para obtener valiosas [color=cyan]placas de piel de Goliat,[/color] utilizadas en trabajos de Rescate y para mejorar el traje Spationaut.
+  - [color=cyan]Señores del Enjambre[/color]: anomalías rápidas y de comportamiento errático. Prefieren mantener la distancia y expulsan pequeñas [color=cyan]crías del Señor del Enjambre[/color] para rodear al personal de Rescate. No son especialmente resistentes; atáquelas con rapidez antes de que formen una horda. Pueden procesarse para obtener [color=cyan]núcleos del Señor del Enjambre,[/color] que se deterioran rápidamente, se utilizan en trabajos de Rescate y pueden consumirse sin procesar para recuperar salud.
+  - [color=cyan]Basiliscos[/color]: amenazas cubiertas de hielo que permanecen en las sombras. Disparan proyectiles de energía congelante que dañan y ralentizan a sus objetivos antes de aproximarse para eliminarlos. Después de abatirlos, pueden procesarse para obtener valioso [color=cyan]mineral de diamante[/color].
 </Document>

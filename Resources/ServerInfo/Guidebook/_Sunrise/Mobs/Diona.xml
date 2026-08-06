@@ -1,44 +1,44 @@
 <Document>
-  # Diones
+  # Dionas
 
   <Box>
     <GuideEntityEmbed Entity="MobDiona" Caption=""/>
   </Box>
 
-  No pueden llevar zapatos, pero tampoco se detienen en kudzu.
-  El hambre y la sed llegan más despacio.
-  Su "sangre" es savia de árbol, que no puede reponerse con hierro.
-  Como plantas, son envenenadas por el herbicida, y Cosecha Robusta las trata (¡pero si se abusan, es arriesgado!).
+  No pueden utilizar calzado, pero el kudzu no reduce su velocidad.
+  El hambre y la sed aumentan con menor rapidez.
+  Su «sangre» es savia vegetal y no puede regenerarse mediante hierro.
+  Debido a su naturaleza vegetal, el herbicida resulta tóxico para ellos, mientras que Cosecha Robusta los cura, aunque su uso excesivo implica riesgos.
 
-  Reciben [color=#1e90ff]30 % menos de daño contundente y 20 % menos de daño cortante[/color];
-  pero recibe un [color=#ffa500]50% más de daño por calor, un 20% más de daño eléctrico, y
-  Se enciende fácilmente si recibe suficiente daño térmico de cualquier source.[/color]
+  Reciben [color=#1e90ff]un 30 % menos de daño contundente y un 20 % menos de daño cortante[/color];
+  pero [color=#ffa500]un 50 % más de daño por calor y un 20 % más de daño eléctrico. Además, pueden
+  incendiarse con facilidad al recibir suficiente daño por calor de cualquier fuente.[/color]
 
-  ## Haz como un árbol y echa raíces
+  ## Convertirse en árbol
   <Box>
     <GuideEntityEmbed Entity="FloraTree" Caption=""/>
   </Box>
-  Cuando se expone a una gran cantidad de Cosecha Robusta, el Diona crece de forma incontrolable y se convierte en un árbol estacionario (dejando caer todo el equipo).
-  Al cortar un árbol, puedes "devolver" el dione a un estado móvil.
+  Una exposición excesiva a Cosecha Robusta hará que un diona crezca sin control y se transforme en un árbol inmóvil, dejando caer todo su equipo.
+  Talar el árbol devolverá al diona a su estado móvil.
 
-  ## Ninfas Dion
+  ## Ninfas diona
   <Box>
     <GuideEntityEmbed Entity="MobDionaNymph" Caption=""/>
     <GuideEntityEmbed Entity="MobDionaNymph" Caption=""/>
     <GuideEntityEmbed Entity="MobDionaNymph" Caption=""/>
   </Box>
-  Tras la muerte, Dion puede destruir voluntariamente su cuerpo y liberar "órganos internos" en forma de tres ninfas,
-  Al mismo tiempo, el jugador gana control sobre la ninfa cerebral.
-  Puede hablar, pero no tiene armas ni equipo, y no es capaz de mucho. Debido al pequeño tamaño de la ninfa
-  Puede caber en una bolsa o mochila, pero no podrá trepar por ahí por sí sola.
-  Su aspecto pequeño permite que te colen en las tuberías de ventilación.
+  Después de morir, un diona puede destruir voluntariamente su cuerpo y liberar sus «órganos internos» en forma de tres ninfas.
+  El jugador pasará a controlar la ninfa cerebral.
+  Esta puede hablar, pero no tiene manos ni inventario y dispone de capacidades muy limitadas.
+  Debido a su pequeño tamaño, puede caber en una bolsa o mochila, aunque no puede entrar por sí sola.
+  También puede desplazarse por las tuberías de ventilación.
   <Box>
     <GuideEntityEmbed Entity="GasVentScrubber" Caption=""/>
     <GuideEntityEmbed Entity="ClothingBackpackSatchel" Caption=""/>
     <GuideEntityEmbed Entity="GasVentPump" Caption=""/>
   </Box>
-  Tras 10 minutos, la ninfa puede recuperarse y convertirse en una diona completa. Será un nuevo cuerpo generado aleatoriamente con un nuevo nombre,
-  y, aparte de sus palabras, casi no quedará rastro de quién fueron antes.
+  Después de 10 minutos, una ninfa puede volver a formar un diona completo. El cuerpo y el nombre se generarán aleatoriamente,
+  y apenas existirá evidencia de su identidad anterior más allá de su propio testimonio.
 
 
 </Document>

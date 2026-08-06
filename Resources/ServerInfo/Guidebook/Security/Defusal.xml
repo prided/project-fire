@@ -26,7 +26,7 @@
   </Box>
 
   ## Armado
-  Para armar una bomba, puede hacer [color=yellow]clic derecho[/color] y seleccionar [color=yellow]Iniciar cuenta regresiva[/click], o hacer [color=yellow]Alt-clic[/color] sobre ella. La bomba comenzará a emitir señales sonoras.
+  Para armar una bomba, puede hacer [color=yellow]clic derecho[/color] y seleccionar [color=yellow]Iniciar cuenta regresiva[/color], o hacer [color=yellow]Alt-clic[/color] sobre ella. La bomba comenzará a emitir señales sonoras.
 
   ## Tiempo
   Una bomba dispone de un tiempo limitado: como mínimo [protodata="SyndicateBomb" comp="TimerTrigger" member="ShortestDelayOption"/] segundos y como máximo [protodata="SyndicateBomb" comp="TimerTrigger" member="LongestDelayOption"/] segundos. Puede consultar el temporizador al examinarla, salvo que se haya cortado el cable PRCD. Cuando el temporizador llegue a cero, la bomba detonará.

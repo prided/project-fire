@@ -25,7 +25,7 @@
   - La temperatura entre los dos lados de la esclusa cortafuegos varía en [color=orange][protodata="Firelock" comp="Firelock" member="TemperatureThreshold"/] K[/color] o más.
   - La presión entre los dos lados de la esclusa cortafuegos varía en [color=orange][protodata="Firelock" comp="Firelock" member="PressureThreshold"/] kPa[/color] o más.
 
-  Si estas condiciones persisten, la esclusa de emergencia entrará en modo de bloqueo. Las esclusas de emergencia tienen [color=red]red[/color] luces en la cerradura y no pueden abrirse a mano. Solo pueden abrirse personas con acceso de ingeniería o una palanca.
+  Si estas condiciones persisten, la compuerta entrará en modo de bloqueo. Sus luces se volverán [color=red]rojas[/color] y ya no podrá abrirse manualmente sin acceso de Ingeniería o una palanca.
 
   Un candado cortafuegos desactivado en modo bloqueo no puede abrirse mediante acceso de ingeniería. En este caso, solo una palanca ayudará.
 
@@ -53,7 +53,7 @@
 
   Las compuertas cortafuegos se cerrarán si la alarma de aire alcanza el estado [color=red]Peligro[/color]. Permanecerán cerradas hasta que la alarma vuelva al estado [color=green]Normal[/color].
 
-  Las esclusas de aire contra incendios en modo de bloqueo no se activarán aunque la alarma vuelva a [color=green]Green[/color]. Aunque se elimine la caída de presión, la esclusa permanecerá bajada hasta que la alarma de ataque aéreo vuelva a emitir un estado verde.
+  Las compuertas cortafuegos en modo de bloqueo no se abrirán aunque la alarma vuelva a [color=green]Normal[/color]. Incluso después de resolver la diferencia de presión, permanecerán cerradas hasta recibir de nuevo ese estado.
 
   ## Trabajo bajo alarmas de incendio
   Cuando se conecta a una alarma de incendios, las compuertas se bajan si se ha activado la alarma de incendios. Permanecerán bajadas hasta que se reinicie la alarma de incendios.

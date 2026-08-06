@@ -8,7 +8,7 @@
   No pueden utilizar calzado, pero el kudzu no reduce su velocidad.
   El hambre y la sed aumentan con menor rapidez.
   Su «sangre» es savia vegetal y no puede regenerarse mediante hierro.
-  Debido a su naturaleza vegetal, el herbicida resulta tóxico para ellos, mientras que Robust Harvest los cura, aunque su uso excesivo implica riesgos.
+  Debido a su naturaleza vegetal, el herbicida resulta tóxico para ellos, mientras que Cosecha Robusta los cura, aunque su uso excesivo implica riesgos.
 
   Reciben [color=#1e90ff]un 30 % menos de daño contundente y un 20 % menos de daño cortante[/color];
   pero [color=#ffa500]un 50 % más de daño por calor y un 20 % más de daño eléctrico. Además, pueden
@@ -18,7 +18,7 @@
   <Box>
     <GuideEntityEmbed Entity="FloraTree" Caption=""/>
   </Box>
-  Una exposición excesiva a Robust Harvest hará que un diona crezca sin control y se transforme en un árbol inmóvil, dejando caer todo su equipo.
+  Una exposición excesiva a Cosecha Robusta hará que un diona crezca sin control y se transforme en un árbol inmóvil, dejando caer todo su equipo.
   Talar el árbol devolverá al diona a su estado móvil.
 
   ## Ninfas diona

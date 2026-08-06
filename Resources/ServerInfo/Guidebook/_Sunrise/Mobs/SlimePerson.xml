@@ -1,24 +1,24 @@
 <Document>
-  # Hombres Slime
+  # Personas de slime
 
   <Box>
     <GuideEntityEmbed Entity="MobSlimePerson" Caption=""/>
   </Box>
 
-  Respiran nitrógeno en lugar de oxígeno. El nitrógeno está presente en el aire de la estación, pero es más difícil de encontrar en cilindros comprimidos. Sufren daños graves si se rocian o rocian con agua, pero
-  (como otras especies) pueden beber agua de forma segura para saciar la sed.
-  Exhalan óxido nitroso y no se ven afectados por sus efectos.
-  Su cuerpo puede procesar 6 reactivos a la vez en lugar de 2.
+  Respiran nitrógeno en lugar de oxígeno. El nitrógeno abunda en la atmósfera de la estación, pero es más difícil encontrarlo comprimido en tanques de gas. El contacto externo con agua les causa daños considerables; sin embargo,
+  pueden beberla de forma segura y, al igual que otras especies, la necesitan para mantenerse hidratados.
+  Exhalan óxido nitroso y son inmunes a sus efectos.
+  Su organismo puede procesar 6 reactivos simultáneamente en lugar de solo 2.
 
-  Los Hombres Slime tienen [bold] inventario interno 2x3[/bold] en su membrana mucosa. Cualquiera puede ver lo que hay ahí y sacarlo sin tu consentimiento,
-  Así que ten cuidado.
+  Las personas de slime disponen de un [bold]inventario interno de 2 × 3 espacios[/bold] dentro de su membrana. Cualquier persona puede ver y retirar su contenido sin autorización,
+  por lo que deben actuar con precaución.
 
-  Los slimemen tienen aproximadamente [color=#1e90ff]double[/color] regeneración en comparación con otros humanoides y pueden recuperarse de heridas significativamente mayores, hasta [color=#1e90ff]three times[/color] más rápido que otros.
+  Su regeneración es aproximadamente [color=#1e90ff]dos veces[/color] superior a la de otros humanoides y pueden recuperarse de heridas hasta [color=#1e90ff]tres veces[/color] más graves.
 
-  Su "sangre" mucosa no puede reponerse a partir del hierro. La mucosidad es la fuente de
-  alimento moderadamente nutritivo para otras especies, aunque beber la sangre de sus colegas suele estar mal visto.
-  Se asfixian un 80% más despacio, pero reciben un 9% más de daño por presión. Esto les hace más capaces de sobrevivir en un vacío duro. Durante un tiempo.
+  Su «sangre» de slime no puede regenerarse mediante hierro. Técnicamente, la sangre de slime constituye una fuente de
+  alimento moderadamente nutritiva para otras especies, aunque consumir la sangre de otros integrantes de la tripulación suele considerarse una conducta inapropiada.
+  Se asfixian un 80 % más lentamente, pero reciben daño por presión un 9 % más rápido. Esto los convierte en la especie con mayor capacidad para sobrevivir temporalmente en el vacío.
 
-  Reciben [color=#1e90ff]40 % menos de daño contundente[/color], pero [color=#ffa500]50 % más de daño por frío, 20 % más de daño cortante y 20 % más de daño perforante[/color].
+  Reciben [color=#1e90ff]un 40 % menos de daño contundente[/color], pero [color=#ffa500]un 50 % más de daño por frío, un 20 % más de daño cortante y un 20 % más de daño perforante[/color].
 
 </Document>

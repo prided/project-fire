@@ -1,6 +1,6 @@
 <Document>
-  # Atmospheric Alerts Computer
-  La Atmospheric Alerts Computer muestra información sobre todas las alarmas atmosféricas y de incendios de la estación.
+  # Consola de alertas atmosféricas
+  La consola de alertas atmosféricas muestra información sobre todas las alarmas atmosféricas y de incendios de la estación.
 
   <Box>
     <GuideEntityEmbed Entity="ComputerAlert"/>
@@ -23,7 +23,7 @@
 
   Al seleccionar una alarma en cualquiera de las dos vistas, se mostrará información detallada sobre la atmósfera local para facilitar la evaluación de la emergencia.
 
-  La Atmospheric Alerts Computer también presenta en una pestaña separada las [textlink="alarmas de incendios" link="FireAndGasControl"] activadas, lo que permite localizar posibles focos.
+  La consola de alertas atmosféricas también presenta en una pestaña separada las [textlink="alarmas de incendios" link="FireAndGasControl"] activadas, lo que permite localizar posibles focos.
 
   Puede silenciar alarmas concretas, como las que supervisan cámaras de combustión y congeladores, al seleccionarlas y presionar «Silenciar alertas».
   La alarma desaparecerá de la lista, pero seguirá visible en el mapa.

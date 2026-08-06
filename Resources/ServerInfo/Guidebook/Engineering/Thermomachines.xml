@@ -1,6 +1,6 @@
 <Document>
-  # Thermomachines
-  Las Thermomachines modifican la temperatura de los gases dentro de una [textlink="red de tuberías" link="PipeNetworks"] o una atmósfera expuesta.
+  # Termomáquinas
+  Las termomáquinas modifican la temperatura de los gases dentro de una [textlink="red de tuberías" link="PipeNetworks"] o una atmósfera expuesta.
   <Box>
     <GuideEntityEmbed Entity="SpaceHeater" Caption=""/>
     <GuideEntityEmbed Entity="GasThermoMachineHeater" Caption=""/>
@@ -18,15 +18,15 @@
 
   La tolerancia es de [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="TemperatureTolerance"/] K[/color], por lo que dejan de calentar o enfriar cuando la temperatura se encuentra dentro de [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="TemperatureTolerance"/] K[/color] del valor objetivo.
 
-  ## Space Heater
-  El Space Heater es una unidad portátil que calienta o enfría el gas de la atmósfera expuesta.
+  ## Calefactor
+  El calefactor es una unidad portátil que calienta o enfría el gas de la atmósfera expuesta.
   Es un medio sencillo y eficaz para regular una sala sin construir una red de tuberías.
 
   <Box>
     <GuideEntityEmbed Entity="SpaceHeater"/>
   </Box>
 
-  Suele encontrarse en Atmósfera. La placa de la máquina también puede fabricarse en un Circuit Imprinter, normalmente ubicado en Ciencia.
+  Suele encontrarse en Atmósfera. La placa de la máquina también puede fabricarse en un impresora de circuitos, normalmente ubicado en Ciencia.
 
   Puede enfriar hasta [color=orange][protodata="SpaceHeater" comp="SpaceHeater" member="MinTemperature"/] K[/color] y calentar hasta [color=orange][protodata="SpaceHeater" comp="SpaceHeater" member="MaxTemperature"/] K[/color].
 
@@ -34,7 +34,7 @@
 
   Botánica y Ciencia suelen solicitar estas unidades para controlar la temperatura de plantas o instalaciones.
 
-  ## Thermomachines de red
+  ## Termomáquinas de red
   Las unidades fijas son más potentes y pueden calentar o enfriar gas dentro de una [textlink="red de tuberías." link="PipeNetworks"]
 
   <Box>
@@ -45,7 +45,7 @@
   Consumen [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="HeatCapacity" format="N0"/] W[/color] y regulan el gas entre un máximo de [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="MaxTemperature"/] K[/color] y un mínimo de [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="MinTemperature"/] K[/color].
 
   Para cambiar entre calentador y congelador, desmantele la máquina y utilice un destornillador sobre la placa.
-  La placa puede fabricarse en un Circuit Imprinter de Ciencia.
+  La placa puede fabricarse en un impresora de circuitos de Ciencia.
 
   <Box>
     <GuideEntityEmbed Entity="GasThermoMachineFreezer" Caption=""/>
@@ -58,7 +58,7 @@
 
   </Box>
 
-  ## Thermomachines Hellfire
+  ## Termomáquinas Hellfire
   Ciencia puede investigar versiones más potentes, denominadas calentadores y congeladores Hellfire.
   Superan ampliamente a las unidades estándar, pero también consumen más energía.
 

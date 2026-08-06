@@ -3,7 +3,7 @@
   Atmósfera dispone de numerosas herramientas y equipos para manipular los gases de la estación.
 
   [bold]Advertencia: soltar la mayoría de los dispositivos que contienen gas provocará una [color=red]fuga[/color] hacia la atmósfera.[/bold]
-  Es seguro soltar [textlink="recipientes" link="GasCanisters"], [textlink="depuradores portátiles" link="PortableScrubber"], [textlink="condensadores" link="GasCondensing"] y [textlink="Thermomachines" link="Thermomachines"].
+  Es seguro soltar [textlink="recipientes" link="GasCanisters"], [textlink="depuradores portátiles" link="PortableScrubber"], [textlink="condensadores" link="GasCondensing"] y [textlink="termomáquinas" link="Thermomachines"].
 
   <Box>
     <GuideEntityEmbed Entity="GasPipeStraight" Caption=""/>
@@ -16,7 +16,7 @@
     ## Tuberías
   </Box>
   <Box>
-    [color=#999999][italic]Distribución de gases entre ubicaciones[italic][/color]
+    [color=#999999][italic]Distribución de gases entre ubicaciones[/italic][/color]
   </Box>
 
   <Box>
@@ -27,7 +27,7 @@
     ## Bombas
   </Box>
   <Box>
-    [color=#999999][italic]Transporte forzado de gases entre ubicaciones[italic][/color]
+    [color=#999999][italic]Transporte forzado de gases entre ubicaciones[/italic][/color]
   </Box>
 
   <Box>
@@ -41,7 +41,7 @@
     ## Entrada y salida atmosférica
   </Box>
   <Box>
-    [color=#999999][italic]Introducción y extracción de gases en una atmósfera presente o ausente[italic][/color]
+    [color=#999999][italic]Introducción y extracción de gases en una atmósfera presente o ausente[/italic][/color]
   </Box>
 
   <Box>
@@ -55,7 +55,7 @@
     ## Válvulas
   </Box>
   <Box>
-    [color=#999999][italic]Control del flujo de gas a través de tuberías[italic][/color]
+    [color=#999999][italic]Control del flujo de gas a través de tuberías[/italic][/color]
   </Box>
 
   <Box>
@@ -66,7 +66,7 @@
     ## Mezcla y filtrado
   </Box>
   <Box>
-    [color=#999999][italic]Modificación de la composición de los gases[italic][/color]
+    [color=#999999][italic]Modificación de la composición de los gases[/italic][/color]
   </Box>
 
   <Box>
@@ -81,7 +81,7 @@
     ## Recipientes de gas
   </Box>
   <Box>
-    [color=#999999][italic]Almacenamiento y transporte de gas para uso de la tripulación[italic][/color]
+    [color=#999999][italic]Almacenamiento y transporte de gas para uso de la tripulación[/italic][/color]
   </Box>
 
   <Box>
@@ -91,10 +91,10 @@
     <GuideEntityEmbed Entity="HeatExchanger" Caption=""/>
   </Box>
   <Box>
-    ## Thermomachines y radiadores
+    ## Termomáquinas y radiadores
   </Box>
   <Box>
-    [color=#999999][italic]Control de la temperatura de gases dentro de una red o atmósfera[italic][/color]
+    [color=#999999][italic]Control de la temperatura de gases dentro de una red o atmósfera[/italic][/color]
   </Box>
 
   <Box>
@@ -104,6 +104,6 @@
     ## Condensación de gases
   </Box>
   <Box>
-    [color=#999999][italic]Condensación de gases para su uso posterior[italic][/color]
+    [color=#999999][italic]Condensación de gases para su uso posterior[/italic][/color]
   </Box>
 </Document>

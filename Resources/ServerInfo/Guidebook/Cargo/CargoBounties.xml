@@ -1,6 +1,6 @@
 <Document>
   # Contratos de Carga
-  Aunque [textlink="Carga" link="Cargo"] puede obtener [color=cyan]spesos[color] al vender casi cualquier artículo, los [color=cyan]contratos[/color] disponibles en la Cargo Bounty Computer generan mayores ingresos.
+  Aunque [textlink="Carga" link="Cargo"] puede obtener [color=cyan]spesos[/color] al vender casi cualquier artículo, los [color=cyan]contratos[/color] disponibles en la computadora de contratos de carga generan mayores ingresos.
 
   ## Inicio de contratos
 
@@ -9,7 +9,7 @@
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
   </Box>
 
-  Para iniciar un contrato, interactúe con la [color=cyan]Cargo Bounty Computer[/color] y abra la pantalla correspondiente. Esta computadora mantiene una lista de todos los contratos vigentes y permite imprimir una etiqueta o descartar una solicitud.
+  Para iniciar un contrato, interactúe con la [color=cyan]computadora de contratos de carga[/color] y abra la pantalla correspondiente. Esta computadora mantiene una lista de todos los contratos vigentes y permite imprimir una etiqueta o descartar una solicitud.
 
   - Al imprimir la etiqueta recibirá un [color=cyan]manifiesto de contrato[/color] que enumera los artículos requeridos. Puede imprimir una cantidad ilimitada de manifiestos; verifique que ningún otro Técnico de Carga esté realizando el mismo trabajo.
 
@@ -27,7 +27,7 @@
 
   Cuando haya reunido los artículos, regrese a la bahía de carga y colóquelos dentro de una [color=cyan]caja[/color] vacía. Una vez completada la carga, cierre la caja y aplique el manifiesto sobre ella.
 
-  Para verificar que el contrato está completo, utilice la [color=cyan]Appraisal Tool[/color] sobre la caja. La herramienta deberá mostrar una confirmación.
+  Para verificar que el contrato está completo, utilice la [color=cyan]herramienta de tasación[/color] sobre la caja. La herramienta deberá mostrar una confirmación.
 
   ## Venta de contratos
 
@@ -39,7 +39,7 @@
 
   Cuando haya verificado el cumplimiento del contrato, siga el procedimiento habitual de venta.
 
-  Transporte la caja a la [color=cyan]Trading Station[/color], véndala y complete la operación.
+  Transporte la caja a la [color=cyan]estación comercial[/color], véndala y complete la operación.
 
   Al regresar habrá un nuevo contrato disponible para sustituirlo.
 </Document>

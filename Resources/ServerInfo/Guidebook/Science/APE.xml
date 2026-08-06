@@ -1,7 +1,7 @@
 <Document>
 # A.P.E.
 
-El Anomalous Particle Emitter es una máquina diseñada para interactuar con anomalías. Constituye el principal medio para modificar sus parámetros.
+El emisor de partículas anómalas es una máquina diseñada para interactuar con anomalías. Constituye el principal medio para modificar sus parámetros.
 
 <Box>
 <GuideEntityEmbed Entity="MachineAPE"/>

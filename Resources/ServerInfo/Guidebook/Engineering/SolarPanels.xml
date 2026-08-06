@@ -36,7 +36,7 @@
   Debido a que la estación orbita una estrella, la posición del sol cambia con el tiempo.
   Los paneles deben apuntar directamente hacia él y ajustar gradualmente su orientación.
 
-  El ángulo se controla desde una Solar Control Computer.
+  El ángulo se controla desde una computadora de control solar.
   <Box>
     <GuideEntityEmbed Entity="ComputerSolarControl"/>
   </Box>
@@ -45,7 +45,7 @@
 
   La velocidad aparente del sol cambia en cada turno. Mida su desplazamiento y ajuste el valor.
 
-  La Solar Control Computer informa además la producción total.
+  La computadora de control solar informa además la producción total.
 
   ## Construcción
 
@@ -93,9 +93,9 @@
   Al inicio del turno, los paneles están desalineados y desconectados.
   Debe orientarlos y conectarlos a la red para comenzar la producción.
 
-  Normalmente deberá extender un cable de [color=orange]alta tensión[/color] desde la sala de control y utilizar una Solar Control Computer para alinear las unidades.
+  Normalmente deberá extender un cable de [color=orange]alta tensión[/color] desde la sala de control y utilizar una computadora de control solar para alinear las unidades.
 
-  Estas salas suelen incluir una Solar Control Computer y un [textlink="SMES" link="PowerStorage"] para almacenar la energía.
+  Estas salas suelen incluir una computadora de control solar y un [textlink="SMES" link="PowerStorage"] para almacenar la energía.
 
   ## Mejoras
   Los paneles pueden mejorarse para aumentar la potencia.

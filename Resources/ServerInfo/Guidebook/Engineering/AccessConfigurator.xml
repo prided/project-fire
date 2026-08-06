@@ -1,21 +1,21 @@
 <Document>
-  # Access Configurator
-  El Access Configurator es una herramienta que establece qué categorías de personal pueden utilizar determinados dispositivos.
+  # Configurador de acceso
+  El configurador de acceso es una herramienta que establece qué categorías de personal pueden utilizar determinados dispositivos.
 
   <Box>
-	  <GuideEntityEmbed Entity="AccessConfigurator" Caption="Access Configurator"/>
+	  <GuideEntityEmbed Entity="AccessConfigurator" Caption="configurador de acceso"/>
   </Box>
 
   Puede configurar esclusas, cajas seguras, casilleros y máquinas con acceso restringido.
-  Nota: por comodidad, las esclusas también pueden configurarse mediante el [color=#a4885c]Network Configurator[/color] o un multímetro.
+  Nota: por comodidad, las esclusas también pueden configurarse mediante el [color=#a4885c]configurador de red[/color] o un multímetro.
 
-  ## Ubicación de los Access Configurators
+  ## Ubicación de los configuradores de acceso
   Cada estación dispone de hasta dos unidades. Una está en poder del Ingeniero Jefe y la otra del Jefe de Personal.
 
-  ## Uso del Access Configurator
+  ## Uso del configurador de acceso
   Para modificar un dispositivo:
-  - Utilice primero el Access Configurator sobre el dispositivo para vincularlos. La interfaz se abrirá automáticamente.
-  - Introduzca una tarjeta de identificación en el Access Configurator.
+  - Utilice primero el configurador de acceso sobre el dispositivo para vincularlos. La interfaz se abrirá automáticamente.
+  - Introduzca una tarjeta de identificación en el configurador de acceso.
   - Establezca los requisitos del dispositivo conectado. Los accesos que puede agregar o retirar dependen de la autorización de la tarjeta introducida.
   - Los cambios se aplican [color=#a4885c]de inmediato[/color]. Cuando termine, retire la tarjeta y cierre la interfaz.
 
@@ -23,12 +23,12 @@
   Como medida de seguridad, la identificación debe incluir [bold]todos[/bold] los requisitos actualmente activos en el dispositivo.
 
   Por ejemplo, un equipo accesible para personal de «Ciencia» y «Medicina» solo puede modificarse con una tarjeta que tenga acceso a [color=#a4885c]ambos[/color] departamentos.
-  El Access Configurator mostrará una advertencia si la tarjeta no dispone de privilegios suficientes.
+  El configurador de acceso mostrará una advertencia si la tarjeta no dispone de privilegios suficientes.
 
   Un dispositivo sin requisitos, como una esclusa pública, puede modificarse mediante cualquier identificación válida de la estación.
 
   ## Reparación de lectores de identificación intervenidos
-  Los agentes del Sindicato pueden utilizar un [color=#a4885c]Authentication Disruptor[/color] para vulnerar dispositivos restringidos.
+  Los agentes del Sindicato pueden utilizar un [color=#a4885c]disruptor de autenticación[/color] para vulnerar dispositivos restringidos.
   Esta herramienta cortocircuita por completo los lectores de identificación conectados y concede acceso total.
 
   <Box>
@@ -41,10 +41,10 @@
   ## Reparación de esclusas intervenidas
   Existen varios métodos para reparar una esclusa cuyos accesos fueron alterados.
 
-  Si dispone de un Access Configurator, utilice un [color=#a4885c]destornillador[/color] para retirar el panel de mantenimiento y reconfigure los requisitos.
+  Si dispone de un configurador de acceso, utilice un [color=#a4885c]destornillador[/color] para retirar el panel de mantenimiento y reconfigure los requisitos.
   No se necesita un desmantelamiento parcial.
 
-  Sin Access Configurator, desmantele parcialmente la esclusa hasta retirar la electrónica de la puerta y vuelva a construirla.
+  Sin configurador de acceso, desmantele parcialmente la esclusa hasta retirar la electrónica de la puerta y vuelva a construirla.
   Esto restablecerá los requisitos de acceso que tenía al inicio del turno.
 
 </Document>

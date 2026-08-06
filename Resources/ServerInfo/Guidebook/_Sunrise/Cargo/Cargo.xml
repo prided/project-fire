@@ -7,7 +7,7 @@
 
   ## Personal
 
-  La carga consta de [color=cyan]supply technicians[/color] y [color=cyan]disposal specialists[/color] y es gestionada por [color=cyan]Quartermaster[/color].
+  Carga está integrada por [color=cyan]Técnicos de Carga[/color] y [color=cyan]Especialistas en Rescate[/color], bajo la dirección del [color=cyan]Intendente[/color].
 
   <Box>
     <GuideEntityEmbed Entity="ToyFigurineCargoTech" Caption="Técnico de carga"/>
@@ -19,7 +19,7 @@
 
   El principal problema de cualquier departamento de carga es la falta de dinero.
 
-  Carga obtiene fondos al vender objetos en la [color=cyan]Trading Station[/color]. Casi todos los objetos tienen un valor económico que puede consultarse con la [color=cyan]Appraisal Tool[/color]. El valor aumenta cuando el objeto forma parte de una [textlink="recompensa" link="CargoBounties"].
+  Carga obtiene fondos al vender objetos en la [color=cyan]estación comercial[/color]. Casi todos los objetos tienen un valor económico que puede consultarse con la [color=cyan]herramienta de tasación[/color]. El valor aumenta cuando el objeto forma parte de una [textlink="recompensa" link="CargoBounties"].
 
   <Box>
     <GuideEntityEmbed Entity="AppraisalTool"/>
@@ -27,9 +27,9 @@
     <GuideEntityEmbed Entity="CrateGenericSteel"/>
   </Box>
 
-  Cuando encuentre un objeto valioso, entréguelo en la [color=cyan]Cargo Bay[/color]. Si cabe en una [color=cyan]Crate[/color], colóquelo dentro de una vacía.
+  Cuando encuentre un objeto valioso, entréguelo en la [color=cyan]bahía de carga[/color]. Si cabe en una [color=cyan]Crate[/color], colóquelo dentro de una vacía.
 
-  Cuando llegue el [color=cyan]Cargo Shuttle[/color], coloque los objetos destinados a la venta sobre los [color=cyan]Cargo Pallets[/color]. Después del acoplamiento, cargue las cajas y los demás bienes.
+  Cuando llegue el [color=cyan]transbordador de carga[/color], coloque los objetos destinados a la venta sobre los [color=cyan]plataformas de carga[/color]. Después del acoplamiento, cargue las cajas y los demás bienes.
 
   <Box>
     <GuideEntityEmbed Entity="ComputerPalletConsole"/>
@@ -37,9 +37,9 @@
     <GuideEntityEmbed Entity="ComputerCargoOrders"/>
   </Box>
 
-  Una vez cargado, envíe el transbordador a la Trading Station. Allí, transfiera los objetos a los [color=cyan]Cargo Pallets[/color] verdes de venta. En la [color=cyan]Cargo Selling Computer[/color], seleccione [italic]«Vender»[/italic].
+  Una vez cargado, envíe el transbordador a la estación comercial. Allí, transfiera los objetos a los [color=cyan]plataformas de carga[/color] verdes de venta. En la [color=cyan]computadora de ventas de carga[/color], seleccione [italic]«Vender»[/italic].
 
-  Después podrá recoger los créditos obtenidos, regresar a la estación y depositarlos en la [color=cyan]Cargo Request Computer[/color].
+  Después podrá recoger los créditos obtenidos, regresar a la estación y depositarlos en la [color=cyan]computadora de solicitudes de carga[/color].
 
   Puede obtener más fondos completando [textlink="recompensas" link="CargoBounties"] o vendiendo objetos recuperados por [textlink="Salvamento" link="Salvage"].
 
@@ -49,41 +49,41 @@
     <GuideEntityEmbed Entity="ComputerCargoOrders"/>
   </Box>
 
-  Cada pedido comienza en la [color=cyan]Cargo Request Computer[/color]. El departamento debe disponer de créditos suficientes; si no los tiene, deberá obtenerlos.
+  Cada pedido comienza en la [color=cyan]computadora de solicitudes de carga[/color]. El departamento debe disponer de créditos suficientes; si no los tiene, deberá obtenerlos.
 
   La carga también decide por sí misma si cumple o no la petición. En caso de escasez, se pueden rechazar solicitudes menos importantes.
 
   Para hacer un pedido, haz clic en el producto deseado, especifica el destinatario, escribe el motivo por el que lo necesita y haz clic en "Aprobar".
 
-  Algunas estaciones disponen de una Public Cargo Request Computer; en ese caso, basta con confirmar las solicitudes creadas por el personal.
+  Algunas estaciones disponen de una computadora pública de solicitudes de carga; en ese caso, basta con confirmar las solicitudes creadas por el personal.
 
   <Box>
     <GuideEntityEmbed Entity="CargoPalletBuy"/>
     <GuideEntityEmbed Entity="PaperCargoInvoice"/>
   </Box>
 
-  A continuación, el pedido debe transportarse desde la [color=cyan]Trading Station[/color] hasta la estación.
+  A continuación, el pedido debe transportarse desde la [color=cyan]estación comercial[/color] hasta la estación.
 
-  La caja del pedido aparecerá sobre los [color=cyan]Cargo Pallets[/color] de compras. Cárguela en el transbordador y regrese.
+  La caja del pedido aparecerá sobre los [color=cyan]plataformas de carga[/color] de compras. Cárguela en el transbordador y regrese.
 
-  Cuando la caja llegue al muelle de Carga, consulte la [color=cyan]Cargo Invoice[/color] para identificar al destinatario y entregue el envío.
+  Cuando la caja llegue al muelle de Carga, consulte la [color=cyan]factura de carga[/color] para identificar al destinatario y entregue el envío.
 
   ## Pilotaje
 
-  Los pedidos son suministrados por una [color=cyan]Trading Station[/color] orbital y transportados mediante el [color=cyan]Cargo Shuttle[/color]. El transbordador debe pilotarse de forma presencial o remota.
+  Los pedidos son suministrados por una [color=cyan]estación comercial[/color] orbital y transportados mediante el [color=cyan]transbordador de carga[/color]. El transbordador debe pilotarse de forma presencial o remota.
 
   <Box>
     <GuideEntityEmbed Entity="ComputerShuttleCargo"/>
   </Box>
 
-  Para pilotarlo, utilice una [color=cyan]Cargo Shuttle Console[/color]. Hay una en la bahía y otra dentro del propio transbordador.
+  Para pilotarlo, utilice una [color=cyan]consola del transbordador de carga[/color]. Hay una en la bahía y otra dentro del propio transbordador.
 
   Después de interactuar, se abrirá una pantalla de navegación. Así es como gestionarlo:
 
-  - Primero, cambiar a la pantalla de [color=yellow]DOCK[/color] y [color=yellow]undock[/color] todas las puertas entre el transbordador y la estación.
-  - Una vez desconectado, puedes pilotar. [italic]Remember que estás volando en el espacio y el momento es conserved.[/italic]
+  - Primero, cambie a la pantalla de [color=yellow]«ACOPLAMIENTO»[/color] y [color=yellow]desacople[/color] todas las esclusas que conecten el transbordador con la estación.
+  - Una vez desacoplado, puede pilotarlo. [italic]Recuerde que se desplaza por el espacio y que el impulso se conserva.[/italic]
   - Controles: [color=yellow][keybind="ShuttleStrafeUp"][/color] y [color=yellow][keybind="ShuttleStrafeDown"][/color] para moverse arriba y abajo, [color=yellow][keybind="ShuttleStrafeLeft"][/color] y [color=yellow][keybind="ShuttleStrafeRight"][/color] para moverse a la izquierda y derecha, [color=yellow][keybind="ShuttleRotateLeft"][/color] y [color=yellow][keybind="ShuttleRotateRight"][/color] para girar y [color=yellow][keybind="ShuttleBrake"][/color] frenos.
-  - Dirija el transbordador hacia la [color=cyan]Trading Station[/color].
+  - Dirija el transbordador hacia la [color=cyan]estación comercial[/color].
   - Al llegar, [color=yellow]acóplelo[/color] a las esclusas.
 
   [textlink="Consulte las recompensas para aumentar los ingresos." link="CargoBounties"]

@@ -6,9 +6,9 @@
   </Box>
 
   Para activar y desbloquear los nodos de un artefacto:
-  - Consulte el nodo en la [bold]Analysis Console[/bold] para identificar sus activadores y efectos.
+  - Consulte el nodo en la [bold]consola de análisis[/bold] para identificar sus activadores y efectos.
   - Ejecute los [bold]activadores[/bold] indicados en la consola. Algunos requieren interacción directa con el artefacto; otros solo necesitan un entorno adecuado o una acción específica en las proximidades.
-  - Cuando un activador se ejecute correctamente, el artefacto mostrará el mensaje: [italic]«Comienza a cambiar de manera extraña...»[/italic]. El [bold]Node Scanner[/bold] indicará entonces qué nodos se están activando.
+  - Cuando un activador se ejecute correctamente, el artefacto mostrará el mensaje: [italic]«Comienza a cambiar de manera extraña...»[/italic]. El [bold]escáner de nodos[/bold] indicará entonces qué nodos se están activando.
 
   Los artefactos entran en estado de desbloqueo después de cumplir el primer activador. Durante este estado deben completarse todos los activadores restantes. La ventana de desbloqueo dura inicialmente unos segundos y se reinicia cada vez que se activa un nuevo requisito. Su duración aumenta con cada nodo adicional desbloqueado, lo que concede más tiempo para completar los siguientes.
 

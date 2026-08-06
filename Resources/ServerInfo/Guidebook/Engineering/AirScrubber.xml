@@ -22,8 +22,8 @@
 
   Ambos modos están limitados por el valor de caudal, que determina en litros la velocidad con la que se extraen gases.
 
-  La opción «WideNet» amplía el radio de operación. Normalmente, el depurador solo actúa sobre la casilla expuesta.
-  En modo WideNet, también depura las 4 casillas circundantes, como se muestra:
+  La opción «Red amplia» amplía el radio de operación. Normalmente, el depurador solo actúa sobre la casilla expuesta.
+  En modo de red amplia, también depura las 4 casillas circundantes, como se muestra:
 
   <Box>
     <GuideEntityEmbed Entity="FloorTileItemSteel" Caption=""/>
@@ -39,8 +39,8 @@
 
   Esto multiplica la velocidad total porque el dispositivo procesa 5 casillas al mismo tiempo.
 
-  Los depuradores [textlink="vinculados" link="Networking"] a una [textlink="alarma atmosférica" link="AirAlarms"] en modo automático activarán WideNet mediante el modo «Filtrado (amplio)» de la [textlink="alarma" link="AirAlarms"] cuando detecten una concentración elevada de gases no deseados.
+  Los depuradores [textlink="vinculados" link="Networking"] a una [textlink="alarma atmosférica" link="AirAlarms"] en modo automático activarán la red amplia mediante el modo «Filtrado (amplio)» de la [textlink="alarma" link="AirAlarms"] cuando detecten una concentración elevada de gases no deseados.
 
-  WideNet resulta especialmente útil para retirar grandes cantidades de tritio de las cámaras de combustión de plasma.
+  La red amplia resulta especialmente útil para retirar grandes cantidades de tritio de las cámaras de combustión de plasma.
 
 </Document>

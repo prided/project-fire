@@ -1,8 +1,8 @@
 <Document>
-  # Antimatter Engine (AME)
-  El Antimatter Engine es un generador de apoyo temporal que proporciona una cantidad considerable de energía durante un periodo limitado.
+  # Motor de antimateria (AME)
+  El motor de antimateria es un generador de apoyo temporal que proporciona una cantidad considerable de energía durante un periodo limitado.
 
-  Se utiliza principalmente para ayudar a iniciar motores de mayor tamaño, como el [textlink="Singularity Engine" link="SingularityEngine"] o el [textlink="Tesla Engine" link="TeslaEngine"], complementando las [textlink="baterías" link="PowerStorage"] y prolongando su autonomía.
+  Se utiliza principalmente para ayudar a iniciar motores de mayor tamaño, como el [textlink="motor de singularidad" link="SingularityEngine"] o el [textlink="motor Tesla" link="TeslaEngine"], complementando las [textlink="baterías" link="PowerStorage"] y prolongando su autonomía.
 
   ## Construcción
   <Box>Piezas necesarias:</Box>
@@ -12,7 +12,7 @@
   <GuideEntityEmbed Entity="AmeJar"/>
   </Box>
 
-  El AME Controller entrega energía a la red mediante una [textlink="conexión de alta tensión" link="VoltageNetworks"].
+  El controlador del AME entrega energía a la red mediante una [textlink="conexión de alta tensión" link="VoltageNetworks"].
   Por ello, inicie la construcción instalando el controlador sobre un cable de [color=orange]alta tensión[/color].
 
   La mayoría de las estaciones tiene cableado de [color=orange]alta tensión[/color] expuesto o posiciones designadas para fijar el controlador y conectarlo a la red.
@@ -57,7 +57,7 @@
     <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
   </Box>
   <Box>
-    [color=#999999][italic]Ejemplo de una configuración con un núcleo[italic][/color]
+    [color=#999999][italic]Ejemplo de una configuración con un núcleo[/italic][/color]
   </Box>
 
   ## Funcionamiento

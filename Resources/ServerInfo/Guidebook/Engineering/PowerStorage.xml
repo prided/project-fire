@@ -6,7 +6,7 @@
 
   ## SMES
 
-  La unidad Superconducting Magnetic Energy Storage (SMES) almacena una gran cantidad de energía y puede liberarla con rapidez.
+  La unidad almacenamiento magnético de energía superconductora (SMES) almacena una gran cantidad de energía y puede liberarla con rapidez.
 
   <Box>
     <GuideEntityEmbed Entity="SMESBasic"/>

@@ -16,7 +16,7 @@
     <GuideEntityEmbed Entity="GasRecyclerMachineCircuitboard" Caption="Placa de circuito del reciclador de gases"/>
   </Box>
 
-  La máquina puede construirse mediante una placa producida en el Circuit Imprinter.
+  La máquina puede construirse mediante una placa producida en el impresora de circuitos.
   Antes deberá ser investigada por [textlink="Ciencia" link="Science"].
 
   El reciclaje de gases puede sustituir a los generadores de gas o utilizarse como sistema de respaldo para aportar redundancia a la red atmosférica.

@@ -19,7 +19,7 @@
 
   El principal problema de cualquier departamento de Carga es la falta de fondos.
 
-  Carga obtiene dinero mediante la venta de artículos en la [color=cyan]Trading Station[/color]. Casi todos los objetos de la estación tienen un valor económico que puede consultarse con la [color=cyan]Appraisal Tool[/color]. Este valor aumenta cuando el artículo forma parte de un [textlink="contrato" link="CargoBounties"].
+  Carga obtiene dinero mediante la venta de artículos en la [color=cyan]estación comercial[/color]. Casi todos los objetos de la estación tienen un valor económico que puede consultarse con la [color=cyan]herramienta de tasación[/color]. Este valor aumenta cuando el artículo forma parte de un [textlink="contrato" link="CargoBounties"].
 
   <Box>
     <GuideEntityEmbed Entity="AppraisalTool"/>
@@ -37,9 +37,9 @@
     <GuideEntityEmbed Entity="ComputerCargoOrders"/>
   </Box>
 
-  Una vez cargado el transbordador, diríjalo hacia la Trading Station. Allí, traslade los artículos vendibles a las [color=cyan]plataformas verdes de venta[/color], acceda a la [color=cyan]Cargo Sale Computer[/color] y seleccione [italic]«Vender»[/italic].
+  Una vez cargado el transbordador, diríjalo hacia la estación comercial. Allí, traslade los artículos vendibles a las [color=cyan]plataformas verdes de venta[/color], acceda a la [color=cyan]computadora de ventas de carga[/color] y seleccione [italic]«Vender»[/italic].
 
-  Después puede transportar los spesos de regreso a la estación y depositarlos en la [color=cyan]Cargo Request Computer[/color].
+  Después puede transportar los spesos de regreso a la estación y depositarlos en la [color=cyan]computadora de solicitudes de carga[/color].
 
   También puede aumentar los ingresos al completar [textlink="contratos" link="CargoBounties"] o vender artículos valiosos recuperados durante las [textlink="operaciones de rescate" link="Salvage"].
 
@@ -49,28 +49,28 @@
     <GuideEntityEmbed Entity="ComputerCargoOrders"/>
   </Box>
 
-  Cada pedido comienza en una [color=cyan]Cargo Request Computer[/color]. Para tramitarlo, Carga debe disponer de spesos suficientes. Si no cuenta con los fondos necesarios, deberá obtenerlos.
+  Cada pedido comienza en una [color=cyan]computadora de solicitudes de carga[/color]. Para tramitarlo, Carga debe disponer de spesos suficientes. Si no cuenta con los fondos necesarios, deberá obtenerlos.
 
   Carga tiene la facultad de aprobar o rechazar cada solicitud. Si los fondos son limitados, puede rechazar pedidos que no sean necesarios de inmediato.
 
   Para realizar un pedido, seleccione el nombre del artículo solicitado, indique el destinatario, escriba un motivo apropiado y presione «Aprobar».
 
-  Algunas estaciones cuentan con una Cargo Request Computer pública. En ese caso, solo es necesario aprobar los pedidos que los solicitantes hayan creado.
+  Algunas estaciones cuentan con una computadora de solicitudes de carga pública. En ese caso, solo es necesario aprobar los pedidos que los solicitantes hayan creado.
 
   <Box>
     <GuideEntityEmbed Entity="CargoPalletBuy"/>
     <GuideEntityEmbed Entity="PaperCargoInvoice"/>
   </Box>
 
-  Para recibir el pedido, deberá transportarlo desde la [color=cyan]Trading Station[/color] hasta la estación.
+  Para recibir el pedido, deberá transportarlo desde la [color=cyan]estación comercial[/color] hasta la estación.
 
-  En las [color=cyan]plataformas de compra[/color] de la Trading Station encontrará una caja con el pedido. Cárguela en el transbordador y regrese.
+  En las [color=cyan]plataformas de compra[/color] de la estación comercial encontrará una caja con el pedido. Cárguela en el transbordador y regrese.
 
   Cuando llegue al muelle de carga, lea la etiqueta de la [color=cyan]factura de carga[/color] para identificar al destinatario. Por último, entregue el pedido.
 
   ## Pilotaje
 
-  Los pedidos llegan a la [color=cyan]Trading Station[/color] orbital y se trasladan a la estación principal mediante el [color=cyan]transbordador de carga[color]. El transbordador no funciona de manera autónoma, por lo que debe pilotarse desde su interior o a distancia.
+  Los pedidos llegan a la [color=cyan]estación comercial[/color] orbital y se trasladan a la estación principal mediante el [color=cyan]transbordador de carga[/color]. El transbordador no funciona de manera autónoma, por lo que debe pilotarse desde su interior o a distancia.
 
   <Box>
     <GuideEntityEmbed Entity="ComputerShuttleCargo"/>
@@ -78,12 +78,12 @@
 
   Para pilotarlo, primero localice la [color=cyan]consola del transbordador de carga[/color]. Hay una en la bahía de carga y otra dentro del propio transbordador.
 
-  Al interactuar con la computadora aparecerá una vista de navegación. Siga estos pasos para viajar hacia y desde la Trading Station:
+  Al interactuar con la computadora aparecerá una vista de navegación. Siga estos pasos para viajar hacia y desde la estación comercial:
 
-  - Primero, cambie a la pantalla [color=yellow]«DOCK»[/color] y [color=yellow]desacople[/color] todas las esclusas que conecten el transbordador con la estación.
+  - Primero, cambie a la pantalla [color=yellow]«ACOPLAMIENTO»[/color] y [color=yellow]desacople[/color] todas las esclusas que conecten el transbordador con la estación.
   - Una vez desconectado, puede pilotarlo. [italic]Recuerde que se desplaza por el espacio y que el impulso se conserva[/italic].
   - Utilice [color=yellow][keybind="ShuttleStrafeUp"][/color] y [color=yellow][keybind="ShuttleStrafeDown"][/color] para desplazarse hacia arriba y abajo; [color=yellow][keybind="ShuttleStrafeLeft"][/color] y [color=yellow][keybind="ShuttleStrafeRight"][/color] para desplazarse a izquierda y derecha; y [color=yellow][keybind="ShuttleRotateLeft"][/color] y [color=yellow][keybind="ShuttleRotateRight"][/color] para girar. Para frenar, presione [color=yellow][keybind="ShuttleBrake"][/color].
-  - Pilote el transbordador hasta la [color=cyan]Trading Station[/color].
+  - Pilote el transbordador hasta la [color=cyan]estación comercial[/color].
   - Al llegar, [color=yellow]acóplelo[/color] a las esclusas para completar el procedimiento.
 
   [textlink="Consulte los contratos para maximizar los ingresos obtenidos en la estación." link="CargoBounties"]

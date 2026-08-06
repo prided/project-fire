@@ -1,14 +1,14 @@
 <Document>
-  # Analysis Console
+  # Consola de análisis
 
-  La Analysis Console es un dispositivo utilizado para interactuar con artefactos. Permite consultar los nodos, sus activadores y efectos, además de extraer puntos.
+  La consola de análisis es un dispositivo utilizado para interactuar con artefactos. Permite consultar los nodos, sus activadores y efectos, además de extraer puntos.
 
   <Box>
-    <GuideEntityEmbed Entity="ComputerAnalysisConsole" Caption="Analysis Console"/>
+    <GuideEntityEmbed Entity="ComputerAnalysisConsole" Caption="consola de análisis"/>
   </Box>
 
   La consola muestra información detallada sobre cada nodo de la estructura del artefacto. Esto incluye:
-  - [bold]ID:[/bold] identificador único utilizado con el Node Scanner.
+  - [bold]ID:[/bold] identificador único utilizado con el escáner de nodos.
   - [bold]Clase:[/bold] nombre de la capa, compartido por todos los nodos de esa capa.
   - [bold]Estado:[/bold]
   - [italic][color=red]Bloqueado[/color][/italic] de manera predeterminada.

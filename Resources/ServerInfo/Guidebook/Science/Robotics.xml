@@ -2,16 +2,16 @@
   # Robótica
   El equipo científico puede crear distintos tipos de robots para responder a las necesidades de la estación. Para comenzar, investigue la tecnología de [color=#a4885c]Robótica[/color].
 
-  ## Exosuit Fabricator
+  ## Fabricador de exotrajes
 <Box>
-<GuideEntityEmbed Entity="ExosuitFabricator" Caption="Exosuit Fabricator"/>
+<GuideEntityEmbed Entity="ExosuitFabricator" Caption="fabricador de exotrajes"/>
 </Box>
-  El [color=#a4885c]Exosuit Fabricator[/color] permite fabricar la mayoría de las piezas necesarias, entre ellas:
+  El [color=#a4885c]fabricador de exotrajes[/color] permite fabricar la mayoría de las piezas necesarias, entre ellas:
   - Extremidades de [textlink="cíborg" link="Cyborgs"]
   - Piezas y equipo para mecas
   - Sensores de proximidad
 
-  El Exosuit Fabricator funciona como cualquier otro torno de la estación. Interactúe con la máquina para abrir la interfaz y seleccione el icono de la pieza que desea fabricar.
+  El fabricador de exotrajes funciona como cualquier otro torno de la estación. Interactúe con la máquina para abrir la interfaz y seleccione el icono de la pieza que desea fabricar.
   - Si no aparecen recetas, presione el botón [color=#a4885c]sincronizar[/color] de la interfaz para comprobar si existen planos nuevos. Si la lista permanece vacía, probablemente aún no se investigó la tecnología correspondiente.
   - Si una receta aparece atenuada, probablemente faltan materiales. Para introducir material nuevo, ya sea [color=#99A3A4]acero[/color], [color=#ECF0F1]plástico[/color] o [color=#AED6F1]vidrio[/color], interactúe con el fabricador mientras sostiene el material.
 
@@ -26,7 +26,7 @@
 <GuideEntityEmbed Entity="MobHonkBot" Caption="Honkbot"/>
 <GuideEntityEmbed Entity="MobMimeBot" Caption="Mimebot"/>
 </Box>
-  Los [color=#a4885c]bots[/color] son autómatas pequeños y sencillos capaces de realizar tareas básicas, como limpiar. No utilizan celdas de energía, pero son frágiles. Sus componentes pueden fabricarse en el Exosuit Fabricator.
+  Los [color=#a4885c]bots[/color] son autómatas pequeños y sencillos capaces de realizar tareas básicas, como limpiar. No utilizan celdas de energía, pero son frágiles. Sus componentes pueden fabricarse en el fabricador de exotrajes.
 
   Para construir un bot, abra el [color=#a4885c]menú de construcción[/color], seleccione la categoría «Utilidades» o busque «bot» para consultar las recetas. Coloque cerca los componentes indicados y presione [color=#a4885c]Construir[/color]. Después de unos segundos aparecerá el nuevo autómata.
 
@@ -39,7 +39,7 @@
 </Box>
   Los [color=#a4885c]mecas[/color] son máquinas de gran tamaño diseñadas para cumplir funciones específicas según el modelo. Los jugadores los pilotan y requieren celdas de energía para funcionar.
 
-  Cada meca requiere un conjunto exclusivo de extremidades y componentes. Estas piezas se fabrican en el Exosuit Fabricator, excepto las [color=#a4885c]placas de circuito[/color], que se producen mediante un [color=#a4885c]Circuit Board Imprinter[/color] ubicado normalmente en el departamento de [textlink="Ciencia" link="Science"].
+  Cada meca requiere un conjunto exclusivo de extremidades y componentes. Estas piezas se fabrican en el fabricador de exotrajes, excepto las [color=#a4885c]placas de circuito[/color], que se producen mediante un [color=#a4885c]impresora de placas de circuito[/color] ubicado normalmente en el departamento de [textlink="Ciencia" link="Science"].
 <Box>
 <GuideEntityEmbed Entity="RipleyCentralElectronics" Caption="Módulo de control central Ripley"/>
 </Box>
@@ -55,7 +55,7 @@
   - El exotraje Vim requiere un par de piernas de cíborg, un casco EVA normal o del Sindicato, un activador de voz y una celda de energía.
 
   ## Equipo
-    Un meca carece de utilidad sin sus herramientas especializadas. El equipo puede fabricarse como cualquier otra pieza en el Exosuit Fabricator.
+    Un meca carece de utilidad sin sus herramientas especializadas. El equipo puede fabricarse como cualquier otra pieza en el fabricador de exotrajes.
 <Box>
 <GuideEntityEmbed Entity="MechEquipmentGrabber" Caption="La abrazadera hidráulica, como ejemplo."/>
 </Box>

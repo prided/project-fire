@@ -1,22 +1,22 @@
 <Document>
-  # Singularity Engine
-  El Singularity Engine es un generador potente que utiliza una singularidad contenida para producir energía.
+  # Motor de singularidad
+  El motor de singularidad es un generador potente que utiliza una singularidad contenida para producir energía.
 
   <Box>
     <GuideEntityEmbed Entity="SingularityGenerator"/>
     <GuideEntityEmbed Entity="Singularity"/>
   </Box>
 
-  Los Radiation Collectors capturan la radiación emitida mediante plasma gaseoso y la convierten en electricidad.
+  Los colectores de radiación capturan la radiación emitida mediante plasma gaseoso y la convierten en electricidad.
 
   ## Puesta en marcha
   Los ingenieros deben seguir este procedimiento:
-  - Coloque el Singularity Generator en el centro del campo de contención. Algunas estaciones ya lo incluyen; otras requieren transportarlo desde el almacenamiento.
+  - Coloque el generador de singularidad en el centro del campo de contención. Algunas estaciones ya lo incluyen; otras requieren transportarlo desde el almacenamiento.
   - Encienda los cuatro generadores del campo de contención.
   - Encienda y bloquee los emisores.
   - Confirme que los generadores hayan formado un campo completo alrededor de la singularidad.
-  - Encienda los Radiation Collectors. Necesitan plasma y pueden estar vacíos, por lo que deberá rellenarlos.
-  - Construya el Particle Accelerator.
+  - Encienda los colectores de radiación. Necesitan plasma y pueden estar vacíos, por lo que deberá rellenarlos.
+  - Construya el acelerador de partículas.
   - Encienda su computadora de control y seleccione el nivel de potencia.
 
   Después de completar los pasos, el motor comenzará a producir energía.
@@ -39,17 +39,17 @@
   ## Niveles de potencia y degradación
   La singularidad emite radiación y pierde potencia con el tiempo.
 
-  El Particle Accelerator compensa esta degradación mediante partículas que alimentan y estabilizan la singularidad.
+  El acelerador de partículas compensa esta degradación mediante partículas que alimentan y estabilizan la singularidad.
 
   Los niveles de potencia determinan la emisión de radiación.
   Los ingenieros pueden aumentarlos o reducirlos desde la computadora de control.
 
-  El Particle Accelerator suele funcionar entre los niveles 1 y 3, que se corresponden con los mismos niveles de la singularidad.
+  El acelerador de partículas suele funcionar entre los niveles 1 y 3, que se corresponden con los mismos niveles de la singularidad.
 
   Un nivel superior sostiene una singularidad más grande y capaz de producir más energía.
 
   ## Producción de energía
-  El motor utiliza Radiation Collectors para capturar la radiación.
+  El motor utiliza colectores de radiación para capturar la radiación.
   <Box>
     <GuideEntityEmbed Entity="RadiationCollector"/>
     <GuideEntityEmbed Entity="PlasmaTank"/>
@@ -96,10 +96,10 @@
   Si escapa del campo, comenzará a consumir la estación y destruirá todo a su paso.
   Cuanto más absorba, mayor será su tamaño y más difícil resultará volver a contenerla.
 
-  Puede destruirse mediante antipartículas disparadas con un Portable Particle Decelerator, pero es una operación peligrosa que exige planificación.
+  Puede destruirse mediante antipartículas disparadas con un desacelerador de partículas portátil, pero es una operación peligrosa que exige planificación.
   Normalmente se necesitan varios desaceleradores disparando al mismo tiempo.
 
-  Los Portable Particle Decelerators pueden ser investigados y fabricados por Ciencia o adquiridos mediante Carga.
+  Los desaceleradores de partículas portátiles pueden ser investigados y fabricados por Ciencia o adquiridos mediante Carga.
 
   <Box>
     <GuideEntityEmbed Entity="WeaponParticleDecelerator"/>

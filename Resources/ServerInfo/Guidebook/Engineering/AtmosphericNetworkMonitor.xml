@@ -1,6 +1,6 @@
 <Document>
-  # Atmospheric Network Monitor
-  La Atmospheric Network Monitor muestra información sobre las [textlink="redes de tuberías" link="PipeNetworks"] supervisadas en toda la estación.
+  # Monitor de red atmosférica
+  El monitor de red atmosférica muestra información sobre las [textlink="redes de tuberías" link="PipeNetworks"] supervisadas en toda la estación.
 
   <Box>
     <GuideEntityEmbed Entity="ComputerAtmosMonitoring"/>
@@ -9,9 +9,9 @@
   Permite evaluar con rapidez la temperatura, presión y composición de las [textlink="redes de tuberías" link="PipeNetworks"], además de observar su extensión.
 
   ## Redes registradas
-  La Atmospheric Network Monitor enumera todas las [textlink="redes de tuberías" link="PipeNetworks"] supervisadas.
+  El monitor de red atmosférica enumera todas las [textlink="redes de tuberías" link="PipeNetworks"] supervisadas.
 
-  Cada red utiliza el nombre y color del Gas Pipe Sensor correspondiente.
+  Cada red utiliza el nombre y color del sensor de tubería de gas correspondiente.
   Para modificarlos, cambie el nombre del sensor con un etiquetador o aplique otro color mediante un pulverizador de pintura.
 
   Al seleccionar una red se muestra información detallada y se resalta su recorrido en el mapa.
@@ -20,8 +20,8 @@
   Esto resulta especialmente útil para supervisar redes importantes, como Distro, que no funciona correctamente por debajo de determinadas presiones.
 
   ## Mapa de la estación
-  La Atmospheric Network Monitor muestra en el mapa todas las [textlink="redes de tuberías" link="PipeNetworks"] y los dispositivos conectados.
-  Una red no necesita un Gas Pipe Sensor para aparecer.
+  El monitor de red atmosférica muestra en el mapa todas las [textlink="redes de tuberías" link="PipeNetworks"] y los dispositivos conectados.
+  Una red no necesita un sensor de tubería de gas para aparecer.
 
   El mapa representa los dispositivos con sus colores físicos, lo que ayuda a distinguir [textlink="redes de tuberías" link="PipeNetworks"] independientes y los equipos conectados.
 
@@ -29,10 +29,10 @@
   - Una [bold]apertura de red[/bold] conecta una red con la atmósfera de la estación, como las [textlink="salidas de aire" link="AirVents"], las [textlink="ventilaciones pasivas" link="PassiveVent"] y los [textlink="inyectores de aire" link="AirInjector"].
   - Un [bold]depurador de aire[/bold] corresponde a un [textlink="depurador de aire" link="AirScrubber"].
   - Un [bold]regulador de flujo[/bold] controla el paso de gas por una red, como las [textlink="bombas" link="Pumps"], [textlink="válvulas" link="Valves"] y [textlink="mezcladores o filtros" link="MixingAndFiltering"]. La flecha indica la dirección del flujo y normalmente también señala dónde se separan las redes.
-  - Un [bold]termorregulador[/bold] modifica la temperatura del gas, como las [textlink="Thermomachines" link="Thermomachines"], los [textlink="radiadores" link="Radiators"] e incluso las cámaras criogénicas médicas.
+  - Un [bold]termorregulador[/bold] modifica la temperatura del gas, como las [textlink="termomáquinas" link="Thermomachines"], los [textlink="radiadores" link="Radiators"] e incluso las cámaras criogénicas médicas.
 
-  ## Gas Pipe Sensors
-  La Atmospheric Network Monitor recopila datos mediante Gas Pipe Sensors instalados en las [textlink="redes de tuberías" link="PipeNetworks"].
+  ## Sensores de tubería de gas
+  El monitor de red atmosférica recopila datos mediante sensores de tubería de gas instalados en las [textlink="redes de tuberías" link="PipeNetworks"].
 
   <Box>
     <GuideEntityEmbed Entity="GasPipeSensor"/>
@@ -40,7 +40,7 @@
 
   De manera predeterminada, todas las [textlink="redes de tuberías" link="PipeNetworks"] principales deberían incluir sensores, por ejemplo Distro y Waste.
 
-  Para supervisar una red nueva, construya un Gas Pipe Sensor; aparecerá automáticamente en la Atmospheric Network Monitor.
+  Para supervisar una red nueva, construya un sensor de tubería de gas; aparecerá automáticamente en el monitor de red atmosférica.
   Instale el sensor sobre la red correcta.
   Una bomba o válvula sencilla puede separar las [textlink="redes de tuberías" link="PipeNetworks"] y provocar que el sensor informe sobre un circuito diferente.
 

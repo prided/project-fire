@@ -2,7 +2,7 @@
   # El Mago
 
   <Box>
-    [color=#457573][italic]¡HA LLEGADO LA HORA DEL MAGO...![italic][/color]
+    [color=#457573][italic]¡HA LLEGADO LA HORA DEL MAGO...![/italic][/color]
   </Box>
   <Box>
     <GuideEntityEmbed Entity="ToyFigurineWizard" Caption=""/>
@@ -21,10 +21,10 @@
   Además del costo, el único límite es la creatividad. Busque combinaciones eficaces.
 
   <Box>
-    <GuideEntityEmbed Entity="PonderingOrbWizard" Caption="Pondering Orb"/>
+    <GuideEntityEmbed Entity="PonderingOrbWizard" Caption="Bola de Reflexión"/>
   </Box>
 
-  La [bold]Pondering Orb[/bold] permite al Mago acceder a la red de cámaras de la estación y observar a otras personas sin ser detectado.
+  La [bold]Bola de Reflexión[/bold] permite al Mago acceder a la red de cámaras de la estación y observar a otras personas sin ser detectado.
   Puede resultar útil para planificar una operación o mantener ventaja sobre [color=red]Seguridad[/color].
 
 </Document>

@@ -1,6 +1,6 @@
 <Document>
   # Recompensas de Carga
-  Aunque [textlink="Carga" link="Cargo"] puede obtener [color=cyan]créditos[/color] vendiendo casi cualquier objeto, las [color=cyan]recompensas[/color] asignadas por la [color=cyan]Cargo Bounty Computer[/color] generan mayores ingresos.
+  Aunque [textlink="Carga" link="Cargo"] puede obtener [color=cyan]créditos[/color] vendiendo casi cualquier objeto, las [color=cyan]recompensas[/color] asignadas por la [color=cyan]computadora de contratos de carga[/color] generan mayores ingresos.
 
   ## Inicio de una recompensa
 
@@ -9,9 +9,9 @@
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
   </Box>
 
-  Para iniciar una recompensa, interactúe con la [color=cyan]Cargo Bounty Computer[/color]. Esta muestra la lista vigente y permite imprimir una etiqueta o descartar la recompensa.
+  Para iniciar una recompensa, interactúe con la [color=cyan]computadora de contratos de carga[/color]. Esta muestra la lista vigente y permite imprimir una etiqueta o descartar la recompensa.
 
-  - Imprimir la etiqueta [color=cyan]Bounty Manifest[/color] da la lista de productos a obtener. Puedes imprimir la etiqueta todo lo que quieras, solo que no trabajes en la tarea que otro técnico ha empezado recientemente.
+  - Imprimir la etiqueta [color=cyan]manifiesto del contrato[/color] da la lista de productos a obtener. Puedes imprimir la etiqueta todo lo que quieras, solo que no trabajes en la tarea que otro técnico ha empezado recientemente.
   - El Pase reemplaza la recompensa actual por una nueva, ya que solo puede haber seis recompensas activas a la vez. El Pase tiene un tiempo de recarga de 15 minutos y cancela la recompensa antigua, lo que puede enfadar a otros Técnicos.
 
   ## Cumplimiento de recompensas
@@ -22,11 +22,11 @@
     <GuideEntityEmbed Entity="AppraisalTool"/>
   </Box>
 
-  Con [color=cyan]Bounty Manifest[/color], solo necesitas recoger los bienes que necesitas, pero la mayoría de departamentos los regalan si muestras Manifiesto.
+  Con [color=cyan]manifiesto del contrato[/color], solo necesitas recoger los bienes que necesitas, pero la mayoría de departamentos los regalan si muestras Manifiesto.
 
   Después de recoger, vuelve a la carga y pon todo en una [color=cyan]Crate[/color] vacía. Cierra la caja y pega un manifiesto sobre ella.
 
-  Para confirmar el cumplimiento, utilice la [color=cyan]Appraisal Tool[/color] sobre la caja. El dispositivo deberá indicar que la recompensa está completa.
+  Para confirmar el cumplimiento, utilice la [color=cyan]herramienta de tasación[/color] sobre la caja. El dispositivo deberá indicar que la recompensa está completa.
 
   ## Entrega de recompensas
 
@@ -38,7 +38,7 @@
 
   Una vez que hayas comprobado la ejecución de la recompensa, procede como en una venta normal.
 
-  Lleve la carga a la [color=cyan]Trading Station[/color] y complete la venta.
+  Lleve la carga a la [color=cyan]estación comercial[/color] y complete la venta.
 
   Cuando regreses, habrá una nueva recompensa.
 </Document>

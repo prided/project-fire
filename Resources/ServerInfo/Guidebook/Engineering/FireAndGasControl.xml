@@ -36,7 +36,7 @@
 
   ## Conexión con alarmas atmosféricas y de incendios
   Las compuertas pueden conectarse a [textlink="alarmas atmosféricas" link="AirAlarms"] y de incendios para recibir órdenes de cierre.
-  Utilizan el [textlink="sistema de listas" link="Networking"] y se vinculan mediante un Multitool o Network Configurator.
+  Utilizan el [textlink="sistema de listas" link="Networking"] y se vinculan mediante un Multitool o configurador de red.
 
   <Box>
     <GuideEntityEmbed Entity="Firelock" Caption=""/>

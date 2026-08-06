@@ -1,14 +1,14 @@
 <Document>
   # Herramientas de Atmósfera
-  Los Técnicos de Atmósfera utilizan las mismas herramientas básicas que los Ingenieros, además de dos dispositivos específicos: el Holofan Projector y el Gas Analyzer.
+  Los Técnicos de Atmósfera utilizan las mismas herramientas básicas que los Ingenieros, además de dos dispositivos específicos: el proyector de holobarreras y el analizador de gases.
 
   <Box>
     <GuideEntityEmbed Entity="HolofanProjector"/>
     <GuideEntityEmbed Entity="GasAnalyzer"/>
   </Box>
 
-  ## Holofan Projector
-  El Holofan Projector genera una barrera de luz sólida que bloquea el flujo de aire y gases, pero permite el paso de personas.
+  ## Proyector de holobarreras
+  El proyector de holobarreras genera una barrera de luz sólida que bloquea el flujo de aire y gases, pero permite el paso de personas.
 
   <Box>
     <GuideEntityEmbed Entity="HolofanProjector"/>
@@ -22,8 +22,8 @@
 
   Las barreras instaladas junto a una [textlink="compuerta cortafuegos" link="FireAndGasControl"] desactivan el bloqueo de la puerta y permiten abrirla manualmente.
 
-  ## Gas Analyzer
-  El Gas Analyzer examina la composición de una atmósfera expuesta o de cualquier [textlink="dispositivo atmosférico" link="GasManipulation"] que contenga gas.
+  ## Analizador de gases
+  El analizador de gases examina la composición de una atmósfera expuesta o de cualquier [textlink="dispositivo atmosférico" link="GasManipulation"] que contenga gas.
 
   <Box>
     <GuideEntityEmbed Entity="GasAnalyzer"/>
