@@ -1,22 +1,22 @@
 ﻿<Document>
-  # Roleplay Rule 5 - Do not interfere with arrivals
-  The arrivals terminal/station, the arrivals shuttle, at the area immediately around the arrivals shuttle at the station ("arrivals") are off-limits to antagonistic activity or damage (even to antagonists). Do not prevent people from safely arriving to the station. Do not cause people to die immediately after arriving at the station.
+  # Regla de interpretación 5: No interfiera con las llegadas
+  La terminal o estación de llegadas, el transbordador de llegadas y el área inmediatamente adyacente al transbordador en la estación —en conjunto, «llegadas»— no pueden ser objeto de actividad antagonista ni sufrir daños, incluso por parte de antagonistas. No impida que las personas lleguen de forma segura a la estación ni provoque su muerte inmediatamente después de su llegada.
 
-  There is an exemption for antagonists that are allowed to perform mass station sabotage if there is no reasonable way to limit the damage of the mass station sabotage. This exemption only applies to damage that is a direct result of the mass station sabotage.
+  Existe una excepción para los antagonistas autorizados a realizar sabotaje masivo en la estación cuando no haya una forma razonable de limitar sus daños. Esta excepción solo se aplica a los daños que sean consecuencia directa del sabotaje masivo.
 
-  ## Examples
-  Acceptable:
-  - Redecorating arrivals or the arrivals shuttle.
-  - Remodeling arrivals or the arrivals shuttle as long as you do not make the area more dangerous both during and after the remodel.
-  - Setting up a safe security checkpoint between arrivals and the rest of the station.
-  - Killing someone who has been at arrivals for a long time, or who left arrivals and came back. (This may violate other rules depending on the situation)
-  - Releasing a singularity which damages arrivals. (This may violate other rules depending on the situation)
-  - Causing a station-wide atmospheric issue which also affects arrivals. (This may violate other rules depending on the situation)
+  ## Ejemplos
+  Aceptable:
+  - Redecorar el área o el transbordador de llegadas.
+  - Remodelar el área o el transbordador de llegadas, siempre que la zona no resulte más peligrosa durante ni después de la remodelación.
+  - Instalar un puesto de control de seguridad seguro entre llegadas y el resto de la estación.
+  - Matar a alguien que haya permanecido mucho tiempo en llegadas o que haya salido y regresado. Esto podría infringir otras reglas según la situación.
+  - Liberar una singularidad que dañe llegadas. Esto podría infringir otras reglas según la situación.
+  - Causar un problema atmosférico en toda la estación que también afecte llegadas. Esto podría infringir otras reglas según la situación.
 
-  Prohibited:
-  - Making arrivals or the arrivals shuttle uninhabitable.
-  - Attacking or killing someone at the arrivals station.
-  - Killing someone very shortly after they arrive at the station.
-  - Disassembling all the firelocks at arrivals.
-  - Electrifying the arrivals docking airlocks.
+  Prohibido:
+  - Volver inhabitable el área o el transbordador de llegadas.
+  - Atacar o matar a alguien en la estación de llegadas.
+  - Matar a alguien inmediatamente después de que llegue a la estación.
+  - Desmontar todas las compuertas cortafuegos de llegadas.
+  - Electrificar las esclusas de acoplamiento de llegadas.
 </Document>

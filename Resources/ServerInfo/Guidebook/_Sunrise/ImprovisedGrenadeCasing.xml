@@ -1,14 +1,16 @@
-  # Granada casera: Maletín vacío
+<Document>
+  # Granada improvisada: carcasa vacía
 
-  Un casquillo vacío es la base para las granadas caseras. Rellena y selecciona una rama en la columna para obtener una de las opciones.
+  La carcasa vacía sirve como base para fabricar granadas improvisadas. Introduce los componentes y elige una de las opciones disponibles.
 
-  ## Qué se puede montar y cómo
+  ## Opciones de fabricación
     ### Para crear una bomba de tubo
-      - Una bomba tubular con disparador de contacto y piezas adicionales de fragmentación.
+      - Una bomba tubular con activador de contacto y material adicional de fragmentación.
       <GuideEntityEmbed Entity="PipeBomb" Caption="Bomba Tubular" Scale="1"/><GuideEntityEmbed Entity="ImprovisedGrenadeCasingEmpty" Caption="Funda casera vacía" Scale="1"/>
     ### Para crear una bomba incendiaria
-      - Bomba incendiaria con gatillo de contacto y piezas incendiarias adicionales.
+      - Una bomba incendiaria con activador de contacto y material combustible adicional.
       <GuideEntityEmbed Entity="FireBomb" Caption="Bomba incendiaria" Scale="1"/><GuideEntityEmbed Entity="ImprovisedGrenadeCasingEmpty" Caption="Funda casera vacía" Scale="1"/>
-    ### Para crear perdigones de cristal
-      - Perdigones de vidrio: muchas pequeñas lesiones en el punto de impacto.
+    ### Para añadir metralla de vidrio
+      - La metralla de vidrio provoca numerosas heridas pequeñas en el punto de impacto.
       5 unidades <GuideEntityEmbed Entity="CrushedPhosphorus" Caption="5 unidades de polvo de fósforo" Scale="1.1"/><GuideEntityEmbed Entity="ShardGlass" Caption="5 fragmentos de cristal" Scale="1"/><GuideEntityEmbed Entity="ImprovisedGrenadeCasingEmpty" Caption="Funda casera vacía" Scale="1"/>
+</Document>

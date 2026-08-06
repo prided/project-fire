@@ -11,8 +11,8 @@
 
   En cuanto a protección, son ligeramente diferentes de los humanoides estándar:
   Reciben [color=#ffa500]10% más de Contundente, Corte y Pierce[/color]
-  [color=#ffa500]10% más de calor Damage[/color]
-  pero [color=#1e90ff]10% menos de Damage[/color] frío.
+  Reciben [color=#ffa500]10 % más de daño por calor[/color],
+  pero [color=#1e90ff]10 % menos de daño por frío[/color].
 
   <Box>
     <GuideEntityEmbed Entity="ClothingBackpackDuffel" Caption=""/>

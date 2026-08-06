@@ -1,9 +1,9 @@
 <Document>
-# Janitorial
+# Limpieza
 
-You keep things clean, it's a rough job sometimes, but someone's gotta do it. This will walk you through the tools of the trade, and how they're used.
+El personal de limpieza mantiene las instalaciones en condiciones adecuadas. Esta guía describe las herramientas disponibles y sus procedimientos de uso.
 
-## Basic Equipment
+## Equipo básico
 <Box>
 <GuideEntityEmbed Entity="MopItem"/>
 <GuideEntityEmbed Entity="JanitorialTrolley"/>
@@ -18,40 +18,40 @@ You keep things clean, it's a rough job sometimes, but someone's gotta do it. Th
 <GuideEntityEmbed Entity="Mousetrap"/>
 </Box>
 
-## Additional Equipment
+## Equipo adicional
 <Box>
 <GuideEntityEmbed Entity="WetFloorSign"/>
-<GuideEntityEmbed Entity="Holoprojector" Caption="holosign projector"/>
+<GuideEntityEmbed Entity="Holoprojector" Caption="Proyector de señal holográfica"/>
 <GuideEntityEmbed Entity="LightReplacer"/>
 <GuideEntityEmbed Entity="WireBrush"/>
 </Box>
 <Box>
-<GuideEntityEmbed Entity="AdvMopItem" Caption="Advanced mop, ask in R&D"/>
+<GuideEntityEmbed Entity="AdvMopItem" Caption="Trapeador avanzado; solicítelo a I+D"/>
 </Box>
 
-## Fluid Acquisition and Disposal
+## Obtención y eliminación de líquidos
 <Box>
 <GuideEntityEmbed Entity="WaterTankFull"/>
 <GuideEntityEmbed Entity="Sink"/>
 <GuideEntityEmbed Entity="FloorDrain"/>
 </Box>
 
-## Tidying up.
-Now, onto the (figurative) meat and potatoes. We're here to clean, right? Lets keep it simple. The main tools you'll be putting to use are the trusty mop, a trash bag, space cleaner, and one of the three different buckets.
+## Procedimientos de limpieza
+Las herramientas principales son el trapeador, la bolsa de basura, el limpiador espacial y los distintos tipos de cubeta.
 
-Mopping: Fill your cart up with water, then, find some puddles! Wet your mop, and wipe them up, the resulting water puddle will dry after a short time. Don't forget the wet floor signs!
-- To drain your cart, drag it (with your cursor) onto a floor drain. This will dump all the fluids inside! Floor drains can usually be found somewhere in medical, the kitchen freezer, and of course, the janitor closet.
+Trapeado: llene el carro con agua y localice los charcos. Humedezca el trapeador y limpie el líquido; el agua residual se evaporará después de un periodo breve. Coloque señales de piso mojado.
+- Para vaciar el carro, arrástrelo con el cursor sobre un desagüe del suelo. Todo el líquido se descargará. Normalmente hay desagües en el departamento médico, el congelador de la cocina y el cuarto de limpieza.
 
-Trash: Place it in the bag directly, or hold it in your hand. Click -near- trash to scoop -all- nearby junk up, or click on each piece individually. Using the bag on a disposal will empty it.
-- Cargo might want some of your trash, it might be worthwhile to check in from time to time!
+Basura: introduzca los residuos directamente en la bolsa o sosténgala en la mano. Seleccione una ubicación cercana a los residuos para recoger todos los objetos próximos, o seleccione cada pieza por separado. Utilice la bolsa sobre una unidad de desechos para vaciarla.
+- El departamento de carga puede solicitar determinados residuos. Consulte sus necesidades periódicamente.
 
-Space Cleaner: This miracle spray can do two things, clean graffiti, and in a pinch, clean up puddles!
-- You might be able to get more of this from chemistry.
+Limpiador espacial: este aerosol elimina grafitis y, en situaciones de emergencia, también permite limpiar charcos.
+- Puede solicitar suministros adicionales al personal de química.
 
-## Extra Duties
-A good janitor is always on the lookout for a bit more to do, and there are plenty of tools at your disposal. Keep an eye out for broken lights, help the chef take care of mice in the kitchen, and if you're feeling -really- generous, try to restock the vending machines and emergency closets around the station!
+## Funciones adicionales
+El personal de limpieza debe mantenerse atento a otras necesidades de la instalación. Sustituya luces averiadas, ayude al personal de cocina a controlar infestaciones de ratones y, cuando sea posible, reponga las máquinas expendedoras y los casilleros de emergencia.
 
-##Additional Information:
+## Información adicional
 <GuideReagentEmbed Reagent="SpaceCleaner"/>
 <GuideReagentEmbed Reagent="Ammonia"/>
 

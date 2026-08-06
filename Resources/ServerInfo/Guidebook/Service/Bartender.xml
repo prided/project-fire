@@ -1,11 +1,11 @@
 <Document>
-# Bartender
-The bartender has a pretty simple job: serve drinks. People will come up to you and request drinks, and your job is just to hand it to them.
+# Personal de bar
+La función principal del personal de bar es servir bebidas. Los clientes solicitarán una bebida y deberá prepararla y entregarla.
 
-[textlink="Click here to see a complete list of drinks." link="Drinks"]
+[textlink="Haga clic aquí para consultar la lista completa de bebidas." link="Drinks"]
 
 <Box>
-The materials for these drinks can be found in various places:
+Los ingredientes necesarios pueden obtenerse en distintos equipos:
 </Box>
 <Box>
 <GuideEntityEmbed Entity="BoozeDispenser"/>
@@ -14,15 +14,15 @@ The materials for these drinks can be found in various places:
 </Box>
 
 <Box>
-Don't forget containers to serve them in!
+No olvide utilizar recipientes apropiados para servir las bebidas.
 </Box>
 <Box>
-<GuideEntityEmbed Entity="DrinkGlass" Caption="Glass"/>
+<GuideEntityEmbed Entity="DrinkGlass" Caption="Vaso"/>
 <GuideEntityEmbed Entity="DrinkGlassCoupeShaped"/>
 <GuideEntityEmbed Entity="DrinkShotGlass"/>
 <GuideEntityEmbed Entity="DrinkShaker"/>
 <GuideEntityEmbed Entity="DrinkJigger"/>
 </Box>
 
-You can find a list of every drink that can be requested under the Reference Tables entry.
+La sección Tablas de referencia contiene la lista de todas las bebidas que pueden solicitarse.
 </Document>

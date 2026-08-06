@@ -17,9 +17,9 @@
   Por ejemplo, los incendios sin suministro de oxígeno se asfixiarán gradualmente, y los que no tienen combustible también se extinguirán.
 
   Abrir un fuego hacia el espacio lo extinguirá, porque todo el gas simplemente se apagará.
-  Después de eso, puedes [textlink="repair" link="ExpandingRepairingStation"] [textlink="depressurization" link="Spacing"] y bombear la zona de nuevo.
+  Después, se puede [textlink="reparar" link="ExpandingRepairingStation"] la [textlink="despresurización" link="Spacing"] y volver a presurizar la zona.
 
   ## Consejos
-  - [bold]Know las señales de un futuro fire.[/bold] Si la zona se llena de gases inflamables, la única pregunta es cuándo un pasajero desprevenido los prenderá fuego. Intenta aislar la zona y limpiarla de gases lo antes posible.
-  - [bold]Prevent el Proyector de Holofán para que no se propague gases.[/bold] Pasar gas por una esclusa de aire contra incendios puede hacer que otras habitaciones sean peligrosas incluso en un instante. Esto aumentará el número de habitaciones que necesitarán ser reparadas.
+  - [bold]Reconozca las señales de un posible incendio.[/bold] Si una zona se llena de gases inflamables, cualquier fuente de ignición puede iniciar el fuego. Aísle el área y retire los gases lo antes posible.
+  - [bold]Utilice proyectores de holofanes para impedir la propagación de gases.[/bold] Permitir que el gas atraviese una compuerta cortafuegos puede volver peligrosas otras habitaciones y ampliar el área que deberá repararse.
 </Document>

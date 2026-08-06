@@ -1,8 +1,8 @@
-﻿<Document>
-  # Wire Panels
-  Some station devices like airlocks, vending machines, and arcade consoles have wire panels, which control certain aspects of their functionality.
+<Document>
+  # Paneles de cables
+  Algunos dispositivos de la estación, como esclusas, máquinas expendedoras y consolas recreativas, disponen de paneles de cables que controlan determinadas funciones.
 
-  These panels can be opened using a screwdriver to access the wiring inside.
+  Estos paneles pueden abrirse con un destornillador para acceder al cableado interno.
 
   <Box>
     <GuideEntityEmbed Entity="Wirecutter"/>
@@ -10,20 +10,20 @@
     <GuideEntityEmbed Entity="Multitool"/>
   </Box>
 
-  From here you can use wirecutters and a multitool to interact with the wiring. Note that interacting with the wiring often requires insulated gloves, as if the wire is live, you can get shocked.
+  Utilice un cortacables y un multímetro para manipular el cableado. Normalmente se requieren guantes aislantes, ya que un cable con corriente puede producir una descarga eléctrica.
 
   <Box>
     <GuideEntityEmbed Entity="ClothingHandsGlovesColorYellow"/>
   </Box>
 
-  You can cut and mend wires using the wirecutters and pulse wires using the multitool.
+  El cortacables permite cortar y reconectar cables; el multímetro permite pulsarlos.
 
-  Cutting wires often completely disables or restores functionality to a device.
-  It may also trigger unintended functionality like shocking people, dropping door bolts, or exploding.
+  Cortar un cable suele desactivar o restablecer por completo una función del dispositivo.
+  También puede producir efectos imprevistos, como descargas eléctricas, activación de pernos o explosiones.
 
-  Pulsing wires can have a variety of effects, but oftentimes it either temporarily disables or enables functionality.
+  Enviar un pulso a los cables puede provocar distintos efectos, aunque normalmente activa o desactiva una función de manera temporal.
 
-  You can't pulse wires if the wire you're trying to pulse is cut. You have to mend the wire first.
+  No se puede enviar un pulso a un cable cortado. Reconéctelo antes.
 
 
 </Document>

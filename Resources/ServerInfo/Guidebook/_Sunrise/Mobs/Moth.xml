@@ -10,7 +10,7 @@
 
   Las alas les proporcionan mejor aceleración en ausencia de gravedad en la estación, pero sin equipo en el espacio exterior, aún no pueden moverse.
 
-  Reciben un [color=#1e90ff]30% menos de Damage[/color] de frío, pero un [color=#ffa500]20% más de daño por calor y se incendian más easily[/color].
+  Reciben [color=#1e90ff]30 % menos de daño por frío[/color], pero [color=#ffa500]20 % más de daño por calor y se incendian con mayor facilidad[/color].
   <Box>
     <GuideEntityEmbed Entity="MobMothroach" Caption=""/>
     <GuideEntityEmbed Entity="LightBulb" Caption=""/>

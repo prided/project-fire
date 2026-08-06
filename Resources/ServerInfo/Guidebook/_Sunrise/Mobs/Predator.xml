@@ -11,10 +11,10 @@
     <GuideReagentEmbed Reagent="FluorosulfuricAcidPredator"/>
   </Box>
 
-  Reciben [color=#1e90ff]20% menos damage[/color] contundente y penetrante,
-  [color=#1e90ff]15% menos de cortes Damage[/color]
-  [color=#1e90ff]10% menos de Damage[/color] eléctrico
-  [color=#1e90ff]20% menos de Damage[/color] de veneno
-  pero [color=#ffa500]15% más de calor y frío Damage[/color].
+  Reciben [color=#1e90ff]20 % menos de daño contundente y perforante[/color],
+  [color=#1e90ff]15 % menos de daño cortante[/color],
+  [color=#1e90ff]10 % menos de daño eléctrico[/color]
+  y [color=#1e90ff]20 % menos de daño por veneno[/color],
+  pero [color=#ffa500]15 % más de daño por calor y frío[/color].
 
 </Document>

@@ -12,10 +12,10 @@
     <GuideReagentEmbed Reagent="FluorosulfuricAcidHumanoidXeno"/>
   </Box>
 
-  Aceptan un [color=#ffa500]5% más de perforación Damage[/color]
-  [color=#ffa500]do no recibir daño de cold[/color],
-  [color=#ffa500]20% más de calor Damage[/color]
-  [color=#ffa500]25% más de Damage[/color] eléctrico
+  Reciben [color=#ffa500]5 % más de daño perforante[/color],
+  [color=#ffa500]no reciben daño por frío[/color],
+  reciben [color=#ffa500]20 % más de daño por calor[/color]
+  y [color=#ffa500]25 % más de daño eléctrico[/color].
 
   Sienten hambre más rápido y quieren comer más a menudo (alrededor de un 20%).
   Los xenomorfos no sufren asfixia.

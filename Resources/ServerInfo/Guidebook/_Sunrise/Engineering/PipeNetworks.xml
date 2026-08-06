@@ -1,6 +1,6 @@
 <Document>
   # Redes de tuberías
-  Las redes de tuberías, comúnmente conocidas como redes de tuberías, son una serie de [textlink="pipes" link="Pipes"] conectadas que suelen realizar una función común.
+  Las redes de tuberías son conjuntos de [textlink="tuberías" link="Pipes"] conectadas que suelen cumplir una función común.
 
   <Box>
     <GuideEntityEmbed Entity="GasPipeStraight" Caption=""/>
@@ -17,25 +17,25 @@
 
   ## Cómo funcionan las redes de tubería
   En la Estación Espacial 14, la tubería se comporta como un único volumen definido con puntos de entrada y salida en los extremos de la red.
-  El suministro forzado de gas o el bombeo [textlink="pump" link="Pumps"] afecta a toda la red, no solo a la tubería a la que está conectada.
+  El suministro forzado de gas mediante una [textlink="bomba" link="Pumps"] afecta a toda la red, no solo a la tubería a la que está conectada.
 
   Las redes de tubería solo están separadas por dispositivos capaces de interrumpir la transmisión, o por algunos dispositivos especiales.
-  Por ejemplo, [textlink="pressure pump" link="Pumps"] no permitirá que pase gasolina si no está alimentada o no tiene nada que bombear.
+  Por ejemplo, una [textlink="bomba de presión" link="Pumps"] no permitirá el paso de gas si no recibe energía o no tiene gas que bombear.
 
   Ejemplos de dispositivos que separan redes de tuberías:
-  - [textlink="Pressure bombas y desplazamiento positivo pumps" link="Pumps"]
-  - [textlink="Gas grifos y filters" link="MixingAndFiltering"]
-  - [textlink="All valves" link="Valves"]
-  - [textlink="Radiators" link="Radiators"]
+  - [textlink="Bombas de presión y de desplazamiento positivo" link="Pumps"]
+  - [textlink="Mezcladores y filtros de gases" link="MixingAndFiltering"]
+  - [textlink="Todas las válvulas" link="Valves"]
+  - [textlink="Radiadores" link="Radiators"]
 
-  Aquí tienes un ejemplo de una tubería dividida en dos redes de tubería separadas [textlink="pump" link="Pumps"]:
+  Este es un ejemplo de una tubería dividida en dos redes independientes mediante una [textlink="bomba" link="Pumps"]:
 
   <Box>
-    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Pipenet 1" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Red 1" Rotation="90"/>
     <GuideEntityEmbed Entity="GasPipeStraight" Caption="" Rotation="90"/>
     <GuideEntityEmbed Entity="GasPressurePump" Caption="Separador de red" Rotation="90"/>
     <GuideEntityEmbed Entity="GasPipeStraight" Caption="" Rotation="90"/>
-    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Pipenet 2" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Red 2" Rotation="90"/>
   </Box>
 
 </Document>

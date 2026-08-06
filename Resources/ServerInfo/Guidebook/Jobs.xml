@@ -1,45 +1,45 @@
 <Document>
 # Puestos
 
-SS14 cuenta con una gran cantidad de puestos, divididos en siete departamentos principales:
+SS14 cuenta con una gran cantidad de puestos, distribuidos entre siete departamentos principales:
 
 ## Servicio
-El departamento de [color=#9fed58]Servicio[/color] es muy diverso e incluye al Jefe de Personal y otros puestos destinados a atender las necesidades de la estación.
+El departamento de [color=#9fed58]Servicio[/color] incluye al Jefe de Personal y otros puestos dedicados a atender las necesidades de la estación.
 
-Su función principal consiste en entretener, limpiar y servir al resto de la tripulación, con la excepción de los Pasajeros, que no tienen una tarea concreta más allá de perderse en mantenimiento.
+Su función principal consiste en ofrecer entretenimiento, limpieza y servicios al resto de la tripulación. La excepción son los pasajeros, que no tienen una función específica además de extraviarse en mantenimiento.
 
-## Cargo
-El departamento de [color=#b18644]Cargo[/color] está compuesto por los Técnicos de Cargo, los Especialistas en Recuperación y el Intendente. Es responsable de la distribución de recursos y del comercio, y puede comprar y vender artículos en el mercado galáctico.
+## Carga
+El departamento de [color=#b18644]Carga[/color] está integrado por técnicos de carga, especialistas en rescate y el Intendente. Es responsable de la distribución de recursos y del comercio, y puede comprar y vender productos en el mercado galáctico.
 
-En la práctica, sus miembros recorren la estación y distintos restos espaciales en busca de materiales para vender o redistribuir, además de comprar los suministros solicitados por otros departamentos.
+En términos generales, su personal recorre la estación y distintos restos espaciales para localizar materiales que puedan venderse o redistribuirse, y adquiere los suministros solicitados por otros departamentos.
 
-## Médico
-El departamento [color=#5b97bc]Médico[/color] está compuesto por Internos Médicos, Químicos, Médicos y el Director Médico. Se encarga de atender a la tripulación, tratar o clonar a los heridos y fallecidos, combatir enfermedades y evitar que todos mueran de forma horrible y sangrienta en algún casillero.
+## Medicina
+El departamento de [color=#5b97bc]Medicina[/color] está integrado por médicos internos, químicos, médicos y el Director Médico. Es responsable de atender a la tripulación, tratar o clonar a las personas heridas y fallecidas, combatir enfermedades y evitar muertes innecesarias.
 
-Médico es uno de los departamentos mejor equipados: puede localizar tripulantes heridos mediante el monitor de tripulación, dispone de un suministro casi infinito de sustancias químicas si Química funciona correctamente y puede diagnosticar y vacunar con rapidez contra enfermedades contagiosas.
+Medicina es uno de los departamentos mejor equipados. Puede localizar a tripulantes heridos mediante el monitor de tripulación, dispone de un suministro casi ilimitado de sustancias si el laboratorio químico funciona correctamente y puede diagnosticar y prevenir enfermedades contagiosas con rapidez.
 
 ## Ciencia
-El departamento de [color=#c96dbf]Ciencia[/color] está compuesto por Asistentes de Investigación, Científicos y el Director de Investigación. Se encarga de investigar tecnologías y artefactos, mejorar máquinas y fabricar dispositivos nuevos y útiles.
+El departamento de [color=#c96dbf]Ciencia[/color] está integrado por asistentes de investigación, científicos y el Director de Investigación. Es responsable de investigar tecnologías y artefactos, mejorar máquinas y fabricar dispositivos nuevos de utilidad.
 
-Los científicos deben buscar artefactos nuevos para estudiarlos y ofrecer ayuda a otros departamentos para mejorar sus máquinas.
+El personal científico debe buscar nuevos artefactos para estudiarlos y comunicarse con los demás departamentos para mejorar sus máquinas.
 
 ## Ingeniería
-El departamento de [color=#f39f27]Ingeniería[/color] está compuesto por Asistentes Técnicos, Ingenieros de Estación, Técnicos Atmosféricos y el Ingeniero Jefe. Se encarga de mantener la estación con energía, conservar intacta su estructura y asegurar el funcionamiento del suministro de aire.
+El departamento de [color=#f39f27]Ingeniería[/color] está integrado por asistentes técnicos, ingenieros de estación, técnicos de atmósfera y el Ingeniero Jefe. Es responsable de suministrar energía a la estación, mantener su estructura y garantizar el funcionamiento del sistema atmosférico.
 
-Ingeniería cuenta con el equipo necesario para trabajar de forma segura en el espacio, por lo que sus integrantes siempre deben intentar reparar las zonas inhabitables de la estación.
+Ingeniería dispone del equipo necesario para operar de forma segura en el espacio y, por ello, debe intentar reparar las zonas inhabitables de la estación.
 
 ## Seguridad
-El departamento de [color=#cb0000]Seguridad[/color] está compuesto por Cadetes de Seguridad, Abogados, el Detective, Oficiales de Seguridad, el Alcaide y el Jefe de Seguridad. Se encarga de controlar a los alborotadores y las amenazas no humanoides, como ratas gigantes y carpas espaciales.
+El departamento de [color=#cb0000]Seguridad[/color] está integrado por cadetes, abogados, el detective, oficiales, el alcaide y el Jefe de Seguridad. Es responsable de controlar a los infractores y responder a amenazas no humanoides, como ratas gigantes y carpas espaciales.
 
-Debido a esta responsabilidad y a la necesidad de mantener un equilibrio, Seguridad puede verse sobrepasada por tripulantes enfurecidos —no maten al payaso—, por lo que es importante que sus integrantes mantengan una conducta ejemplar.
+Debido a esta función y a la necesidad de actuar con criterio, Seguridad puede verse superada por una tripulación hostil. Sus integrantes deben mantener una conducta profesional y evitar el uso innecesario de la fuerza.
 
 ## Mando
-El departamento de [color=#1b67a5]Mando[/color] está formado por todos los jefes de departamento. Se encarga de mantener la estación y sus departamentos funcionando de manera eficiente.
+El departamento de [color=#1b67a5]Mando[/color] está integrado por todos los jefes de departamento. Es responsable de mantener en funcionamiento la estación y coordinar sus departamentos.
 
-Los miembros de Mando deben ser razonablemente competentes en sus respectivos departamentos y procurar delegar responsabilidades y dirigir el trabajo.
+Los integrantes de Mando deben demostrar competencia en sus respectivas áreas, delegar responsabilidades y dirigir el trabajo.
 
-# Cómo cambiar de puesto
-El [color=#9fed58]Jefe de Personal[/color] se encarga de modificar los accesos de las identificaciones y entregar claves de cifrado. Ve a su oficina y dile en qué puesto te gustaría trabajar.
+# Cambio de puesto
+El [color=#9fed58]Jefe de Personal[/color] se encarga de modificar los accesos de las identificaciones y entregar claves de cifrado. Diríjase a su oficina e indique el puesto que desea ocupar.
 
-A menudo te pedirá que un jefe de departamento [color=#a4885c]selle[/color] un documento. No te preocupes: encuéntralo y entrégale el papel.
+Con frecuencia le solicitará un documento [color=#a4885c]sellado[/color] por el jefe del departamento correspondiente. Localícelo y entregue el documento para obtener su autorización.
 </Document>

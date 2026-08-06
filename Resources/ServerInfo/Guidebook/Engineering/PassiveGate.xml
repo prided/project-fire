@@ -1,15 +1,15 @@
-﻿<Document>
-  # Passive Gate
-  The passive gate is a simple one-way valve that prevents gasses from flowing backwards.
+<Document>
+  # Compuerta pasiva
+  La compuerta pasiva es una válvula unidireccional sencilla que impide el retroceso de gases.
   <Box>
     <GuideEntityEmbed Entity="GasPassiveGate"/>
   </Box>
 
-  The valve's input is on the side of the [color=red]red[/color] circle.
-  The valve also shows the current flow rate of the pipe when examined.
+  La entrada de la válvula se encuentra en el lado del círculo [color=red]rojo[/color].
+  Al examinarla también se muestra el caudal actual de la tubería.
 
-  It's useful in many applications, for example:
-  - Preventing a pure gas from getting contaminated via a mixed gas flowing back through the pipe.
-  - Preventing pressure or temperature changes across two [textlink="pipenets" link="PipeNetworks"] in the opposite direction.
-  - Quickly checking the flow rate on a pipenet without needing a [textlink="gas analyzer" link="AtmosTools"].
+  Resulta útil en distintas aplicaciones, por ejemplo:
+  - Evitar que un gas puro sea contaminado por una mezcla que retroceda a través de la tubería.
+  - Impedir cambios de presión o temperatura en sentido contrario entre dos [textlink="redes de tuberías" link="PipeNetworks"].
+  - Consultar rápidamente el caudal de una red sin utilizar un [textlink="analizador de gases" link="AtmosTools"].
 </Document>

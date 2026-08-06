@@ -1,22 +1,22 @@
 <Document>
 # Estación y turnos
 
-Cada ronda de SS14 es un [bold]turno independiente[/bold] que se desarrolla en una de las distintas estaciones disponibles.
+Cada ronda de SS14 constituye un [bold]turno independiente[/bold] que transcurre en una de varias estaciones.
 
 Las rondas suelen durar entre [color=cyan]45 y 90 minutos[/color], pero los jugadores pueden entrar o salir en cualquier momento.
 
-## Terminal de transbordadores
-Si te unes a mitad de un turno, probablemente aparecerás en la [color=lime]terminal de transbordadores[/color].
-Ahí puedes tomar bebidas, conversar con otros jugadores y esperar a que llegue el transbordador que te llevará a la estación.
+## Terminal del transbordador
+Si se incorpora a mitad de un turno, probablemente aparecerá en la [color=lime]terminal del transbordador[/color].
+Allí puede obtener bebidas, conversar con otros jugadores y esperar el transbordador que lo llevará a la estación.
 
-Las pantallas de las paredes mostrarán el tiempo estimado de llegada.
-Cuando llegue, solo tienes que subir para que te lleve a la estación.
+Las pantallas de las paredes indicarán el tiempo estimado de llegada.
+Cuando llegue, simplemente suba para ser trasladado a la estación.
 
-Permanece dentro de la terminal y no te quedes en la zona de aterrizaje. [color=#EB2D3A][bold]Los transbordadores pueden aplastarte al llegar[/bold][/color]
+Permanezca dentro de la terminal y no se ubique en la zona de aterrizaje. [color=#EB2D3A][bold]Un transbordador en aproximación puede aplastarlo[/bold][/color]
 
 ## Navegación
-Cada estación cuenta con una gran variedad de lugares que puedes visitar.
-Entre ellos se encuentran los departamentos donde se trabaja y las áreas comunes en las que puedes relajarte y conversar con otros jugadores.
+Cada estación cuenta con una gran variedad de lugares.
+Estos incluyen departamentos especializados donde se realizan tareas y áreas comunes destinadas al descanso y la convivencia.
 
 <Box>
   <GuideEntityEmbed Entity="StationMap"/>
@@ -24,28 +24,28 @@ Entre ellos se encuentran los departamentos donde se trabaja y las áreas comune
   <GuideEntityEmbed Entity="SignBridge" Caption="Señales indicadoras"/>
 </Box>
 
-Los [color=cyan]mapas de la estación[/color] ofrecen una vista general de toda la estación y utilizan marcadores de colores para señalar distintos lugares.
-Las [color=cyan]señales[/color] colocadas en las paredes pueden orientarte hacia los departamentos.
+Los [color=cyan]mapas de la estación[/color] ofrecen una vista general de la instalación y utilizan indicadores de colores para señalar distintas ubicaciones.
+Las [color=cyan]señales[/color] instaladas en las paredes indican la dirección de los departamentos.
 
-## Abandonar la estación
-Al final del turno [color=gray](salvo que ocurra un [color=red][bold]desastre nuclear[/bold][/color])[/color], abandonarás la estación mediante el [color=lime]transbordador de evacuación[/color].
-Cuando sea llamado, se reproducirá un anuncio para alertar a la tripulación e indicar que [color=cyan]llegará en 10 minutos.[/color]
-Una vez que llegue, tendrás que dirigirte hacia él, abordar y sobrevivir al viaje hasta [bold]Comando Central[/bold].
+## Salida de la estación
+Al finalizar el turno [color=gray](salvo que ocurra un [color=red][bold]desastre nuclear[/bold][/color])[/color], deberá abandonar la estación mediante el [color=lime]transbordador de evacuación[/color].
+Cuando sea solicitado, se emitirá un anuncio para alertar a la tripulación e informar su [color=cyan]llegada en 10 minutos.[/color]
+Una vez que llegue, deberá dirigirse hacia él, abordar y sobrevivir al trayecto hasta el [bold]Mando Central[/bold].
 
-La ronda no termina oficialmente hasta que llegas a [bold]Comando Central[/bold].
+La ronda no finaliza oficialmente hasta llegar al [bold]Mando Central[/bold].
 
 <Box>
   <GuideEntityEmbed Entity="CryogenicSleepUnit"/>
 </Box>
 
-Si necesitas abandonar una ronda antes de tiempo, puedes hacerlo mediante una [color=lime]unidad de criosueño[/color].
-Solo tienes que entrar y salir del juego; la unidad guardará tus pertenencias y evitará que sean robadas o utilizadas indebidamente.
+Si necesita abandonar una ronda antes de tiempo, puede utilizar una [color=lime]unidad de sueño criogénico[/color].
+Ingrese en la unidad y salga del juego; sus pertenencias quedarán almacenadas para evitar robos o usos indebidos.
 
 ## Más información
-¿Estás aprendiendo los controles? [textlink="Haz clic aquí para leer sobre los distintos controles" link="Controls"]
+¿Está aprendiendo los controles? [textlink="Presione aquí para consultar los distintos controles" link="Controls"]
 
-¿No sabes cómo desempeñar un puesto? [textlink="Haz clic aquí para consultar la lista de departamentos" link="Jobs"]
+¿No sabe cómo desempeñar un puesto? [textlink="Presione aquí para consultar la lista de departamentos" link="Jobs"]
 
-¿Sigues muriendo? [textlink="Haz clic aquí para consultar una guía de supervivencia" link="Survival"]
+¿Muere con frecuencia? [textlink="Presione aquí para consultar la guía de supervivencia" link="Survival"]
 
 </Document>

@@ -1,17 +1,17 @@
-﻿<Document>
-  # Ban Durations
+<Document>
+  # Duración de las sanciones
 
-  Bans can be appealed at forum.ss14.io in the ban appeals section.
+  Las sanciones pueden apelarse en la sección correspondiente de forum.ss14.io.
 
-  ## Temporary
-  Temporary bans will be lifted automatically after a certain amount of time. If they are a game ban, they will tell you how much time is remaining when you try to connect.
+  ## Temporal
+  Las sanciones temporales se levantan automáticamente después del periodo indicado. Si se trata de una prohibición de acceso al juego, al intentar conectarse se mostrará el tiempo restante.
 
-  ## Indefinite
-  These bans will only be removed on a successful appeal on the forums. Any ban which doesn't tell you when it expires and doesn't specify otherwise can be presumed to be an indefinite ban.
+  ## Indefinida
+  Estas sanciones solo se retiran después de una apelación aprobada en el foro. Toda sanción que no indique una fecha de vencimiento ni especifique otra categoría se considera indefinida.
 
-  ## Voucher
-  This is an indefinite ban which may only be appealed both with a successful appeal and which require a voucher of good behavior from the administrative team of a well-known or at least decently active SS13/SS14 server in order for the appeal to be considered. Voucher bans typically cannot be appealed for at least six months after being issued. Without a voucher, a player can only attempt to appeal a voucher ban once, and only if the ban was inappropriately placed. Voucher bans are typically only placed as a result of an unsuccessful appeal of an indefinite game ban by players with a history of bans and of causing issues.
+  ## Con aval
+  Es una sanción indefinida cuya apelación requiere tanto una resolución favorable como un aval de buena conducta emitido por el equipo administrativo de un servidor de SS13 o SS14 reconocido o con actividad suficiente. Por lo general no puede apelarse durante los primeros seis meses. Sin aval, el jugador solo podrá presentar una apelación y únicamente si la sanción fue aplicada de forma improcedente. Esta categoría suele imponerse después de rechazar la apelación de una sanción indefinida a jugadores con antecedentes reiterados de infracciones.
 
-  ## Permanent
-  This is a ban that is only appealable if the ban was inappropriately placed, including if the ban should not have been permanent. If the result of the appeal is that the ban was appropriately placed, the ban may not be appealed again and will not be lifted. These bans are extremely rare, but are applied to players who continually cause problems even after a voucher ban or users who have completely unacceptable behavior may be permanently removed.
+  ## Permanente
+  Solo puede apelarse cuando la sanción fue aplicada de forma improcedente, incluida una clasificación permanente injustificada. Si la apelación determina que la medida fue correcta, no podrá presentarse otra y la sanción no se levantará. Es una categoría excepcional reservada para quienes continúan causando problemas después de una sanción con aval o mantienen conductas completamente inaceptables.
 </Document>

@@ -15,15 +15,15 @@
     <GuideEntityEmbed Entity="HoloFan"/>
   </Box>
 
-  Esto es muy útil para moverse entre [textlink="fire lock buffers" link="FireAndGasControl"] sin que haya fugas de gas entre habitaciones, así como para alertar a la tripulación normal de que entrar en la habitación podría ser peligroso.
+  Esto resulta útil para desplazarse entre [textlink="barreras de compuertas cortafuegos" link="FireAndGasControl"] sin provocar fugas entre habitaciones y para advertir a la tripulación sobre una zona peligrosa.
   También puede usarse como barrera temporal, permitiendo a la tripulación pasar rápidamente entre la zona despresurizada y la sellada sin riesgo de liberar aire de las habitaciones adyacentes.
 
   Tiene una carga interna que se consume cada vez que se usa. Se puede restaurar quitando la batería e insertándola en el cargador o recargador.
 
-  Holophanes colocados junto a la [textlink="fire lock" link="FireAndGasControl"] desactivan el bloqueo de la esclusa de incendios, permitiendo abrirla manualmente.
+  Los holofanes colocados junto a una [textlink="compuerta cortafuegos" link="FireAndGasControl"] anulan su bloqueo y permiten abrirla manualmente.
 
   ## Analizador de gas
-  Un analizador de gases es una herramienta para analizar la composición de un gas en la atmósfera circundante o en cualquier [textlink="atmospheric device" link="GasManipulation"] que contenga gas.
+  Un analizador de gases permite determinar la composición de la atmósfera circundante o del gas contenido en cualquier [textlink="dispositivo atmosférico" link="GasManipulation"].
 
   <Box>
     <GuideEntityEmbed Entity="GasAnalyzer"/>
@@ -37,7 +37,7 @@
     <GuideEntityEmbed Entity="GasThermoMachineFreezer" Caption=""/>
   </Box>
 
-  El analizador de gases puede usarse haciendo clic en la [textlink="device" link="GasManipulation"] de gas o en el aire de la habitación.
+  El analizador de gases puede utilizarse sobre un [textlink="dispositivo" link="GasManipulation"] o directamente sobre el aire de una habitación.
 
   Cuando se está utilizando, el analizador de gases informa:
   - Volumen del dispositivo que se está midiendo, no el volumen de gas
@@ -47,6 +47,6 @@
 
   En la parte inferior de la interfaz, el analizador de gases muestra una indicación visual de las diferentes [textlink="gases" link="Gasses"] en la mezcla y sus concentraciones relativas.
 
-  Al analizar [textlink="devices" link="GasManipulation"] binarias y trinarias, es decir, dispositivos con dos o tres entradas/salidas, el analizador de gases muestra la composición de cada entrada y salida por separado. Esto es útil al encontrar problemas en [textlink="mixing and filtering" link="MixingAndFiltering"] circuitos de gas.
+  Al analizar [textlink="dispositivos" link="GasManipulation"] binarios y trinarios, es decir, con dos o tres entradas o salidas, el analizador de gases muestra por separado la composición de cada conexión. Esto resulta útil para diagnosticar problemas en los circuitos de [textlink="mezcla y filtrado" link="MixingAndFiltering"] de gases.
 
 </Document>

@@ -1,20 +1,20 @@
 <Document>
-  # Cargo Bounties
-  Mientras [textlink="Cargo" link="Cargo"] puedas ganar [color=cyan]spears[/color] vendiendo casi todo, se puede ganar más dinero completando [color=cyan]bounties[/color] que [color=cyan]Cargo recompensa Computer[/color] otorga.
+  # Recompensas de Carga
+  Aunque [textlink="Carga" link="Cargo"] puede obtener [color=cyan]créditos[/color] vendiendo casi cualquier objeto, las [color=cyan]recompensas[/color] asignadas por la [color=cyan]Cargo Bounty Computer[/color] generan mayores ingresos.
 
-  ## Starting Bounties
+  ## Inicio de una recompensa
 
   <Box>
     <GuideEntityEmbed Entity="ComputerCargoBounty"/>
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
   </Box>
 
-  Para empezar una recompensa, interactúa con el Computer[color=cyan] [/color]Cargo de la recompensa. Muestra una lista de recompensas actuales, y puedes imprimir la etiqueta o omitirla.
+  Para iniciar una recompensa, interactúe con la [color=cyan]Cargo Bounty Computer[/color]. Esta muestra la lista vigente y permite imprimir una etiqueta o descartar la recompensa.
 
   - Imprimir la etiqueta [color=cyan]Bounty Manifest[/color] da la lista de productos a obtener. Puedes imprimir la etiqueta todo lo que quieras, solo que no trabajes en la tarea que otro técnico ha empezado recientemente.
   - El Pase reemplaza la recompensa actual por una nueva, ya que solo puede haber seis recompensas activas a la vez. El Pase tiene un tiempo de recarga de 15 minutos y cancela la recompensa antigua, lo que puede enfadar a otros Técnicos.
 
-  ## Fulfilling Bounties
+  ## Cumplimiento de recompensas
 
   <Box>
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
@@ -26,9 +26,9 @@
 
   Después de recoger, vuelve a la carga y pon todo en una [color=cyan]Crate[/color] vacía. Cierra la caja y pega un manifiesto sobre ella.
 
-  Para confirmar la finalización, usa la [color=cyan]Appraisal Tool[/color] en la caja. Debería mostrar que la recompensa ha sido completada.
+  Para confirmar el cumplimiento, utilice la [color=cyan]Appraisal Tool[/color] sobre la caja. El dispositivo deberá indicar que la recompensa está completa.
 
-  ## Selling Bounties
+  ## Entrega de recompensas
 
   <Box>
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
@@ -38,7 +38,7 @@
 
   Una vez que hayas comprobado la ejecución de la recompensa, procede como en una venta normal.
 
-  ¡Lleva la carga al [color=cyan]Trading Station[/color], véndela y listo!
+  Lleve la carga a la [color=cyan]Trading Station[/color] y complete la venta.
 
   Cuando regreses, habrá una nueva recompensa.
 </Document>

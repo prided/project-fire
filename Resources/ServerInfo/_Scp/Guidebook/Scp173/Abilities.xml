@@ -1,44 +1,44 @@
 ﻿<Document>
-  # Способности SCP-173
+  # Habilidades de SCP-173
 
-  Здесь будут описаны доступные объекту активируемые способности и уникальные механики, связанные с ним.
+  Aquí se describen las habilidades activas disponibles para el objeto y sus mecánicas únicas.
 
-  [textlink="Общая информация о скульптуре" link="Scp173About"]
+  [textlink="Información general sobre la Escultura" link="Scp173About"]
 
-  ## Способность "Засорить тайл"
+  ## Habilidad "Obstruir una casilla"
 
-  Активация данной способности загрязняет тайл особым реагентом, который при достаточном количестве открывает гермозатворы в камере содержания.
-  Используйте ее, чтобы сбежать из камеры содержания.
+  Al activar esta habilidad, contaminas una casilla con una sustancia especial. Cuando se acumula suficiente, las compuertas herméticas de la cámara de contención se abren.
+  Úsala para escapar de la cámara.
 
-  [textlink="Подробнее о методах побега" link="Scp173ContainmentBreach"]
+  [textlink="Más información sobre los métodos de fuga" link="Scp173ContainmentBreach"]
 
-  ## Способность "Осквернить"
+  ## Habilidad "Profanar"
 
-  Активация данной способности наносит небольшой урон по всем строениям рядом, а также с некоторым шансом открывает шлюзы с гермозатворами.
-  Данная способность работает только снаружи камеры содержания.
+  Al activar esta habilidad, infliges una pequeña cantidad de daño a todas las estructuras cercanas y tienes cierta probabilidad de abrir esclusas y compuertas herméticas.
+  Solo funciona fuera de la cámara de contención.
 
-  ## Способность "Скачок"
+  ## Habilidad "Salto"
 
-  Активация данной способности передвигает вас в небольшом радиусе, а задетые по траектории люди умирают.
-  Данная способность работает только если на вас смотрят не больше двух людей, однако ее нельзя использовать в камере содержания.
+  Al activar esta habilidad, te desplazas dentro de un radio reducido y matas a las personas que atraviesas.
+  Solo funciona cuando no te observan más de dos personas y no puede usarse dentro de la cámara de contención.
 
-  ## Способность "Ослепить"
+  ## Habilidad "Cegar"
 
-  Активация данной способности заставляет всех людей вокруг закрыть глаза на некоторое время.
-  Данная способность работает только если на вас смотрят не менее четырех людей, однако ее нельзя использовать снаружи камере содержания.
+  Al activar esta habilidad, obligas a todas las personas cercanas a cerrar los ojos durante un breve periodo.
+  Solo funciona cuando te observan al menos cuatro personas y únicamente puede usarse dentro de la cámara de contención.
 
-  ## Механика безопасного времени
+  ## Mecánica de tiempo de seguridad
 
-  В течение первых 15 минут с начала раунда вы не сможете использовать способность "Засорить тайл".
+  Durante los primeros 15 minutos de la ronda no puedes usar la habilidad "Obstruir una casilla".
 
-  Эта механика ограничивает SCP объекты в начале раунда, давая персоналу время на стартовую подготовку к смене.
+  Esta mecánica limita a los objetos SCP al inicio de la ronda y permite que el personal se prepare.
 
-  ## Механика сворачивания шеи
+  ## Mecánica de rotura de cuello
 
-  В игре присутствует уникальная система, которая позволяет SCP-173 при столкновении с людьми автоматически убивать их. Вам даже не нужно активировать боевой режим!
+  SCP-173 mata automáticamente a las personas con las que entra en contacto. Ni siquiera necesitas activar el modo de combate.
 
-  ## Механика зрения
+  ## Mecánica de visión
 
-  В игре присутствует уникальная система, которая проверяет видимость каждого персонажа другим персонажем.
+  El juego cuenta con un sistema que comprueba si cada personaje es visible para los demás.
 
 </Document>

@@ -1,18 +1,18 @@
-﻿<Document>
-  # Atmospheric Upsets
-  Atmospheric upsets are deviations from the normal atmospheric conditions that should be maintained on the station.
+<Document>
+  # Alteraciones atmosféricas
+  Las alteraciones atmosféricas son desviaciones de las condiciones normales que deben mantenerse en la estación.
 
-  These upsets can be caused by a variety of factors, such as [textlink="fires" link="Fires"], [textlink="spacing" link="Spacing"], or other events that can quickly spread throughout the station and make the atmosphere uninhabitable for the crew.
+  Pueden producirse por distintos factores, como [textlink="incendios" link="Fires"], [textlink="despresurización" link="Spacing"] u otros sucesos capaces de propagarse rápidamente y volver inhabitable la atmósfera para la tripulación.
 
-  For reference, the normal atmospheric conditions on the station are 101.3 kPa of pressure and 293.15 K (20°C) of temperature.
-  The standard station mix is also 78% nitrogen, 22% oxygen.
+  Como referencia, las condiciones normales son una presión de 101.3 kPa y una temperatura de 293.15 K (20 °C).
+  La mezcla estándar contiene 78 % de nitrógeno y 22 % de oxígeno.
 
-  ## Damage Control
-  For all atmospheric emergencies, it's important to act quickly to prevent the spread of dangerous conditions, and to contain the spread as much as possible.
+  ## Control de daños
+  En cualquier emergencia atmosférica, debe actuar con rapidez para contener las condiciones peligrosas e impedir su propagación.
 
-  Opening [textlink="firelocks" link="FireAndGasControl"] to the exposed area will often lead to you having to fix [italic]two[/italic] problems instead of one.
+  Abrir las [textlink="compuertas cortafuegos" link="FireAndGasControl"] hacia una zona afectada suele transformar un problema en [italic]dos[/italic].
 
-  Be sure to use your [textlink="holofan projector" link="AtmosTools"] to prevent the spread of dangerous conditions between [textlink="firelock buffers" link="FireAndGasControl"].
+  Utilice el [textlink="proyector de barreras holográficas" link="AtmosTools"] para evitar que las condiciones peligrosas se propaguen entre [textlink="zonas aisladas por compuertas" link="FireAndGasControl"].
 
   <Box>
     <GuideEntityEmbed Entity="HolofanProjector"/>

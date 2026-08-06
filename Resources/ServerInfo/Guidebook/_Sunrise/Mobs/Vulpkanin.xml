@@ -5,7 +5,7 @@
     <GuideEntityEmbed Entity="MobVulpkanin" Caption=""/>
   </Box>
 
-  Los Vulpkanins, debido a su espeso pelaje, [color=#1e90ff]prefer temperatures[/color] y [color=#ffa500]overheat faster.[/color] más fríos
+  Debido a su pelaje espeso, los vulpkanin [color=#1e90ff]prefieren temperaturas bajas[/color] y [color=#ffa500]se sobrecalientan con mayor rapidez[/color].
   Sus piernas ágiles (pero torpes) les permiten saltar distancias cortas – ¡ten cuidado de no estrellarte!
 
   Su dieta les permite comer carne cruda de forma segura, pero la teobromina es venenosa para ellos.
@@ -13,5 +13,5 @@
   Su forma inusual del hocico dificulta beberlo, por lo que a veces parte del líquido que beben se derrama en el suelo.
   Dejan huellas raciales únicas.
 
-  Reciben un [color=#1e90ff]15% menos de Damage[/color] fría pero un [color=#ffa500]15% más de calor Damage.[/color]
+  Reciben [color=#1e90ff]15 % menos de daño por frío[/color], pero [color=#ffa500]15 % más de daño por calor[/color].
 </Document>

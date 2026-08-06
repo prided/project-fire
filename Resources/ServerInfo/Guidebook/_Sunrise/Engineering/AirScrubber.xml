@@ -5,16 +5,16 @@
   <Box>
     <GuideEntityEmbed Entity="GasVentScrubber"/>
   </Box>
-  El depurador de aire requiere [textlink="food" link="Power"] a través del [textlink="LV-cable" link="VoltageNetworks"] más cercano para funcionar.
+  El depurador de aire requiere [textlink="energía" link="Power"] mediante el [textlink="cable de baja tensión" link="VoltageNetworks"] más cercano para funcionar.
 
-  Por defecto, el depurador de aire elimina todos los gases de la atmósfera circundante excepto el nitrógeno y el oxígeno. Seguirá funcionando así hasta que [textlink="tied" link="Networking"] [textlink="air alarm" link="AirAlarms"] lo ajuste a un modo diferente.
+  De forma predeterminada, el depurador elimina todos los gases de la atmósfera circundante salvo nitrógeno y oxígeno. Mantendrá este funcionamiento hasta quedar [textlink="vinculado" link="Networking"] a una [textlink="alarma atmosférica" link="AirAlarms"] que establezca otro modo.
 
   El depurador puede soldarse con cualquier herramienta de soldadura para evitar que funcione.
 
   ## Escenarios
-  Con [textlink="binding" link="Networking"] a [textlink="air alarm" link="AirAlarms"], los depuradores de aire tienen más opciones.
+  Al [textlink="vincularse" link="Networking"] con una [textlink="alarma de aire" link="AirAlarms"], los depuradores disponen de opciones adicionales.
 
-  Los gases objetivo para purificar se especifican en la lista desplegable "Filtros de gas". Recuerda que la selección se reinicia cuando cambias el modo [textlink="air alarm" link="AirAlarms"].
+  Los gases que deben depurarse se especifican en la lista «Filtros de gas». La selección se restablece cuando cambia el modo de la [textlink="alarma de aire" link="AirAlarms"].
 
   Los depuradores de aire tienen dos opciones: fregado y sifonado.
   - El fregado elimina gases según los filtros seleccionados.
@@ -39,7 +39,7 @@
 
   Esto en realidad multiplica la velocidad total, porque el depurador empieza a trabajar en 5 celdas a la vez.
 
-  Los depuradores [textlink="tied" link="Networking"] a [textlink="air alarm" link="AirAlarms"] en modo automático activarán automáticamente WideNet mediante el modo "Filtrado (Ancho)" [textlink="air alarm" link="AirAlarms"] cuando se detecta una alta concentración de gases no deseados en la atmósfera.
+  Los depuradores [textlink="vinculados" link="Networking"] a una [textlink="alarma atmosférica" link="AirAlarms"] en modo automático activarán WideNet mediante el modo «Filtrado (amplio)» de la [textlink="alarma atmosférica" link="AirAlarms"] cuando se detecte una concentración elevada de gases no deseados.
 
   WideNet es extremadamente útil para eliminar rápidamente grandes volúmenes de tritio de las cámaras de combustión de plasma.
 

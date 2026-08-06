@@ -1,29 +1,29 @@
-﻿<Document>
-  # Air Scrubber
-  The air scrubber is essential in maintaining an atmosphere free of waste gasses emitted by breathing creatures and atmospheric upsets.
-  Its primary job is to scrub unwanted gasses from the atmosphere it's exposed to.
+<Document>
+  # Depurador de aire
+  El depurador de aire es esencial para mantener la atmósfera libre de gases residuales producidos por seres vivos y alteraciones atmosféricas.
+  Su función principal consiste en retirar sustancias no deseadas de la atmósfera expuesta.
   <Box>
     <GuideEntityEmbed Entity="GasVentScrubber"/>
   </Box>
-  The air scrubber requires [textlink="power" link="Power"] through a nearby [textlink="LV cable" link="VoltageNetworks"] to function.
+  Para funcionar, requiere [textlink="energía" link="Power"] mediante un [textlink="cable de baja tensión" link="VoltageNetworks"] cercano.
 
-  The default behavior of an air scrubber is to scrub all gasses except Nitrogen and Oxygen from the atmosphere it's exposed to. It will continue this behavior unless directed by a [textlink="linked" link="Networking"] [textlink="air alarm" link="AirAlarms"].
+  De manera predeterminada, elimina todos los gases excepto nitrógeno y oxígeno. Continuará así salvo que una alarma atmosférica [textlink="vinculada" link="Networking"] mediante el sistema de [textlink="alarmas atmosféricas" link="AirAlarms"] establezca otra configuración.
 
-  The scrubber can be welded with any welding tool to stop it from functioning.
+  Puede soldarse con cualquier herramienta de soldadura para detener su funcionamiento.
 
-  ## Configuration Options
-  When [textlink="linked" link="Networking"] to an [textlink="air alarm" link="AirAlarms"], air scrubbers gain more functionality.
+  ## Opciones de configuración
+  Cuando está [textlink="vinculado" link="Networking"] a una [textlink="alarma atmosférica" link="AirAlarms"], el depurador dispone de más funciones.
 
-  The target gasses for scrubbing can be defined in the "Gas filters" dropdown. Keep in mind this resets if you change [textlink="air alarm" link="AirAlarms"] modes.
+  Los gases objetivo se seleccionan en el menú desplegable «Filtros de gas». Esta selección se restablece al cambiar el modo de la [textlink="alarma atmosférica" link="AirAlarms"].
 
-  Air scrubbers have two "direction" options: Scrubbing and Siphoning.
-  - Scrubbing scrubs gasses as defined in the gas filters.
-  - Siphoning ignores all gas filters, and sucks all gasses out of the atmosphere.
+  Existen dos opciones de dirección: Depuración y Sifonado.
+  - Depuración retira los gases definidos en los filtros.
+  - Sifonado ignora los filtros y extrae todos los gases de la atmósfera.
 
-  Both of these modes are limited by the Rate setting, which defines the rate (in litres) at which the scrubber sucks gasses from its exposed atmosphere.
+  Ambos modos están limitados por el valor de caudal, que determina en litros la velocidad con la que se extraen gases.
 
-  Air scrubbers also have a "WideNet" setting, which expands the radius of the scrubber's operating range. Normally, the scrubber scrubs the atmosphere on the single tile it's exposed to.
-  In WideNet mode, the scrubber scrubs gas from the 4 tiles surrounding the scrubber, as shown:
+  La opción «WideNet» amplía el radio de operación. Normalmente, el depurador solo actúa sobre la casilla expuesta.
+  En modo WideNet, también depura las 4 casillas circundantes, como se muestra:
 
   <Box>
     <GuideEntityEmbed Entity="FloorTileItemSteel" Caption=""/>
@@ -37,10 +37,10 @@
     <GuideEntityEmbed Entity="FloorTileItemSteel" Caption=""/>
   </Box>
 
-  This effectively multiplies its total speed, as air scrubbers will now preform their scrubbing work on 5 tiles at once.
+  Esto multiplica la velocidad total porque el dispositivo procesa 5 casillas al mismo tiempo.
 
-  Scrubbers [textlink="linked" link="Networking"] to an [textlink="air alarm" link="AirAlarms"] in auto mode will automatically enable WideNet mode under the [textlink="air alarm's" link="AirAlarms"] "Filtering (Wide)" mode when a high concentration of unwanted gasses is detected in the atmosphere.
+  Los depuradores [textlink="vinculados" link="Networking"] a una [textlink="alarma atmosférica" link="AirAlarms"] en modo automático activarán WideNet mediante el modo «Filtrado (amplio)» de la [textlink="alarma" link="AirAlarms"] cuando detecten una concentración elevada de gases no deseados.
 
-  WideNet is extremely useful in quickly scrubbing large amounts of tritium from plasma burn chambers.
+  WideNet resulta especialmente útil para retirar grandes cantidades de tritio de las cámaras de combustión de plasma.
 
 </Document>

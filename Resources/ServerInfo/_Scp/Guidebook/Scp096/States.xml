@@ -1,68 +1,68 @@
 <Document>
   # Estados
 
-  El Modest tiene varios estados únicos que determinan sus capacidades y mecánicas.
+  El Hombre Tímido posee varios estados únicos que determinan sus capacidades y mecánicas.
 
-  Siendo modesto, puedes determinar tu estado representando tu rostro en el panel de efectos de estado a la derecha. Al pasar el ratón sobre él, puedes ver una descripción más detallada y comentarios de tu "voz" interior respecto a toda la situación.
+  Como SCP-096, puedes consultar tu estado mediante el icono de tu rostro en el panel de efectos de estado. Al colocar el cursor encima verás una descripción detallada y comentarios de tu "voz" interior.
 
-  El personal del complejo puede determinar el estado por el sonido que hace la persona modesta. Algunos estados tienen acciones o apariencia distintivas y únicas.
+  El personal puede reconocer el estado del Hombre Tímido por los sonidos que emite, sus acciones y su apariencia.
 
-  [textlink="General información sobre el modesto man" link="Scp096About"]
+  [textlink="Información general sobre el Hombre Tímido" link="Scp096About"]
 
-  ## Común
+  ## Normal
 
-  En este estado, el Tímido es lento y no puede atacar. Este es el estado predeterminado en el que se encuentra el objeto tras aparecer en una ronda.
+  En este estado, el Hombre Tímido es lento y no puede atacar. Es el estado predeterminado al aparecer en la ronda.
 
-  Para cambiar el estado, necesita [bold]peel la piel de su face[/bold] o esperar a que [bold]someone vea su face[/bold] en directo o en una foto.
+  Para cambiar de estado debe [bold]arrancarse la piel de la cara[/bold] o esperar a que [bold]alguien vea su rostro[/bold], directamente o en una fotografía.
 
-  Esta condición puede identificarse por el sonido de un llanto o movimientos lentos.
+  Este estado se reconoce por el llanto y los movimientos lentos.
 
-  ## Pre-Furious
+  ## Preira
 
-  En este estado, una persona modesta no puede moverse, tiembla y hace un ruido fuerte.
-  El estado dura 40 segundos, tras lo cual el Tímido entra automáticamente en el estado de Ira.
+  En este estado, el Hombre Tímido no puede moverse, tiembla y emite un ruido intenso.
+  Dura 40 segundos, tras los cuales entra automáticamente en "Ira".
 
-  [bold]A persona modesta se pone nerviosa después de que alguien haya visto su cara. Esto se puede hacer: [/bold]
-  - Vive, cuando tú y un hombre modesto os miráis a la cara.
-  - En la foto. Basta con examinarlo
+  [bold]El Hombre Tímido entra en Preira cuando alguien ve su rostro:[/bold]
+  - Directamente, al establecer contacto visual.
+  - En una fotografía, al examinarla.
 
-  Puedes determinar la condición por un sonido fuerte y el temblor del objeto.
+  El estado se reconoce por el ruido intenso y los temblores del objeto.
 
-  ## Rabia
+  ## Ira
 
-  Una vez en este estado, el sujeto buscará a quienes miren su rostro para matar brutalmente a su objetivo.
+  En este estado, el sujeto persigue y mata a quienes hayan visto su rostro.
 
-  [bold]A persona modesta se mudará al siguiente estado cuando [/bold]
-  - Matar a todos sus objetivos o dejarán de existir
-  - Unos 4 minutos después del inicio de esta condición
+  [bold]El Hombre Tímido abandona este estado cuando:[/bold]
+  - Mata a todos sus objetivos o estos dejan de existir.
+  - Transcurren aproximadamente 4 minutos desde el inicio del estado.
 
-  Puedes determinar el estado por un fuerte rugido de una persona modesta, alta velocidad y movimientos intencionados por el complejo
+  Se reconoce por sus fuertes rugidos, su gran velocidad y sus movimientos directos por el complejo.
 
-  ## Duerme/Sentado
+  ## Dormido/Sentado
 
-  En este estado, una persona modesta no puede moverse y se encuentra en una posición vulnerable.
-  Puede entrar en ello de las siguientes maneras
-  - Salir de la rabia. Con el tiempo, podrá despertarse
-  - Usando la habilidad "Agacharse". Puede levantarse rápidamente
-  - Habiendo gastado toda la resistencia (stan). Con el tiempo, se levanta de nuevo.
+  En este estado, el Hombre Tímido no puede moverse y queda vulnerable.
+  Puede entrar en él de las siguientes maneras:
+  - Al salir de "Ira"; despertará después de un tiempo.
+  - Al usar la habilidad "Sentarte"; puede levantarse rápidamente.
+  - Al agotar toda su resistencia; volverá a levantarse después de un tiempo.
 
-  En este estado, una persona modesta llora más rápido, secretando más líquido lacrimal. También puede ser transportado.
+  En este estado produce líquido lacrimal con mayor rapidez y puede ser transportado.
 
-  Puedes determinar el estado por su apariencia única, cuando el objeto "se sienta" y emite un sonido de llanto.
+  Se reconoce por su postura sentada y el sonido de su llanto.
 
-  ## Estado de la cara desollada
+  ## Rostro desollado
 
-  Un estado único que ocurre cuando el sujeto se arranca toda la piel de la cara, perdiendo toda forma.
+  Este estado se produce cuando el sujeto se arranca toda la piel del rostro y lo deja completamente desfigurado.
 
-  [textlink="More sobre abilities" link="Scp096Abilities"]
+  [textlink="Más información sobre las habilidades" link="Scp096Abilities"]
 
-  En este estado, puede atacar libremente al personal del complejo, abrir esclusas de aire cerradas y puertas herméticas, y moverse un poco más rápido.
+  En este estado puede atacar libremente al personal, abrir esclusas y compuertas cerradas, y moverse con mayor rapidez.
 
-  Hasta que el rostro sea restaurado, el contacto visual con su rostro no provocará un estado de ira. Incluso al mirar una foto.
+  Hasta que el rostro se restaure, verlo directamente o en una fotografía no provocará el estado "Ira".
 
-  Para salir de este estado, necesitas restaurar tu cara. Esto ocurrirá automáticamente 15 minutos después de entrar en el estado. Este proceso puede acelerarse curando manualmente la cara con parches.
+  Para abandonar este estado debes restaurar tu rostro. Se recuperará automáticamente 15 minutos después de entrar en el estado, aunque el proceso puede acelerarse con parches médicos.
 
-  [textlink="More sobre la restauración de la contención conditions" link="Scp096Containment"]
+  [textlink="Más información sobre el restablecimiento de la contención" link="Scp096Containment"]
 
-  Puedes determinar el estado por el sonido "ruidoso" único que proviene del objeto y el libre movimiento dentro del complejo.
+  Se reconoce por el sonido característico del objeto y su capacidad para desplazarse libremente por el complejo.
 </Document>

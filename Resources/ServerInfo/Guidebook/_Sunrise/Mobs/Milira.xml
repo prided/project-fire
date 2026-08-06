@@ -8,9 +8,9 @@
   Las milira tienen alas (se pueden abrir y plegar).
   Son sensibles a las altas temperaturas.
 
-  Reciben [color=#ffa500]15% más de Contundente y Calor Damage[/color]
-  [color=#ffa500]10% más de Cutting and Piercing Damage[/color]
-  pero [color=#1e90ff]30% menos de Damage[/color] en frío.
+  Reciben [color=#ffa500]15 % más de daño contundente y por calor[/color],
+  [color=#ffa500]10 % más de daño cortante y perforante[/color],
+  pero [color=#1e90ff]30 % menos de daño por frío[/color].
 
   <Box>
     <GuideEntityEmbed Entity="ClothingOuterArmorMiliraLight" Caption=""/>

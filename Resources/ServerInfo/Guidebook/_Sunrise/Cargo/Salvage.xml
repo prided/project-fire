@@ -1,11 +1,11 @@
 <Document>
-  # Salvage
+  # Salvamento
 
-  [color=cyan]Salvage[/color] es una de las fuentes clave pero también más peligrosas de ingresos de Cargo. Salvazh extrae dinero de [color=cyan]Space Debris[/color] y misteriosas [color=cyan]Mining Asteroid[/color].
+  [color=cyan]Salvamento[/color] es una de las principales fuentes de ingresos de Carga, pero también una de las más peligrosas. Su personal recupera materiales de [color=cyan]Space Debris[/color] y de los misteriosos [color=cyan]Mining Asteroids[/color].
 
   Aunque el vacío está lleno de horrores, con buena preparación y coordinación, cualquier equipo de eliminación puede hacer que Carga gane mucho dinero.
 
-  ## Preparations
+  ## Preparación
 
   Antes de salir de la estación, asegúrate de tener todo lo que necesitas. Si no, lo más probable es que mueras antes de poder ganar dinero.
 
@@ -56,10 +56,10 @@
 
   Aunque puedes conseguir formas más avanzadas de mudarte más adelante, al principio usas métodos modestos.
 
-  - [color=cyan]Fire Extinguisher[/color]: Pobre jetpack. En el espacio, puedes usar el retroceso para impulsarte en dirección contraria. Se recarga con cualquier líquido.
-  - [color=cyan]Grappling Gun[/color]: Una herramienta con posibilidades infinitas. Dispara como un arma normal, puede retraerse recargando. Una vez enganchada, pulsa [color=yellow][bold][keybind="UseSecondary"][/bold][/color] para subir.
-  - [color=cyan]Salvage PDA[/color]: El GPS AstroNav ya está instalado en la PDA, así que puede usarse como navegador. ¡Asegúrate de recordar las coordenadas de la estación antes de la salida!
-  - [color=cyan]Mass Scanner Computer[/color]: Una consola cenital que muestra la estación y los objetos en el espacio. Úsala para comprobar la posición de escombros o asteroides antes de salir.
+  - [color=cyan]Fire Extinguisher[/color]: funciona como una mochila propulsora improvisada. En el espacio, su retroceso impulsa al usuario en dirección contraria. Puede recargarse con cualquier líquido.
+  - [color=cyan]Grappling Gun[/color]: herramienta de desplazamiento y recuperación. Dispara como un arma normal y puede retraerse al recargar. Una vez enganchada, presione [color=yellow][bold][keybind="UseSecondary"][/bold][/color] para ascender.
+  - [color=cyan]Salvage PDA[/color]: incluye AstroNav GPS y puede utilizarse para la navegación. Registre las coordenadas de la estación antes de partir.
+  - [color=cyan]Mass Scanner Computer[/color]: consola que muestra la estación y los objetos presentes en el espacio. Utilícela para comprobar la ubicación de restos o asteroides antes de salir.
 
   <Box>
     <GuideEntityEmbed Entity="RadioHandheld"/>
@@ -69,11 +69,11 @@
 
   Por último, los recicladores tienen herramientas adicionales pero opcionales.
 
-  - [color=cyan]Handheld Radio[/color]: Permite comunicarse con otros técnicos de eliminación, incluso si no hay comunicación por radio regular.
-  - [color=cyan]Global Positioning System[/color]: Un sistema GPS de respaldo idéntico al integrado en la PDA. Útil como reserva o para reclutas.
+  - [color=cyan]Handheld Radio[/color]: permite comunicarse con otros técnicos de salvamento incluso cuando la red de radio normal no está disponible.
+  - [color=cyan]Global Positioning System[/color]: sistema GPS de respaldo idéntico al integrado en la PDA. Resulta útil como reserva o para personal en capacitación.
   - [color=cyan]Utility Belt[/color]: Guarda todo lo necesario para saquear vehículos y equipo en los restos. Póñelo cuando planees minar.
 
-  ## Salvage Magnet Pulls
+  ## Extracciones con Salvage Magnet
 
   Cuando estés listo, sal a explorar las estrellas.
 
@@ -83,7 +83,7 @@
 
   [color=cyan]Salvage Magnet[/color] es una máquina que atrae escombros cercanos.
 
-  El imán ofrece cinco opciones: una mezcla aleatoria de [color=cyan]Asteroids[/color], [color=cyan]Salvage Wrecks[/color] y [color=cyan]Space Debris[/color]. Una vez seleccionada, la sección seleccionada se extiende durante la siguiente [bold]6 minutes[/bold]. Cuando se acaba el tiempo, todo lo que queda en la cuadrícula desaparece. Si no te gusta ninguna de las sugerencias, se actualizan cada [bold]3 minutes[/bold] hasta que encuentres algo para ti.
+  El imán ofrece cinco opciones: una mezcla aleatoria de [color=cyan]Asteroids[/color], [color=cyan]Salvage Wrecks[/color] y [color=cyan]Space Debris[/color]. Una vez seleccionada, la sección permanece desplegada durante [bold]6 minutos[/bold]. Al agotarse el tiempo, todo lo que permanezca en la cuadrícula desaparecerá. Si ninguna opción resulta adecuada, la selección se actualiza cada [bold]3 minutos[/bold].
 
   Mientras pasan estos seis minutos, vuela hasta la zona alargada, recoge todo lo que puedas y regresa a la estación.
 
@@ -113,7 +113,7 @@
 
   Los restos están llenos de amenazas. Sanguinarios [color=red]Space Carp[/color] y [color=red]Sharkminnows[/color] se lanzan sobre los rescatadores, y a veces [color=red]Landmines[/color] permanecen a bordo y pueden inutilizar a un explorador desatento.
 
-  Cuando regreses, pon la chatarra que encuentres en la [color=cyan]Recycler[/color] para convertirla en materiales útiles y dásela a Carga para su distribución. Si encuentras objetos de valor como [color=yellow]Coins, Anillos y Watches[/color], dáselos a Carga para que los venda en la Station[color=cyan] [/color]Automated de Comercio.
+  Al regresar, introduzca la chatarra en el [color=cyan]Recycler[/color] para convertirla en materiales útiles y entréguelos a Carga para su distribución. Los objetos de valor, como [color=yellow]monedas, anillos y relojes[/color], deben entregarse a Carga para su venta en la [color=cyan]Trading Station[/color].
 
   ### Salvage Wrecks
 
@@ -123,21 +123,21 @@
     <GuideEntityEmbed Entity="WeaponProtoKineticAccelerator"/>
   </Box>
 
-  El imán muestra el tamaño de los escombros. [color=cyan]Salvage Wrecks[/color] varían mucho en amenazas y valor, y normalmente tienen más peligros que [color=cyan]Space Debris[/color]. Aléjate de los enemigos y dispara Accelerator[color=cyan] [/color]Proto-Cinético. Estate atento a botín útil y revísalo a través de [color=cyan]Appraisal Tool[/color].
+  El imán muestra el tamaño de los restos. Los [color=cyan]Salvage Wrecks[/color] varían considerablemente en peligros y valor, y suelen ser más hostiles que los [color=cyan]Space Debris[/color]. Mantenga la distancia de los enemigos y utilice el [color=cyan]Proto-Kinetic Accelerator[/color]. Recupere el botín útil y evalúelo con la [color=cyan]Appraisal Tool[/color].
 
-  ## Progression & Upgrades
+  ## Progresión y mejoras
 
-  Mientras el equipo inicial sea suficiente para hacer el trabajo básico, las cosas avanzadas lo facilitan y abren el acceso a la temida [color=red]Mining Asteroid[/color].
+  Aunque el equipo inicial es suficiente para las tareas básicas, el equipo avanzado facilita las operaciones y permite acceder al peligroso [color=red]Mining Asteroid[/color].
 
-  ### Salvage Job Board
+  ### Tablero de trabajos de Salvamento
 
   <Box>
     <GuideEntityEmbed Entity="ComputerSalvageJobBoard"/>
   </Box>
 
-  [color=cyan]Salvage Job Board[/color] es un ordenador en la Bahía de Salvamento. Esta es la versión de salvamento de [color=cyan]Cargo Bounty Computer[/color]: aceptas tareas relacionadas con el reciclaje de materiales para ganar desprecios y desbloquear el Gear[color=yellow] [/color]Advanced de Salvamento.
+  La [color=cyan]Salvage Job Board[/color] es una computadora ubicada en la bahía de Salvamento. Funciona como la versión de Salvamento de la [color=cyan]Cargo Bounty Computer[/color]: permite aceptar trabajos de recuperación de materiales para obtener créditos y desbloquear [color=yellow]equipo avanzado de Salvamento[/color].
 
-  Una vez que hayas recogido todo lo que necesitas, imprime el [color=cyan]Salvage Label[/color] de Envío de Trabajo y pégalo al cajón o taquilla con materiales de construcción. Puedes revisarlo todo a través del [color=cyan]Appraisal Tool[/color]. Lleva el trabajo terminado a la Station[color=cyan] [color=cyan]Automated de Comercio para conseguir lanzas y abrir nuevas cajas en la Computer[/color] [/color]Cargo de Solicitudes.
+  Cuando reúna todos los materiales, imprima la [color=cyan]Salvage Job Shipping Label[/color] y fíjela a la caja o al casillero que los contiene. Verifique el contenido mediante la [color=cyan]Appraisal Tool[/color]. Lleve el trabajo terminado a la [color=cyan][color=cyan]Trading Station[/color] y utilice la Cargo Request Computer[/color] para obtener créditos y desbloquear nuevos suministros.
 
   <Box>
     <GuideEntityEmbed Entity="Fulton1"/>
@@ -145,22 +145,22 @@
     <GuideEntityEmbed Entity="SeismicCharge"/>
   </Box>
 
-  Completar trabajos de Salvamento aumenta el rango y desbloquea nuevas compras en el Computer[color=cyan] de Solicitudes de [/color]Cargo, incluyendo:
+  Completar trabajos de Salvamento aumenta el rango y desbloquea nuevas compras en la [color=cyan]Cargo Request Computer[/color], entre ellas:
 
   - [color=cyan]Fultons[/color]: Una vez vinculados a la baliza Fulton, pueden acoplarse a objetos no asegurados como cajas o engranajes, y se teletransportan de vuelta a la baliza tras un par de segundos. Extremadamente útil para mover tanto objetos como personas.
   - [color=cyan]Crusher Weapons[/color]: una línea de armas cuerpo a cuerpo mejoradas. [color=red]Crusher Dagger[/color] es una mejora del Cuchillo de Supervivencia, golpea automáticamente y más rápido que un cuchillo normal. [color=red]Crusher[/color] y [color=red]Crusher Glaive[/color] mejoradas son alabardas gigantes que disparan proyectiles especiales. Casi no hacen daño por sí solas, pero si atacas rápidamente a un enemigo marcado, le quitas algo de salud. Todas las armas Crusher vienen con un foco integrado en el proyecto.
   - [color=cyan]Seismic Charges[/color]: Minas diseñadas para destruir asteroides o atravesar escombros peligrosos. Puedes atarlas a un detonador remoto o colocarlas en una pared para que detonen al cabo de un rato.
 
-  ### Working with Science
+  ### Cooperación con Ciencia
 
   <Box>
     <GuideEntityEmbed Entity="ToyFigurineScientist"/>
     <GuideEntityEmbed Entity="ResearchDisk"/>
   </Box>
 
-  [color=purple]Science Department[/color] es un socio importante para Salvage. La ciencia depende del reciclaje tanto en recursos básicos (acero, plástico, vidrio) como en recursos avanzados (plata, oro, plasma, uranio), y el reciclaje recurre a la ciencia para obtener mejores herramientas.
+  El [color=purple]departamento de Ciencia[/color] es un socio importante para Salvamento. Ciencia depende de los materiales recuperados, tanto básicos —acero, plástico y vidrio— como avanzados —plata, oro, plasma y uranio—, mientras que Salvamento depende de Ciencia para obtener mejores herramientas.
 
-  Intenta hablar con los científicos y cumple con sus peticiones. Necesitan grandes cantidades de materiales básicos, pero también tienen que depender de ti para suministros de [color=yellow]Gold, plata y Uranium[/color] necesarios para equipos avanzados. Si quieres que te ayuden, ayúdales primero.
+  Mantenga comunicación con el personal científico y atienda sus solicitudes. Necesitan grandes cantidades de materiales básicos y dependen de Salvamento para recibir [color=yellow]oro, plata y uranio[/color] destinados a equipamiento avanzado. La colaboración debe ser recíproca.
 
   <Box>
     <GuideEntityEmbed Entity="MiningDrill"/>
@@ -170,13 +170,13 @@
 
   La ciencia es la única fuente de varios equipos extremadamente útiles:
 
-  - [color=cyan]Mining Gear[/color]: Los científicos pueden entregar [color=yellow]Mining taladros y Scanners[/color] minerales que aceleran la minería. También pueden recolectar [color=yellow]Industrial Processor[/color] de mineral, que convierte el mineral en materiales terminados de forma mucho más eficiente.
-  - [color=cyan]Handheld Mass Scanner[/color]: Una versión portátil de Mass Scanner Computer. Necesitas una batería para funcionar, pero puedes ver tu posición justo en la mano.
-  - [color=cyan]PKA Upgrades[/color]: Puedes mejorar tu PKA eligiendo hasta dos de tres mods únicos: [color=red]Damage[/color], [color=yellow]Fire Rate[/color] y [color=green]Range[/color].
+  - [color=cyan]Mining Gear[/color]: los científicos pueden proporcionar [color=yellow]Mining Drills y Ore Scanners[/color] para acelerar la minería. También pueden fabricar un [color=yellow]Ore Processor[/color], que convierte el mineral en materiales terminados con mayor eficiencia.
+  - [color=cyan]Handheld Mass Scanner[/color]: versión portátil de la Mass Scanner Computer. Requiere una batería y permite consultar la posición desde la mano.
+  - [color=cyan]Mejoras del PKA[/color]: puede instalar hasta dos de tres modificaciones: [color=red]daño[/color], [color=yellow]cadencia de tiro[/color] y [color=green]alcance[/color].
 
-  ## The Mining Asteroid
+  ## El Mining Asteroid
 
-  Una vez que te sientas un maestro de Imán de Salvamento, el siguiente paso es un [color=red]Mining Asteroid[/color] largo. Normalmente puedes llegar en lanzadera o mochila propulsora, y es mejor no ir solo por los peligros aterradores.
+  Cuando domine el imán de Salvamento, el siguiente paso es una expedición prolongada al [color=red]Mining Asteroid[/color]. Normalmente puede llegar en transbordador o mochila propulsora; debido a los peligros, no se recomienda viajar solo.
 
   <Box>
     <GuideEntityEmbed Entity="MobGoliath"/>
@@ -184,7 +184,7 @@
     <GuideEntityEmbed Entity="MobBasilisk"/>
   </Box>
 
-  Mining Asteroid consta de dos zonas: [color=cyan]Dungeon[/color], una estructura aleatoria con enemigos y minería, y [color=cyan]Asteroid[/color], donde yacen enormes depósitos de minerales, botín raro y monstruos.
+  El Mining Asteroid consta de dos zonas: el [color=cyan]Dungeon[/color], una estructura aleatoria con enemigos y recursos mineros, y el [color=cyan]Asteroid[/color], que contiene grandes depósitos minerales, botín poco común y criaturas hostiles.
 
   Cuidado con los monstruos: son mucho más peligrosos que los que se encuentran en escombros y meteoritos.
 

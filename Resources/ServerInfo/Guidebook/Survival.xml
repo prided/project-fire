@@ -1,39 +1,38 @@
 <Document>
 # Supervivencia
-Por lo general, es prudente evitar situaciones que puedan hacerte daño. El departamento Médico solo puede curarte hasta cierto punto con sus cantidades limitadas de sustancias químicas y suministros médicos, especialmente cuando hay Operativos Nucleares a las puertas.
+En general, conviene evitar situaciones que puedan causarle daño. El departamento médico cuenta con cantidades limitadas de sustancias y suministros, especialmente cuando hay Operativos Nucleares a las puertas de la estación.
 
-## Identificar tu situación
-Tu PDA muestra el nombre de tu nave, la lista de tripulantes activos en ella, tu propio nombre por si necesitas recordarlo y el puesto que tienes asignado durante el turno. Esto te permite evaluar rápidamente la situación.
+## Evaluación de la situación
+Su PDA contiene el nombre de la instalación, una lista del personal activo, su propio nombre y el puesto asignado durante el turno. Esta información permite evaluar la situación con rapidez.
 
 ## Tratamiento de emergencia
-En una emergencia grave, puedes tomar varias medidas para mejorar tus posibilidades de supervivencia a largo plazo:
-
-- Si entras en estado crítico, usa el Medipen de emergencia de tu caja de emergencia. Evitará que quedes completamente incapacitado. Los Medipen de emergencia también pueden reanimar a personas que estén en estado crítico en el suelo y darte más tiempo para tratar venenos u otros problemas.
+Ante una emergencia grave, puede adoptar varias medidas para aumentar sus probabilidades de supervivencia:
+- Si entra en estado crítico, utilice el autoinyector de emergencia de su caja de supervivencia. Este puede impedir que quede completamente incapacitado. También puede utilizarse para reanimar a una persona en estado crítico y prolongar el tiempo disponible para tratar venenos u otras afecciones.
 
 <Box>
   <GuideEntityEmbed Entity="EmergencyMedipen"/>
 </Box>
 
-- Tu caja de emergencia contiene una máscara respiratoria y un tanque de oxígeno que pueden ayudarte a sobrevivir durante más tiempo en una despresurización. Si eres una persona slime, ten en cuenta que necesitas nitrógeno en lugar de oxígeno y que tu caja de emergencia incluirá un tanque rojo de nitrógeno en vez del tanque azul y amarillo de oxígeno habitual.
+- Su caja de supervivencia contiene una máscara respiratoria y un tanque de oxígeno, que permiten resistir durante más tiempo en una zona despresurizada. Si pertenece a la especie slime, tenga en cuenta que necesita nitrógeno en lugar de oxígeno; su caja incluirá un tanque rojo de nitrógeno en sustitución del tanque estándar azul y amarillo de oxígeno.
 
 <Box>
   <GuideEntityEmbed Entity="ClothingMaskBreath"/>
   <GuideEntityEmbed Entity="EmergencyOxygenTankFilled"/>
 </Box>
 
-- Si estás perdiendo sangre activamente o solo deseas prepararte, puedes cortar prendas de tela con un cuchillo u otro objeto afilado y usar la tela resultante para fabricar gasa desde el menú de fabricación. La gasa ayuda a detener el sangrado, aunque en una emergencia también puedes usar tela sin procesar, con menor eficacia.
+- Si presenta una hemorragia activa, o desea prepararse para una emergencia, puede cortar prendas de tela con un cuchillo u otro objeto afilado y utilizar el material obtenido para fabricar gasas desde el menú de fabricación. La tela por sí sola también puede contener una hemorragia, aunque con menor eficacia.
 
 <Box>
   <GuideEntityEmbed Entity="Gauze"/>
   <GuideEntityEmbed Entity="MaterialCloth"/>
 </Box>
 
-## Otros consejos
-- Si no tienes un analizador de salud, examinarte y usar el examen detallado es una buena forma de identificar tus heridas.
-- Si estás perdiendo la vista, las zanahorias pueden tratar el problema porque contienen Oculine, la sustancia de Química usada contra la ceguera, siempre que tengas alguna disponible.
-- Las comidas bien preparadas —alimentos cocinados que no provienen de una máquina expendedora— suelen ser mucho mejores para tu salud general y pueden ayudar a curar heridas leves con mayor rapidez.
-- El simple reposo en cama puede permitir que algunas heridas se cierren por sí solas. Las camas médicas son las mejores porque ofrecen una superficie estéril y soporte para todas las partes del cuerpo lesionadas, aunque cualquier cama puede servir.
-- Dormir de verdad en una cama aumenta todavía más la velocidad de curación.
-- Las comidas con proteínas, como la carne, ayudan enormemente a recuperar el cuerpo después de una pérdida grave de sangre. Aun así, es recomendable visitar a un médico y recibir tratamiento.
+## Recomendaciones adicionales
+- Si no dispone de un analizador de salud, examínese y utilice la opción de examen detallado para identificar sus heridas.
+- Si está perdiendo la visión, las zanahorias pueden tratar el problema, ya que contienen Oculine, el medicamento químico utilizado contra la ceguera.
+- Las comidas bien preparadas, es decir, alimentos cocinados que no proceden de una máquina expendedora, suelen beneficiar considerablemente la salud general y ayudan a curar con mayor rapidez las heridas menores.
+- El reposo en cama puede permitir que algunas heridas se cierren por sí solas. Las camas médicas son la mejor opción porque proporcionan una superficie estéril y sostienen todas las partes lesionadas, aunque cualquier cama puede servir.
+- Dormir realmente en una cama aumenta todavía más la velocidad de recuperación.
+- Las comidas con proteínas, como la carne, ayudan de manera considerable a recuperar el organismo después de una pérdida grave de sangre. Aun así, se recomienda acudir al personal médico para recibir tratamiento.
 
 </Document>

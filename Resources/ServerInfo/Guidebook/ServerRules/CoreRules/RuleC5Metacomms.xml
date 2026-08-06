@@ -1,18 +1,18 @@
 ﻿<Document>
-  # Core Rule 5 - Do not use out of game methods to communicate with other players
-  This is a zero tolerance rule.
+  # Regla básica 5: No utilice medios externos al juego para comunicarse con otros jugadores
+  Esta regla es de tolerancia cero.
 
-  Do not utilize any external means of communication to talk to other players who are connected to the same server, or who were connected to the same server during the current round. This is referred to as "metacomming" and includes any means of communication including text, voice, images, and video. This includes applications such as Discord, Steam, and other platforms, along with in-person communication.
+  No utilice ningún medio de comunicación externo para hablar con otros jugadores que estén conectados al mismo servidor o que lo hayan estado durante la ronda actual. Esta práctica se denomina «metacomunicación» e incluye cualquier medio de comunicación, como texto, voz, imágenes y video. Esto comprende aplicaciones como Discord, Steam y otras plataformas, además de la comunicación presencial.
 
-  Even if information is not being shared or abused, it may still be considered a violation of this rule. Due to the difficulty of determining if information is being shared, it will almost always be presumed that people who message another player they are in a round with, or who are in a voice call with another player during a round are sharing round information. Due to the difficulty of determining if users are abusing information that they are sharing, it will almost always be presumed that the information is being abused.
+  Aunque no se comparta información ni se haga un uso indebido de ella, la conducta podrá considerarse una infracción de esta regla. Debido a la dificultad de determinar si se comparte información, casi siempre se presumirá que quienes envíen mensajes a otro jugador de la misma ronda o permanezcan en una llamada de voz con él durante la ronda están compartiendo información de esta. Debido a la dificultad de determinar si los usuarios hacen un uso indebido de la información compartida, casi siempre se presumirá que existe dicho uso indebido.
 
-  The only exemption to this rule is when [color=#a4885c]all[/color] players are in the server lobby.
+  La única excepción a esta regla se aplica cuando [color=#a4885c]todos[/color] los jugadores están en la sala de espera del servidor.
 
-  ## Teaching new players
-  Teaching players is not exempt from this rule. If you want to teach a new player, it is recommended to either watch a stream of them playing the game while not playing yourself, or communicate with them using only in-game methods of communication.
+  ## Enseñanza a jugadores nuevos
+  Enseñar a otros jugadores no queda exento de esta regla. Si desea enseñar a un jugador nuevo, se recomienda observar una transmisión de su partida sin participar usted mismo o comunicarse con él únicamente mediante los medios disponibles dentro del juego.
 
-  ## Streaming
-  Public livestreams are not exempt from this rule, but have different liability. Using information from a public live stream of the game (stream sniping) is a violation of this rule. Watching a public live stream of the game while connected to the same server is a violation of this rule. Allowing people watching a public live stream to share information about the current round, for example through the stream's chat, is a violation of this rule. Using that information is also a violation of this rule. Sharing information about the current round with a streamer is a violation of this rule if that information was obtained from any source but the stream. The stream's moderators are expected to enforce this on the streaming platform in addition to any in-game enforcement done by game admins.
+  ## Transmisiones en vivo
+  Las transmisiones públicas en vivo no están exentas de esta regla, aunque conllevan responsabilidades distintas. Utilizar información procedente de una transmisión pública en vivo de la partida (stream sniping) constituye una infracción. Ver una transmisión pública en vivo mientras se está conectado al mismo servidor también constituye una infracción. Permitir que los espectadores compartan información sobre la ronda actual, por ejemplo, mediante el chat de la transmisión, infringe esta regla. Utilizar dicha información también está prohibido. Compartir con quien transmite información sobre la ronda actual constituye una infracción si esa información se obtuvo de una fuente distinta de la propia transmisión. Se espera que los moderadores de la transmisión hagan cumplir esta regla en la plataforma correspondiente, además de las medidas que adopten los administradores dentro del juego.
 
-  Public livestreaming by itself is not a violation of the rule as long as the stream is sufficiently moderated. Streamers are encouraged, but not required, to use a stream delay.
+  Realizar una transmisión pública en vivo no constituye por sí mismo una infracción, siempre que esté suficientemente moderada. Se recomienda, aunque no es obligatorio, utilizar un retraso en la transmisión.
 </Document>

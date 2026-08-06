@@ -1,21 +1,21 @@
 <Document>
 # A.P.E.
 
-The Anomalous Particle Emitter is a machine used to interface with anomalies. It is the primary way of manipulating the stats of an anomaly.
+El Anomalous Particle Emitter es una máquina diseñada para interactuar con anomalías. Constituye el principal medio para modificar sus parámetros.
 
 <Box>
 <GuideEntityEmbed Entity="MachineAPE"/>
 </Box>
 
-The A.P.E. can shoot four different kinds of anomalous particles: Delta, Epsilon, Sigma and Zeta. Each particle type has certain effects:
+El A.P.E. puede emitir cuatro tipos de partículas anómalas: Delta, Epsilon, Sigma y Zeta. Cada tipo produce un efecto determinado:
 
-- [color=crimson]Danger:[/color] Increases the severity of an anomaly.
-- [color=plum]Unstable:[/color] Increases the instability of an anomaly.
-- [color=goldenrod]Containment:[/color] Increases anomaly stability at the cost of its health - if an anomaly is struck by too many containment particles, it will collapse, leaving behind an anomaly core.
-- [color=#6b75fa]Transformation:[/color] Increases anomaly severity with a chance of changing its behavior.
+- [color=crimson]Peligro:[/color] aumenta la gravedad de una anomalía.
+- [color=plum]Inestabilidad:[/color] aumenta la inestabilidad de una anomalía.
+- [color=goldenrod]Contención:[/color] aumenta la estabilidad de una anomalía a costa de su integridad. Si recibe demasiadas partículas de contención, colapsará y dejará un núcleo de anomalía.
+- [color=#6b75fa]Transformación:[/color] aumenta la gravedad de la anomalía y puede modificar su comportamiento.
 
-Which particle type corresponds to each effect is unique and can be learned by scanning the anomaly.
+La correspondencia entre cada tipo de partícula y su efecto es única para cada anomalía y puede determinarse mediante un escaneo.
 
-The A.P.E. can also be locked by anyone with science access, which prevents it from being deconstructed, turned on or off, or having the particle type switched.
+Cualquier integrante del personal con acceso científico puede bloquear el A.P.E. Esto impide desmantelarlo, encenderlo o apagarlo, y cambiar el tipo de partícula.
 
 </Document>

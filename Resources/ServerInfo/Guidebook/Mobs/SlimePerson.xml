@@ -1,24 +1,24 @@
 <Document>
-  # Slime People
+  # Personas de slime
 
   <Box>
     <GuideEntityEmbed Entity="MobSlimePerson" Caption=""/>
   </Box>
 
-  They breathe nitrogen instead of oxygen, which is abundant in the station air, but harder to find compressed into gas tanks. They take significant damage if they are sprayed or splashed with water, but can
-  (and like other species, need to) drink it safely to stay hydrated.
-  They exhale nitrous oxide and are unaffected by it.
-  Their body can process 6 reagents at the same time instead of just 2.
+  Respiran nitrógeno en lugar de oxígeno. El nitrógeno abunda en la atmósfera de la estación, pero es más difícil encontrarlo comprimido en tanques de gas. El contacto externo con agua les causa daños considerables; sin embargo,
+  pueden beberla de forma segura y, al igual que otras especies, la necesitan para mantenerse hidratados.
+  Exhalan óxido nitroso y son inmunes a sus efectos.
+  Su organismo puede procesar 6 reactivos simultáneamente en lugar de solo 2.
 
-  Slimepeople have an [bold]internal 2x3 storage inventory[/bold] inside of their slime membrane. Anyone can see what's inside and take it out of you without asking,
-  so be careful.
+  Las personas de slime disponen de un [bold]inventario interno de 2 × 3 espacios[/bold] dentro de su membrana. Cualquier persona puede ver y retirar su contenido sin autorización,
+  por lo que deben actuar con precaución.
 
-  Slimepeople have roughly [color=#1e90ff]double[/color] regeneration compared to other humanoids and can regenerate from far greater wounds up to [color=#1e90ff]triple[/color] compared to others.
+  Su regeneración es aproximadamente [color=#1e90ff]dos veces[/color] superior a la de otros humanoides y pueden recuperarse de heridas hasta [color=#1e90ff]tres veces[/color] más graves.
 
-  Their slime "blood" can not be regenerated from Iron. Slime Blood is technically a source of
-  moderately filling food for other species, although drinking the blood of your coworkers is usually frowned upon.
-  They suffocate 80% slower, but take pressure damage 9% faster. This makes them by far the species most capable to survive in hard vacuum. For a while.
+  Su «sangre» de slime no puede regenerarse mediante hierro. Técnicamente, la sangre de slime constituye una fuente de
+  alimento moderadamente nutritiva para otras especies, aunque consumir la sangre de otros integrantes de la tripulación suele considerarse una conducta inapropiada.
+  Se asfixian un 80 % más lentamente, pero reciben daño por presión un 9 % más rápido. Esto los convierte en la especie con mayor capacidad para sobrevivir temporalmente en el vacío.
 
-  They take [color=#1e90ff]40% less Blunt damage[/color], but [color=#ffa500]50% more Cold damage, 20% more Slash damage and 20% more Piercing damage[/color].
+  Reciben [color=#1e90ff]un 40 % menos de daño contundente[/color], pero [color=#ffa500]un 50 % más de daño por frío, un 20 % más de daño cortante y un 20 % más de daño perforante[/color].
 
 </Document>

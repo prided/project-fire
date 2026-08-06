@@ -1,6 +1,6 @@
 <Document>
   # Válvulas
-  Las válvulas son una forma rápida de detener o permitir el paso de gas a través de [textlink="pipenet" link="PipeNetworks"].
+  Las válvulas permiten detener o habilitar rápidamente el paso de gas a través de una [textlink="red de tuberías" link="PipeNetworks"].
   <Box>
     <GuideEntityEmbed Entity="GasValve"/>
     <GuideEntityEmbed Entity="SignalControlledValve"/>
@@ -8,7 +8,7 @@
     <GuideEntityEmbed Entity="GasPassiveGate"/>
     <GuideEntityEmbed Entity="GasPressureRegulator"/>
   </Box>
-  Todas las válvulas funcionan sin [textlink="nutrition" link="Power"].
+  Todas las válvulas funcionan sin [textlink="energía" link="Power"].
 
   Las válvulas parecen sencillas, pero permiten construir una gran variedad de sistemas de tuberías complejos, incluyendo:
   - Válvulas de alarma que responden a las salidas de alarma o lógicas de aire

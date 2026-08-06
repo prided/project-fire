@@ -1,6 +1,6 @@
 <Document>
-  # Ordenador de Alarma Atmosférica
-  El ordenador de alarma atmosférica muestra información sobre todas las alarmas aéreas e incendios de la estación.
+  # Computadora de alertas atmosféricas
+  La computadora de alertas atmosféricas muestra información sobre todas las alarmas de aire e incendio de la estación.
 
   <Box>
     <GuideEntityEmbed Entity="ComputerAlert"/>
@@ -8,10 +8,10 @@
 
   Es una herramienta útil para encontrar rápidamente las áreas que necesitan atención.
 
-  A menudo se encuentra un ordenador de alarma atmosférica en la atmósfera y es utilizado por técnicos atmosféricos para monitorizar la atmósfera en toda la estación.
+  Normalmente se encuentra una computadora de alertas atmosféricas en Atmosféricos. Los técnicos la utilizan para supervisar la atmósfera de toda la estación.
   Sin embargo, para los ingenieros ordinarios, esto también es un buen indicador de daños en la estación.
 
-  El ordenador muestra listas de alarmas aéreas en los niveles [color=orange]Warning[/color] y [color=red]Danger[/color]. Además, muestra la ubicación de todas las alarmas aéreas con color según su estado actual.
+  La computadora muestra listas de alarmas de aire en los niveles [color=orange]Advertencia[/color] y [color=red]Peligro[/color]. También indica la ubicación de cada alarma mediante un color correspondiente a su estado actual.
 
   Las alarmas aéreas con el estado Normal están ocultas por defecto.
   La visibilidad de las alarmas normales puede ajustarse mediante filtros situados en la parte inferior de la interfaz.
@@ -23,7 +23,7 @@
 
   Al hacer clic en una alarma de aire en una lista o mapa, se mostrará información detallada sobre la atmósfera de esa zona, lo que ayuda a entender el tipo de accidente que está ocurriendo.
 
-  La lista de [textlink="fire alarms" link="FireAndGasControl"] activadas también se muestra en el ordenador de alarmas atmosféricas en una pestaña separada. Esto te permite localizar rápidamente las zonas donde puede haber un incendio.
+  La lista de [textlink="alarmas de incendio" link="FireAndGasControl"] activadas aparece en una pestaña independiente de la computadora. Esto permite localizar rápidamente posibles incendios.
 
   Las alarmas individuales, como las de cámaras de combustión y congeladores, pueden silenciarse haciendo clic en la alarma de la lista y pulsando el botón "Silencio de alertas".
   Esto ocultará la alarma de la lista, pero seguirá siendo visible en el mapa.

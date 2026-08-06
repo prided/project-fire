@@ -153,10 +153,10 @@
     </ColorBox>
     <ColorBox>
       <Box Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="2">
-      - [color=#9b0000]Armor-piercing[/color] (75 de perforación, 226 por estructura, 35% de penetración de blindaje)
+  - [color=#9b0000]Perforante de blindaje[/color] (75 de perforación, 226 contra estructuras, 35 % de penetración de blindaje)
       - [color=#7f009b]Antimatter[/color] (75 de empuje, 226 de estructura)
       - [color=#7ea53b]Fragmentation[/color] (explosión 25, racimo x10)
-      - [color=#8d6425]Explosive[/color] (Explosión 50)
+  - [color=#8d6425]Explosiva[/color] (50 de explosión)
       - [color=#005396]EMP[/color] (fichas EMP 3)
       </Box>
     </ColorBox>
@@ -177,16 +177,16 @@
       - Bala/Bala (40 perforantes, 15 por estructura, penetración de blindaje 5%)
       - [color=#149A1E]Traumatic[/color] (10 Contundente, 35 Resistencia)
       - [color=#FFFF0B]Flare[/color] (5 de calor, incendio provocado)
-      - [color=#FFFF0B]Incendiary[/color] (7 Piercing, 3 Heat, x6)
-      - [color=#0096FF]Piercing[/color] (5 perforaciones, 20 por estructura, x12)
+  - [color=#FFFF0B]Incendiaria[/color] (7 perforante, 3 térmico, x6)
+  - [color=#0096FF]Perforante[/color] (5 de perforación, 20 contra estructuras, x12)
       - [color=#5da0b5]Flechette[/color] (4 estocadas, 4 estructuras, 3 de resistencia, x8, 40% de penetración de blindaje)
       - [color=#dbdbdb]Training[/color] (1 contundente, x12)
       - [color=#49CECE]Tranquilizer[/color] (1 triturado, 9 unidades de cloral hidrato)
       - [color=#65fe08]Uranium[/color] (2 radiación, 3 perforaciones, x10)
       - [color=#555555]buckshot[/color] caseras (2 perforaciones, 2 de corte, x14)
-      - [color=#FFFF0B]Incendiary[/color] caseras (1,5 Piercing, 1,5 Cutting, 7 Heat, x6)
+  - [color=#FFFF0B]Incendiaria[/color] casera (1,5 perforante, 1,5 cortante, 7 térmico, x6)
       - [color=#65fe08]Uranium[/color] caseras (1,5 perforaciones, 1,5 cortes, 2,5 radiación, x10)
-      - Casera ([color=#caa44a]coin bullet[/color]) (14 perforaciones, x2)
+      - Casera ([color=#caa44a]proyectil de moneda[/color]) (14 de daño perforante, x2)
       - [color=#149A1E]Alcoholic[/color] (1 triturador, 35 unidades de reactivos)
       - [color=#e4e4e4]Saint[/color] (2 Divisores, 18 Santos)
       </Box>
@@ -201,7 +201,7 @@
   - Entrenamiento: daños mínimos; munición de entrenamiento.
   - Incendiario: Parte del daño por fuego puede incendiar el objetivo.
   - Uranio: Añade daño por radiación y mejor penetración/rebote.
-  - Bullet: Múltiples perdigones, mejor daño a quemarropa, pierde eficacia rápidamente a distancia.
+  - Perdigones: Múltiples proyectiles, mayor daño a quemarropa; pierden eficacia rápidamente con la distancia.
   - Bala: Un proyectil pesado, mejor alcance y penetración de blindaje, pero sin daño en área.
   - Traumático: Daño no letal y fatiga/aturdimiento severo.
   - Bengala: Luz/Ignición, bajo daño directo.

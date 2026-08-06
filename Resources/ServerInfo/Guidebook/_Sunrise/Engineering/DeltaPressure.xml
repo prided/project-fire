@@ -1,7 +1,7 @@
 <Document>
   # Caída de presión
   La caída de presión, o ΔP, es la diferencia de presión entre dos áreas.
-  Esta diferencia puede crear una fuerza que actúa sobre objetos entre áreas, [bold]pressure damage[/bold] a algunos objetos.
+  Esta diferencia puede generar una fuerza que actúe sobre los objetos situados entre ambas áreas y causar [bold]daño por presión[/bold].
 
   Diversos objetos de vidrio, como ventanas, windors y contraventanas, pueden sufrir daños por presión si el ΔP entre ambos lados es lo suficientemente alto.
   Este daño puede destrozar estos objetos, permitiendo que el gas fluya libremente entre las áreas.

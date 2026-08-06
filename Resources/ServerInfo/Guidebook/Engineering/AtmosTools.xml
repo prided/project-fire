@@ -1,6 +1,6 @@
 <Document>
-  # Atmos Tools
-  Atmospheric Technicians have the same core toolset as Engineers, but they also have access to two new tools, the Holofan Projector and the Gas Analyzer.
+  # Herramientas de Atmósfera
+  Los Técnicos de Atmósfera utilizan las mismas herramientas básicas que los Ingenieros, además de dos dispositivos específicos: el Holofan Projector y el Gas Analyzer.
 
   <Box>
     <GuideEntityEmbed Entity="HolofanProjector"/>
@@ -8,22 +8,22 @@
   </Box>
 
   ## Holofan Projector
-  The Holofan Projector is a tool that can project a barrier of hard-light which blocks air and gas flow, while still allowing people to pass through.
+  El Holofan Projector genera una barrera de luz sólida que bloquea el flujo de aire y gases, pero permite el paso de personas.
 
   <Box>
     <GuideEntityEmbed Entity="HolofanProjector"/>
     <GuideEntityEmbed Entity="HoloFan"/>
   </Box>
 
-  This is super useful for moving in between [textlink="firelock buffers" link="FireAndGasControl"] without leaking gas between rooms, as well a signifying to regular crew that a room may be unsafe for entry.
-  It can also be used for forming a temporary barrier to allow crew to quickly move between a spaced and unspaced area without risk of leaking air from other rooms.
+  Resulta útil para atravesar [textlink="zonas aisladas por compuertas" link="FireAndGasControl"] sin transferir gases entre salas y para advertir a la tripulación de un área peligrosa.
+  También forma barreras temporales que permiten pasar con rapidez entre zonas presurizadas y despresurizadas sin perder aire de las salas adyacentes.
 
-  It has an internal charge that will deplete with each use, but it can be recharged by taking out the power cell and inserting it into a cell charger or recharger.
+  La carga interna disminuye con cada uso. Para recargarla, retire la celda de energía e introdúzcala en un cargador.
 
-  Holofans that are placed adjacent to a [textlink="firelock" link="FireAndGasControl"] will deactivate the firelock lockout, allowing the firelock to be opened by hand.
+  Las barreras instaladas junto a una [textlink="compuerta cortafuegos" link="FireAndGasControl"] desactivan el bloqueo de la puerta y permiten abrirla manualmente.
 
   ## Gas Analyzer
-  The Gas Analyzer is a tool that can be used to analyze the gas composition of an exposed atmosphere, or any [textlink="atmospheric device" link="GasManipulation"] containing gas.
+  El Gas Analyzer examina la composición de una atmósfera expuesta o de cualquier [textlink="dispositivo atmosférico" link="GasManipulation"] que contenga gas.
 
   <Box>
     <GuideEntityEmbed Entity="GasAnalyzer"/>
@@ -37,16 +37,16 @@
     <GuideEntityEmbed Entity="GasThermoMachineFreezer" Caption=""/>
   </Box>
 
-  You can use the Gas Analyzer by clicking on a gas-containing [textlink="device" link="GasManipulation"], or by clicking on the air in the room.
+  Para utilizarlo, interactúe con un [textlink="dispositivo" link="GasManipulation"] que contenga gas o directamente con el aire de la sala.
 
-  When used, the gas analyzer will report on:
-  - The volume of the device measured (not the volume of the gas!)
-  - The total pressure of the gas, in kPa
-  - The temperature of the gas, in Kelvin (K) and Celsius (C)
-  - The precise composition of the gas in molar amounts, and as a percentage of the total gas volume
+  El analizador informará:
+  - El volumen del dispositivo medido, no el volumen del gas
+  - La presión total del gas en kPa
+  - La temperatura en kelvin (K) y grados Celsius (C)
+  - La composición exacta en moles y como porcentaje del volumen total
 
-  At the bottom of the UI, the gas analyzer will display a visual indication of the different [textlink="gasses" link="Gasses"] present in the composition, as well as their relative concentrations.
+  En la parte inferior de la interfaz se muestra una representación visual de los distintos [textlink="gases" link="Gasses"] y sus concentraciones relativas.
 
-  When the gas analyzer is analyzing binary and trinary [textlink="devices" link="GasManipulation"] (devices with two and three inputs/outputs), it will display the composition of each input/output separately. This is useful for troubleshooting gas [textlink="mixing and filtering" link="MixingAndFiltering"] setups.
+  Al examinar [textlink="dispositivos" link="GasManipulation"] binarios o ternarios, con dos o tres entradas y salidas, mostrará la composición de cada conexión por separado. Esto facilita el diagnóstico de configuraciones de [textlink="mezcla y filtrado" link="MixingAndFiltering"].
 
 </Document>

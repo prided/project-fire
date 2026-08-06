@@ -2,23 +2,23 @@
   # Traidores
 
   <Box>
-    [color=#999999][italic]"WHISKEY. ECHO. WHISKEY. LIMA. ALPHA. DELTA. AGENT, YOU HAVE BEEN ACTIVATED."[/italic][/color]
+    [color=#999999][italic]"WHISKEY. ECHO. WHISKEY. LIMA. ALPHA. DELTA. AGENTE, HA SIDO ACTIVADO."[/italic][/color]
   </Box>
   <Box>
     <GuideEntityEmbed Entity="PosterContrabandSyndicateRecruitment" Caption=""/>
   </Box>
-  Los traidores son antagonistas contratados por la [color=#ff0000]Syndicate[/color]. Eres un agente durmiente que accede a diversas herramientas y armas a través de tu [bold]Apple[/bold].
-  También tienes [bold]code words[/bold] para reconocer a otros agentes, y un equipo coordinado de traidores puede tener [italic]deadly consequences.[/italic]
+  Los traidores son antagonistas contratados por el [color=#ff0000]Sindicato[/color]. Es un agente durmiente con acceso a diversas herramientas y armas mediante su [bold]uplink[/bold].
+  También recibe [bold]palabras clave[/bold] para reconocer a otros agentes. Un equipo de traidores bien coordinado puede tener [italic]consecuencias letales[/italic].
 
-  Cualquiera que no sean [textlink="heads of departments" link="Command"] o representantes de la [textlink="Security services" link="Security"] puede ser un traidor.
+  Cualquier persona que no sea [textlink="jefe de departamento" link="Command"] ni integrante del [textlink="personal de seguridad" link="Security"] puede ser traidora.
 
   ## Enlace ascendente y activación
-  [color=cyan]Uplink[/color] es tu herramienta principal. Puedes cambiar los 20 [color=red]telecrystals[/color] (TC) que obtienes al activarte por objetos que te ayuden con las tareas.
+  El [color=cyan]uplink[/color] es su herramienta principal. Puede intercambiar los 20 [color=red]telecristales[/color] (TC) que recibe al activarse por objetos útiles para sus objetivos.
 
-  Al hacer clic [color=yellow][bold]Open Menu[/bold][/color] de personaje, verás tu código Plink personal. [bold]By asignar esta combinación como melodía de PDA, podrás invocar a Applink.[/bold]
-  La misma pantalla muestra tus objetivos y palabras clave.
+  Al seleccionar [color=yellow][bold]Abrir menú[/bold][/color] en la pantalla del personaje, verá su código personal del uplink. [bold]Al configurar esa combinación como tono de la PDA, abrirá el uplink.[/bold]
+  La misma pantalla muestra sus objetivos y palabras clave.
 
-  Si no tienes PDA cuando se activa, el [color=cyan]Uplink Implant[/color] se insertará [bold]for el coste total del implante en [color=red]TC[/color].[/bold]
+  Si no dispone de una PDA al activarse, recibirá un [color=cyan]implante de uplink[/color] [bold]y se descontará su costo total en [color=red]TC[/color].[/bold]
   Aparece en la barra de herramientas de acceso rápido.
   <Box>
     <GuideEntityEmbed Entity="PassengerPDA" Caption="PDA"/>
@@ -26,7 +26,7 @@
     <GuideEntityEmbed Entity="BaseUplinkRadio" Caption="Implante de enlace ascendente"/>
   </Box>
 
-  [bold]Close el enlace ascendente en la PDA para que nadie pueda ver it.[/bold] ¡No dejes que [color=#cb0000]Security[/color] lo veas y te lo confisces!
+  [bold]Cierre el uplink en la PDA para ocultarlo.[/bold] No permita que [color=#cb0000]Seguridad[/color] lo descubra y lo confisque.
 
   Los implantes insertados suelen ser inaccesibles para personas externas, no cuentan con protecciones adicionales, pero aún pueden retirarse con un implante vacío.
 
@@ -45,65 +45,65 @@
     <GuideEntityEmbed Entity="ClothingEyesGlassesOutlawGlasses" Caption="Inútil"/>
   </Box>
 
-  Solo compra cosas que realmente ayuden con las tareas. Algunos objetos serán inútiles y tendrás que elegir entre decisiones de sigilo o ruidosas.
+  Adquiera únicamente objetos útiles para sus objetivos. Algunos no tendrán utilidad para su misión y deberá elegir entre métodos discretos o abiertamente violentos.
 
   ## Coordinación
-  Las palabras clave son palabras y frases que todo traidor conoce. Esto te permite reconocer discretamente a tu pareja o establecer contacto, lo cual es especialmente importante si tienes [italic][color=cyan]help otros" en tu tasks.[/color][/italic]
+  Las palabras clave son términos y frases que todos los traidores conocen. Permiten reconocer discretamente a otros agentes o establecer contacto, algo especialmente importante si tiene el objetivo de [italic][color=cyan]ayudar a otros agentes[/color][/italic].
 
-  Una vez que hayas encontrado a tus compañeros, [bold]you puedes eliminar [color=red]Crystal Crystals[/color] del AppLink y dárselos a them.[/bold] Ellos pueden ponerlos en su AppLink y gastárselos ellos mismos.
+  Una vez localizados sus compañeros, [bold]puede retirar [color=red]telecristales[/color] del uplink y entregárselos[/bold]. Ellos podrán introducirlos en sus propios uplinks y utilizarlos.
 
-  Algunas ofertas en Applink cuestan más de 20 TC, así que tendrás que compartirlas si las necesitas.
+  Algunas ofertas del uplink cuestan más de 20 TC, por lo que será necesario compartir recursos para adquirirlas.
 
   ## Asesinatos
-  Una de tus tareas es [italic][color=cyan]kill o arrojar a un miembro de la tripulación sobre un object.[/color][/italic] deshabitado
+  Uno de sus posibles objetivos consiste en [italic][color=cyan]matar o abandonar a un integrante de la tripulación en un lugar deshabitado[/color][/italic].
 
-  Puedes [color=cyan]leave el objetivo en el barco abandonado shuttle[/color] [bold]preventing que no llegue al Starport[/bold] mediante un transbordador o cápsula de evacuación.
+  Puede [color=cyan]abandonar al objetivo en una nave deshabitada[/color] e [bold]impedir que llegue al puerto espacial[/bold] mediante un transbordador o cápsula de evacuación.
 
-  Si no puedes soltar el objetivo o es demasiado importante, tendrás que [color=cyan]kill[/color] él. Asegúrate de que el objetivo no esté vivo cuando la lanzadera [bold]evacuation llegue a CentComm [/bold] y no dejes que reviva.
+  Si no puede abandonar al objetivo o este es demasiado importante, deberá [color=cyan]matarlo[/color]. Asegúrese de que no esté vivo cuando el transbordador de [bold]evacuación llegue al Mando Central[/bold] e impida su reanimación.
 
-  Recuerda: el Sindicato solo quiere la muerte de tus objetivos. [color=red]Try evitar matanzas masivas y daños masivos a la station[/color] porque cuantos más inocentes tomes, más peligroso eres.
+  Recuerde: el Sindicato solo exige la muerte de sus objetivos. [color=red]Evite las matanzas y los daños generalizados a la estación[/color]; cada víctima innecesaria aumenta el riesgo de la operación.
 
   ## Evasión y sacrificio personal
-  A veces tu tarea es [italic][color=cyan]get vivo a CentComm sin morir o captured.[/color][/italic] No dejes que el [color=#cb0000]Security[/color] te atrape, completa el resto de las tareas y [bold]come de vuelta alive.[/bold]
+  En ocasiones deberá [italic][color=cyan]llegar con vida al Mando Central sin ser capturado[/color][/italic]. Evite que [color=#cb0000]Seguridad[/color] lo detenga, complete los demás objetivos y [bold]regrese con vida[/bold].
 
-  En otros casos, es necesario [italic][color=cyan]accept una gloriosa death.[/color][/italic] [bold]Do no regresar del dead[/bold] de lo contrario podrías acabar esposado.
+  En otros casos deberá [italic][color=cyan]aceptar una muerte gloriosa[/color][/italic]. [bold]No regrese de la muerte[/bold]; de lo contrario, podría terminar bajo custodia.
 
   ## Apropiación
-  En la mayoría de los casos, tendrás que [italic][color=cyan]steal un objeto del jefe del department.[/color][/italic]
+  En muchos casos deberá [italic][color=cyan]robar un objeto perteneciente a un jefe de departamento[/color][/italic].
 
   El objetivo puede estar en la oficina o sobre su cuerpo. Puede ser necesario matar al portador si el objeto no puede ser recuperado sin ser detectado.
 
   Entre las cosas que se pueden preguntar:
-  - Robar un [color=yellow]ID card[/color], [bold]antique pistol[/bold] láser, [bold]jetpack[/bold] o disc[bold] de autenticación [/bold]nuclear del [color=yellow]Captain[/color].
+  - Robar la [color=yellow]tarjeta de identificación[/color], la [bold]pistola láser antigua[/bold], la [bold]mochila propulsora[/bold] o el [bold]disco de autenticación nuclear[/bold] del [color=yellow]capitán[/color].
   <Box>
     <GuideEntityEmbed Entity="CaptainIDCard" Caption=""/>
     <GuideEntityEmbed Entity="WeaponAntiqueLaser" Caption=""/>
     <GuideEntityEmbed Entity="JetpackCaptainFilled" Caption=""/>
     <GuideEntityEmbed Entity="NukeDisk" Caption=""/>
   </Box>
-  - Recoge el [color=#5b97bc]Chief Physician[/color] [bold]hypospray[/bold] o [bold]portable equipo monitor[/bold].
+  - Robar al [color=#5b97bc]director médico[/color] el [bold]hipospray[/bold] o el [bold]monitor portátil de tripulación[/bold].
   <Box>
     <GuideEntityEmbed Entity="Hypospray" Caption=""/>
     <GuideEntityEmbed Entity="HandheldCrewMonitorEmpty" Caption=""/>
   </Box>
-  - Robar un [color=#c96dbf]Supervisor[/color] [bold]experimental hardsuit[/bold] o un [bold]handheld teleporter[/bold].
+  - Robar al [color=#c96dbf]director de investigación[/color] el [bold]traje espacial reforzado experimental[/bold] o el [bold]teletransportador portátil[/bold].
   <Box>
     <GuideEntityEmbed Entity="ClothingOuterHardsuitRd" Caption=""/>
     <GuideEntityEmbed Entity="HandTeleporter" Caption=""/>
   </Box>
-  - Toma el Energy Magnum de [color=#cb0000]Head de Security[/color] [bold]Energy Magnum[/bold].
+  - Robar al [color=#cb0000]jefe de seguridad[/color] la [bold]Energy Magnum[/bold].
   <Box>
     <GuideEntityEmbed Entity="WeaponEnergyMagnum" Caption=""/>
   </Box>
-  - Robar [color=#f39f27]Senior Engineer[/color] [bold]Advanced Magboots[/bold].
+  - Robar al [color=#f39f27]ingeniero jefe[/color] las [bold]botas magnéticas avanzadas[/bold].
   <Box>
     <GuideEntityEmbed Entity="ClothingShoesBootsMagAdv" Caption=""/>
   </Box>
-  - Recoja el consejo del [color=#b18644]Quartermaster[/color] [bold]digital al request[/bold].
+  - Robar al [color=#b18644]intendente[/color] la [bold]tablilla digital de solicitudes[/bold].
   <Box>
     <GuideEntityEmbed Entity="BoxFolderQmClipboard" Caption=""/>
   </Box>
-  - Butcher Ian, el [color=#9fed58]Head de Staff[/color] perro y consigue [bold]corgi meat[/bold].
+  - Descuartizar a Ian, el perro del [color=#9fed58]jefe de personal[/color], y obtener [bold]carne de corgi[/bold].
   <Box>
     <GuideEntityEmbed Entity="MobCorgiIan" Caption=""/>
     <GuideEntityEmbed Entity="FoodMeatCorgi" Caption=""/>

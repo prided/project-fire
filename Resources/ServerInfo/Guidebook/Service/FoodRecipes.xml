@@ -1,52 +1,52 @@
 <Document>
 
-# Microwave Recipes
+# Recetas para microondas
 
-This is the latest published version of NanoTrasen Central Command Kitchen de Cuisine's recipe collection for chefs upon NanoTrasen vessels to prepare.
+Esta es la versión más reciente de la colección de recetas publicada por la Cocina del Mando Central de Nanotrasen para el personal de sus naves.
 
-## Pizza Pies
+## Pizzas
 <GuideMicrowaveGroupEmbed Group="Pizza"/>
 
-## Savory Cooking
+## Preparaciones saladas
 <GuideMicrowaveGroupEmbed Group="Savory"/>
 
-## Breads
+## Panes
 <GuideMicrowaveGroupEmbed Group="Breads"/>
 
-## Breakfast Foods
+## Desayunos
 <GuideMicrowaveGroupEmbed Group="Breakfast"/>
 
-## Moth Foods
+## Alimentos para polillas
 <GuideMicrowaveGroupEmbed Group="Moth"/>
 
-## Pastas & Noodles
+## Pastas y fideos
 <GuideMicrowaveGroupEmbed Group="Pasta"/>
 
-## Pastries & Desserts
+## Repostería y postres
 <GuideMicrowaveGroupEmbed Group="Dessert"/>
 
-## Soups & Stews
+## Sopas y guisos
 <GuideMicrowaveGroupEmbed Group="Soup"/>
 
-## Pies & Tarts
+## Tartas
 <GuideMicrowaveGroupEmbed Group="Pie"/>
 
-## Bars & Cookies
+## Barras y galletas
 <GuideMicrowaveGroupEmbed Group="BarsAndCookies"/>
 
-## Cakes
+## Pasteles
 <GuideMicrowaveGroupEmbed Group="Cake"/>
 
-## Salads
+## Ensaladas
 <GuideMicrowaveGroupEmbed Group="Salad"/>
 
-## Medicinal
+## Medicinales
 <GuideMicrowaveGroupEmbed Group="Medicinal"/>
 
-## Other
+## Otras
 <GuideMicrowaveGroupEmbed Group="Other"/>
 
-## Secret
+## Secretas
 <GuideMicrowaveGroupEmbed Group="Secret"/>
 
 </Document>

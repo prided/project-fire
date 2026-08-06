@@ -19,12 +19,12 @@
     <GuideEntityEmbed Entity="MobRevenant"/>
   </Box>
 
-  Los Revenants son criaturas efímeras de ectomateria que acechan a la tripulación y les chupan la [color=#8f63e6]life essence[/color].
-  - Tu esencia es tu propia [bold]life force[/bold]. Cuando recibes daño, lo pierdes.
-  - La esencia también se gasta en usar [bold]abilities[/bold].
-  - Para obtener la esencia, primero [bold]examine[/bold] las almas y evaluar su valor. Cuanto más valioso, más da. Luego hay que [bold]suck[/bold] de los gravemente heridos, muertos o dormidos. Todo esto se hace con la ayuda de [color=yellow][bold][keybind="Use"][/bold][/color].
-  - [bold]Stolen Essence[/bold] se usa para comprar nuevas habilidades que así neutralizar de forma más eficaz a la tripulación.
-  - Cuando chupas un alma o usas una habilidad, te conviertes en [bold]vulnerable[/bold]. Esto se indica por [color=#8f63e6][italic]Corporeal[/italic][/color] estado.
+  Los revenants son criaturas efímeras de ectomateria que acechan a la tripulación y absorben su [color=#8f63e6]esencia vital[/color].
+  - Su esencia representa su propia [bold]fuerza vital[/bold]. Perderá esencia cuando reciba daño.
+  - La esencia también se consume al utilizar [bold]habilidades[/bold].
+  - Para obtener esencia, primero debe [bold]examinar[/bold] las almas y evaluar su valor. Cuanto más valiosa sea un alma, más esencia proporcionará. Después podrá [bold]absorberla[/bold] de personas gravemente heridas, muertas o dormidas mediante [color=yellow][bold][keybind="Use"][/bold][/color].
+  - La [bold]esencia robada[/bold] permite adquirir nuevas habilidades y neutralizar con mayor eficacia a la tripulación.
+  - Al absorber un alma o utilizar una habilidad se vuelve [bold]vulnerable[/bold]. Esta condición se indica mediante el estado [color=#8f63e6][italic]Corpóreo[/italic][/color].
 
   # Rey Rata
 
@@ -36,14 +36,14 @@
     <GuideEntityEmbed Entity="MobRatServant" Caption=""/>
   </Box>
 
-  Los Reyes Rata son enormes roedores capaces de [color=yellow]creating ejércitos de rats[/color] comiendo grandes cantidades de comida.
-  - Tienes varias habilidades por las que pagas [bold]hunger[/bold].
-  - [color=yellow][italic]Summon un Army[/italic][/color] que invoca un [bold]rat servant[/bold]. Puedes [bold]order[/bold] para que se ponga de pie, te siga, ataque al objetivo elegido o corta todo en fila.
-  - [color=yellow][italic]Summon un Guardsman[/italic][/color] que invoca un [bold]Rat Guard[/bold]. No puede ser [bold]commanded[/bold] de la manera habitual, ya que es un jugador. El Guardia Rata es una rata grande; por un alto coste de hambre, puede invocar sirvientes rata para que le ayuden.
-  - Puedes invocar una nube de [color=#77b58e]ammonia[/color] a través de la Domain[italic][color=purple] del Rey [/color][/italic]Rat. Este gas púrpura es ligeramente venenoso para los humanos, pero cura a las ratas.
-  - [color=#9daa98][italic]Rummage[/italic][/color] en la papelera del menú contextual te permite recoger [bold]crumbs de food[/bold] para reponer el ejército.
-  - [bold]You son más fuertes que la mayoría de los demás animals.[/bold] Tú y tus sirvientes podéis hablar y arrastraros bajo esclusas y mesas.
-  - ¡[bold]But tus subordinados son muy frágiles[/bold] Cuidado con los aspiradores, explosiones y cuchillas.
+  Los Reyes Rata son roedores enormes capaces de [color=yellow]crear ejércitos de ratas[/color] al consumir grandes cantidades de alimento.
+  - Dispone de varias habilidades que consumen [bold]hambre[/bold].
+  - [color=yellow][italic]Invocar un ejército[/italic][/color] genera un [bold]sirviente rata[/bold]. Puede [bold]ordenarle[/bold] permanecer inmóvil, seguirlo, atacar al objetivo seleccionado o cortar todo a su paso.
+  - [color=yellow][italic]Invocar un guardia[/italic][/color] genera un [bold]Guardia Rata[/bold]. Al estar controlado por otro jugador, [bold]no puede recibir órdenes[/bold] de la forma habitual. Es una rata de gran tamaño que puede invocar sirvientes a cambio de una cantidad elevada de hambre.
+  - Puede invocar una nube de [color=#77b58e]amoníaco[/color] mediante el [italic][color=purple]Dominio del Rey Rata[/color][/italic]. Este gas púrpura es ligeramente venenoso para los humanos, pero cura a las ratas.
+  - La acción [color=#9daa98][italic]Rebuscar[/italic][/color] del menú contextual de un contenedor de basura permite recoger [bold]restos de comida[/bold] para reponer el ejército.
+  - [bold]Usted es más fuerte que la mayoría de los demás animales.[/bold] Tanto usted como sus sirvientes pueden hablar y arrastrarse por debajo de esclusas y mesas.
+  - [bold]Sus subordinados son muy frágiles.[/bold] Tenga cuidado con aspiradoras, explosiones y cuchillas.
 
   # Dragón Espacial
 
@@ -55,14 +55,14 @@
     <GuideEntityEmbed Entity="MobCarp" Caption=""/>
   </Box>
 
-  Los dragones espaciales son enormes peces extraterrestres que pueden [color=red]devour la crew[/color] y crear [color=#4b7fcc]carp rifts[/color].
-  - Los dragones tienen mandíbulas poderosas que les permiten [color=red][italic]eat[/italic][/color] infraestructura: puertas, ventanas y muros.
+  Los dragones espaciales son peces extraterrestres enormes que pueden [color=red]devorar a la tripulación[/color] y crear [color=#4b7fcc]grietas de carpas[/color].
+  - Sus mandíbulas poderosas les permiten [color=red][italic]devorar[/italic][/color] infraestructura, incluidas puertas, ventanas y muros.
   - También pueden curarse comiendo a miembros inconscientes o muertos de la tripulación.
-  - La Breath[italic][color=orange] de tu [/color][/italic]Dragon es una [bold]fiery projectile[/bold] que viaja en línea recta, explota varias veces y prende fuego a todo lo que se cruza en su camino. ¡Intenta no golpear a tu carpa!
-  - Puedes [color=#4b7fcc][italic]summon carpas Rift[/italic][/color]. Tras 5 minutos de aparición, se carga y [bold]at ese momento es vulnerable.[/bold] Después de eso, se vuelve invulnerable y sigue invocando carpas mientras el dragón esté vivo. El portal también cura carpas y un dragón cercano en un pequeño radio.
-  - Si la grieta se destruye antes de estar completamente cargada, recibirás [bold]temporary retroalimentación damage[/bold].
-  - Si han pasado 5 minutos sin desbloquear la grieta, [bold]you disappear[/bold].
-  - Los dragones con tres grietas completas nunca [bold]will disappear[/bold], pero siguen siendo mortales.
+  - El [italic][color=orange]aliento de dragón[/color][/italic] es un [bold]proyectil incendiario[/bold] que avanza en línea recta, explota varias veces e incendia todo a su paso. Evite alcanzar a sus propias carpas.
+  - Puede [color=#4b7fcc][italic]invocar una grieta de carpas[/italic][/color]. Durante los cinco minutos posteriores a su aparición, la grieta se carga y [bold]permanece vulnerable[/bold]. Después se vuelve invulnerable y continúa invocando carpas mientras el dragón permanezca vivo. El portal también cura a las carpas y al dragón dentro de un radio reducido.
+  - Si la grieta es destruida antes de cargarse por completo, recibirá [bold]daño temporal por retroalimentación[/bold].
+  - Si transcurren cinco minutos sin completar ninguna grieta, [bold]desaparecerá[/bold].
+  - Los dragones con tres grietas completas nunca [bold]desaparecen[/bold], aunque pueden morir.
 
   # Babos y arañas
 
@@ -71,7 +71,7 @@
     <GuideEntityEmbed Entity="MobGiantSpiderAngry" Caption=""/>
   </Box>
 
-  Los slimes y arañas no son nada destacados, pero [color=cyan]inhabit el station[/color] de vez en cuando de forma independiente. Persiguen y atacan todo lo que ven.
-  - Los slimes pueden [bold]deal ácido o veneno adicional damage[/bold], dependiendo del color. El agua les afecta de la misma manera que a las babosas.
-  - Las arañas tienen una mordedura venenosa y pueden [bold]create webs[/bold] difíciles de atravesar pero fáciles de cortar. También pueden romper puertas, ventanas y esclusas.
+  Los slimes y las arañas no poseen objetivos complejos, pero [color=cyan]aparecen ocasionalmente en la estación[/color] de forma independiente. Persiguen y atacan todo lo que encuentran.
+  - Los slimes pueden [bold]infligir daño adicional por ácido o veneno[/bold], según su color. El agua los afecta de la misma forma que a las babosas.
+  - Las arañas poseen una mordedura venenosa y pueden [bold]crear telarañas[/bold] difíciles de atravesar, pero fáciles de cortar. También pueden romper puertas, ventanas y esclusas.
 </Document>

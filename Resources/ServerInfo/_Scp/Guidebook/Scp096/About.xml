@@ -1,33 +1,33 @@
 <Document>
   # SCP-096 "Hombre Tímido"
 
-  Esta guía te dirá qué es un objeto dentro del juego y sus mecánicas. La parte de "lore" del objeto NO se verá afectada aquí.
+  Esta guía explica cómo funciona el objeto dentro del juego y cuáles son sus mecánicas. No aborda el lore del objeto.
 
-  Esta página es una colección de enlaces a otras guías más detalladas sobre el objeto y una breve descripción de la sección.
+  Esta página reúne enlaces a guías más detalladas sobre el objeto y ofrece una breve descripción de cada sección.
 
   ## Inicio de la ronda
 
-  En el punto de inicio, al inicio de la ronda, o después de aparecer, SCP-096 está en su celda de contención.
-  La cámara de contención es una medida disuasoria para evitar daños al personal de la instalación.
+  Al inicio de la ronda o después de aparecer, SCP-096 se encuentra en su cámara de contención.
+  La cámara impide que el objeto cause daño al personal del complejo.
 
-  Mientras el objeto esté dentro, prácticamente no supone una amenaza.
+  Mientras permanezca dentro, prácticamente no representa una amenaza.
 
-  - La tarea del personal de la instalación es contener la instalación dentro de la celda de contención.
-  - Tarea de SCP-096: Salir de la celda de contención.
+  - Objetivo del personal del complejo: mantener al objeto dentro de la cámara de contención.
+  - Objetivo de SCP-096: escapar de la cámara de contención.
 
-  [textlink="Read más sobre la disuasión here" link="Scp096Containment"]
+  [textlink="Más información sobre la contención" link="Scp096Containment"]
 
-  [textlink="Read más sobre los métodos here." link="Scp096ContainmentBreach"]
+  [textlink="Más información sobre los métodos de fuga" link="Scp096ContainmentBreach"]
 
   ## Estados
 
-  Los estados definen un conjunto de mecánicas y determinan el comportamiento del objeto. Durante la ronda, el objeto pasará a diferentes estados, dependiendo de las acciones de otros o de la propia persona modesta.
+  Los estados determinan las mecánicas y el comportamiento del objeto. Durante la ronda, SCP-096 cambia de estado según sus propias acciones y las de quienes lo rodean.
 
-  [textlink="Read más sobre los estados here" link="Scp096States"]
+  [textlink="Más información sobre los estados" link="Scp096States"]
 
   ## Habilidades
 
-  El Shy tiene dos habilidades únicas, una de las cuales es una mecánica clave que te permite escapar de la celda de contención.
+  El Hombre Tímido posee varias habilidades únicas. Una de ellas es la mecánica principal que le permite escapar de la cámara de contención.
 
-  [textlink="More sobre habilidades here" link="Scp096Abilities"]
+  [textlink="Más información sobre las habilidades" link="Scp096Abilities"]
 </Document>

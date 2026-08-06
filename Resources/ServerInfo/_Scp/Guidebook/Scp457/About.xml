@@ -1,33 +1,33 @@
 ﻿<Document>
-  # SCP-457 "Горящий человек"
+  # SCP-457 "Hombre Ardiente"
 
-  Данное руководство расскажет о том, чем является объект в рамках игры и ее механик. Здесь НЕ будет затронута "лорная" часть объекта.
+  Esta guía explica cómo funciona el objeto dentro del juego y cuáles son sus mecánicas. No aborda el lore del objeto.
 
-  Данная страница является сборником ссылок на другие, более подробные руководства по объекту, и краткое описание раздела.
+  Esta página reúne enlaces a guías más detalladas sobre el objeto y ofrece una breve descripción de cada sección.
 
-  ## Начало раунда
+  ## Inicio de la ronda
 
-  В стартовой точке, начале раунда или после появления, SCP-457 находится в своей камере содержания.
-  Камера содержания представляет собой сдерживающую меру, препятствующую вреду персоналу комплекса.
+  Al inicio de la ronda o después de aparecer, SCP-457 se encuentra en su cámara de contención.
+  La cámara impide que el objeto cause daño al personal del complejo.
 
-  Пока объект находится в ней - он практически не представляет угрозы.
+  Mientras permanezca dentro, prácticamente no representa una amenaza.
 
-  - Задача персонала комплекса: сдерживать объект внутри камеры содержания.
-  - Задача SCP-457: Покинуть камеру содержания.
+  - Objetivo del personal del complejo: mantener al objeto dentro de la cámara de contención.
+  - Objetivo de SCP-457: escapar de la cámara de contención.
 
-  [textlink="Подробнее о сдерживании здесь" link="Scp457Containment"]
+  [textlink="Más información sobre la contención" link="Scp457Containment"]
 
-  [textlink="Подробнее о методах здесь." link="Scp457ContainmentBreach"]
+  [textlink="Más información sobre los métodos de fuga" link="Scp457ContainmentBreach"]
 
-  ## Состояния
+  ## Estados
 
-  Состояния определяют набор механик и задают поведение объекта. В течение раунда объект будет переходить в разные состояния, в зависимости от действий окружающих или действий самого горящего человека.
+  Los estados determinan las mecánicas y el comportamiento del objeto. Durante la ronda, SCP-457 cambia de estado según sus propias acciones y las de quienes lo rodean.
 
-  [textlink="Подробнее про состояния здесь" link="Scp457States"]
+  [textlink="Más información sobre los estados" link="Scp457States"]
 
-  ## Способности
+  ## Habilidades
 
-  Горящий человек обладает двумя уникальными пассивными и тремя активными способностями, две из которых является ключевыми механиками, позволяющие сбежать из камеры содержания.
+  El Hombre Ardiente posee dos habilidades pasivas y tres activas. Dos de ellas son mecánicas fundamentales para escapar de la cámara de contención.
 
-  [textlink="Подробнее про способности здесь" link="Scp457Abilities"]
+  [textlink="Más información sobre las habilidades" link="Scp457Abilities"]
 </Document>

@@ -1,72 +1,72 @@
 <Document>
-  # Thieves
+  # Ladrones
 
   <Box>
-    [color=#999999][italic]"Yoink! I'll be taking that! And that! Ooh, don't mind if I do!"[/italic][/color]
+    [color=#999999][italic]«¡Me lo llevo! ¡Y eso también! No se preocupe, estará en buenas manos.»[/italic][/color]
   </Box>
   <Box>
     <GuideEntityEmbed Entity="ClothingNeckCloakVoid" Caption=""/>
   </Box>
 
-  Thieves are petty yet crafty [color=green]criminals[/color] who can't keep their hands to themselves. You were forcefully given a [bold]pacifism implant[/bold] after your last arrest, but you won't let that stop you from trying to add to your collection.
+  Los Ladrones son [color=green]delincuentes[/color] menores, pero ingeniosos, incapaces de respetar la propiedad ajena. Después de su último arresto recibió por la fuerza un [bold]implante de pacifismo[/bold], aunque esto no impedirá que amplíe su colección.
 
-  ## Art of the Steal
-  Unlike other antagonists, [bold]staying out of trouble is almost a requirement for you[/bold] because of your implant.
-  You can only run if [color=#cb0000]Security[/color] picks a fight with you, and because you work alone you don't have any friends to pull you out of danger.
+  ## El arte del robo
+  A diferencia de otros antagonistas, [bold]evitar los conflictos es prácticamente obligatorio[/bold] debido al implante.
+  Si [color=#cb0000]Seguridad[/color] intenta detenerlo, su única opción será huir. Además, trabaja solo y no dispone de aliados que lo rescaten.
 
-  But against all odds, you'll sucessfully swipe what you want using determination, sleight of hand, a few tools and your [color=cyan]pickpocketing skills.[/color]
+  A pesar de estas limitaciones, puede obtener sus objetivos mediante determinación, destreza manual, algunas herramientas y sus [color=cyan]habilidades de carterista.[/color]
 
-  The pickpocketing skills you have give you a major advantage: [bold]the ability to take things from people without them even noticing.[/bold] With a little practice you can steal their wallet and keep up a conversation at the same time.
+  Estas habilidades ofrecen una ventaja considerable: [bold]puede retirar objetos de otras personas sin que lo adviertan.[/bold] Con práctica, podrá sustraer una cartera mientras mantiene una conversación.
 
-  It is advised to get a pair of gloves as your fingerprints could still be traced back to the stolen goods if they're found.
+  Se recomienda utilizar guantes, ya que sus huellas dactilares pueden vincularlo con los artículos robados si son recuperados.
 
 
 
-  ## Tools of the Trade
-  You've got two more aces up your stolen sleeves: your [color=cyan]beacon[/color] and your [color=cyan]satchel.[/color]
+  ## Herramientas de trabajo
+  Dispone de dos recursos adicionales: una [color=cyan]baliza[/color] y una [color=cyan]bolsa.[/color]
 
-  Your [color=cyan]beacon[/color] provides safe passage home for trinkets that may not be easy to carry with you on the evac shuttle. Simply find a secluded part of the station to unfold the beacon, then set its coordinates to your hideout.
-  Any shinies near it will be [bold]teleported to your vault when the shift ends,[/bold] fulfilling your objectives.
+  La [color=cyan]baliza[/color] permite trasladar al escondite los objetos que no pueda transportar en el transbordador de evacuación. Busque una zona aislada de la estación, despliegue la baliza y configure las coordenadas del escondite.
+  Los objetos valiosos cercanos serán [bold]teletransportados a su depósito cuando termine el turno,[/bold] lo que permitirá cumplir sus objetivos.
 
-  However, this will instantly out you if found and make it extremely easy for people to reclaim their "missing" possessions. [bold]Make sure to hide it well![/bold]
+  Sin embargo, si alguien encuentra la baliza, su identidad quedará expuesta y los propietarios podrán recuperar con facilidad sus pertenencias. [bold]Ocúltela cuidadosamente.[/bold]
 
   <Box>
     <GuideEntityEmbed Entity="ThiefBeacon"/>
   </Box>
 
-  Your [color=cyan]satchel[/color] contains... well, whatever you remembered to pack. [bold]You can select two pre-made kits[/bold] to help you complete grander heists.
+  La [color=cyan]bolsa[/color] contiene los artículos que preparó con anticipación. [bold]Puede seleccionar dos conjuntos prediseñados[/bold] para realizar operaciones más complejas.
 
   <Box>
     <GuideEntityEmbed Entity="SatchelThief"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="Implanter" Caption="Anatomy"/>
-    <GuideEntityEmbed Entity="C4" Caption="Breacher"/>
-    <GuideEntityEmbed Entity="ChameleonProjector" Caption="Chameleon"/>
-    <GuideEntityEmbed Entity="BaseUplinkRadio" Caption="Communicator"/>
+    <GuideEntityEmbed Entity="Implanter" Caption="Anatomía"/>
+    <GuideEntityEmbed Entity="C4" Caption="Acceso forzado"/>
+    <GuideEntityEmbed Entity="ChameleonProjector" Caption="Camuflaje"/>
+    <GuideEntityEmbed Entity="BaseUplinkRadio" Caption="Comunicador"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="NitrousOxideTank" Caption="Sleeper"/>
-    <GuideEntityEmbed Entity="Fulton" Caption="Smuggler"/>
-    <GuideEntityEmbed Entity="Telecrystal" Caption="Syndie"/>
+    <GuideEntityEmbed Entity="NitrousOxideTank" Caption="Sedación"/>
+    <GuideEntityEmbed Entity="Fulton" Caption="Contrabando"/>
+    <GuideEntityEmbed Entity="Telecrystal" Caption="Sindicato"/>
   </Box>
 
-  ## Centerpiece of the Collection
-  Your kleptomania will take you places. One day, you'll feel like stealing a few figurines. Another day, you'll feel like stealing an industrial machine.
+  ## Pieza central de la colección
+  La cleptomanía puede llevarlo a objetivos muy distintos. En una ocasión deberá robar varias figuras; en otra, una máquina industrial.
 
-  No matter. They'll all be a part of your collection within a matter of time.
+  Sin importar el tamaño, todos los objetos terminarán formando parte de su colección.
 
-  You can steal items by [bold]having them on your person[/bold] when you get to CentComm. Failing this, you can steal larger items by [bold]leaving them by your beacon.[/bold]
+  Puede robar artículos al [bold]llevarlos consigo[/bold] cuando llegue al Mando Central. Los objetos grandes pueden considerarse obtenidos si [bold]permanecen junto a la baliza.[/bold]
 
-  Some of the more [italic]animate[/italic] objectives may not cooperate with you. Make sure they're alive and with you or your beacon when the shift ends.
+  Algunos objetivos [italic]animados[/italic] pueden resistirse. Asegúrese de que permanezcan vivos y junto a usted o la baliza al finalizar el turno.
 
-  Things that you may desire include but are not limited to:
+  Los objetivos pueden incluir, entre otros:
 
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineGreytider" Caption="Figurines"/>
-    <GuideEntityEmbed Entity="PassengerIDCard" Caption="ID cards"/>
-    <GuideEntityEmbed Entity="ChemDispenser" Caption="Structures"/>
-    <GuideEntityEmbed Entity="MobCorgiIan" Caption="Animals/Pets"/>
+    <GuideEntityEmbed Entity="ToyFigurineGreytider" Caption="Figuras"/>
+    <GuideEntityEmbed Entity="PassengerIDCard" Caption="Tarjetas de identificación"/>
+    <GuideEntityEmbed Entity="ChemDispenser" Caption="Estructuras"/>
+    <GuideEntityEmbed Entity="MobCorgiIan" Caption="Animales y mascotas"/>
   </Box>
 
 </Document>

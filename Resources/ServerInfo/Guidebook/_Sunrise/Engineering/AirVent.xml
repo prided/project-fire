@@ -7,33 +7,33 @@
     <GuideEntityEmbed Entity="GasVentPump"/>
   </Box>
 
-  La ventilación del aire requiere [textlink="powered" link="Power"] por el [textlink="LV-cable" link="VoltageNetworks"] más cercano para trabajar.
+  La ventilación de aire requiere [textlink="energía" link="Power"] mediante el [textlink="cable de baja tensión" link="VoltageNetworks"] más cercano para funcionar.
 
   La ventilación puede soldarse con cualquier herramienta de soldadura para evitar que funcione.
 
   ## Operación por defecto
   Por defecto, la ventilación del aire simplemente libera gas en la atmósfera circundante hasta una presión de [color=orange][protodata="GasVentPump" comp="GasVentPump" member="DefaultExternalBound"/] kPa[/color].
 
-  La velocidad de ventilación depende de la diferencia entre la presión duplicada de la [textlink="pipeneta" link="PipeNetworks"] conectada y la presión de la atmósfera circundante.
+  La velocidad de ventilación depende de la diferencia entre la presión de la [textlink="red de tuberías" link="PipeNetworks"] conectada y la presión de la atmósfera circundante.
   En forma de fórmula verbal:
   <Box>
-    [italic]Velocity = 2 × la presión de la red de tubería es la presión de la atmosphere[/italic] circundante
+    [italic]Velocidad = 2 × (presión de la red de tuberías − presión de la atmósfera circundante)[/italic]
   </Box>
 
   Por ejemplo, esto significa que la ventilación no podrá bombear 101,3 kPa si la presión del gas dentro de la propia ventilación cae por debajo de la mitad de este valor.
 
   ## Bloqueo de presión
-  Las rejillas de aire entran en [color=red]pressure blocking[/color] cuando la presión atmosférica ambiente está por debajo de [color=orange][protodata="GasVentPump" comp="GasVentPump" member="UnderPressureLockoutThreshold"/] kPa[/color].
+  Las ventilaciones entran en [color=red]bloqueo por presión[/color] cuando la presión atmosférica ambiental es inferior a [color=orange][protodata="GasVentPump" comp="GasVentPump" member="UnderPressureLockoutThreshold"/] kPa[/color].
   Esto evita que gases útiles se desperdicien al espacio si la habitación no es hermética.
   Las luces de la ventilación se encenden [color=yellow]yellow[/color] para indicar este estado.
 
-  Esto se puede [color=green]overridden[/color] haciendo clic derecho en la ventilación y seleccionando 'Liberar bloqueo de presión', o configurando el modo de llenado en el [textlink="air alarm" link="AirAlarms"] conectado.
+  Este bloqueo puede [color=green]anularse[/color] mediante el menú contextual de la ventilación y la opción «Liberar bloqueo de presión», o estableciendo el modo de llenado en la [textlink="alarma de aire" link="AirAlarms"] conectada.
 
-  Es importante recordar que la ventilación en [color=red]pressure blocking[/color] sigue liberando gases muy lentamente.
+  Una ventilación en [color=red]bloqueo por presión[/color] continúa liberando gas a un ritmo muy lento.
   La cantidad de gas liberado depende de la presión actual del oleoducto al que están conectados.
 
   ## Escenarios
-  Cuando [textlink="binding" link="Networking"] a [textlink="air alarm" link="AirAlarms"], la ventilación del aire adquiere más capacidades.
+  Al [textlink="vincularse" link="Networking"] con una [textlink="alarma de aire" link="AirAlarms"], la ventilación adquiere funciones adicionales.
 
   La ventilación del aire tiene dos opciones de "dirección de ventilación": liberación y sifón.
   - Liberar simplemente libera gases del oleoducto conectado hacia la atmósfera.

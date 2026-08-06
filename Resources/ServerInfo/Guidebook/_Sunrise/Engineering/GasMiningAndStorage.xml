@@ -1,6 +1,6 @@
 <Document>
   # Producción y almacenamiento de gas
-  Los gases suelen consumirse de forma irreversible. Ya sea que se pierdan en la [textlink="space" link="Spacing"] o se usen en la cámara de combustión, la planta necesita producir nuevo gas para reemplazar el perdido.
+  Los gases suelen consumirse de forma irreversible. Ya sea que se pierdan en el [textlink="espacio" link="Spacing"] o se usen en la cámara de combustión, la instalación necesita producir nuevo gas para reemplazar el perdido.
   Además, la estación debe almacenar este gas de forma segura y eficiente.
 
   ## Productores de gas
@@ -11,7 +11,7 @@
     <GuideEntityEmbed Entity="GasMinerNitrogenStation"/>
   </Box>
 
-  Los productores de gas producen constantemente gas a temperatura ambiente y lo alimentan a la atmósfera circundante. No necesitan energía y no dejan de funcionar hasta alcanzar un pressure[bold] de [/bold]cut predeterminado.
+  Los productores generan gas constantemente a temperatura ambiente y lo liberan a la atmósfera circundante. No necesitan energía y funcionan hasta alcanzar una [bold]presión de corte[/bold] predeterminada.
 
   Se puede consultar información adicional sobre los productores de gas inspeccionándolos a través del [color=yellow][bold][keybind="ExamineEntity"][/bold][/color].
   Intenta inspeccionar los productores de gas que se muestran arriba.
@@ -24,7 +24,7 @@
     <GuideEntityEmbed Entity="GasMinerNitrogenStationLarge" Caption="4500 kPa"/>
   </Box>
 
-  Si los productores de gas alguna vez los desenroscan de la estación, se pueden asegurar de nuevo con una llave inglesa normal.
+  Si los productores de gas se desacoplan de la instalación, pueden asegurarse nuevamente con una llave inglesa convencional.
 
   ## Almacenamiento de gas
   Los depósitos de gas se utilizan para almacenar el gas producido por los productores y transferirlo a otros procesos. Están situados en la atmósfera.
@@ -52,7 +52,7 @@
   </Box>
 
   <Box>
-    [color=#999999][italic]Example de una pequeña tank[/italic][/color] de gas
+    [color=#999999][italic]Ejemplo de un depósito pequeño[/italic][/color] de gas
   </Box>
 
   Diversos procesos atmosféricos alimentan gases hacia y desde los tanques de gas.
@@ -61,6 +61,6 @@
   - La red de reciclaje bombea los gases recuperados en tanques para su reutilización.
   - Sistemas como las cámaras de distronet y combustión toman gases de los tanques.
 
-  Los depósitos de gasolina están diseñados para poder medirse [textlink="gas analyzer" link="AtmosTools"].
-  Dado que la ventilación de salida es [textlink="passive ventilation" link="PassiveVent"], es posible utilizar un [textlink="gas analyzer" link="AtmosTools"] [textlink="pump" link="Pumps"] de entrada que extrae gas del depósito para medir su contenido.
+  Los depósitos de gas están diseñados para poder medirse con un [textlink="analizador de gases" link="AtmosTools"].
+  Dado que la salida utiliza una [textlink="ventilación pasiva" link="PassiveVent"], es posible usar un [textlink="analizador de gases" link="AtmosTools"] junto con una [textlink="bomba" link="Pumps"] de entrada que extraiga gas del depósito para medir su contenido.
 </Document>

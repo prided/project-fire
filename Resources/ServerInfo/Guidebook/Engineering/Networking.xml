@@ -1,12 +1,12 @@
 <Document>
-  # Networking
-  On the station, devices need to communicate to each other to preform their functions.
-  [textlink="Air alarms" link="AirAlarms"] need to talk to their respective devices, [textlink="doors" link="Airlocks"] need to be linked to form proper airlocks, and much more.
+  # Redes de dispositivos
+  Los dispositivos de la estación necesitan comunicarse para cumplir sus funciones.
+  Las [textlink="alarmas atmosféricas" link="AirAlarms"] deben controlar sus equipos asociados, las [textlink="puertas" link="Airlocks"] deben vincularse para formar esclusas y otros sistemas requieren conexiones similares.
 
-  This is done through two systems, the Link system and the List system.
+  Existen dos métodos: el sistema de enlaces y el sistema de listas.
 
-  You can use either the Multitool or Network Configurator to interact with these systems.
-  You can switch between the different systems using [color=yellow][bold][keybind="AltActivateItemInHand"][/bold][/color] or by hovering your cursor over the device and using [color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color].
+  Puede utilizar un Multitool o un Network Configurator para operar ambos.
+  Cambie de sistema mediante [color=yellow][bold][keybind="AltActivateItemInHand"][/bold][/color], o coloque el cursor sobre el dispositivo y presione [color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color].
 
   <Box HorizontalAlignment="Stretch">
     <Box>
@@ -17,12 +17,12 @@
     </Box>
   </Box>
 
-  Some devices will require access to link devices to them.
-  For example, you need Atmospherics access to link devices to an [textlink="air alarm" link="AirAlarms"].
-  For doors, you'll need the access level of the door you're linking to.
+  Algunos dispositivos requieren acceso para establecer vínculos.
+  Por ejemplo, se necesita acceso de Atmósfera para conectar equipos con una [textlink="alarma atmosférica" link="AirAlarms"].
+  En el caso de las puertas, se requiere el mismo nivel de acceso que utiliza la puerta de destino.
 
-  ## Link System
-  The link system is used for explicitly linking two devices, such as linking a door to another door.
+  ## Sistema de enlaces
+  Este sistema vincula explícitamente dos dispositivos, por ejemplo una puerta con otra.
 
   <Box>
     <GuideEntityEmbed Entity="AirlockExternal"/>
@@ -31,13 +31,13 @@
     <GuideEntityEmbed Entity="SignalButton"/>
   </Box>
 
-  Under the link system, devices have [bold]ports[/bold] that are capable of either sending or receiving signals.
+  Los dispositivos tienen [bold]puertos[/bold] que envían o reciben señales.
 
-  Hovering over a port using your cursor will show a tooltip that tells you what the port does.
-  For example, output ports will state the conditions under which they will invoke a signal, and input ports will state what the device will do if it receives a signal.
+  Coloque el cursor sobre un puerto para consultar su función.
+  Los puertos de salida indican las condiciones en que emiten una señal; los de entrada describen la respuesta del dispositivo.
 
-  ## List System
-  The list system is used for linking multiple devices to a single primary device, such as linking multiple atmospherics devices to an air alarm.
+  ## Sistema de listas
+  Este sistema vincula varios dispositivos con uno principal, como varios equipos atmosféricos conectados a una alarma.
 
   <Box>
     <GuideEntityEmbed Entity="AirAlarm" Caption=""/>
@@ -47,18 +47,18 @@
     <GuideEntityEmbed Entity="Firelock" Caption=""/>
   </Box>
 
-  Each device has its own unique address, which is used to identify it in the list system. When you link a device to a primary device, you are adding the device's address to a list of devices that the primary device will communicate with.
+  Cada dispositivo tiene una dirección única que permite identificarlo. Al vincularlo con un equipo principal, su dirección se agrega a la lista de elementos con los que este se comunicará.
 
-  You can save a device's address to your tool by interacting with the device using [color=yellow][bold][keybind="Use"][/bold][/color].
+  Para guardar la dirección en la herramienta, interactúe con el dispositivo mediante [color=yellow][bold][keybind="Use"][/bold][/color].
 
-  Once you have a list of devices saved to your tool, you can link them to a primary device by interacting with the primary device using [color=yellow][bold][keybind="Use"][/bold][/color], which will bring up a UI.
+  Después de guardar una lista, interactúe con el dispositivo principal mediante [color=yellow][bold][keybind="Use"][/bold][/color] para abrir la interfaz y establecer el vínculo.
 
-  The UI has multiple options:
-  - Set: Overwrites the current list of linked devices with the devices saved on the tool.
-  - Add: Adds the devices saved on the tool to the current list of linked devices.
-  - Clear: Removes all linked devices from the air alarm.
-  - Copy: Copies the list of currently linked devices to the tool.
-  - Show: Draws a line between the primary device and all linked devices. This is useful for visualizing the area the air alarm covers.
+  La interfaz ofrece varias opciones:
+  - Establecer: reemplaza la lista actual con los dispositivos guardados en la herramienta.
+  - Agregar: incorpora los dispositivos guardados a la lista actual.
+  - Limpiar: retira todos los dispositivos vinculados a la alarma atmosférica.
+  - Copiar: guarda en la herramienta la lista actual del dispositivo principal.
+  - Mostrar: dibuja una línea entre el dispositivo principal y todos los vinculados. Resulta útil para visualizar la zona cubierta por una alarma.
 
-  If you need to clear your tool, you can press [color=yellow][bold][keybind="Use"][/bold][/color] on the tool or use [color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color] to bring up a list of saved devices, and then press the "Clear" button.
+  Para vaciar la herramienta, presione [color=yellow][bold][keybind="Use"][/bold][/color] sobre ella o utilice [color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color] para abrir la lista y después presione «Limpiar».
 </Document>

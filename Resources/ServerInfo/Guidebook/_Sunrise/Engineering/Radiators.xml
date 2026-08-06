@@ -1,13 +1,13 @@
 <Document>
   # Radiadores
-  Los radiadores son dispositivos que permiten el intercambio de energía térmica entre [textlink="pipenet" link="PipeNetworks"] y el medio ambiente.
+  Los radiadores son dispositivos que permiten el intercambio de energía térmica entre una [textlink="red de tuberías" link="PipeNetworks"] y el entorno.
 
   <Box>
     <GuideEntityEmbed Entity="HeatExchanger"/>
   </Box>
 
   Los radiadores son completamente pasivos: no requieren energía.
-  Siempre intentan igualar la temperatura del gas en [textlink="pipenete" link="PipeNetworks"] con el medio ambiente.
+  Siempre intentan igualar la temperatura del gas de la [textlink="red de tuberías" link="PipeNetworks"] con la del entorno.
 
   Los radiadores tienen dos formas de transferir el calor: convección y radiación.
   - La convección es la transferencia de calor a través del movimiento del gas.
@@ -16,7 +16,7 @@
   Si el disipador está en vacío, solo podrá transferir calor por radiación.
   Si está en la atmósfera, podrá transferir calor tanto por convección como por radiación.
 
-  Con la convección, solo puedes enfriar o calentar hasta la temperatura de la atmósfera o [textlink="pipeneta" link="PipeNetworks"] con la que intercambias calor, siempre que la temperatura del gas en la [textlink="pipenete" link="PipeNetworks"] o atmósfera se mantenga igual.
+  Mediante convección, solo es posible enfriar o calentar hasta la temperatura de la atmósfera o de la [textlink="red de tuberías" link="PipeNetworks"] con la que se intercambia calor, siempre que la temperatura del gas de la [textlink="red de tuberías" link="PipeNetworks"] o de la atmósfera permanezca estable.
 
   Si intercambias calor con el espacio, solo puedes enfriarte hasta la temperatura del espacio.
   Para aumentar la eficiencia de la radiación, puedes construir radiadores en una rejilla: de este modo, el radiador irradiará más calor que cuando está directamente conectado a la piel.

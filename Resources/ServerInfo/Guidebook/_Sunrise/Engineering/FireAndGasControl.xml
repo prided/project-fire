@@ -1,6 +1,6 @@
 <Document>
   # Control de Fuego y Gas
-  Desafortunadamente, [textlink="fires" link="Fires"], [textlink="depressurizations" link="Spacing"] y otras [textlink="atmospheric accidents" link="AtmosphericUpsets"] suelen ocurrir en la estación.
+  Los [textlink="incendios" link="Fires"], las [textlink="despresurizaciones" link="Spacing"] y otros [textlink="incidentes atmosféricos" link="AtmosphericUpsets"] se producen con frecuencia en la estación.
   Estos accidentes pueden propagarse rápidamente por la estación y hacer que la atmósfera sea inadecuada para la tripulación.
 
   <Box>
@@ -15,13 +15,13 @@
   ## Cerraduras cortafuego
   Los candados cortafuegos son una forma sencilla y eficaz de evitar que los incendios se propaguen por toda la estación.
 
-  Según las condiciones que detecte la esclusa de emergencia, o a la orden de una [textlink="air" link="AirAlarms"] o alarma de incendios conectada, pueden cerrar secciones de la estación, evitando la propagación de condiciones peligrosas.
+  Según las condiciones detectadas o las órdenes de una [textlink="alarma de aire" link="AirAlarms"] o de incendio conectada, las compuertas pueden aislar secciones de la estación e impedir la propagación del peligro.
 
   ## Dividiendo una estación en secciones
   Las esclusas de seguridad contra incendios se colocan intencionadamente en lugares clave para dividir la estación en secciones. Los espacios abiertos, como pasillos o pasarelas de madera, se dividen en secciones más pequeñas. Esto evita que las condiciones peligrosas se extiendan a toda la estación a través de salas, pasillos y otros espacios abiertos conectados.
 
   ## Trabajo básico
-  Cuando las compuertas contra incendios no están conectadas a [textlink="air alarm" link="AirAlarms"] o alarmas de incendio, funcionan en condiciones que detectan por sí mismas. Las compuertas contra incendios caerán si:
+  Cuando las compuertas cortafuegos no están conectadas a [textlink="alarmas de aire" link="AirAlarms"] o de incendio, responden a las condiciones que detectan directamente. Se cerrarán si:
   - La temperatura entre los dos lados de la esclusa cortafuegos varía en [color=orange][protodata="Firelock" comp="Firelock" member="TemperatureThreshold"/] K[/color] o más.
   - La presión entre los dos lados de la esclusa cortafuegos varía en [color=orange][protodata="Firelock" comp="Firelock" member="PressureThreshold"/] kPa[/color] o más.
 
@@ -35,8 +35,8 @@
   Un ejemplo común es una esclusa de incendios, que se hundió porque ambos lados están abiertos al espacio.
 
   ## Conexión con alarmas de aire e incendios
-  Las esclusas de aire contra incendios pueden conectarse a [textlink="air alarms" link="AirAlarms"] y alarmas de incendio para que reciban órdenes de bajada.
-  Los gateways Fire utilizan [textlink="list system" link="Networking"], y estos dispositivos pueden conectarse con una multiherramienta o un configurador de red.
+  Las compuertas cortafuegos pueden conectarse a [textlink="alarmas de aire" link="AirAlarms"] y de incendio para recibir órdenes de cierre.
+  Las compuertas utilizan el [textlink="sistema de listas" link="Networking"] y pueden vincularse mediante una multiherramienta o un configurador de red.
 
   <Box>
     <GuideEntityEmbed Entity="Firelock" Caption=""/>
@@ -49,9 +49,9 @@
   Cada cerradura cortafuegos tiene su propia dirección única. El proceso de conectar ventilaciones, depuradores y sensores a las alarmas de aire es muy similar.
 
   ## Trabaja bajo alarma de aire
-  Cuando se conecta a una alarma de aire, las esclusas de incendio también se bajan a orden del [textlink="air alarm" link="AirAlarms"] conectado.
+  Cuando están vinculadas, las compuertas cortafuegos también se cierran por orden de la [textlink="alarma de aire" link="AirAlarms"] conectada.
 
-  Las esclusas de aire contra incendios se bajarán si la alarma de aire alcanza el estado de alarma [color=red]Danger[/color]. Permanecerán bajadas hasta que la alarma vuelva a [color=green]Green[/color].
+  Las compuertas cortafuegos se cerrarán si la alarma de aire alcanza el estado [color=red]Peligro[/color]. Permanecerán cerradas hasta que la alarma vuelva al estado [color=green]Normal[/color].
 
   Las esclusas de aire contra incendios en modo de bloqueo no se activarán aunque la alarma vuelva a [color=green]Green[/color]. Aunque se elimine la caída de presión, la esclusa permanecerá bajada hasta que la alarma de ataque aéreo vuelva a emitir un estado verde.
 
@@ -65,9 +65,9 @@
     <GuideEntityEmbed Entity="FireAlarm"/>
   </Box>
 
-  Los dispositivos con sensores pueden [textlink="bind" link="Networking"] a las alarmas de incendio. Se activarán si el sensor alcanza el umbral de temperatura del [color=red]Danger[/color] establecido por sus ajustes.
+  Los dispositivos con sensores pueden [textlink="vincularse" link="Networking"] con las alarmas de incendio. Se activarán si el sensor alcanza el umbral de temperatura de [color=red]Peligro[/color] definido en su configuración.
 
-  Cuando se activa la alarma de incendios, todas las esclusas de emergencia conectadas reciben un estado de alarma [color=red]Danger[/color] y se bajan.
+  Cuando se activa la alarma de incendios, todas las compuertas de emergencia vinculadas reciben el estado [color=red]Peligro[/color] y se cierran.
 
   La alarma se reinicia automáticamente cuando el sensor vuelve al umbral de temperatura [color=green]Normal[/color].
 

@@ -1,29 +1,29 @@
 ﻿<Document>
-  # Состояния
+  # Estados
 
-  Горящий человек обладает несколькими уникальными состояниями, определяющими его возможности и механики.
+  El Hombre Ardiente posee varios estados únicos que determinan sus capacidades y mecánicas.
 
-  Будучи SCP-457 или персоналом комплекса, вы можете определить состояние с помощью размера спрайта SCP-457.
+  Tanto SCP-457 como el personal del complejo pueden determinar su estado observando el tamaño de su sprite.
 
-  [textlink="Общая информация о горящем человеке" link="Scp457About"]
+  [textlink="Información general sobre el Hombre Ardiente" link="Scp457About"]
 
-  ## Среднее
+  ## Mediano
 
-  В данном состоянии горящий человек не может залезать в вентиляцию и не разрушает структуры при столкновении. Это стандартное состояние, в котором находится объект после появления в раунде.
+  En este estado, el Hombre Ardiente no puede entrar en los conductos ni destruye estructuras al chocar con ellas. Es su estado predeterminado al aparecer en la ronda.
 
-  Чтобы перейти в другое состояние ему требуется поглотить достаточное количество топлива или дождаться, пока он потухнет.
+  Para cambiar de estado debe absorber suficiente combustible o esperar a que sus llamas pierdan intensidad.
 
-  ## Маленькое
+  ## Pequeño
 
-  В данном состоянии горящий человек имеет маленький урон и здоровье, но может залезть в вентиляцию и проходить сквозь гермозатворы со шлюзами.
-  Горящий человек переходит в это состояние после 12 минут от начала раунда.
+  En este estado, el Hombre Ardiente tiene poca salud y causa poco daño, pero puede entrar en los conductos y atravesar compuertas y esclusas.
+  Alcanza este estado 12 minutos después del inicio de la ronda.
 
-  Учтите, что в течение первых 15 минут с начала раунда вы не сможете входить в вентиляцию в маленьком состоянии!
+  Ten en cuenta que durante los primeros 15 minutos de la ronda no podrás entrar en los conductos aunque estés en el estado pequeño.
 
-  [textlink="Подробнее про механику безопасного времени" link="Scp457Abilities"]
+  [textlink="Más información sobre la mecánica de tiempo de seguridad" link="Scp457Abilities"]
 
-  ## Большое
+  ## Grande
 
-  Перейдя в данное состояние, объект будет очень большим и сильным, а также сможет ломать структуры при столкновении с ними.
-  Горящий человек переходит в это состояние после поглощения достаточного количества топлива.
+  En este estado, el objeto se vuelve muy grande y fuerte, y puede destruir estructuras al chocar con ellas.
+  El Hombre Ardiente alcanza este estado después de absorber suficiente combustible.
 </Document>

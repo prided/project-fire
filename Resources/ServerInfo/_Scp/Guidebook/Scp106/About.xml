@@ -1,31 +1,31 @@
 ﻿<Document>
-  # SCP-106 "Старик"
+  # SCP-106 "El Viejo"
 
-  Данное руководство расскажет о том, чем является объект в рамках игры и ее механик. Здесь НЕ будет затронута "лорная" часть объекта.
+  Esta guía explica cómo funciona el objeto dentro del juego y cuáles son sus mecánicas. No aborda el lore del objeto.
 
-  Данная страница является сборником ссылок на другие, более подробные руководства по объекту, и краткое описание раздела.
+  Esta página reúne enlaces a guías más detalladas sobre el objeto y ofrece una breve descripción de cada sección.
 
-  ## Начало раунда
+  ## Inicio de la ronda
 
-  В стартовой точке, начале раунда или после появления, SCP-106 находится в своей камере содержания.
-  Камера содержания представляет собой сдерживающую меру, препятствующую вреду персоналу комплекса.
+  Al inicio de la ronda o después de aparecer, SCP-106 se encuentra en su cámara de contención.
+  La cámara impide que el objeto cause daño al personal del complejo.
 
-  Пока объект находится в ней - он практически не представляет угрозы.
+  Mientras permanezca dentro, prácticamente no representa una amenaza.
 
-  - Задача персонала комплекса: сдерживать объект внутри камеры содержания.
-  - Задача SCP-106: Покинуть камеру содержания.
+  - Objetivo del personal del complejo: mantener al objeto dentro de la cámara de contención.
+  - Objetivo de SCP-106: escapar de la cámara de contención.
 
-  [textlink="Подробнее о сдерживании здесь" link="Scp106Containment"]
+  [textlink="Más información sobre la contención" link="Scp106Containment"]
 
-  ## Фантом
+  ## Fantasma
 
-  Фантом является ключевой механикой, необходимой для побега SCP-106.
+  El fantasma es una mecánica esencial para la fuga de SCP-106.
 
-  [textlink="Подробнее о методах побега здесь." link="Scp106ContainmentBreach"]
+  [textlink="Más información sobre los métodos de fuga" link="Scp106ContainmentBreach"]
 
-  ## Способности
+  ## Habilidades
 
-  Старик обладает множеством уникальных способностей, одна из которых является ключевой механикой, позволяющей сбежать из камеры содержания.
+  El Viejo posee numerosas habilidades únicas. Una de ellas es la mecánica principal que le permite escapar de la cámara de contención.
 
-  [textlink="Подробнее про способности здесь" link="Scp106Abilities"]
+  [textlink="Más información sobre las habilidades" link="Scp106Abilities"]
 </Document>

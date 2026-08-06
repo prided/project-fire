@@ -5,10 +5,10 @@
   A diferencia de grupos dispersos de piratas, los combatientes soviéticos suelen trabajar en escuadras: líder + tiradores + médico.
 
   # Soldados del ejército regular
-  [bold][color=#a4885c]General Características: [/color][/bold]
-  - [bold][color=#a4885c]Health: [/color][/bold] normalmente 100; Los médicos tienen 80
-  - [bold][color=#a4885c]Speed:[/color][/bold] 3,5 m/s (patrones básicos de tiro)
-  - [bold][color=#a4885c]Flak[/color][/bold] [color=red]Blunt[/color] 15% [color=red]Slash[/color] 15% [color=yellow]Piercing[/color] 45% [color=orange]Heat[/color] 40%
+  [bold][color=#a4885c]Características generales: [/color][/bold]
+  - [bold][color=#a4885c]Salud: [/color][/bold] normalmente 100; Los médicos tienen 80
+  - [bold][color=#a4885c]Velocidad:[/color][/bold] 3,5 m/s (patrones básicos de tiro)
+  - [bold][color=#a4885c]Protección[/color][/bold] [color=red]Contundente[/color] 15 % [color=red]Cortante[/color] 15 % [color=yellow]Perforante[/color] 45 % [color=orange]Térmico[/color] 40 %
   - [bold][color=#a4885c]Features:[/color][/bold] Blindaje estándar débil, presión en número, munición de alta calidad y lanzamiento de granadas explosivas.
 
   <Box>
@@ -29,10 +29,10 @@
   - [bold][color=#a4885c]Roles[/color][/bold] Sargentos de Escuadra, Fusileros, Ametralladores, Ametralladores y Sanitarios.
 
   # Cazas aerotransportados
-  [bold][color=#a4885c]General Características: [/color][/bold]
-  - [bold][color=#a4885c]Health: [/color][/bold] normalmente 100; Los médicos tienen 80
-  - [bold][color=#a4885c]Speed: [/color][/bold] base 3,5 m/s, los Marines tienen una velocidad de hasta 4,5 m/s
-  - [bold][color=#a4885c]Armor Protección: [/color][/bold] 15% / 50% (normalmente [color=red]Blunt[/color] y [color=red]Slash[/color] alrededor del 15%, [color=yellow]Piercing[/color] al 50%)
+  [bold][color=#a4885c]Características generales: [/color][/bold]
+  - [bold][color=#a4885c]Salud: [/color][/bold] normalmente 100; Los médicos tienen 80
+  - [bold][color=#a4885c]Velocidad: [/color][/bold] base de 3,5 m/s; los marines alcanzan hasta 4,5 m/s
+  - [bold][color=#a4885c]Protección de la armadura: [/color][/bold] 15 % / 50 % (normalmente [color=red]contundente[/color] y [color=red]cortante[/color] alrededor del 15 %, [color=yellow]perforante[/color] al 50 %)
   - [bold][color=#a4885c]Features:[/color][/bold] salto/rodamiento, equipamiento más denso, roles de avance mejorados
 
   <Box>
@@ -57,11 +57,11 @@
   En combate, esto significa una presión constante más sostenida y menos objetivos "individuales".
 
   # Comandantes y Apoyo Pesado
-  [bold][color=#a4885c]General Características: [/color][/bold]
-  - [bold][color=#a4885c]Captain: [/color][/bold] velocidad de 4,5 m/s, papel de líder y refuerzo de fuego
+  [bold][color=#a4885c]Características generales: [/color][/bold]
+  - [bold][color=#a4885c]Capitán: [/color][/bold] velocidad de 4,5 m/s, función de liderazgo y apoyo de fuego
   - [bold][color=#a4885c]Light Mech (Martillo): [/color][/bold] 300 HP, blindaje de casco aumentado
   - [bold][color=#a4885c]Heavy Mech: [/color][/bold] 400 HP, máxima durabilidad y supresión
-  - [bold][color=#a4885c]War Osos: [/color][/bold] hasta 300 de vida, alto daño cuerpo a cuerpo
+  - [bold][color=#a4885c]Osos de guerra: [/color][/bold] hasta 300 de salud y gran daño cuerpo a cuerpo
 
   <Box>
   <GuideEntityEmbed Entity="MobSovietCaptain" Caption=""/>
@@ -74,5 +74,5 @@
   <GuideEntityEmbed Entity="MobSovietSpaceBear" Caption=""/>
   </Box>
 
-  - [bold][color=#a4885c]Threat: [/color][/bold] ¡TIENEN UN OSO PELEADOR!
+  - [bold][color=#a4885c]Amenaza: [/color][/bold] ¡DISPONEN DE UN OSO DE COMBATE!
 </Document>

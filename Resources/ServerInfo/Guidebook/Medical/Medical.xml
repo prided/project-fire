@@ -1,20 +1,20 @@
 <Document>
-# Medical
-This is the department where people go to when they're hurt, it's up to the folks working here to fix them.
+# Departamento médico
+Este departamento recibe y trata al personal herido.
 
-## Personnel
-[color=#5b97bc]Medical[/color]'s staff is made up of Medical Interns, Medical Doctors, Paramedics and Chemists. [color=#5b97bc]Medical[/color] is run by the Chief Medical Officer.
+## Personal
+El personal de [color=#5b97bc]medicina[/color] está compuesto por médicos internos, médicos, paramédicos y químicos. El director médico dirige el departamento de [color=#5b97bc]medicina[/color].
 
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineMedicalDoctor" Caption="Doctor"/>
-    <GuideEntityEmbed Entity="ToyFigurineParamedic" Caption="Paramedic"/>
-    <GuideEntityEmbed Entity="ToyFigurineChemist" Caption="Chemist"/>
-    <GuideEntityEmbed Entity="ToyFigurineChiefMedicalOfficer" Caption="CMO"/>
+    <GuideEntityEmbed Entity="ToyFigurineMedicalDoctor" Caption="Médico"/>
+    <GuideEntityEmbed Entity="ToyFigurineParamedic" Caption="Paramédico"/>
+    <GuideEntityEmbed Entity="ToyFigurineChemist" Caption="Químico"/>
+    <GuideEntityEmbed Entity="ToyFigurineChiefMedicalOfficer" Caption="Director médico"/>
   </Box>
   
-Right now, medbay is divided into two different sets of care:
+La enfermería se divide en dos áreas principales:
 
-## Medical Treatment
+## Tratamiento médico
   <Box>
     <GuideEntityEmbed Entity="Brutepack"/>
     <GuideEntityEmbed Entity="Bloodpack"/>
@@ -22,7 +22,7 @@ Right now, medbay is divided into two different sets of care:
     <GuideEntityEmbed Entity="Gauze"/>
     <GuideEntityEmbed Entity="HandheldHealthAnalyzer"/>
   </Box>
-## Chemical Production
+## Producción química
   <Box>
     <GuideEntityEmbed Entity="ChemDispenser"/>
     <GuideEntityEmbed Entity="LargeBeaker"/>

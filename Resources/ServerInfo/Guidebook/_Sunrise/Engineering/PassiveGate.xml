@@ -1,11 +1,11 @@
 <Document>
-  # Puerta Pasiva
+  # Compuerta pasiva
   Una puerta pasiva es una válvula unidireccional que permite que el gas fluya en una sola dirección.
   <Box>
     <GuideEntityEmbed Entity="GasPassiveGate"/>
   </Box>
 
-  La pasarela pasiva no requiere [textlink="nutrition" link="Power"] y no tiene interfaz de configuración.
+  La compuerta pasiva no requiere [textlink="energía" link="Power"] y no tiene interfaz de configuración.
 
   Es útil donde el gas debe moverse libremente hacia adelante, pero no hacia atrás, como en líneas de descarga simples o derivaciones protectoras.
 </Document>

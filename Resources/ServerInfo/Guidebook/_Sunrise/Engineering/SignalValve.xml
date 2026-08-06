@@ -1,17 +1,17 @@
 <Document>
   # Válvula de alarma
-  Una válvula de señal es una válvula que puede ser accionada a través de [textlink="signals" link="Networking"].
+  Una válvula de señal puede accionarse mediante [textlink="señales" link="Networking"].
   <Box>
     <GuideEntityEmbed Entity="SignalControlledValve"/>
   </Box>
 
   Una válvula de señal es similar a una válvula manual. El gas puede fluir libremente en ambas direcciones, y la propia válvula puede conmutarse manualmente.
 
-  La válvula de alarma tiene 3 [textlink="alarm" link="Networking"] de entrada: abierto, cerrado y estado de alternación.
+  La válvula dispone de tres entradas de [textlink="señal" link="Networking"]: abrir, cerrar y alternar estado.
 
   Las válvulas de señal pueden utilizarse en una variedad de aplicaciones, tales como:
   - Control remoto de válvulas en zonas peligrosas o inaccesibles
   - Control cómodo de válvulas en zonas de difícil acceso
-  - Automatización con otras máquinas y equipos [textlink="signal" link="Networking"], por ejemplo, [textlink="air alarms" link="AirAlarms"] y alarmas remotas
+  - Automatización mediante [textlink="señales" link="Networking"] con otras máquinas y equipos, por ejemplo, [textlink="alarmas atmosféricas" link="AirAlarms"] y alarmas remotas
 
 </Document>

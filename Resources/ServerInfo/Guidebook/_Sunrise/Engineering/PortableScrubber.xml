@@ -5,16 +5,16 @@
     <GuideEntityEmbed Entity="PortableScrubber"/>
   </Box>
 
-  Es indispensable para eliminar rápidamente los gases no deseados de la habitación cuando los [textlink="scrubbers" link="AirScrubber"] normales son demasiado lentos o cuando no hay [textlink="scrubber" link="AirScrubber"] presentes.
+  Es indispensable para eliminar rápidamente gases no deseados de una sala cuando los [textlink="depuradores" link="AirScrubber"] convencionales son demasiado lentos o cuando no hay ningún [textlink="depurador" link="AirScrubber"] disponible.
 
-  Un depurador portátil debe [textlink="powered" link="Power"] por el [textlink="LV-cable" link="VoltageNetworks"] más cercano.
+  Un depurador portátil debe recibir [textlink="energía" link="Power"] mediante el [textlink="cable de baja tensión" link="VoltageNetworks"] más cercano.
 
   El depurador portátil comienza automáticamente a eliminar todos los gases no respirables de la habitación cuando se atornilla al suelo con una llave inglesa.
 
-  Dejará de purificar el aire si se desenrosca del suelo o si se llena su volumen interno. La capacidad interna del depurador es [color=orange][protodata="PortableScrubber" comp="PortableScrubber" member="Volume"/] liters[/color].
+  Dejará de purificar el aire si se desacopla del suelo o si se llena su volumen interno. La capacidad interna del depurador es de [color=orange][protodata="PortableScrubber" comp="PortableScrubber" member="Volume"/] litros[/color].
 
   ## Vertido y almacenamiento de residuos
-  El volumen interno del depurador puede vaciarse asegurándolo con una llave inglesa en la [textlink="connector" link="GasCanisters"].
+  El volumen interno del depurador puede vaciarse asegurándolo con una llave inglesa sobre un [textlink="conector" link="GasCanisters"].
 
   Las estaciones suelen tener un punto de descarga separado para transferir rápidamente los residuos del depurador a la red de residuos de la estación.
 

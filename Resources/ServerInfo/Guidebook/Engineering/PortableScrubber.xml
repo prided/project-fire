@@ -1,21 +1,21 @@
-﻿<Document>
-  # Portable Scrubber
-  The portable scrubber is a portable machine that can be used to scrub the atmosphere in a room.
+<Document>
+  # Depurador portátil
+  El depurador portátil es una máquina móvil que elimina gases no deseados de la atmósfera de una sala.
   <Box>
     <GuideEntityEmbed Entity="PortableScrubber"/>
   </Box>
 
-  It is invaluable for quickly removing unwanted gasses from a room when regular [textlink="scrubbers" link="AirScrubber"] are working too slow, or when a [textlink="scrubber" link="AirScrubber"] is not present.
+  Resulta indispensable para limpiar rápidamente una zona cuando los [textlink="depuradores" link="AirScrubber"] normales funcionan con demasiada lentitud o no hay un [textlink="depurador" link="AirScrubber"] instalado.
 
-  The portable scrubber requires [textlink="power" link="Power"] through a nearby [textlink="LV cable" link="VoltageNetworks"] to function.
+  Para funcionar, el depurador portátil requiere [textlink="energía" link="Power"] mediante un [textlink="cable de baja tensión" link="VoltageNetworks"] cercano.
 
-  The portable scrubber automatically starts removing all non-breathable gasses from the room when it is bolted (wrenched) to the floor.
+  Al fijarlo al suelo con una llave, comienza a retirar automáticamente todos los gases no respirables de la sala.
 
-  It will stop scrubbing when unbolted (unwrenched) from the floor or when its internal volume is full. The scrubber has an internal capacity of [color=orange][protodata="PortableScrubber" comp="PortableScrubber" member="Volume"/] liters[/color].
+  La depuración se detiene al soltarlo del suelo o cuando se llena su volumen interno. La capacidad es de [color=orange][protodata="PortableScrubber" comp="PortableScrubber" member="Volume"/] litros[/color].
 
-  ## Dumping Waste and Storage
-  The scrubber's internal volume can be emptied by anchoring (wrenching) onto a [textlink="connector" link="GasCanisters"].
+  ## Descarga de residuos y almacenamiento
+  El volumen interno puede vaciarse al fijar el depurador sobre un [textlink="conector" link="GasCanisters"].
 
-  Stations commonly have a dedicated emptying point to quickly transfer the waste from the scrubber to the station's wastenet.
+  Las estaciones suelen disponer de un punto específico para transferir rápidamente los residuos hacia la red correspondiente.
 
 </Document>

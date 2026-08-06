@@ -1,9 +1,9 @@
-﻿<Document>
-  # Voltage Networks
-  In Space Station 14, power distribution is divided into three separate voltage networks.
-  These networks are the [color=green]Low Voltage[/color] Network, the [color=Yellow]Medium Voltage[/color] Network, and the [color=orange]High Voltage[/color] Network.
+<Document>
+  # Redes de tensión
+  En Space Station 14, la distribución eléctrica se divide en tres redes independientes.
+  Estas son las redes de [color=green]baja tensión[/color], [color=Yellow]media tensión[/color] y [color=orange]alta tensión[/color].
 
-  These networks power different types of machinery on the station.
+  Cada una alimenta distintas categorías de maquinaria.
 
   <Box>
     <GuideEntityEmbed Entity="CableHVStack"/>
@@ -11,8 +11,8 @@
     <GuideEntityEmbed Entity="CableApcStack"/>
   </Box>
 
-  ## Low Voltage Network
-  The [color=green]Low Voltage[/color] Network is used for powering almost all small machines on the station. This includes things like lights, computers, and other small devices.
+  ## Red de baja tensión
+  La red de [color=green]baja tensión[/color] alimenta casi todas las máquinas pequeñas, como luces, computadoras y otros dispositivos.
 
   <Box>
     <GuideEntityEmbed Entity="PoweredSmallLight" Caption=""/>
@@ -24,18 +24,18 @@
     <GuideEntityEmbed Entity="AlwaysPoweredWallLight" Caption=""/>
   </Box>
 
-  [color=green]Low Voltage[/color] power is provided by APCs, which are wall-mounted devices that convert power from the [color=Yellow]Medium Voltage[/color] Network to [color=green]Low Voltage[/color].
+  Los APC suministran [color=green]baja tensión[/color]. Son dispositivos murales que convierten energía de la red de [color=Yellow]media tensión[/color] a [color=green]baja tensión[/color].
 
   <Box>
     <GuideEntityEmbed Entity="APCBasic"/>
   </Box>
 
-  [color=green]Low Voltage[/color] wire doesn't have to be directly run to every machine, as it can power multiple machines as long as the wire is close enough to the machine.
-  It can power machines within 2 tiles radially, and 3 tiles in each cardinal direction.
+  El cable de [color=green]baja tensión[/color] no debe conectarse directamente a cada máquina. Puede alimentar varios equipos siempre que se encuentre cerca.
+  Su alcance es de 2 casillas en radio y 3 casillas en cada dirección cardinal.
 
-  ## Medium Voltage Network
-  The [color=Yellow]Medium Voltage[/color] Network is used for powering APCs and other power-hungry machinery that can only accept [color=Yellow]Medium Voltage[/color] power.
-  The Particle Accelerator is an example, as it operates on [color=Yellow]Medium Voltage[/color] power.
+  ## Red de media tensión
+  La red de [color=Yellow]media tensión[/color] alimenta APC y maquinaria de alto consumo compatible únicamente con [color=Yellow]media tensión[/color].
+  El Particle Accelerator es un ejemplo, ya que utiliza [color=Yellow]media tensión[/color].
 
   <Box>
     <GuideEntityEmbed Entity="ParticleAcceleratorEndCap" Caption="" Margin="0"/>
@@ -58,12 +58,12 @@
   </Box>
 
   <Box>
-    [color=#999999][italic]The Particle Accelerator[italic][/color]
+    [color=#999999][italic]Particle Accelerator[italic][/color]
   </Box>
 
-  [color=Yellow]Medium Voltage[/color] power is provided by Substations, which are large machines that convert power from the [color=Orange]High Voltage[/color] Network to [color=Yellow]Medium Voltage[/color].
+  Las subestaciones suministran [color=Yellow]media tensión[/color]. Son máquinas grandes que convierten energía procedente de la red de [color=Orange]alta tensión[/color] a [color=Yellow]media tensión[/color].
 
-  There are also wallmount variants of these substations for compact spaces, like shuttles.
+  También existen versiones murales para espacios reducidos, como los transbordadores.
   <Box HorizontalAlignment="Stretch">
     <Box>
       <GuideEntityEmbed Entity="SubstationBasic"/>
@@ -73,10 +73,10 @@
     </Box>
   </Box>
 
-  ## High Voltage Network
-  The [color=Orange]High Voltage[/color] Network is used for moving large amount of power across the station. It is used to power most power handling equipment, such as SMES units and Substations.
+  ## Red de alta tensión
+  La red de [color=Orange]alta tensión[/color] transporta grandes cantidades de energía por la estación. Alimenta la mayoría de los equipos de gestión eléctrica, como unidades SMES y subestaciones.
 
-  Most high-output generators output power to the [color=Orange]High Voltage[/color] Network.
+  La mayoría de los generadores de gran capacidad entrega energía a la red de [color=Orange]alta tensión[/color].
 
   <Box>
     <GuideEntityEmbed Entity="SMESBasic"/>
@@ -85,11 +85,11 @@
     <GuideEntityEmbed Entity="SubstationBasic"/>
   </Box>
 
-  ## Shock Damage
-  If you are shocked by a cable carrying power, you will take damage. The amount of damage you take is based on the voltage of the cable that shocked you.
+  ## Daño por descarga
+  Un cable energizado puede causar daño. La gravedad depende de su tensión.
 
-  [color=green]Low Voltage[/color] cables will deal less damage than [color=Yellow]Medium Voltage[/color] cables, which will deal less damage than [color=Orange]High Voltage[/color] cables.
+  Los cables de [color=green]baja tensión[/color] causan menos daño que los de [color=Yellow]media tensión[/color], y estos menos que los de [color=Orange]alta tensión[/color].
 
-  Energized [color=Orange]High Voltage[/color] and [color=Yellow]Medium Voltage[/color] cabling hurts, so be sure to wear insulated gloves when working with it.
+  El cableado energizado de [color=Orange]alta tensión[/color] y [color=Yellow]media tensión[/color] es peligroso. Utilice guantes aislantes.
 
 </Document>

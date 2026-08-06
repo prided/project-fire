@@ -1,9 +1,9 @@
 <Document>
 # Mando
-Los jefes de cada departamento se reúnen para formar el departamento de [color=#1b67a5]Mando[/color], una fuerza que no debe subestimarse y la encargada de dirigir la estación. Por lo general, tienen acceso a equipo especial y a sus propias oficinas. A menudo hay gente que los quiere muertos.
+Los jefes de cada departamento conforman el departamento de [color=#1b67a5]Mando[/color], una autoridad considerable responsable de dirigir la estación. Por lo general, disponen de equipo especializado y oficinas propias. Con frecuencia son objetivos prioritarios.
 
 ## Personal
-El departamento de [color=#1b67a5]Mando[/color] está formado por los jefes de cada departamento: el [color=#9fed58]Jefe de Personal[/color], el [color=#cb0000]Jefe de Seguridad[/color], el [color=#5b97bc]Director Médico[/color], el [color=#f39f27]Ingeniero Jefe[/color], el [color=#c96dbf]Director de Investigación[/color], el [color=#b18644]Intendente[/color] y, por encima de todos, el [color=#1b67a5]Capitán[/color].
+El [color=#1b67a5]Mando[/color] está integrado por los jefes de cada departamento: el [color=#9fed58]Jefe de Personal[/color], el [color=#cb0000]Jefe de Seguridad[/color], el [color=#5b97bc]Director Médico[/color], el [color=#f39f27]Ingeniero Jefe[/color], el [color=#c96dbf]Director de Investigación[/color], el [color=#b18644]Intendente[/color] y, por encima de todos, el [color=#1b67a5]Capitán[/color].
   <Box>
     <GuideEntityEmbed Entity="ToyFigurineCaptain" Caption="Capitán"/>
   </Box>
@@ -19,37 +19,37 @@ El departamento de [color=#1b67a5]Mando[/color] está formado por los jefes de c
   </Box>
 
 ## Asumir el mando
-¡Felicidades por tu ascenso! Además de todo el papeleo adicional, tus nuevas [color=#a4885c]responsabilidades[/color] incluyen dirigir el departamento, realizar cambios y establecer prioridades, mantener a salvo al personal y al equipo, y holgazanear mientras tus compinches hacen todo el trabajo.
+Felicitaciones por el ascenso. Además de toda la documentación adicional, sus nuevas [color=#a4885c]responsabilidades[/color] incluyen dirigir el departamento, establecer cambios y prioridades, proteger al personal y el equipo, y supervisar el trabajo de sus subordinados.
 
-No olvides que todavía tienes un trabajo. Tus herramientas elegantes no te dan el día libre: aún debes cubrir la falta de personal, ayudar a quienes estén teniendo dificultades y enseñarles a los recién llegados.
+No olvide que todavía tiene una función que cumplir. El equipo especial no lo exime del servicio: deberá cubrir la falta de personal, asistir a quienes tengan dificultades y capacitar a los nuevos integrantes.
 
-Tal vez puedas limitarte a permanecer sentado mientras todos te guardan rencor, pero es más sensato mantenerte activo y trabajar junto a ellos.
-Recuerda reasignar a tus trabajadores para que hagan lo que les gusta o aquello en lo que son mejores.
+Puede limitarse a impartir órdenes desde su oficina, pero es más conveniente participar activamente y trabajar junto al personal.
+Reasigne a los trabajadores cuando sea necesario para aprovechar mejor sus preferencias y capacidades.
 
-## Tu casillero
+## Su casillero
 
-Para afrontar tus nuevas y demoledoras responsabilidades, cada jefe recibe objetos especiales con los que puede dirigir a sus subordinados. La mayoría de tus nuevas y relucientes herramientas se encuentran en tu [color=#a4885c]casillero[/color].
+Para cumplir sus nuevas obligaciones, cada jefe recibe artículos especiales destinados a dirigir a sus subordinados. La mayoría de estas herramientas se encuentra en su [color=#a4885c]casillero[/color].
   <Box>
     <GuideEntityEmbed Entity="LockerCaptain"/>
   </Box>
 
-Tu [color=#a4885c]control remoto[/color] es muy sencillo, pero está profundamente subestimado. Aunque es pequeño, puede abrir y cerrar [color=#a4885c]esclusas[/color], activar sus [color=#a4885c]cerrojos[/color] para bloquearlas o alternar el [color=#a4885c]acceso de emergencia[/color]. Todo esto puede hacerse a distancia.
+Su [color=#a4885c]control remoto[/color] es sencillo, pero suele subestimarse. Puede abrir y cerrar [color=#a4885c]esclusas[/color], accionar los [color=#a4885c]pernos[/color] para bloquearlas y activar o desactivar el [color=#a4885c]acceso de emergencia[/color], todo a distancia.
   <Box>
     <GuideEntityEmbed Entity="DoorRemoteCommand"/>
   </Box>
-El control remoto influye en la forma en que las personas se desplazan. Los jefes pueden impedir que el personal entre en zonas peligrosas o permitirle pasar rápidamente para recoger algo.
+El control remoto permite regular el desplazamiento del personal. Los jefes pueden restringir el acceso a zonas peligrosas o permitir una entrada breve para recuperar un objeto.
 
-También tienes acceso a tu propio canal de [color=#1b67a5]Mando[/color], al igual que los demás departamentos. Sin embargo, el tuyo es especialmente importante porque quienes pueden escucharte tienen [color=#a4885c]departamentos enteros[/color] bajo su responsabilidad.
-Úsalo para comunicarte con otros jefes y representar las necesidades de tus trabajadores.
+También dispone de acceso al canal de [color=#1b67a5]Mando[/color], como ocurre con los demás departamentos. Sin embargo, este canal es especialmente importante porque quienes lo escuchan tienen [color=#a4885c]departamentos completos[/color] bajo su responsabilidad.
+Utilícelo para coordinarse con los demás jefes y representar las necesidades del personal a su cargo.
 
-El [color=#1b67a5]Capitán[/color] y el [color=#9fed58]Jefe de Personal[/color] tienen acceso a la valiosa [color=#a4885c]clave maestra de cifrado[/color], que les permite sintonizar todos los canales de radio de la estación. Es extremadamente útil, ya que te permite coordinar directamente a los departamentos.
-[color=#a4885c]¡No desperdicies esta ventaja vital![/color]
+El [color=#1b67a5]Capitán[/color] y el [color=#9fed58]Jefe de Personal[/color] tienen acceso a la valiosa [color=#a4885c]clave de cifrado maestra[/color], que permite escuchar todos los canales de radio de la estación. Es una ventaja esencial para coordinar directamente a los departamentos.
+[color=#a4885c]No desperdicie esta ventaja operativa.[/color]
   <Box>
     <GuideEntityEmbed Entity="ClothingHeadsetCommand"/>
     <GuideEntityEmbed Entity="EncryptionKeyStationMaster"/>
   </Box>
 
-Para hacer todavía más difícil de manejar el pantano de papeleo que sin duda te abrumará, generosamente te han dado un [color=#a4885c]sello[/color] en tu casillero. Úsalo para firmar documentos. Después de sellarlos, ya no podrán editarse, así que revísalos primero.
+Para formalizar la documentación administrativa, se le ha proporcionado un [color=#a4885c]sello[/color] dentro del casillero. Úselo para firmar documentos. Una vez sellados, ya no podrán editarse; revíselos antes.
   <Box>
     <GuideEntityEmbed Entity="RubberStampCaptain"/>
   </Box>

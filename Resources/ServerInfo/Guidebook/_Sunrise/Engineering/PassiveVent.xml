@@ -1,11 +1,11 @@
 <Document>
   # Ventilación pasiva
-  La ventilación pasiva conecta [textlink="pipeline network" link="PipeNetworks"] con la atmósfera circundante sin necesidad de bomba.
+  La ventilación pasiva conecta una [textlink="red de tuberías" link="PipeNetworks"] con la atmósfera circundante sin necesidad de una bomba.
   <Box>
     <GuideEntityEmbed Entity="GasPassiveVent"/>
   </Box>
 
-  No requiere [textlink="nutrition" link="Power"] y simplemente permite que el gas fluya de forma natural entre la tubería y la atmósfera a lo largo de la diferencia de presión.
+  No requiere [textlink="energía" link="Power"] y permite que el gas fluya de forma natural entre la tubería y la atmósfera debido a la diferencia de presión.
 
   La ventilación pasiva es útil para instalaciones de almacenamiento de gas, cámaras de combustión y otros sistemas donde se requiere un intercambio de gases libre sin control activo.
 </Document>

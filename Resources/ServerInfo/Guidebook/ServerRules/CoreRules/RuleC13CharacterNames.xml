@@ -1,76 +1,76 @@
 <Document>
-  # Core Rule 13 - Use realistic character names, and do not use names of famous people
-  - No names of people or characters from the real world
-  - No titles/honorifics
-  - Must follow all other rules (no slurs/sexual names/etc)
-  - Usernames, objects, random characters, very "low effort" names, "meta" names, or otherwise implausible names cannot be used as names. See examples below.
-  - Admin rulings on IC names are final and disputes should be done through the forums, not by refusing to comply with an admin
+  # Regla básica 13: Utilice nombres de personaje realistas y no use nombres de personas famosas
+  - No se permiten nombres de personas o personajes del mundo real.
+  - No se permiten títulos ni tratamientos honoríficos.
+  - Los nombres deben cumplir todas las demás reglas; no se permiten insultos, referencias sexuales ni contenidos similares.
+  - No pueden utilizarse como nombres los nombres de usuario, objetos, caracteres aleatorios, nombres evidentemente improvisados, nombres «meta» u otros nombres inverosímiles. Consulte los ejemplos siguientes.
+  - Las decisiones de la administración sobre los nombres dentro del personaje son definitivas. Cualquier impugnación debe realizarse mediante los foros, no mediante la negativa a cumplir una instrucción administrativa.
 
-  Clowns and mimes are exempt from the prohibition on titles/honorifics, and have loosened restrictions on low effort and implausible names.
+  Los payasos y mimos están exentos de la prohibición sobre títulos y tratamientos honoríficos, y se les aplican restricciones menos estrictas respecto de los nombres improvisados o inverosímiles.
 
-  ## Clarification on "Meta" Names
-  Meta names are ones which attempt to take advantage of some game mechanic or game design choice. "Urist McHands" is a meta name because it is the default name used for admin spawned humans. "Operator Whiskey" is a meta name because it follows the naming pattern of nuclear operatives. This rule is not intended to prevent things like nuclear operatives using a fake ID with names that appear to be nuclear operative names if they decide that they want to do that.
+  ## Aclaración sobre los nombres «meta»
+  Los nombres meta son aquellos que intentan aprovechar una mecánica o una decisión de diseño del juego. «Urist McHands» es un nombre meta porque es el nombre predeterminado de los humanos generados por la administración. «Operator Whiskey» es un nombre meta porque sigue el patrón de nombres de los agentes nucleares. Esta regla no pretende impedir, por ejemplo, que los agentes nucleares utilicen una identificación falsa con nombres que parezcan propios de agentes nucleares si deciden hacerlo.
 
-  ## Conventions and Examples
-  [color=#994444]Bad[/color] cannot be used by any species. [color=#449944]Acceptable[/color] names can be used by any species.
+  ## Convenciones y ejemplos
+  Los nombres marcados como [color=#994444]incorrectos[/color] no pueden ser utilizados por ninguna especie. Los nombres [color=#449944]aceptables[/color] pueden ser utilizados por cualquier especie.
 
-  Humans typically use the Firstname Lastname convention.
-  - [color=#449944]Acceptable:[/color] Tom Fisher
-  - [color=#449944]Acceptable:[/color] Spacey Chapman
-  - [color=#994444]Bad:[/color] Dr. Tom Fisher
-  - [color=#994444]Bad:[/color] Walter White
-  - [color=#994444]Bad:[/color] George Washington
-  - [color=#994444]Bad:[/color] Joe Biden
-  - [color=#994444]Bad:[/color] Ben Dover
-  - [color=#994444]Bad:[/color] Mike Hunt
+  Los humanos suelen utilizar la convención Nombre Apellido.
+  - [color=#449944]Aceptable:[/color] Tom Fisher
+  - [color=#449944]Aceptable:[/color] Spacey Chapman
+  - [color=#994444]Incorrecto:[/color] Dr. Tom Fisher
+  - [color=#994444]Incorrecto:[/color] Walter White
+  - [color=#994444]Incorrecto:[/color] George Washington
+  - [color=#994444]Incorrecto:[/color] Joe Biden
+  - [color=#994444]Incorrecto:[/color] Ben Dover
+  - [color=#994444]Incorrecto:[/color] Mike Hunt
 
-  Dwarfs typically use the human convention in a viking theme.
-  - [color=#449944]Acceptable:[/color] Ingrid Firebreath
-  - [color=#449944]Acceptable:[/color] Erik Lightningclaw
+  Los enanos suelen utilizar la convención humana con temática vikinga.
+  - [color=#449944]Aceptable:[/color] Ingrid Firebreath
+  - [color=#449944]Aceptable:[/color] Erik Lightningclaw
 
-  Lizards typically use the Verb-article-Noun convention.
-  - [color=#449944]Acceptable:[/color] Cleans-the-Airlocks
-  - [color=#994444]Bad:[/color] Bans-the-Admins
+  Los reptiles suelen utilizar la convención Verbo-artículo-Sustantivo.
+  - [color=#449944]Aceptable:[/color] Cleans-the-Airlocks
+  - [color=#994444]Incorrecto:[/color] Bans-the-Admins
 
-  Slimes typically have names that are onomatopoeia. A last name is optional.
-  - [color=#449944]Acceptable:[/color] Foolp Suub
-  - [color=#449944]Acceptable:[/color] Foolp
-  - [color=#994444]Bad:[/color] Slime
+  Los slimes suelen tener nombres onomatopéyicos. El apellido es opcional.
+  - [color=#449944]Aceptable:[/color] Foolp Suub
+  - [color=#449944]Aceptable:[/color] Foolp
+  - [color=#994444]Incorrecto:[/color] Slime
 
-  Diona typically have calm, nature themed, Noun of Noun style names.
-  - [color=#449944]Acceptable:[/color] Petal of Tranquility
-  - [color=#449944]Acceptable:[/color] Garden of Relaxation
-  - [color=#994444]Bad:[/color] Tree but Alive
+  Los diona suelen tener nombres serenos de temática natural con el formato Sustantivo de Sustantivo.
+  - [color=#449944]Aceptable:[/color] Petal of Tranquility
+  - [color=#449944]Aceptable:[/color] Garden of Relaxation
+  - [color=#994444]Incorrecto:[/color] Tree but Alive
 
-  Mothmen typically use latin sounding names, or light themed names.
-  - [color=#449944]Acceptable:[/color] Socrates Temnora
-  - [color=#449944]Acceptable:[/color] Sierra Lightseeker
-  - [color=#449944]Acceptable:[/color] James Nightflitter
+  Los hombres polilla suelen utilizar nombres de sonido latino o relacionados con la luz.
+  - [color=#449944]Aceptable:[/color] Socrates Temnora
+  - [color=#449944]Aceptable:[/color] Sierra Lightseeker
+  - [color=#449944]Aceptable:[/color] James Nightflitter
 
-  Arachnids typically use latin sounding names.
-  - [color=#449944]Acceptable:[/color] Argyroneta Reticulatus
-  - [color=#449944]Acceptable:[/color] Loxosceles Domesticus
-  - [color=#994444]Bad:[/color] Spider-Man
+  Los arácnidos suelen utilizar nombres de sonido latino.
+  - [color=#449944]Aceptable:[/color] Argyroneta Reticulatus
+  - [color=#449944]Aceptable:[/color] Loxosceles Domesticus
+  - [color=#994444]Incorrecto:[/color] Spider-Man
 
-  Vox typically use a single name made of random syllables, often with repeating patterns.
-  Names should not be excessively long or be so repetitive/convoluted as to be unreadable.
+  Los vox suelen utilizar un solo nombre formado por sílabas aleatorias, a menudo con patrones repetitivos.
+  Los nombres no deben ser excesivamente largos ni tan repetitivos o complejos que resulten ilegibles.
 
-  - [color=#449944]Acceptable:[/color] Hirixashahre
-  - [color=#449944]Acceptable:[/color] Xapikrikrik
-  - [color=#994444]Bad:[/color] Chipikirchitchitchitbecretretrer
-  - [color=#994444]Bad:[/color] Trololol
+  - [color=#449944]Aceptable:[/color] Hirixashahre
+  - [color=#449944]Aceptable:[/color] Xapikrikrik
+  - [color=#994444]Incorrecto:[/color] Chipikirchitchitchitbecretretrer
+  - [color=#994444]Incorrecto:[/color] Trololol
 
-  Usernames, objects, random characters, very "low effort" names, "meta" names, or otherwise implausible names are not permitted.
-  - [color=#994444]Bad:[/color] XxRobustxX
-  - [color=#994444]Bad:[/color] SDpksSodjdfk
-  - [color=#994444]Bad:[/color] Lkdsoisgoieun
-  - [color=#994444]Bad:[/color] F4ith H3arth
-  - [color=#994444]Bad:[/color] Greytide
-  - [color=#994444]Bad:[/color] Passenger
-  - [color=#994444]Bad:[/color] Urist McHands
-  - [color=#994444]Bad:[/color] Admin
-  - [color=#994444]Bad:[/color] Game-Master
-  - [color=#994444]Bad:[/color] Joe Mamma
-  - [color=#994444]Bad:[/color] Middle-Aged Man
-  - [color=#994444]Bad:[/color] Operative Whiskey
+  No se permiten nombres de usuario, objetos, caracteres aleatorios, nombres evidentemente improvisados, nombres meta u otros nombres inverosímiles.
+  - [color=#994444]Incorrecto:[/color] XxRobustxX
+  - [color=#994444]Incorrecto:[/color] SDpksSodjdfk
+  - [color=#994444]Incorrecto:[/color] Lkdsoisgoieun
+  - [color=#994444]Incorrecto:[/color] F4ith H3arth
+  - [color=#994444]Incorrecto:[/color] Greytide
+  - [color=#994444]Incorrecto:[/color] Passenger
+  - [color=#994444]Incorrecto:[/color] Urist McHands
+  - [color=#994444]Incorrecto:[/color] Admin
+  - [color=#994444]Incorrecto:[/color] Game-Master
+  - [color=#994444]Incorrecto:[/color] Joe Mamma
+  - [color=#994444]Incorrecto:[/color] Middle-Aged Man
+  - [color=#994444]Incorrecto:[/color] Operative Whiskey
 </Document>

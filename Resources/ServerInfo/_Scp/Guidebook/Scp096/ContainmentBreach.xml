@@ -1,68 +1,67 @@
 <Document>
   # ¿Cómo escapar?
 
-  Hablará sobre cómo puedes romper la contención si te asignan el papel de SCP-096.
+  Esta guía explica cómo provocar una brecha de contención al jugar como SCP-096.
 
-  [textlink="General información sobre el modesto man" link="Scp096About"]
+  [textlink="Información general sobre el Hombre Tímido" link="Scp096About"]
 
-  [textlink="More sobre métodos para sujetar a una persona modesta para el personal de la complex" link="Scp096Containment"]
+  [textlink="Métodos para contener al Hombre Tímido" link="Scp096Containment"]
 
-  ## Método básico
+  ## Método principal
 
-  Este método consiste en usar la habilidad [bold]"pelar la piel de la cara"[/bold] disponible desde el principio.
+  Este método consiste en usar la habilidad [bold]"Arrancarte la piel de la cara"[/bold], disponible desde el inicio.
 
-  [textlink="More sobre abilities" link="Scp096Abilities"]
+  [textlink="Más información sobre las habilidades" link="Scp096Abilities"]
 
-  Cada uso de la habilidad te causa daño en la cara. Usar la habilidad 5 veces seguidas te pone en "Estado de cara desollada".
-  [bold]In este estado, podrás to[/bold]
-  - Abrir cualquier esclusa y puerta hermética
-  - Atacar a cualquier personal
-  - Moverse libremente por el complejo
+  Cada uso de la habilidad daña tu rostro. Después de usarla cinco veces, entras en el estado "Rostro desollado".
+  [bold]En este estado puedes:[/bold]
+  - Abrir cualquier esclusa y compuerta hermética.
+  - Atacar al personal.
+  - Moverte libremente por el complejo.
 
-  Ten en cuenta que en este estado no puedes entrar en el estado de "Rabia" si alguien ve tu cara.
+  Ten en cuenta que, mientras tu rostro esté desollado, no entrarás en "Ira" cuando alguien te mire.
 
-  [textlink="More sobre states" link="Scp096States"]
+  [textlink="Más información sobre los estados" link="Scp096States"]
 
-  ## Método adicional
+  ## Método alternativo
 
-  Posees la habilidad "Soltar un grito de lástima" que inflige un daño masivo a todas las estructuras en tu campo de visión. Usa esta habilidad para dañar las paredes de la celda de contención.
+  También dispones de "Dejar escapar un grito lastimero", una habilidad que causa mucho daño a las estructuras visibles. Úsala contra las paredes de la cámara.
 
-  Usar la habilidad repetidamente dañará las paredes, lo que eventualmente hará que se rompan y te liberen. Las paredes de tu celda de contención son muy fuertes y resisten bien el daño de tu habilidad. Pero las paredes normales, incluso las más fuertes, del complejo caerán mucho más rápido.
+  Los usos repetidos terminarán por romper las paredes y liberarte. Las paredes de la cámara resisten mejor la habilidad que las paredes normales del complejo.
 
-  Ten en cuenta que la habilidad solo puede funcionar dentro de la celda de contención. Y el personal del complejo puede reparar incluso paredes rotas.
+  Ten en cuenta que la habilidad solo funciona dentro de la cámara y que el personal puede reparar las paredes dañadas.
 
-  ## Camino alternativo
+  ## Fuga mediante una fotografía
 
-  Alguien del personal puede ver tu cara en una de las fotos. Así, se convertirá en tu objetivo de un asesinato brutal.
+  Una persona puede ver tu rostro en una fotografía y convertirse en tu objetivo.
 
-  Comenzarás a entrar en el estado de "Furia" y saldrás de tu celda de contención como una bala.
-  Matar a todos los objetivos te llevará a algún lugar profundo dentro de la instalación, permitiéndote brillar delante del resto del personal de la Fundación.
+  Entrarás en "Ira" y saldrás de la cámara a gran velocidad para perseguirla.
+  La persecución puede llevarte a una zona profunda del complejo y exponerte ante el resto del personal de la Fundación.
 
   ## ¿Cómo determinar el grado de daño facial?
 
-  Como persona modesta, tienes más información sobre tu rostro. Por lo tanto, tienes más formas
+  Como SCP-096, dispones de varias formas de consultar el estado de tu rostro:
 
-  - Pasa el cursor sobre tu cara a la derecha, en el panel de efectos de estado.
+  - Coloca el cursor sobre el icono de tu rostro en el panel de efectos de estado.
 
-  Por la apariencia de la cara, puedes entender tu estado actual o el grado de daño en tu cara.
-  Pasar el ratón con el ratón te permitirá escuchar los comentarios de tu "voz" interior sobre la situación.
+  Su apariencia indica tu estado actual y el grado de daño facial. Al colocar el cursor encima también recibirás comentarios de tu "voz" interior.
 
-  - Mira el icono en la esquina superior derecha de tu personaje
+  - Observa el icono situado en la esquina superior derecha de tu personaje.
 
-  Cuanta más sangre haya en el icono, mayor será el grado de daño en la cara
+  Cuanta más sangre muestre, mayor será el daño facial.
 
-  - Emífase a ti mismo
+  - Examínate.
 
-  Tú, como otras personas, puedes examinarte y leer una descripción visual de las heridas que te han dejado.
+  Puedes examinarte y leer una descripción visual de tus heridas.
 
   ## ¿Cómo resistir la captura?
 
-  Tras salir de su celda de contención, el personal comenzará a hacer esfuerzos para capturarte. Tu tarea es resistir.
+  Cuando salgas de la cámara de contención, el personal intentará capturarte. Tu objetivo es resistir.
 
-  Si puedes atacarlos, ataca, pero recuerda que eres débil contra una multitud armada con medios no letales.
-  Las tecnologías de contención de la Fundación son lo suficientemente avanzadas como para debilitarte durante un tiempo, hasta incapacitarte.
+  Ataca cuando tengas la oportunidad, pero recuerda que eres vulnerable ante una multitud equipada con armas no letales.
+  La tecnología de contención de la Fundación puede debilitarte hasta dejarte incapacitado.
 
-  Durante este tiempo, los empleados pueden equipar equipos de contención, que te debilitarán y te impedirán usar habilidades.
+  Durante ese tiempo, el personal puede colocarte equipo de contención que te impedirá usar habilidades.
 
-  [bold]Watch tu nivel de resistencia, decide un papel clave en tu capture.[/bold]
+  [bold]Vigila tu nivel de resistencia: es crucial para evitar la captura.[/bold]
 </Document>

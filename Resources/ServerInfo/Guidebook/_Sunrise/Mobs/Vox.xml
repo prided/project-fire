@@ -5,9 +5,9 @@
     <GuideEntityEmbed Entity="MobVox" Caption=""/>
   </Box>
 
-  [color=#ffa500]Warning! ¡Esta carrera no se recomienda para principiantes debido a su alergia mortal al oxígeno[/color]
+  [color=#ffa500]¡Advertencia! Esta especie no se recomienda para principiantes debido a su alergia mortal al oxígeno.[/color]
 
-  Los voxes respiran nitrógeno y [color=#ffa500]oxygen es tóxico para them.[/color]
+  Los vox respiran nitrógeno y [color=#ffa500]el oxígeno es tóxico para ellos[/color].
   Desafortunadamente, las estaciones están llenas de oxígeno,
   Por lo tanto, los voxes casi siempre tienen que usar una fuente interna de nitrógeno para evitar una exposición letal.
 
@@ -16,8 +16,8 @@
 
   Además de la comida normal, los voxes pueden comer paquetes de snacks, cáscaras de plátano, cáscaras de huevo y carne cruda sin consecuencias. También les gusta beber combustible para cocinar.
 
-  Vox [color=#1e90ff]slowly se recupera de pequeños niveles de veneno damage[/color] por sí solo,
-  Si no superas los 20 de daño por veneno.
+  Los vox [color=#1e90ff]se recuperan lentamente de niveles bajos de daño por veneno[/color]
+  siempre que no superen los 20 puntos.
   Esto les permite soportar la respiración del aire de la estación hasta treinta segundos sin causar daños a largo plazo,
   comer rápido, beber, tomar pastillas, etc.
   Les lleva unos dos minutos recuperarse de 30 segundos de exposición al oxígeno.

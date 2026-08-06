@@ -12,9 +12,9 @@
   Con estos dispositivos, la atmósfera puede alimentar, extraer o purificar gases no deseados de cualquier atmósfera deseada.
   Esto te permite mantener un ambiente seguro y respirable.
 
-  Algunos de estos dispositivos requieren [textlink="power" link="Power"] para funcionar y pueden conectarse a [textlink="air alarm" link="AirAlarms"].
+  Algunos de estos dispositivos requieren [textlink="energía" link="Power"] y pueden conectarse a una [textlink="alarma de aire" link="AirAlarms"].
 
-  [textlink="Binding" link="Networking"] dispositivos compatibles con la alarma aérea abren ajustes y funciones adicionales. Por lo demás, estos dispositivos funcionan en su modo predeterminado, descrito en las subsecciones.
+  [textlink="Vincular" link="Networking"] dispositivos compatibles con la alarma de aire habilita ajustes y funciones adicionales. En ausencia de una vinculación, estos dispositivos funcionan en el modo predeterminado descrito en las subsecciones.
 
   <Box>
     <GuideEntityEmbed Entity="AirAlarm"/>

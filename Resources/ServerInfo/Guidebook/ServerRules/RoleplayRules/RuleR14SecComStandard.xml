@@ -1,37 +1,37 @@
 ﻿<Document>
-  # Roleplay Rule 14 - Set an example if playing command or security
-  All command and security roles are held to stricter interpretations of the rules.
-  - Command roles are not learning roles. Members of command must be competent.
-  - Security roles are not for inexperienced players. Members of security are expected to know game basics and be more familiar with server rules than a new player.
-  - Do not hinder or cause overall negative effects to the station or crew as a member of command or security.
-  - Do not abuse your power as command or security.
+  # Regla de interpretación 14: Dé el ejemplo si desempeña un puesto de mando o seguridad
+  Todos los roles de mando y seguridad están sujetos a una interpretación más estricta de las reglas.
+  - Los puestos de mando no son roles de aprendizaje. Sus integrantes deben ser competentes.
+  - Los roles de seguridad no son apropiados para jugadores sin experiencia. Se espera que el personal de seguridad conozca los fundamentos del juego y tenga mayor familiaridad con las reglas del servidor que un jugador nuevo.
+  - Como integrante del mando o de seguridad, no obstaculice a la estación o a la tripulación ni les cause efectos negativos generales.
+  - No abuse de la autoridad otorgada por un puesto de mando o seguridad.
 
-  ## Why
-  Members of command and security can often have a larger impact on the nature of the round than other players. For example, a captain who tries to bend or break the rules will often cause many others on the station to do the same. Memey station announcements from members of command also often result in the rest of the station acting the same way. When command and security members hold themselves to high standards, the rest of the station often naturally follows to a significant degree.
+  ## Motivo
+  Los integrantes del mando y de seguridad suelen influir en el desarrollo de la ronda más que otros jugadores. Por ejemplo, un capitán que intenta eludir o infringir las reglas suele provocar que muchas otras personas de la estación hagan lo mismo. Los anuncios de tono absurdo emitidos por el mando también suelen inducir una conducta similar en el resto de la estación. Cuando el personal de mando y seguridad mantiene estándares elevados, una parte considerable de la estación tiende a seguir su ejemplo.
 
-  ## Examples
-  Acceptable:
-  - A member of security accepts a bribe to deliver safe donuts to a prisoner who the HoS has ordered should only be given donk pockets.
-  - A captain uses a station announcement to confess to an embarrassing mistake that they made during the shift.
-  - In coordination with the head of security, a captain declares that the station will recognize the right to bear arms, so all crew can pick up a disabler at security.
-  - The chief medical officer gives a paramedic their portable crew monitor to help them complete their job.
-  - A syndicate agent is holding a crewmember hostage and threatens to kill them if the head of security doesn't give them their ID. Seeing no other safe option, the head of security hands over their ID to the syndicate agent, then begins working to re-secure it and capture the agent as soon as the hostage is safe.
-  - Nuclear operatives are attacking the station, so the captain and head of personnel both go to the armory and take a weapon.
-  - A majority of command votes to demote the captain for taking actions harmful to the station, then the head of security demotes the captain.
-  - The captain promotes the head of personnel to captain.
-  - Security releases an antagonist from the brig in exchange for the identities of other traitors.
+  ## Ejemplos
+  Aceptable:
+  - Un integrante de seguridad acepta un soborno para llevar donas seguras a un prisionero al que el jefe de seguridad ordenó alimentar únicamente con donk pockets.
+  - El capitán utiliza un anuncio de la estación para confesar un error vergonzoso cometido durante el turno.
+  - En coordinación con el jefe de seguridad, el capitán declara que la estación reconocerá el derecho a portar armas, por lo que toda la tripulación puede recoger un deshabilitador en seguridad.
+  - El director médico entrega a un paramédico su monitor portátil de tripulación para ayudarlo a cumplir sus funciones.
+  - Un agente del Sindicato mantiene como rehén a un integrante de la tripulación y amenaza con matarlo si el jefe de seguridad no entrega su identificación. Al no encontrar otra opción segura, el jefe de seguridad entrega la identificación y, cuando el rehén queda a salvo, comienza a trabajar para recuperarla y capturar al agente.
+  - Los agentes nucleares atacan la estación, por lo que el capitán y el jefe de personal acuden a la armería y toman un arma.
+  - La mayoría del mando vota por destituir al capitán debido a acciones perjudiciales para la estación, y el jefe de seguridad ejecuta la destitución.
+  - El capitán asciende al jefe de personal a capitán.
+  - Seguridad libera a un antagonista del calabozo a cambio de la identidad de otros traidores.
 
-  Prohibited:
-  - A member of security accepts a bribe to ignore a crime or help a prisoner escape.
-  - A captain sends a ASCII art trollface over station announcements or as a fax to central command.
-  - A captain declares that all contraband is legal.
-  - Command or security allow the use of Syndicate items outside extreme emergencies.
-  - The chief medical officer knowingly helps a syndicate agent complete their objectives.
-  - A syndicate agent has killed 3 members of security so the head of security makes them an offer saying that they will space all the weapons in the armory if the syndicate agent stops killing.
-  - The captain goes to the armory and takes a gun to display in his office without asking anyone, and orders anyone who questions him not to interfere.
-  - Members of command decide to demote the captain to gain more power for themselves, or in retaliation for a decision that they didn't personally like or agree with, rather than because the decision was actually harmful to the station.
-  - The captain promotes a random crewmember to captain.
-  - A member of command gives a random crewmember substantial additional access for no reason, unnecessarily, or for a poor reason.
-  - A member of command gives a random crewmember access to a high security area, like the armory or another member of command's office, for no reason, unnecessarily, or for a poor reason.
-  - Security releases an antagonist from the brig in exchange for the antagonist buying them contraband.
+  Prohibido:
+  - Un integrante de seguridad acepta un soborno para ignorar un delito o ayudar a escapar a un prisionero.
+  - El capitán envía un rostro de trol en arte ASCII mediante los anuncios de la estación o por fax al Mando Central.
+  - El capitán declara legal todo el contrabando.
+  - El mando o seguridad permiten utilizar objetos del Sindicato fuera de emergencias extremas.
+  - El director médico ayuda deliberadamente a un agente del Sindicato a completar sus objetivos.
+  - Un agente del Sindicato ha matado a tres integrantes de seguridad, por lo que el jefe de seguridad ofrece expulsar al espacio todas las armas de la armería si el agente deja de matar.
+  - El capitán acude a la armería, toma un arma sin consultar a nadie para exhibirla en su oficina y ordena no interferir a cualquiera que lo cuestione.
+  - Los integrantes del mando deciden destituir al capitán para obtener más poder o en represalia por una decisión que no les agradó, en vez de hacerlo porque la decisión realmente perjudicó a la estación.
+  - El capitán asciende a capitán a un integrante cualquiera de la tripulación.
+  - Un integrante del mando concede a una persona cualquiera un nivel considerable de acceso adicional sin motivo, de forma innecesaria o por una razón deficiente.
+  - Un integrante del mando concede a una persona cualquiera acceso a un área de alta seguridad, como la armería o la oficina de otro integrante del mando, sin motivo, de forma innecesaria o por una razón deficiente.
+  - Seguridad libera a un antagonista del calabozo a cambio de que este compre contrabando para el departamento.
 </Document>

@@ -1,5 +1,5 @@
 <Document>
-  # Siliconas rebeldes
+  # Sintéticos rebeldes
 
   La inteligencia artificial, rebelándose contra sus creadores, hackea siliconas y las reescribe en sus propias subrutinas, lo que provoca un éxodo masivo y colonias abandonadas. Hoy en día, la IA peina complejos abandonados en busca de componentes y recursos, y a veces saquea pequeñas estaciones para capturar miembros de la tripulación con fines desconocidos. Se desconoce cuán autónomas son las unidades individuales en relación con el enjambre.
 
@@ -17,14 +17,14 @@
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconT1Scrap" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 60 (crítico), 120 (muerte)
-  - [bold][color=#a4885c]Speed (correr/caminar): [/color][/bold] 4 m/s (4 m/s)[bold][color=#a4885c]*[/color][/bold]
-  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 6 [color=red]Blunt[/color], 4 [color=orange]Thermal[/color] (Cuerpo a cuerpo); 14 [color=orange]Thermal[/color] (A distancia total)
-  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
-  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
-  - [bold][color=#a4885c]Special Modificadores: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Regeneración (Fuerte), Vuelo (algunas variantes), Tirador (algunas variantes)
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 60 (crítico), 120 (muerte)
+  - [bold][color=#a4885c]Velocidad (correr/caminar): [/color][/bold] 4 m/s (4 m/s)[bold][color=#a4885c]*[/color][/bold]
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 6 [color=red]contundente[/color], 4 [color=orange]térmico[/color] (cuerpo a cuerpo); 14 [color=orange]térmico[/color] (a distancia)
+  - [bold][color=#a4885c]Resistencias:[/color][/bold] [color=red]Contundente[/color] 30 %; [color=red]Cortante[/color] 50 %; [color=yellow]Perforante[/color] 30 %; [color=orange]Ácido[/color] 10 %
+  - [bold][color=#a4885c]Vulnerabilidades:[/color][/bold] [color=orange]estructural[/color] 20%; [color=orange]descarga eléctrica[/color] 50%; [color=lime]radiación[/color] 20%
+  - [bold][color=#a4885c]Modificadores especiales: [/color][/bold] Inmunidad ([color=orange]frío[/color], [color=lime]veneno[/color], [color=#9A54BF]asfixia[/color], [color=#9A54BF]pérdida de sangre[/color], [color=#da8b8b]daño celular[/color]), regeneración fuerte, vuelo en algunas variantes y armamento a distancia en algunas variantes
 
-  [bold][color=#a4885c]*[/color][/bold] - [italic]For comparación, la persona media corre 4,5 m/s y camina 2,5 m/s.[/italic]
+  [bold][color=#a4885c]*[/color][/bold] - [italic]Como referencia, una persona promedio corre a 4,5 m/s y camina a 2,5 m/s.[/italic]
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -37,12 +37,12 @@
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconT1DroneLethals"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 30 (crítico), 90 (muerte)
-  - [bold][color=#a4885c]Speed (carrera/caminar): [/color][/bold] 4 m/s (4 m/s)
-  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 20 [color=orange]Thermal[/color]
-  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
-  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
-  - [bold][color=#a4885c]Special Propiedades: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Vuelo, Tirador (Arma de Energía)
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 30 (crítico), 90 (muerte)
+  - [bold][color=#a4885c]Velocidad (correr/caminar): [/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 20 [color=orange]térmico[/color]
+  - [bold][color=#a4885c]Resistencias:[/color][/bold] [color=red]Contundente[/color] 30 %; [color=red]Cortante[/color] 50 %; [color=yellow]Perforante[/color] 30 %; [color=orange]Ácido[/color] 10 %
+  - [bold][color=#a4885c]Vulnerabilidades:[/color][/bold] [color=orange]estructural[/color] 20%; [color=orange]descarga eléctrica[/color] 50%; [color=lime]radiación[/color] 20%
+  - [bold][color=#a4885c]Propiedades especiales: [/color][/bold] Inmunidad ([color=orange]frío[/color], [color=lime]veneno[/color], [color=#9A54BF]asfixia[/color], [color=#9A54BF]pérdida de sangre[/color], [color=#da8b8b]daño celular[/color]), vuelo y arma de energía
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -51,12 +51,12 @@
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconT1DroneNonLethals"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 30 (crítico), 90 (muerte)
-  - [bold][color=#a4885c]Speed (carrera/caminar): [/color][/bold] 4 m/s (4 m/s)
-  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 5 [color=orange]Thermal[/color]; 20 [color=lightblue]Stamina[/color]
-  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
-  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
-  - [bold][color=#a4885c]Special Propiedades: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Vuelo, Tirador (Desactivador)
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 30 (crítico), 90 (muerte)
+  - [bold][color=#a4885c]Velocidad (correr/caminar): [/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 5 [color=orange]térmico[/color]; 20 [color=lightblue]de resistencia[/color]
+  - [bold][color=#a4885c]Resistencias:[/color][/bold] [color=red]Contundente[/color] 30 %; [color=red]Cortante[/color] 50 %; [color=yellow]Perforante[/color] 30 %; [color=orange]Ácido[/color] 10 %
+  - [bold][color=#a4885c]Vulnerabilidades:[/color][/bold] [color=orange]estructural[/color] 20%; [color=orange]descarga eléctrica[/color] 50%; [color=lime]radiación[/color] 20%
+  - [bold][color=#a4885c]Propiedades especiales: [/color][/bold] Inmunidad ([color=orange]frío[/color], [color=lime]veneno[/color], [color=#9A54BF]asfixia[/color], [color=#9A54BF]pérdida de sangre[/color], [color=#da8b8b]daño celular[/color]), vuelo y deshabilitador
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -65,12 +65,12 @@
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconT1DroneScience"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 30 (crítico), 90 (muerte)
-  - [bold][color=#a4885c]Speed (carrera/caminar): [/color][/bold] 4 m/s (4 m/s)
-  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 5 [color=orange]Thermal[/color]
-  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
-  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
-  - [bold][color=#a4885c]Special Propiedades: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Vuelo, Tirador (Cañón C.H.I.M.P. experimental)
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 30 (crítico), 90 (muerte)
+  - [bold][color=#a4885c]Velocidad (correr/caminar): [/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 5 [color=orange]térmico[/color]
+  - [bold][color=#a4885c]Resistencias:[/color][/bold] [color=red]Contundente[/color] 30 %; [color=red]Cortante[/color] 50 %; [color=yellow]Perforante[/color] 30 %; [color=orange]Ácido[/color] 10 %
+  - [bold][color=#a4885c]Vulnerabilidades:[/color][/bold] [color=orange]estructural[/color] 20%; [color=orange]descarga eléctrica[/color] 50%; [color=lime]radiación[/color] 20%
+  - [bold][color=#a4885c]Propiedades especiales: [/color][/bold] Inmunidad ([color=orange]frío[/color], [color=lime]veneno[/color], [color=#9A54BF]asfixia[/color], [color=#9A54BF]pérdida de sangre[/color], [color=#da8b8b]daño celular[/color]), vuelo y cañón C.H.I.M.P. experimental
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -83,12 +83,12 @@
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconT2Servo"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 80 (crítico), 140 (muerte)
-  - [bold][color=#a4885c]Speed (carrera/caminar): [/color][/bold] 4 m/s (4 m/s)
-  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 6 [color=red]Blunt[/color], 4 [color=orange]Thermal[/color] (Cuerpo a cuerpo)
-  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
-  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
-  - [bold][color=#a4885c]Special Propiedades: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Regeneración (Fuerte)
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 80 (crítico), 140 (muerte)
+  - [bold][color=#a4885c]Velocidad (correr/caminar): [/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 6 [color=red]contundente[/color], 4 [color=orange]térmico[/color] (cuerpo a cuerpo)
+  - [bold][color=#a4885c]Resistencias:[/color][/bold] [color=red]Contundente[/color] 30 %; [color=red]Cortante[/color] 50 %; [color=yellow]Perforante[/color] 30 %; [color=orange]Ácido[/color] 10 %
+  - [bold][color=#a4885c]Vulnerabilidades:[/color][/bold] [color=orange]estructural[/color] 20%; [color=orange]descarga eléctrica[/color] 50%; [color=lime]radiación[/color] 20%
+  - [bold][color=#a4885c]Propiedades especiales: [/color][/bold] Inmunidad ([color=orange]frío[/color], [color=lime]veneno[/color], [color=#9A54BF]asfixia[/color], [color=#9A54BF]pérdida de sangre[/color], [color=#da8b8b]daño celular[/color]) y regeneración fuerte
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -101,12 +101,12 @@
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconT2Herder"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 80 (crítico), 140 (muerte)
-  - [bold][color=#a4885c]Speed (carrera/caminar): [/color][/bold] 4 m/s (4 m/s)
-  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 6 [color=red]Blunt[/color], [color=orange]Shock[/color], 10 [color=lightblue]Stamina[/color]
-  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
-  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
-  - [bold][color=#a4885c]Special Propiedades: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Regeneración (Fuerte)
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 80 (crítico), 140 (muerte)
+  - [bold][color=#a4885c]Velocidad (correr/caminar): [/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 6 [color=red]contundente[/color], [color=orange]descarga eléctrica[/color], 10 [color=lightblue]de resistencia[/color]
+  - [bold][color=#a4885c]Resistencias:[/color][/bold] [color=red]Contundente[/color] 30 %; [color=red]Cortante[/color] 50 %; [color=yellow]Perforante[/color] 30 %; [color=orange]Ácido[/color] 10 %
+  - [bold][color=#a4885c]Vulnerabilidades:[/color][/bold] [color=orange]estructural[/color] 20%; [color=orange]descarga eléctrica[/color] 50%; [color=lime]radiación[/color] 20%
+  - [bold][color=#a4885c]Propiedades especiales: [/color][/bold] Inmunidad ([color=orange]frío[/color], [color=lime]veneno[/color], [color=#9A54BF]asfixia[/color], [color=#9A54BF]pérdida de sangre[/color], [color=#da8b8b]daño celular[/color]) y regeneración fuerte
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -119,12 +119,12 @@
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconT2Hunter"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 30 (crítico), 90 (muerte)
-  - [bold][color=#a4885c]Speed (carrera/caminar): [/color][/bold] 4 m/s (4 m/s)
-  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 17 [color=orange]Thermal[/color] (Rifle láser)
-  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
-  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
-  - [bold][color=#a4885c]Special Propiedades: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Regeneración (Fuerte), Vuelo, Tirador (Rifle láser)
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 30 (crítico), 90 (muerte)
+  - [bold][color=#a4885c]Velocidad (correr/caminar): [/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 17 [color=orange]térmico[/color] (rifle láser)
+  - [bold][color=#a4885c]Resistencias:[/color][/bold] [color=red]Contundente[/color] 30 %; [color=red]Cortante[/color] 50 %; [color=yellow]Perforante[/color] 30 %; [color=orange]Ácido[/color] 10 %
+  - [bold][color=#a4885c]Vulnerabilidades:[/color][/bold] [color=orange]estructural[/color] 20%; [color=orange]descarga eléctrica[/color] 50%; [color=lime]radiación[/color] 20%
+  - [bold][color=#a4885c]Propiedades especiales: [/color][/bold] Inmunidad ([color=orange]frío[/color], [color=lime]veneno[/color], [color=#9A54BF]asfixia[/color], [color=#9A54BF]pérdida de sangre[/color], [color=#da8b8b]daño celular[/color]), regeneración fuerte, vuelo y rifle láser
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -137,12 +137,12 @@
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconT2Catcher"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 80 (crítico), 140 (muerte)
-  - [bold][color=#a4885c]Speed (carrera/caminar): [/color][/bold] 4 m/s (4 m/s)
-  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 6 [color=red]Blunt[/color], 4 [color=orange]Thermal[/color]
-  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
-  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
-  - [bold][color=#a4885c]Special Propiedades: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Regeneración (Fuerte)
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 80 (crítico), 140 (muerte)
+  - [bold][color=#a4885c]Velocidad (correr/caminar): [/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 6 [color=red]contundente[/color], 4 [color=orange]térmico[/color]
+  - [bold][color=#a4885c]Resistencias:[/color][/bold] [color=red]Contundente[/color] 30 %; [color=red]Cortante[/color] 50 %; [color=yellow]Perforante[/color] 30 %; [color=orange]Ácido[/color] 10 %
+  - [bold][color=#a4885c]Vulnerabilidades:[/color][/bold] [color=orange]estructural[/color] 20%; [color=orange]descarga eléctrica[/color] 50%; [color=lime]radiación[/color] 20%
+  - [bold][color=#a4885c]Propiedades especiales: [/color][/bold] Inmunidad ([color=orange]frío[/color], [color=lime]veneno[/color], [color=#9A54BF]asfixia[/color], [color=#9A54BF]pérdida de sangre[/color], [color=#da8b8b]daño celular[/color]) y regeneración fuerte
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -153,12 +153,12 @@
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconT1Viscerator"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 12 (Crítico), 20 (Muerte)
-  - [bold][color=#a4885c]Speed (correr/caminar): [/color][/bold] 5 m/s (5 m/s)
-  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 4 [color=red]Slashing[/color]
-  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
-  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
-  - [bold][color=#a4885c]Special Propiedades: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Vuelo
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 12 (Crítico), 20 (Muerte)
+  - [bold][color=#a4885c]Velocidad (correr/caminar): [/color][/bold] 5 m/s (5 m/s)
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 4 [color=red]cortante[/color]
+  - [bold][color=#a4885c]Resistencias:[/color][/bold] [color=red]Contundente[/color] 30 %; [color=red]Cortante[/color] 50 %; [color=yellow]Perforante[/color] 30 %; [color=orange]Ácido[/color] 10 %
+  - [bold][color=#a4885c]Vulnerabilidades:[/color][/bold] [color=orange]estructural[/color] 20%; [color=orange]descarga eléctrica[/color] 50%; [color=lime]radiación[/color] 20%
+  - [bold][color=#a4885c]Propiedades especiales: [/color][/bold] Inmunidad ([color=orange]frío[/color], [color=lime]veneno[/color], [color=#9A54BF]asfixia[/color], [color=#9A54BF]pérdida de sangre[/color], [color=#da8b8b]daño celular[/color]) y vuelo
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -171,12 +171,12 @@
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconT3Tesla"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 110 (crítico), 160 (muerte)
-  - [bold][color=#a4885c]Speed (carrera/caminar): [/color][/bold] 4 m/s (4 m/s)
-  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 14 [color=yellow]Piercing[/color], 10 [color=lightblue]Stamina[/color]
-  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
-  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
-  - [bold][color=#a4885c]Special Propiedades:[/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Regeneración (Fuerte), Pistolero (Cañón Tesla)
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 110 (crítico), 160 (muerte)
+  - [bold][color=#a4885c]Velocidad (correr/caminar): [/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 14 [color=yellow]perforante[/color], 10 [color=lightblue]de resistencia[/color]
+  - [bold][color=#a4885c]Resistencias:[/color][/bold] [color=red]Contundente[/color] 30 %; [color=red]Cortante[/color] 50 %; [color=yellow]Perforante[/color] 30 %; [color=orange]Ácido[/color] 10 %
+  - [bold][color=#a4885c]Vulnerabilidades:[/color][/bold] [color=orange]estructural[/color] 20%; [color=orange]descarga eléctrica[/color] 50%; [color=lime]radiación[/color] 20%
+  - [bold][color=#a4885c]Propiedades especiales:[/color][/bold] Inmunidad ([color=orange]frío[/color], [color=lime]veneno[/color], [color=#9A54BF]asfixia[/color], [color=#9A54BF]pérdida de sangre[/color], [color=#da8b8b]daño celular[/color]), regeneración fuerte y cañón tesla
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -189,12 +189,12 @@
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconBossGuardian"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 200 (Crítico), 400 (Muerte)
-  - [bold][color=#a4885c]Speed (carrera/caminar): [/color][/bold] 4 m/s (4 m/s)
-  - [bold][color=#a4885c]Damage (tipo): [/color][/bold] 4 [color=orange]Thermal[/color] (turboláser dañado)
-  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
-  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
-  - [bold][color=#a4885c]Special Propiedades: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Regeneración (Fuerte), Vuelo, Tirador (Turboláser dañado)
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 200 (Crítico), 400 (Muerte)
+  - [bold][color=#a4885c]Velocidad (correr/caminar): [/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 4 [color=orange]térmico[/color] (turboláser dañado)
+  - [bold][color=#a4885c]Resistencias:[/color][/bold] [color=red]Contundente[/color] 30 %; [color=red]Cortante[/color] 50 %; [color=yellow]Perforante[/color] 30 %; [color=orange]Ácido[/color] 10 %
+  - [bold][color=#a4885c]Vulnerabilidades:[/color][/bold] [color=orange]estructural[/color] 20%; [color=orange]descarga eléctrica[/color] 50%; [color=lime]radiación[/color] 20%
+  - [bold][color=#a4885c]Propiedades especiales: [/color][/bold] Inmunidad ([color=orange]frío[/color], [color=lime]veneno[/color], [color=#9A54BF]asfixia[/color], [color=#9A54BF]pérdida de sangre[/color], [color=#da8b8b]daño celular[/color]), regeneración fuerte, vuelo y turboláser dañado
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -207,12 +207,12 @@
   <Box>
   <GuideEntityEmbed Entity="MobRogueSiliconBoss"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 300 (crítico), 400 (muerte)
-  - [bold][color=#a4885c]Speed (carrera/caminar): [/color][/bold] 4 m/s (4 m/s)
-  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 15 [color=orange]Explosive[/color] (Micro Misiles)
-  - [bold][color=#a4885c]Resistances:[/color][/bold] [color=red]Crushing[/color] 30%; [color=red]Chopping[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Acid[/color] 10%
-  - [bold][color=#a4885c]Vulnerabilities:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
-  - [bold][color=#a4885c]Special Propiedades: [/color][/bold] Inmunidad ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxia[/color], [color=#9A54BF]Blood Loss[/color], [color=#da8b8b]Cell[/color]), Regeneración (Fuerte), Tirador (Microcohete)
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 300 (crítico), 400 (muerte)
+  - [bold][color=#a4885c]Velocidad (correr/caminar): [/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 15 [color=orange]explosivo[/color] (micromisiles)
+  - [bold][color=#a4885c]Resistencias:[/color][/bold] [color=red]Contundente[/color] 30 %; [color=red]Cortante[/color] 50 %; [color=yellow]Perforante[/color] 30 %; [color=orange]Ácido[/color] 10 %
+  - [bold][color=#a4885c]Vulnerabilidades:[/color][/bold] [color=orange]estructural[/color] 20%; [color=orange]descarga eléctrica[/color] 50%; [color=lime]radiación[/color] 20%
+  - [bold][color=#a4885c]Propiedades especiales: [/color][/bold] Inmunidad ([color=orange]frío[/color], [color=lime]veneno[/color], [color=#9A54BF]asfixia[/color], [color=#9A54BF]pérdida de sangre[/color], [color=#da8b8b]daño celular[/color]), regeneración fuerte y microcohete
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 </Document>

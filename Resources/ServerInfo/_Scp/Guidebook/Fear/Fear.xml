@@ -2,56 +2,56 @@
 
   # Sistema de miedo
 
-  [bold]Fear Sistema es una mecánica global que afecta cómo los jugadores interactúan con los SCP y los jugadores a las consecuencias de las brechas de contención SCP.[/bold]
+  [bold]El sistema de miedo es una mecánica global que afecta la manera en que los jugadores interactúan con los objetos SCP y afrontan las consecuencias de una brecha de contención.[/bold]
 
-  [bold]Fear es una mecánica creada para la inmersión. Es una retroalimentación entre las acciones del personaje y el jugador, permitiéndote transferir las emociones del personaje a la pantalla plana de la monitor[/bold]
+  [bold]El miedo busca reforzar la inmersión: transmite las emociones del personaje al jugador mediante efectos visibles en pantalla.[/bold]
 
   ## ¿Cómo funciona?
 
-  Todos los personajes tienen sus propios miedos. Las historias de terror estándar de cada empleado de la fundación son:
-  - [bold]Exorheumophobia[/bold] - Miedo al flujo externo de la realidad, a un curso alienígena de acontecimientos. Expresado en el miedo a los objetos SCP
-  - [bold]Necrophobia[/bold] - Miedo a cadáveres, cadáveres y otras cosas relacionadas con los muertos.
+  Cada personaje tiene sus propios miedos. Los temores predeterminados del personal de la Fundación son:
+  - [bold]Exorheumophobia[/bold]: miedo a las alteraciones de la realidad y a sucesos ajenos a sus leyes; se manifiesta como miedo a los objetos SCP.
+  - [bold]Necrofobia[/bold]: miedo a los cadáveres y a otros elementos relacionados con la muerte.
 
-  Estos miedos afectan a lo que el personaje tendrá miedo. Puedes ver los miedos actuales en la ventana del personaje, donde están los objetivos de los antagonistas.
+  Estos rasgos determinan qué asusta al personaje. Puedes consultar sus miedos en la ventana del personaje, junto a los objetivos de antagonista.
 
-  Y todos los personajes tienen varios niveles de miedo
+  Todos los personajes pueden experimentar varios niveles de miedo:
 
-  "Ninguna. Estás tranquilo
-  - Ansiedad. Algo va mal...
-  - Miedo. De verdad tienes miedo de algo
-  - Horror incontrolable. ALGO DEMASIADO REAL para que lo aceptes. Es una pesadilla.
+  - Ninguno. Estás tranquilo.
+  - Ansiedad. Algo no está bien...
+  - Miedo. Hay algo que realmente te asusta.
+  - Terror incontrolable. ALGO DEMASIADO REAL para aceptarlo. Es una pesadilla.
 
-  [bold]Sims pueden asustarse al ver la fuente del miedo o al close[/bold]
-  Por supuesto, no sin excepciones. Algunos miembros del personal del complejo están acostumbrados a vigilar objetos "aterradores", por eso no les importa.
+  [bold]Los personajes pueden asustarse al ver de cerca la fuente de su miedo.[/bold]
+  Hay excepciones: algunos integrantes del personal están acostumbrados a trabajar cerca de objetos aterradores y reaccionan con mayor calma.
 
-  Por ejemplo, los científicos están preparados para el hecho de que sus objetos y SCPs estarán separados por el vidrio. Esto les resulta cómodo mirarlos a través del cristal.
+  Por ejemplo, el personal científico está preparado para observar objetos SCP a través de un cristal de seguridad.
 
-  Los médicos visitan las morgues desde el principio de su formación, por lo que la visión de cadáveres no les asusta.
+  El personal médico visita la morgue desde el inicio de su formación, por lo que la visión de cadáveres no suele asustarlo.
 
-  Y los guardias están especialmente preparados para una posible colisión con objetos SCP, por eso sujetan sus armas con más firmeza cuando disparan "amartillados".
+  El personal de Seguridad recibe preparación para enfrentarse a objetos SCP y mantiene la calma con mayor facilidad durante un combate.
 
   ## ¿Cómo se expresa esto en el juego?
 
-  Cada nivel de miedo, salvo ninguno, impone efectos negativos a tu personaje. Tu ánimo baja, se vuelve más difícil disparar, tiemblas y tu visión se vuelve borrosa.
+  Todos los niveles salvo "Ninguno" aplican efectos negativos. El estado de ánimo disminuye, apuntar se vuelve más difícil, el personaje tiembla y la visión se vuelve borrosa.
 
-  Todos estos son modificadores negativos básicos, su fuerza depende del nivel de miedo.
+  La intensidad de estos efectos depende del nivel de miedo.
 
-  Hay varias formas de afrontarlos, pero la más obvia es evitar la fuente del miedo. El miedo es la señal de tu cerebro de que ESTO merece la pena evitarlo por tu propia seguridad. Escucha tus sentimientos.
+  Hay varias formas de afrontarlos, pero la más sencilla es evitar la fuente del miedo. Es la señal de que debes alejarte para protegerte.
 
-  Pero si tienes que pasar por ello, [bold]try drinking.[/bold] el alcohol amortigua los efectos del miedo.
+  Si no puedes evitarla, [bold]prueba beber alcohol[/bold]; reduce los efectos del miedo.
 
-  Y también puedes [bold]close tu eyes.[/bold] Si no le ves a ÉL, entonces no deberías tener miedo. ¿De verdad?
+  También puedes [bold]cerrar los ojos[/bold]. Si no puedes verlo, quizá deje de asustarte... ¿o no?
 
   ## ¿Dónde están los objetos SCP aquí?
 
-  Además de que diferentes objetos SCP son obviamente aterradores de distintas maneras, algunos pueden explotar tu miedo para sus propios fines.
+  Los distintos objetos SCP resultan aterradores de maneras diferentes, y algunos pueden aprovechar tu miedo para sus propios fines.
 
-  Las tendencias sádicas de SCP-106 llevan tiempo siendo conocidas por todos, así que no será ninguna novedad para ti que [bold]hunts para fears[/bold].
-  Por lo tanto, no te dejes pillar por él, porque si no acabarás en su [bold]terrible dimension[/bold], donde los problemas anteriores parecerán **nada**
+  Las tendencias sádicas de SCP-106 son bien conocidas: [bold]se alimenta del miedo[/bold].
+  No dejes que te capture o terminarás en su [bold]dimensión de bolsillo[/bold], donde los problemas anteriores parecerán insignificantes.
 
   ## Rasgos de carácter
 
-  Junto con el miedo, se añaden nuevos rasgos de carácter que añaden varias pequeñas mecánicas relacionadas con el miedo.
-  Pruébalos, puede ser divertido.
+  El sistema también añade rasgos de personalidad con pequeñas mecánicas relacionadas con el miedo.
+  Pruébalos para darle más variedad a tu personaje.
 
 </Document>

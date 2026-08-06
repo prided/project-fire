@@ -1,41 +1,41 @@
 <Document>
-# Medical Doctor
-It's time to heal. Or at least, try to heal, anyway. Medical Doctors are the primary caretakers of every boo boo and ouchie crewmembers get on the station, be it a small scratch, or boiled skin.
+# Médico
+El personal médico es responsable del tratamiento primario de todas las lesiones sufridas por la tripulación, desde rasguños leves hasta quemaduras graves.
 
-This guide will give you a basic outline of the treatment options you have available, triage, and other avenues of care.
+Esta guía resume las opciones de tratamiento, los procedimientos de triaje y otras formas de atención disponibles.
 
-## The Basics
-There are two ways to tell what's ailing someone: Taking a scan (with a health analyzer or a medical PDA), or examining them, with a shift-click, and clicking the heart symbol.
+## Procedimientos básicos
+Existen dos métodos para identificar el estado de un paciente: realizar un análisis con un analizador de salud o una PDA médica, o examinarlo manteniendo presionada la tecla Mayús y seleccionando después el símbolo del corazón.
 
-Using a health analyzer is often more powerful than examination, as some things (such as poison, or radiation) don't show up on examination. However, using an analyzer has its drawbacks, as it makes noise and uses up a battery.
+El analizador de salud proporciona más información que el examen visual, ya que detecta condiciones como envenenamiento o radiación. Sin embargo, produce ruido y consume batería.
 <Box>
-<GuideEntityEmbed Entity="SignExamroom" Caption="examine patient"/>
+<GuideEntityEmbed Entity="SignExamroom" Caption="Examinar al paciente"/>
 <GuideEntityEmbed Entity="MedicalPDA"/>
-<GuideEntityEmbed Entity="MedicalInternPDA" Caption="intern PDA"/>
+<GuideEntityEmbed Entity="MedicalInternPDA" Caption="PDA de interno"/>
 <GuideEntityEmbed Entity="HandheldHealthAnalyzer"/>
 </Box>
 
-## Medication and Treatment Options
-Before we go any further, it's probably a good idea to go over damage types, and what will heal them. The wiki has more extensive info available, but these are commonly used.
+## Medicamentos y opciones de tratamiento
+Antes de iniciar el tratamiento, identifique el tipo de daño y el medicamento apropiado. La Wiki contiene información más detallada; los siguientes recursos son de uso frecuente.
 
-An important note: Most medication has an overdose level, which will cause harm to your patient. Chemicals also take time to metabolise in pill form, if you want things to act quickly, use a syringe.
+La mayoría de los medicamentos posee un umbral de sobredosis que puede perjudicar al paciente. Las sustancias administradas en píldoras también requieren tiempo para metabolizarse. Utilice una jeringa cuando sea necesaria una acción rápida.
 
-- Brute Damage: Bicaridine or Bruise Packs
-- Burn Damage: Dermaline or Ointment
-- Toxin (Poison): Dylovene
-- Toxin (Radiation) Hyronalin or Arithrazine
-- Airloss: Dexaline or Inaprovaline
-- Bloodloss: Dexaline (Examine the patient, if pale, they still need blood or iron.)
-- Bleeding: Tranexamic acid and Gauze (Bleeding can also be cauterized with burn damage.)
+- Daño físico: Bicaridine o paquetes para contusiones.
+- Quemaduras: Dermaline o ungüento.
+- Toxinas o veneno: Dylovene.
+- Radiación: Hyronalin o Arithrazine.
+- Asfixia: Dexalin o Inaprovaline.
+- Pérdida de sangre: Dexalin. Examine al paciente; si presenta palidez, todavía necesita sangre o hierro.
+- Hemorragia: ácido tranexámico y gasa. También puede cauterizarse mediante una quemadura.
 
-Many stations are stocked with kits in storage, and all medics have some equipment in their starting belt.
+Muchas estaciones disponen de botiquines en el almacén y todo el personal médico comienza con equipo básico en el cinturón.
 
 <Box>
 <GuideEntityEmbed Entity="MedkitFilled"/>
-<GuideEntityEmbed Entity="MedkitBruteFilled" Caption="brute kit"/>
-<GuideEntityEmbed Entity="MedkitRadiationFilled" Caption="radiation kit"/>
-<GuideEntityEmbed Entity="MedkitBurnFilled" Caption="burn kit"/>
-<GuideEntityEmbed Entity="MedkitToxinFilled" Caption="toxin kit"/>
+<GuideEntityEmbed Entity="MedkitBruteFilled" Caption="Botiquín para daño físico"/>
+<GuideEntityEmbed Entity="MedkitRadiationFilled" Caption="Botiquín para radiación"/>
+<GuideEntityEmbed Entity="MedkitBurnFilled" Caption="Botiquín para quemaduras"/>
+<GuideEntityEmbed Entity="MedkitToxinFilled" Caption="Botiquín para toxinas"/>
 </Box>
 
 <Box>
@@ -46,27 +46,27 @@ Many stations are stocked with kits in storage, and all medics have some equipme
 <GuideEntityEmbed Entity="Gauze"/>
 </Box>
 
-## Basic Treatment and Triage
-Examine your patient, and note down the important details: Are they alive? Bleeding? What type of damage?
+## Tratamiento básico y triaje
+Examine al paciente y registre la información principal: si continúa con vida, si presenta una hemorragia y qué tipos de daño ha sufrido.
 
-If alive, treat them as best as you can. Patients are in critical condition at 100 damage, and dead at 200. Keep this in mind when choosing how to treat them. Emergency Pens and Epinephrine are often used to keep patients stable.
+Si está vivo, proporcione el mejor tratamiento disponible. Un paciente entra en estado crítico al alcanzar 100 puntos de daño y muere al alcanzar 200. Considere estos umbrales al decidir el procedimiento. Los inyectores de emergencia y la epinefrina se utilizan con frecuencia para estabilizar pacientes.
 
-If possible, buckle them to a medical bed, if you need time to treat them, strap them to a stasis bed instead. Just keep in mind that metabolism (and by extension, healing chemicals) are slowed to a crawl when on stasis, they'll need to be taken off of it for the medicine to be effective. (But Blood Packs, Ointment, and Brute packs all work as normal.)
+Cuando sea posible, asegure al paciente a una cama médica. Si necesita tiempo adicional para tratarlo, utilice una cama de estasis. La estasis reduce casi por completo el metabolismo y, por lo tanto, la acción de los medicamentos; retire al paciente de la estasis para que las sustancias sean eficaces. Los paquetes de sangre, ungüentos y paquetes para contusiones funcionan con normalidad durante la estasis.
 <Box>
 <GuideEntityEmbed Entity="MedicalBed"/>
 <GuideEntityEmbed Entity="StasisBed"/>
 </Box>
-## Assessing Corpses
-You can't save them all, sometimes, death happens. Depending on the [color=#a4885c]status[/color] of the body, there are a few things that can be done.
+## Evaluación de cadáveres
+No siempre es posible salvar a todos los pacientes. Según el [color=#a4885c]estado[/color] del cuerpo, existen varias opciones:
 
-1. Do they have a soul attached? You can tell if, when examining, the following phrase is displayed: "Their soul has departed." If this isn't displayed, there is still a player who can be revived.
+1. ¿El alma continúa vinculada? Al examinar el cuerpo puede aparecer la frase «Su alma ha partido». Si no se muestra, el jugador todavía puede ser reanimado.
 
-2. Is the body rotting? If it is, sadly, they'll have to be cloned. A rotting body can't be brought back with a defibrillator. (See Cloning)
+2. ¿El cuerpo está en descomposición? En ese caso deberá clonarse, ya que un desfibrilador no puede reanimarlo. Consulte la sección Clonación.
 
-3. If they have a soul, and aren't rotten, it's possible to revive them. Consider storing the body in a morgue tray if you don't have enough time to revive someone, as the body will rot if you wait too long.
+3. Si el alma continúa vinculada y el cuerpo no está en descomposición, puede reanimarse. Si no dispone de tiempo suficiente, guarde el cuerpo en una bandeja de morgue para retrasar su descomposición.
 
-## Revival
-Not counting airloss, Defibrillator's can be used to revive patients under 200 total damage. Chemicals don't metabolise in the dead, but brute packs and ointment can still patch them up. Use them to bring their numbers down enough for revival.
+## Reanimación
+Sin contar el daño por asfixia, un desfibrilador puede reanimar pacientes con menos de 200 puntos de daño total. Los cadáveres no metabolizan sustancias químicas, pero los paquetes para contusiones y los ungüentos continúan funcionando. Utilícelos para reducir el daño hasta un nivel compatible con la reanimación.
 
 <Box>
 <GuideEntityEmbed Entity="Brutepack"/>

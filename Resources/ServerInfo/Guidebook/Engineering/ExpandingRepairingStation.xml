@@ -1,25 +1,25 @@
-﻿<Document>
-  # Expanding and Repairing Stations
-  In Space Station 14, it is common for players to want to expand the station, or repair holes left by meteors or other damage.
+<Document>
+  # Ampliación y reparación de estaciones
+  En Space Station 14 es habitual ampliar la estación o reparar brechas causadas por meteoritos y otros daños.
 
-  ## Lattice
-  Lattice is bare rodwork placed in empty space. It's used as a foundation for building and anchoring objects onto the station.
+  ## Estructura reticular
+  La estructura reticular consiste en barras metálicas instaladas sobre el espacio vacío. Sirve como base para ampliar la estación y anclar objetos.
 
   <Box>
     <GuideEntityEmbed Entity="SheetSteel" Caption=""/>
     <GuideEntityEmbed Entity="PartRodMetal" Caption=""/>
   </Box>
 
-  You can create lattice by placing rods on empty space using [color=yellow][bold][keybind="Use"][/bold][/color]. Remember you can craft steel sheets into rods using the construction menu.
+  Para crearla, coloque barras sobre el espacio mediante [color=yellow][bold][keybind="Use"][/bold][/color]. Puede fabricar barras a partir de láminas de acero desde el menú de construcción.
 
-  Lattice cannot hold pressure, and all gasses will leak out into space through it.
+  Esta estructura no retiene presión; todos los gases escaparán al espacio a través de ella.
 
-  You can use wirecutters to remove lattice by using [color=yellow][bold][keybind="Use"][/bold][/color] on them.
+  Para retirarla, utilice un cortacables mediante [color=yellow][bold][keybind="Use"][/bold][/color].
 
-  If the game is preventing you from placing lattice, it's because there is another separated grid too close to the grid you're trying to expand. You can use a wirecutter to remove the offending grid.
+  Si el juego impide colocarla, probablemente existe otra cuadrícula separada demasiado cerca de la que intenta ampliar. Utilice un cortacables para retirar la cuadrícula que causa la obstrucción.
 
-  ## Hull Tiles
-  Hull tiles are solid foundation for the station, where all the other parts of the station rest upon.
+  ## Placas del casco
+  Las placas del casco constituyen la base sólida sobre la que se apoyan los demás elementos de la estación.
 
   <Box>
     <GuideEntityEmbed Entity="SheetSteel" Caption=""/>
@@ -28,12 +28,12 @@
     <GuideEntityEmbed Entity="FloorTileItemWhite" Caption=""/>
   </Box>
 
-  Lattice can be made into hull tiles by using either steel or almost any type of floor tile on them by pressing [color=yellow][bold][keybind="Use"][/bold][/color].
-  This will convert the lattice into a hull tile, which can hold pressure and gasses.
+  Para convertir una estructura reticular en placa del casco, aplique acero o casi cualquier baldosa mediante [color=yellow][bold][keybind="Use"][/bold][/color].
+  La placa resultante puede retener presión y gases.
 
-  It is advised to use floor tiles to replace lattice instead of steel sheets, as you can craft 4 floor tiles from a single steel sheet.
+  Se recomienda utilizar baldosas en lugar de láminas de acero, ya que una sola lámina permite fabricar 4 baldosas.
 
-  You can use an RCD to deconstruct hull tiles into lattice.
+  Un RCD puede desmantelar una placa del casco y convertirla de nuevo en estructura reticular.
 
 
 </Document>

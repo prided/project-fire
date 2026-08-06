@@ -12,17 +12,17 @@
     ## Alarmas de aire
   </Box>
   <Box>
-    [color=#999999][italic]Large monitorización de áreas y dispositivos atmosféricos control[/italic][/color]
+    [color=#999999][italic]Supervisión y control centralizados de áreas extensas y dispositivos atmosféricos[/italic][/color]
   </Box>
 
   <Box>
     <GuideEntityEmbed Entity="ComputerAlert" Caption=""/>
   </Box>
   <Box>
-    ## Ordenador de Alarma Atmosférica
+    ## Computadora de alarmas atmosféricas
   </Box>
   <Box>
-    [color=#999999][italic]Station monitorización del alarms[/italic][/color]
+    [color=#999999][italic]Supervisión de las alarmas de la estación[/italic][/color]
   </Box>
 
   <Box>

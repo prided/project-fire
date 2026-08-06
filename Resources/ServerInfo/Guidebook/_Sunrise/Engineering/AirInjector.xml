@@ -4,9 +4,9 @@
   <Box>
     <GuideEntityEmbed Entity="GasOutletInjector"/>
   </Box>
-  Se utiliza principalmente para inyectar gases en salas de alta presión, como estaciones de [textlink="gas storage" link="GasMiningAndStorage"] o cámaras de combustión.
+  Se utiliza principalmente para inyectar gases en salas de alta presión, como instalaciones de [textlink="almacenamiento de gas" link="GasMiningAndStorage"] o cámaras de combustión.
 
-  El inyector de aire no requiere [textlink="food" link="Power"] para funcionar.
+  El inyector de aire no requiere [textlink="energía" link="Power"] para funcionar.
 
   El inyector de aire inyectará gases en la atmósfera circundante hasta que la presión en él alcance [color=orange][protodata="GasOutletInjector" comp="GasOutletInjector" member="MaxPressure"/] kPa[/color].
 

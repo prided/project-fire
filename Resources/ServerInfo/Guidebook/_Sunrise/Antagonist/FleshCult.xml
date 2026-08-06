@@ -10,21 +10,21 @@
 
   Eres elegido por la carne. Un parásito de una dimensión alienígena vive dentro de ti, la fuente de poder y de tu muerte segura. Un cultista de la carne es una criatura nacida de la fusión de un humano y una biomasa alienígena. Todas las especies conscientes, excepto los slimoys, son hospedadores adecuados para un parásito.
 
-  Tu destino está sellado: el parásito será alimentado o saldrá arrastrándose, devorándote por dentro. A cambio, obtienes habilidades únicas. Tu objetivo principal es conseguir tres cadáveres humanoides, unirte a otros cultistas y comenzar un gran ritual de invocación de [bold]Heart de Flesh[/bold].
+  Su destino está sellado: deberá alimentar al parásito o este lo devorará desde el interior. A cambio, obtiene habilidades únicas. Su objetivo principal es conseguir tres cadáveres humanoides, reunirse con otros cultistas y comenzar el gran ritual de invocación del [bold]Corazón de Carne[/bold].
 
-  Alimenta la carne humanoide del corazón. Protégelo a toda costa. Cuando la mayoría de la estación está infectada, habéis ganado—el poder del culto está en su número.
+  Alimente el corazón con carne humanoide y protéjalo a toda costa. Cuando la mayor parte de la estación esté infectada, el culto habrá vencido. Su poder reside en la cantidad de miembros.
 
   ## Prohibido
 
   A pesar de tu poder, hay limitaciones:
 
-  - Manipular el sistema de soporte vital (liberar plasma en la distra, etc.)
-  - Liberar Singularidad o Tesla
-  - Revelarte hasta el momento en que aparezca el Corazón de Carne
-  - Matar a la tripulación en masa antes de que se cree el Corazón
-  - Crear Corazón de Carne en lanzaderas o fuera de la estación
-  - Desarrollar completamente el Corazón de Carne con materiales de construcción
-  - Sabotaje del cristal de supermateria
+  - Manipular los sistemas de soporte vital, por ejemplo, liberando plasma en la distribución atmosférica.
+  - Liberar la singularidad o la tesla.
+  - Revelarse antes de que aparezca el Corazón de Carne.
+  - Matar masivamente a la tripulación antes de crear el Corazón.
+  - Crear el Corazón de Carne en transbordadores o fuera de la estación.
+  - Desarrollar por completo el Corazón de Carne mediante materiales de construcción.
+  - Sabotear el cristal de supermateria.
 
   Todo lo demás está permitido dentro del marco de las reglas del proyecto.
 
@@ -34,105 +34,105 @@
   <GuideEntityEmbed Entity="MobFleshBall" Caption="Forma Shahid"/>
   </Box>
   <Box>
-  <GuideEntityEmbed Entity="MobFleshBat" Caption="Formulario de Scouting"/>
-  <GuideEntityEmbed Entity="MobFleshHugger" Caption="Formulario de Control de Víctimas"/>
+  <GuideEntityEmbed Entity="MobFleshBat" Caption="Forma de exploración"/>
+  <GuideEntityEmbed Entity="MobFleshHugger" Caption="Forma de control de víctimas"/>
   <GuideEntityEmbed Entity="MobFleshWorm" Caption="Forma de distracción"/>
 </Box>
 
   ## Comunicación
 
   <Box>
-    Usa el [bold]cult radio[/bold] (comando [bold]"+a"[/bold]) para coordinarte con otros cultistas. Un cultista solitario es fácilmente destruido. Un grupo combinado es una pesadilla para la tripulación.
+    Utilice la [bold]radio del culto[/bold] (comando [bold]"+a"[/bold]) para coordinarse con otros cultistas. Un cultista aislado es vulnerable; un grupo coordinado representa una amenaza grave para la tripulación.
   </Box>
 
-  ## Tienda Evolution
+  ## Tienda de evolución
 
-  Esta es tu principal fuente de poder. Acumulas [bold]evolution points[/bold] a medida que absorbes los cuerpos de cualquier criatura. Cada cuerpo de un cadáver humanoide otorga más puntos que un animal. [color=#ff6b6b]Each cadáver solo puede ser consumido once[/color].
+  Esta es su principal fuente de poder. Acumulará [bold]puntos de evolución[/bold] al absorber cuerpos. Cada cadáver humanoide otorga más puntos que un animal. [color=#ff6b6b]Cada cadáver solo puede consumirse una vez.[/color]
   
   ## Carol y reclutamiento
 
-  El [color=#ff6b6b]Cult Leader[/color] comienza la ronda con [bold]Carol[/bold] jeringuillas. Puede usarlas para crear nuevos miembros en la secta.
+  El [color=#ff6b6b]líder del culto[/color] comienza la ronda con jeringas de [bold]Carol[/bold]. Puede utilizarlas para crear nuevos integrantes del culto.
 
-  [color=#ffaa00]One jeringuilla con 5 Carol units[/color] puede:
-  - Cuando se inyecta en el cuerpo sin el Implante de Protección Mental: [bold]turn en un nuevo cultist[/bold]
-  - Al entrar en un objetivo protegido: [bold]poison only[/bold]
+  [color=#ffaa00]Una jeringa con cinco unidades de Carol[/color] puede:
+  - Al inyectarse en un cuerpo sin implante de escudo mental: [bold]convertirlo en un nuevo cultista[/bold].
+  - Al inyectarse en un objetivo protegido: [bold]únicamente envenenarlo[/bold].
 
   ## Habilidades
 
-  ### Ofensivo
+  ### Habilidades ofensivas
 
-  [bold]Spider Form[/bold] | Coste: 2 EP
+  [bold]Forma arácnida[/bold] | Costo: 2 EP
   Transforma una parte de tu cuerpo en una forma similar a una araña. Obtén un aumento significativo en la velocidad de movimiento y una defensa moderada.
 
-  [bold]Spikeshooter[/bold] | Coste: 5 EP
+  [bold]Lanzapúas[/bold] | Costo: 5 EP
   Convierte un brazo activo en una pistola carnicera mortal. La carne forma un proyectil óseo para ataques a larga distancia.
 
-  [bold]Meat Facehuggers[/bold] | Coste: 2 EP
+  [bold]Abrazacaras de carne[/bold] | Costo: 2 EP
   Lanza facehuggers carnosos vivos que puedes lanzar a tus enemigos. Un arma cuerpo a cuerpo eficaz con tu propia mente.
 
-  [bold]Fist de Flesh[/bold] | Coste: 3 EP
+  [bold]Puño de carne[/bold] | Costo: 3 EP
   Convierte tu mano en un puño enorme. Penetra fácilmente paredes, estructuras y causa un daño masivo a la carne viva.
 
-  [bold]Flesh Sword[/bold] | Coste: 4 EP
+  [bold]Espada de carne[/bold] | Costo: 4 EP
   Convierte tu brazo en una hoja mortal de hueso y carne. El arma perfecta para el combate cuerpo a cuerpo.
 
-  [bold]Claw de Flesh[/bold] | Coste: 2 EP
+  [bold]Garra de carne[/bold] | Costo: 2 EP
   Convierte tu mano en una garra funcional. Agarra objetos, manipula mecanismos, corta enemigos.
 
-  [bold]Acid Spit[/bold] | Coste: 2 EP
+  [bold]Escupitajo ácido[/bold] | Costo: 2 EP
   Escupe ácido a los enemigos. Inflige daño y destruye materiales. Efectivo contra posiciones atrincheradas.
 
   ### Protección
 
-  [bold]Flesh Armor[/bold] | Coste: 2 EP
+  [bold]Armadura de carne[/bold] | Costo: 2 EP
   Ponte armadura hecha de hueso y carne. Aumenta mucho la resistencia al daño.
 
-  [bold]Heavy Armor[/bold] | Coste: 5 XP
+  [bold]Armadura pesada[/bold] | Costo: 5 XP
   Ponte armadura pesada. Proporciona la máxima protección contra daños.
 
-  [bold]Flash Protection[/bold] | Coste: 2 EP
+  [bold]Protección contra destellos[/bold] | Costo: 2 EP
   Tus ojos se adaptan a la luz intensa. Los destellos brillantes ya no te ciegan.
 
-  [bold]Insulation[/bold] | Coste: 1 EP
+  [bold]Aislamiento[/bold] | Costo: 1 EP
   La descarga eléctrica ya no te daña.
 
-  [bold]Pressure[/bold] | Coste: 1 EP
+  [bold]Resistencia a la presión[/bold] | Costo: 1 EP
   Los entornos de baja presión ya no te amenazan. Trabaja con seguridad en el vacío.
 
-  [bold]Thermo-Regulation[/bold] | Coste: 1 EP
+  [bold]Termorregulación[/bold] | Costo: 1 EP
   Mantén una temperatura estable en un ambiente frío. Permanece en un entorno de baja temperatura sin daños.
 
   ### Utilidad
 
-  [bold]Adrenaline Synthesis[/bold] | Coste: 2 EP
+  [bold]Síntesis de adrenalina[/bold] | Costo: 2 EP
   Toma una dosis de adrenalina de combate. Aumenta la velocidad y la resistencia al aturdimiento durante un corto tiempo.
 
-  [bold]Blood Absorption[/bold] | Coste: 2 EP
+  [bold]Absorción de sangre[/bold] | Costo: 2 EP
   Instintivamente absorbes sangre del suelo. Los charcos de sangre curan tus heridas.
 
   ### Corazón de Carne
 
-  [bold]Heart Creation[/bold] | Coste: 10 EP
+  [bold]Creación del corazón[/bold] | Costo: 10 EP
   Construye la fuente de poder de un culto. Requiere tres cadáveres humanoides. Protege el corazón de la tripulación hostil: es tu objetivo y una fuente de poder infinito.
   Puedes crear varios corazones activos para acelerar el proceso.
 
   ## Estrategia de supervivencia
 
   <Box>
-    [color=#ff6b6b][bold]Remember[/bold] No eres una máquina de guerra. Eres un depredador en la skin.[/color] humana
+    [color=#ff6b6b][bold]Recuerde:[/bold] no es una máquina de guerra. Es un depredador oculto bajo una apariencia humana.[/color]
   </Box>
 
   ### Inicio del juego
 
-  1. [bold]Hide en el crowd[/bold] – compórtate con normalidad, sin sospechar. El parásito es lento. Tienes tiempo.
-  2. [bold]Find allies[/bold] - usar el vínculo icónico, organizar una reunión en un lugar seguro.
-  3. [bold]Start hunting[/bold] - uno a uno, matar a personas, animales, devorarlos y esconder los cadáveres. Objetivos objetivo: infieles, enemigos de la estación, aquellos cuya partida no despertará sospechas.
+  1. [bold]Ocúltese entre la multitud[/bold]: compórtese con normalidad y no despierte sospechas. El parásito se desarrolla lentamente; dispone de tiempo.
+  2. [bold]Encuentre aliados[/bold]: utilice el vínculo psíquico y organice una reunión en un lugar seguro.
+  3. [bold]Comience la cacería[/bold]: mate a personas o animales de uno en uno, devórelos y oculte los cadáveres. Priorice a los infieles, enemigos de la estación y personas cuya desaparición no genere sospechas.
 
   ### Mitad de partida
 
-  4. [bold]Gather resources[/bold] - Acumular tres cadáveres en un lugar seguro. Distraer a la tripulación con incidentes.
-  5. [bold]Start el ritual[/bold] - Cuando tu grupo sea lo suficientemente fuerte, crea un Corazón de Carne en una zona protegida.
-  6. [bold]Protect la heart[/bold] es lo único que importa. Todo lo demás es secundario. Aliméntalo con carne, y crecerá, dando a luz a nuevos guerreros.
+  4. [bold]Reúna recursos[/bold]: acumule tres cadáveres en un lugar seguro y distraiga a la tripulación mediante incidentes.
+  5. [bold]Inicie el ritual[/bold]: cuando el grupo sea suficientemente fuerte, cree un Corazón de Carne en una zona protegida.
+  6. [bold]Proteja el corazón[/bold]: es la máxima prioridad. Aliméntelo con carne para que crezca y genere nuevos guerreros.
 
   ### Juego tardío
 
@@ -140,5 +140,5 @@
 
   ## Ganar
 
-  La ronda termina con un [color=red][bold]BIG WIN[/bold][/color] CULT cuando la mayoría de la estación está infectada. Ganas. La carne gana.
+  La ronda termina con una [color=red][bold]GRAN VICTORIA DEL CULTO[/bold][/color] cuando la mayor parte de la estación está infectada. El culto vence. La carne vence.
 </Document>

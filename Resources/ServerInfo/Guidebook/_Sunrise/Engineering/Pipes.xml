@@ -6,15 +6,15 @@
   <Box>
     <GuideEntityEmbed Entity="GasPipeStraight" Caption="Directo"/>
     <GuideEntityEmbed Entity="GasPipeHalf" Caption="Mitad"/>
-    <GuideEntityEmbed Entity="GasPipeBend" Caption="Bending"/>
+    <GuideEntityEmbed Entity="GasPipeBend" Caption="Curva"/>
     <GuideEntityEmbed Entity="GasPipeTJunction" Caption="Conexión T"/>
     <GuideEntityEmbed Entity="GasPipeFourway" Caption="Cuádruple"/>
   </Box>
 
-  Las tuberías [color=#a4885c]automatically connect[/color] a otras tuberías cuando se fijan al cuerpo con una llave inglesa, formando una [textlink="network of pipes" link="PipeNetworks"].
-  Una red de tuberías se conoce comúnmente como [textlink="pipenet" link="PipeNetworks"].
+  Las tuberías se [color=#a4885c]conectan automáticamente[/color] con otras tuberías al fijarse al piso mediante una llave inglesa, formando una [textlink="red de tuberías" link="PipeNetworks"].
+  Un conjunto de tuberías conectadas forma una [textlink="red de tuberías" link="PipeNetworks"].
 
-  Las tuberías se [color=red]not connected[/color] a tuberías que ya están conectadas a otra tubería.
+  Las tuberías [color=red]no se conectan[/color] con tuberías que ya están enlazadas a otra red.
   Por ejemplo, no podrás poner una tubería curva encima de una recta para hacer una conexión en T casera.
 
   Sin embargo, dos tubos pueden estar en la misma jaula, siempre que uno no se solape con la conexión del otro.

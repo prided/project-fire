@@ -6,7 +6,7 @@
     <GuideEntityEmbed Entity="BaseGasCondenser"/>
   </Box>
 
-  El condensador de gas toma gas de la [textlink="pipeline network" link="PipeNetworks"] conectada y convierte el gas adecuado en un reactivo dentro del depósito conectado.
+  El condensador de gas toma gas de la [textlink="red de tuberías" link="PipeNetworks"] conectada y convierte el gas compatible en un reactivo dentro del depósito conectado.
 
   Esto es útil para obtener sustancias de procesos atmosféricos, como el amoníaco.
 

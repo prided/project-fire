@@ -1,23 +1,23 @@
 <Document>
   # Regulador de presión de entrada
-  El regulador de presión de entrada es un dispositivo pasivo que permite que el gas escape del [textlink="pipeneta" link="PipeNetworks"] cuando la presión supera un umbral predeterminado.
+  El regulador de presión de entrada es un dispositivo pasivo que permite que el gas escape de la [textlink="red de tuberías" link="PipeNetworks"] cuando la presión supera un umbral predeterminado.
 
   <Box>
     <GuideEntityEmbed Entity="GasPressureRegulator"/>
   </Box>
 
   ## Trabajo
-  La válvula [color=green]open[/color] automáticamente cuando la presión en la tubería supere el umbral preestablecido, permitiendo que el gas escape hacia la tubería de salida conectada.
+  La válvula se [color=green]abre[/color] automáticamente cuando la presión en la tubería supera el umbral preestablecido, permitiendo que el gas escape hacia la tubería de salida conectada.
 
-  La válvula volverá a [color=red]close[/color] cuando la presión baje del umbral preestablecido.
+  La válvula vuelve a [color=red]cerrarse[/color] cuando la presión desciende por debajo del umbral preestablecido.
 
   El caudal de la válvula está limitado a [color=orange][protodata="GasPressureRegulator" comp="GasPressureRegulator" member="MaxTransferRate"/] l/s[/color].
 
   ## Ejemplos de uso
-  La válvula se utiliza a menudo para evitar sobrepresión en sistemas de gas, como circuitos de refrigeración [textlink="TEG" link="TEG"] y [textlink="pipes" link="Pipes"] donde podría causar fallos del sistema, como [textlink="pumps" link="Pumps"] obstruidos.
+  La válvula se utiliza a menudo para evitar sobrepresión en sistemas de gas, como circuitos de refrigeración [textlink="TEG" link="TEG"] y [textlink="tuberías" link="Pipes"], donde podría causar fallas del sistema, como [textlink="bombas" link="Pumps"] obstruidas.
 
   La válvula también puede usarse para expulsar gas caliente listo para usar desde la cámara de combustión.
-  Por ejemplo, a veces no es deseable permitir que la presión en la cámara de combustión baje de cierto valor durante mucho tiempo: el gas puede enfriarse demasiado y encajar, lo que conducirá a la extinción de la llama.
+  Por ejemplo, puede ser inconveniente permitir que la presión de la cámara de combustión permanezca demasiado tiempo por debajo de cierto valor: el gas podría enfriarse en exceso y provocar la extinción de la llama.
 
   Un regulador de presión de admisión puede usarse para expulsar el exceso de gas manteniendo la presión en la cámara de combustión por encima de cierto umbral. Esto puede ayudar a mantener el fuego encendido en la cámara.
 </Document>

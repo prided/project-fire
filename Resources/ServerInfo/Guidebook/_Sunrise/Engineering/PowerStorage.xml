@@ -1,11 +1,11 @@
 <Document>
   # Almacenamiento de energía
-  Debido a [textlink="Overclocking el network" link="Ramping"], el consumo en la estación rara vez es fluido. Los dispositivos de almacenamiento suavizan los picos y caídas a corto plazo, y también proporcionan un margen de tiempo si la generación no cubre temporalmente la carga.
+  Debido a las [textlink="variaciones de carga en la red" link="Ramping"], el consumo de la estación rara vez es uniforme. Los dispositivos de almacenamiento amortiguan los picos y caídas de corta duración, además de proporcionar un margen de tiempo cuando la generación no cubre temporalmente la demanda.
 
-  Cada transformador ([color=orange]HV[/color], [color=yellow]MV[/color], [color=green]LV[/color]) tiene un pequeño buffer, pero para la operación de todo el sector de la estación, son los SMES los que se necesitan.
+  Cada transformador ([color=orange]HV[/color], [color=yellow]MV[/color], [color=green]LV[/color]) dispone de una pequeña reserva, pero la operación de un sector completo de la estación requiere unidades SMES.
 
-  ## SIES básicos
-  El Almacenamiento de Energía Magnética Superconductora (SMES) recibe [color=orange]HV[/color] a través de un terminal de cable y dispensa energía a la red con un cable debajo.
+  ## SMES básico
+  El Superconducting Magnetic Energy Storage (SMES) recibe energía de [color=orange]alta tensión[/color] mediante un terminal de cable y la suministra a la red a través del cable situado debajo.
 
   <Box>
     <GuideEntityEmbed Entity="SMESBasic"/>
@@ -22,32 +22,32 @@
       <GuideEntityEmbed Entity="CableHV" Caption="Salida"/>
       <GuideEntityEmbed Entity="SMESBasic" Caption="" Margin="0"/>
       <GuideEntityEmbed Entity="CableTerminal" Caption="" Margin="0" Rotation="270"/>
-      <GuideEntityEmbed Entity="CableHV" Caption="Iniciar sesión"/>
+      <GuideEntityEmbed Entity="CableHV" Caption="Entrada"/>
     </Box>
   </Box>
 
-  Las tiendas básicas SMES [color=orange][protodata="SMESBasic" comp="Battery" member="MaxCharge" format="N0"/] J[/color] y pueden ofrecer hasta [color=orange][protodata="SMESBasic" comp="PowerNetworkBattery" member="MaxSupply" format="N0"/] W[/color].
+  El SMES básico almacena [color=orange][protodata="SMESBasic" comp="Battery" member="MaxCharge" format="N0"/] J[/color] y puede suministrar hasta [color=orange][protodata="SMESBasic" comp="PowerNetworkBattery" member="MaxSupply" format="N0"/] W[/color].
 
-  ## Avanzadas de Conocimientos
-  Una opción reforzada para sistemas de suministro eléctrico de centrales y un funcionamiento más largo en caso de déficit de generación.
+  ## SMES avanzado
+  Es una opción reforzada para redes eléctricas de alta demanda y proporciona mayor autonomía durante un déficit de generación.
 
   <Box>
     <GuideEntityEmbed Entity="SMESAdvanced"/>
   </Box>
 
-  Advanced SMES almacena [color=orange][protodata="SMESAdvanced" comp="Battery" member="MaxCharge" format="N0"/] J[/color] y entrega hasta [color=orange][protodata="SMESAdvanced" comp="PowerNetworkBattery" member="MaxSupply" format="N0"/] W[/color].
+  El SMES avanzado almacena [color=orange][protodata="SMESAdvanced" comp="Battery" member="MaxCharge" format="N0"/] J[/color] y entrega hasta [color=orange][protodata="SMESAdvanced" comp="PowerNetworkBattery" member="MaxSupply" format="N0"/] W[/color].
 
-  ## SIEC extendido
-  Un gran almacén Sunrise para áreas de red de alta potencia.
+  ## SMES extendido
+  Es una unidad Sunrise de gran capacidad para sectores de la red con alta demanda eléctrica.
 
   <Box>
     <GuideEntityEmbed Entity="SMESExtended"/>
   </Box>
 
-  El SIES extendido almacena [color=orange][protodata="SMESExtended" comp="Battery" member="MaxCharge" format="N0"/] J[/color] y genera hasta [color=orange][protodata="SMESExtended" comp="PowerNetworkBattery" member="MaxSupply" format="N0"/] W[/color].
+  El SMES extendido almacena [color=orange][protodata="SMESExtended" comp="Battery" member="MaxCharge" format="N0"/] J[/color] y suministra hasta [color=orange][protodata="SMESExtended" comp="PowerNetworkBattery" member="MaxSupply" format="N0"/] W[/color].
 
-  ## SIEC Súper Extendido
-  Propulsor Sunrise de primera gama para redes muy pesadas y en espera prolongada.
+  ## SMES superextendido
+  Es la unidad Sunrise de mayor capacidad, diseñada para redes de demanda extrema y periodos prolongados de respaldo.
 
   <Box>
     <GuideEntityEmbed Entity="SMESSuperExtended"/>
@@ -55,5 +55,5 @@
 
   El SMES superextendido almacena [color=orange][protodata="SMESSuperExtended" comp="Battery" member="MaxCharge" format="N0"/] J[/color] y produce hasta [color=orange][protodata="SMESSuperExtended" comp="PowerNetworkBattery" member="MaxSupply" format="N0"/] W[/color].
 
-  Incluso los SMES más amplios no reemplazan la generación: si la carga total es consistentemente superior a la salida, las baterías seguirán descargando.
+  Incluso los SMES de mayor capacidad no reemplazan la generación: si la carga total supera de forma constante la producción, las baterías continuarán descargándose.
 </Document>

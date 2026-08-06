@@ -1,27 +1,27 @@
 ﻿<Document>
-  # SCP-082 "Каннибал Фернанд"
+  # SCP-082 "Fernand el Caníbal"
 
-  Данное руководство расскажет о том, чем является объект в рамках игры и ее механик. Здесь НЕ будет затронута "лорная" часть объекта.
+  Esta guía explica cómo funciona el objeto dentro del juego y cuáles son sus mecánicas. No aborda el lore del objeto.
 
-  Данная страница является сборником ссылок на другие, более подробные руководства по объекту, и краткое описание раздела.
+  Esta página reúne enlaces a guías más detalladas sobre el objeto y ofrece una breve descripción de cada sección.
 
-  ## Начало раунда
+  ## Inicio de la ronda
 
-  В стартовой точке, начале раунда или после появления, SCP-082 находится в своей камере содержания.
-  Камера содержания представляет собой сдерживающую меру, препятствующую вреду персоналу комплекса.
+  Al inicio de la ronda o después de aparecer, SCP-082 se encuentra en su cámara de contención.
+  La cámara impide que el objeto cause daño al personal del complejo.
 
-  Пока объект находится в ней - он практически не представляет угрозы.
+  Mientras permanezca dentro, prácticamente no representa una amenaza.
 
-  - Задача персонала комплекса: сдерживать объект внутри камеры содержания.
-  - Задача SCP-082: Взаимодействовать с игроками в рамках ролевого отыгрыша.
+  - Objetivo del personal del complejo: mantener al objeto dentro de la cámara de contención.
+  - Objetivo de SCP-082: interactuar con los jugadores mediante el juego de rol.
 
-  [textlink="Подробнее о сдерживании здесь" link="Scp082Containment"]
+  [textlink="Más información sobre la contención" link="Scp082Containment"]
 
-  [textlink="Подробнее о методах побега здесь." link="Scp082ContainmentBreach"]
+  [textlink="Más información sobre los métodos de fuga" link="Scp082ContainmentBreach"]
 
-  ## Способности
+  ## Habilidades
 
-  Фернанд обладает необычайно большой силой и здоровьем. Эти и другие характеристики могут помочь ему сбежать из камеры содержания.
+  Fernand posee una fuerza y una resistencia extraordinarias. Estas y otras características pueden ayudarlo a escapar de la cámara de contención.
 
-  [textlink="Подробнее про способности здесь" link="Scp082Abilities"]
+  [textlink="Más información sobre las habilidades" link="Scp082Abilities"]
 </Document>

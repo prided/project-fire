@@ -2,30 +2,30 @@
 
   # Investigación
 
-  [bold]Unlike la estación espacial, la investigación en la Fundación SCP se basa principalmente en la objects.[/bold]
-  Aquí, investigar todas las tecnologías requiere [color=#8b0000] puntos de investigación SCP[/color], que pueden obtenerse revelando nodos SCP mediante un sistema de artefactos de la estación espacial o mediante interacciones únicas
+  [bold]A diferencia de una estación espacial, la investigación de la Fundación SCP se centra principalmente en los objetos anómalos.[/bold]
+  Para desbloquear tecnologías se necesitan [color=#8b0000]puntos de investigación SCP[/color]. Pueden obtenerse al revelar nodos SCP mediante el sistema de artefactos o al realizar interacciones únicas.
 
-  ## Camino a través del sistema de artefactos
+  ## Investigación mediante el sistema de artefactos
 
-  Para empezar, el objeto SCP debe estar dentro de un radio de 10 casillas alrededor de la plataforma de análisis. No necesita estar directamente sobre ella como los artefactos normales
-  Esto solo funciona en [color=#2B662B]living SCP[/color], como SCP-173 y similares.
+  Para comenzar, el objeto SCP debe estar dentro de un radio de 10 casillas de la plataforma de análisis. A diferencia de un artefacto normal, no necesita estar colocado directamente sobre ella.
+  Este método solo funciona con [color=#2B662B]objetos SCP vivientes[/color], como SCP-173.
 
-  En cuanto actives el efecto, [color=#8b0000] puntos de investigación SCP irán instantáneamente a la server[/color]. No necesitas extraerlos a través de la consola
+  Cuando actives el efecto, los [color=#8b0000]puntos de investigación SCP se enviarán directamente al servidor de investigación[/color]. No es necesario extraerlos mediante la consola.
 
-  La investigación adicional se realiza de la manera estándar, salvo que el efecto del disparador quedará oculto.
+  El resto del proceso se realiza de la forma habitual, aunque el efecto activador permanecerá oculto.
 
-  [italic]We añadido a la lista estándar de efectos, así que podrás descubrir efectos completamente nuevos que los objetos pueden mostrar. Y algunos de ellos son increíblemente crazy[/italic]
+  [italic]Se añadieron efectos nuevos a la lista habitual. Algunos objetos pueden manifestar resultados completamente inesperados.[/italic]
 
-  ## Viaje a través de interacciones únicas
+  ## Investigación mediante interacciones únicas
 
-  Algunos SCP tienen sus propias interacciones únicas, pero todos funcionan de la misma manera
+  Algunos objetos SCP poseen interacciones únicas, pero todas siguen el mismo proceso:
 
-  - El jugador interactúa con SCP usando la herramienta requerida
-  - Tras un tiempo de espera, el jugador recibe [bold]research material[/bold]
-  - El SCP entra en un enfriamiento basado en la interacción realizada. No son posibles más interacciones hasta que pase. Aunque sean otras interacciones
+  - El jugador interactúa con el objeto usando la herramienta requerida.
+  - Tras un tiempo de espera, recibe [bold]material de investigación[/bold].
+  - El objeto entra en un periodo de recarga determinado por la interacción. No pueden realizarse otras interacciones hasta que termine.
 
-  El [bold]research material[/bold] obtenido puede estudiarse como un artefacto regular. Cada nodo proporciona muchos [color=#8b0000] más puntos de investigación SCP[/color] que los nodos SCP.
+  El [bold]material de investigación[/bold] obtenido puede estudiarse como un artefacto normal. Cada nodo proporciona muchos [color=#8b0000]más puntos de investigación SCP[/color] que un nodo SCP común.
 
-  [textlink="A lista de interacciones únicas para cada SCP se puede encontrar here" link="ScpResearchAdvanced"]
+  [textlink="Lista de interacciones únicas de cada SCP" link="ScpResearchAdvanced"]
 
 </Document>

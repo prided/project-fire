@@ -1,6 +1,6 @@
 <Document>
   # Termomáquinas
-  Las termomáquinas son dispositivos que cambian la temperatura de los gases dentro del [textlink="pipe network" link="PipeNetworks"] o de la atmósfera circundante.
+  Las termomáquinas son dispositivos que cambian la temperatura de los gases dentro de una [textlink="red de tuberías" link="PipeNetworks"] o de la atmósfera circundante.
   <Box>
     <GuideEntityEmbed Entity="SpaceHeater" Caption=""/>
     <GuideEntityEmbed Entity="GasThermoMachineHeater" Caption=""/>
@@ -8,7 +8,7 @@
   </Box>
   Son necesarios para mantener la temperatura de los gases en diferentes tareas.
 
-  Todas las termomáquinas utilizan [textlink="electricity" link="Power"] para calentar o enfriar la atmósfera.
+  Todas las termomáquinas utilizan [textlink="electricidad" link="Power"] para calentar o enfriar la atmósfera.
   Cuánto calientan o enfrían la atmósfera está directamente relacionado con la cantidad de energía consumida.
 
   Las termomáquinas también tienen un coeficiente de eficiencia que determina cuánto pueden calentar o enfriar la atmósfera por unidad de energía consumida.
@@ -35,14 +35,14 @@
   La botánica o la ciencia suelen pedirles que mantengan la temperatura de las plantas o de un departamento.
 
   ## Termomáquinas de red de tubería (refrigerador y calentador)
-  Las termomáquinas de red de tubería son dispositivos estacionarios de control de temperatura más potentes que pueden usarse para calentar o enfriar gas en [textlink="pipenete" link="PipeNetworks"].
+  Las termomáquinas de red son dispositivos estacionarios de control térmico más potentes que pueden utilizarse para calentar o enfriar gas en una [textlink="red de tuberías" link="PipeNetworks"].
 
   <Box>
     <GuideEntityEmbed Entity="GasThermoMachineHeater"/>
     <GuideEntityEmbed Entity="GasThermoMachineFreezer"/>
   </Box>
 
-  Consumen [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="HeatCapacity" format="N0"/] watts[/color] de energía y pueden calentar o enfriar el gas en la tubería para [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="MaxTemperature"/] K[/color] o [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="MinTemperature"/] K[/color].
+  Consumen [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="HeatCapacity" format="N0"/] W[/color] de energía y pueden calentar o enfriar el gas de la tubería hasta [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="MaxTemperature"/] K[/color] o [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="MinTemperature"/] K[/color].
 
   El modo de la termomáquina puede cambiarse desmontándola y usando un destornillador en su placa de máquina.
   La placa puede imprimirse en una impresora PCB, normalmente situada en el departamento científico.
@@ -67,7 +67,7 @@
     <GuideEntityEmbed Entity="GasThermoMachineHellfireFreezer"/>
   </Box>
 
-  Estas máquinas consumen [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="HeatCapacity" format="N0"/] watts[/color] de energía y pueden calentar o enfriar gas en la tubería hasta [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="MaxTemperature"/] K[/color] o [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="MinTemperature"/] K[/color].
+  Estas máquinas consumen [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="HeatCapacity" format="N0"/] W[/color] de energía y pueden calentar o enfriar gas en la tubería hasta [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="MaxTemperature"/] K[/color] o [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="MinTemperature"/] K[/color].
 
   Sin embargo, también pierden [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="EnergyLeakPercentage" format="P0"/][/color] de su energía al medio ambiente, calentando o enfriando respectivamente la atmósfera circundante.
   Esto puede ser peligroso sin la supervisión adecuada.

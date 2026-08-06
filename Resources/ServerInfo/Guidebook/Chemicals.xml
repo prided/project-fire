@@ -1,14 +1,14 @@
 <Document>
 # Sustancias químicas
 
-Las sustancias químicas son herramientas poderosas que pueden causar una gran variedad de efectos al consumirlas. Algunas se encuentran en plantas, pueden comprarse en Cargo o sintetizarse mediante la combinación de otras sustancias químicas.
+Las sustancias químicas son herramientas potentes que pueden producir diversos efectos al consumirse. Algunas se encuentran en plantas, pueden adquirirse mediante el departamento de carga o sintetizarse al combinar otras sustancias.
 
-Conocer los distintos tipos de sustancias químicas y sus efectos es importante para poder atender lesiones y afrontar situaciones peligrosas.
+Conocer los distintos tipos de sustancias químicas y sus efectos es fundamental para tratar lesiones y controlar situaciones peligrosas.
 
 ## Elementos
 <GuideReagentGroupEmbed Group="Elements"/>
 
-## Medicina
+## Medicamentos
 <GuideReagentGroupEmbed Group="Medicine"/>
 
 ## Narcóticos

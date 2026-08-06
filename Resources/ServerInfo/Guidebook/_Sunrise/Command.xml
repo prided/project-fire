@@ -1,11 +1,11 @@
 <Document>
-  # Command
-  Los jefes de cada departamento se reúnen para formar el Departamento [color=#1b67a5]Command[/color], una fuerza poderosa que controla la estación. Normalmente tienen acceso a equipos especiales y a sus propias instalaciones. A menudo se les busca encontrar muertos.
+  # Mando
+  Los jefes de cada departamento conforman el [color=#1b67a5]Mando[/color], la autoridad que dirige la estación. Normalmente tienen acceso a equipo especializado y a instalaciones propias. Con frecuencia son objetivos prioritarios de los antagonistas.
 
-  ## Personnel
-  [color=#1b67a5]Command[/color] está formado por los jefes de departamento: [color=#9fed58]Head de Personnel[/color], [color=#cb0000]Head de Security[/color], [color=#5b97bc]Chief Officer[/color] Médico, [color=#f39f27]Chief Engineer[/color], [color=#c96dbf]Research Director[/color], [color=#b18644]Quartermaster[/color] y, sobre todo, [color=#1b67a5]Captain[/color].
+  ## Personal
+  El [color=#1b67a5]Mando[/color] está formado por los jefes de departamento: [color=#9fed58]jefe de personal[/color], [color=#cb0000]jefe de seguridad[/color], [color=#5b97bc]director médico[/color], [color=#f39f27]ingeniero jefe[/color], [color=#c96dbf]director de investigación[/color], [color=#b18644]intendente[/color] y, por encima de todos, el [color=#1b67a5]capitán[/color].
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineCaptain" Caption="Captain"/>
+    <GuideEntityEmbed Entity="ToyFigurineCaptain" Caption="Capitán"/>
   </Box>
   <Box>
     <GuideEntityEmbed Entity="ToyFigurineHeadOfPersonnel" Caption="HoP"/>
@@ -18,36 +18,36 @@
     <GuideEntityEmbed Entity="ToyFigurineQuartermaster" Caption="QM"/>
   </Box>
 
-  ## Taking Charge
-  ¡Enhorabuena por tu ascenso! Además de todo el papeleo extra, tus nuevas [color=#a4885c]responsibilities[/color] incluyen gestionar tu departamento, hacer cambios y priorizar, mantener a tu personal y equipos seguros, y dejar entrar un poco de pereza mientras tus compañeros hacen el trabajo por ti.
+  ## Ejercicio del mando
+  Felicitaciones por su ascenso. Además del trabajo administrativo adicional, sus nuevas [color=#a4885c]responsabilidades[/color] incluyen administrar el departamento, establecer prioridades, aplicar cambios y proteger al personal y al equipo.
 
-  ¡No olvides que aún tienes un trabajo que hacer! Tus herramientas sofisticadas no te dan un día libre, aún tienes que cerrar las ausencias de empleados, ayudar a quienes van rezagados y formar a los recién llegados.
+  No olvide que aún debe cumplir sus propias funciones. El equipo especializado no lo exime de cubrir ausencias, ayudar al personal con dificultades y capacitar a los recién llegados.
 
-  Puedes quedarte sentado y dejar que la gente se enfade, pero es más sensato involucrarte y actuar a su lado. No olvides mover a los trabajadores para que hagan lo que disfrutan o lo que mejor saben.
+  Aunque puede limitarse a impartir órdenes, resulta más eficaz involucrarse y trabajar junto al personal. Asigne a cada integrante tareas acordes con sus capacidades y preferencias cuando sea posible.
 
-  ## Your Locker
-  Para afrontar nuevas tareas desgarradoras, a cada cabeza se le asignan objetos especiales para gestionar a los subordinados. La mayoría se encontrarán en tu [color=#a4885c]locker[/color].
+  ## Su casillero
+  Cada jefe recibe objetos especializados para administrar a sus subordinados. La mayoría se encuentran en su [color=#a4885c]casillero[/color].
   <Box>
     <GuideEntityEmbed Entity="LockerCaptain"/>
   </Box>
 
-  Tu [color=#a4885c]remote[/color] es simple pero muy infravalorado. Pequeño pero potente, puede abrir y cerrar [color=#a4885c]airlocks[/color], girar [color=#a4885c]deadbolts[/color], cerrarlos y cambiar [color=#a4885c]emergency access[/color] desde la distancia.
+  Su [color=#a4885c]control remoto[/color] es sencillo pero muy útil. Puede abrir y cerrar [color=#a4885c]esclusas[/color], accionar sus [color=#a4885c]cerrojos[/color] y modificar a distancia el [color=#a4885c]acceso de emergencia[/color].
   <Box>
     <GuideEntityEmbed Entity="DoorRemoteCommand"/>
   </Box>
-  El mando a distancia determina a dónde va el personal. Las cabezas pueden expulsar a las personas de zonas de peligro o dejarlas entrar rápidamente cuando necesitan recoger un objeto con urgencia.
+  El control remoto permite regular el desplazamiento del personal. Los jefes pueden evacuar personas de zonas peligrosas o facilitar su ingreso cuando necesiten recuperar un objeto con urgencia.
 
-  Además, tienes tu propio canal de [color=#1b67a5]Command[/color], igual que otros departamentos. Sin embargo, es especialmente importante porque lo escuchan [color=#a4885c]all departments[/color].
-  Utilízalo para comunicarte con otros capítulos y expresar los deseos de tus empleados.
+  Además, dispone de un canal propio de [color=#1b67a5]Mando[/color], al igual que los demás departamentos. Es especialmente importante porque lo reciben [color=#a4885c]todos los departamentos[/color].
+  Utilícelo para coordinarse con otros jefes y comunicar las necesidades de su personal.
 
-  [color=#1b67a5]Captain[/color] y [color=#9fed58]Head de Personnel[/color] tienen acceso a la key[color=#a4885c] de cifrado [/color]master que te permite escuchar cualquier canal de radio de la emisora. Es un recurso increíble porque puedes coordinar todos los departamentos tú mismo.
-  ¡[color=#a4885c]Don no desperdicies esta ventaja[/color]
+  El [color=#1b67a5]capitán[/color] y el [color=#9fed58]jefe de personal[/color] tienen acceso a la [color=#a4885c]clave de cifrado maestra[/color], que permite escuchar todos los canales de radio de la estación. Este recurso facilita la coordinación entre departamentos.
+  [color=#a4885c]No desperdicie esta ventaja.[/color]
   <Box>
     <GuideEntityEmbed Entity="ClothingHeadsetCommand"/>
     <GuideEntityEmbed Entity="EncryptionKeyStationMaster"/>
   </Box>
 
-  Para superar la montaña de papel, hay un [color=#a4885c]seal[/color] en la taquilla. Úsalo para firmar: después del sello, no puedes editar el documento, así que revisa todo con antelación.
+  Para tramitar la documentación, encontrará un [color=#a4885c]sello[/color] en el casillero. Utilícelo para firmar: una vez sellado, el documento no podrá editarse, por lo que debe revisarlo con anticipación.
   <Box>
     <GuideEntityEmbed Entity="RubberStampCaptain"/>
   </Box>

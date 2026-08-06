@@ -16,11 +16,11 @@
   <Box>
   <GuideEntityEmbed Entity="MobCarpDungeon"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 50
-  - [bold][color=#a4885c]Speed:[/color][/bold] 3,5 m/s
-  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 6 [color=red]Slash[/color]
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 50
+  - [bold][color=#a4885c]Velocidad:[/color][/bold] 3,5 m/s
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 6 [color=red]cortante[/color]
   - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
-  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] Volar
+  - [bold][color=#a4885c]Habilidades especiales: [/color][/bold] Vuelo
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -33,11 +33,11 @@
   <Box>
   <GuideEntityEmbed Entity="MobCarpMagic"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 40
-  - [bold][color=#a4885c]Speed:[/color][/bold] 3,5 m/s
-  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 5 [color=red]Blunt[/color], 7 [color=red]Slash[/color]
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 40
+  - [bold][color=#a4885c]Velocidad:[/color][/bold] 3,5 m/s
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 5 [color=red]contundente[/color], 7 [color=red]cortante[/color]
   - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
-  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] Volar
+  - [bold][color=#a4885c]Habilidades especiales: [/color][/bold] Vuelo
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -50,11 +50,11 @@
   <Box>
   <GuideEntityEmbed Entity="MobCarpHolo"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 40
-  - [bold][color=#a4885c]Speed:[/color][/bold] 3,5 m/s
-  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 5 [color=red]Blunt[/color], 7 [color=red]Slash[/color]
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 40
+  - [bold][color=#a4885c]Velocidad:[/color][/bold] 3,5 m/s
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 5 [color=red]contundente[/color], 7 [color=red]cortante[/color]
   - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
-  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] Volador, Inmunidad a las balas
+  - [bold][color=#a4885c]Habilidades especiales: [/color][/bold] Vuelo, inmunidad a los proyectiles
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -67,11 +67,11 @@
   <Box>
   <GuideEntityEmbed Entity="MobCarpRainbow"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 40
-  - [bold][color=#a4885c]Speed:[/color][/bold] 3,5 m/s
-  - [bold][color=#a4885c]Damage (Tipo): [/color][/bold] 5 [color=red]Blunt[/color], 7 [color=red]Slash[/color]
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 40
+  - [bold][color=#a4885c]Velocidad:[/color][/bold] 3,5 m/s
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 5 [color=red]contundente[/color], 7 [color=red]cortante[/color]
   - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
-  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] Volar, Hermosa
+  - [bold][color=#a4885c]Habilidades especiales: [/color][/bold] Vuelo, apariencia llamativa
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -84,11 +84,11 @@
   <Box>
   <GuideEntityEmbed Entity="MobDragonDungeon"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 200
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 200
   - [bold][color=#a4885c] Velocidad: [/color][/bold] 5 m/s
-  - [bold][color=#a4885c]Damage (tipo): [/color][/bold] 12 [color=red]Brute[/color]
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 12 [color=red]físico[/color]
   - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
-  - [bold][color=#a4885c]Special Habilidades:[/color][/bold] Volador, reflexión débil de proyectiles
+  - [bold][color=#a4885c]Habilidades especiales:[/color][/bold] Vuelo, reflexión parcial de proyectiles
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -97,7 +97,7 @@
   <Box>
   <GuideEntityEmbed Entity="MobDragonDungeon"/>
   </Box>
-  Elimina un objetivo grande y peligroso —el [color=#a4885c]space dragon[/color]— en el tiempo asignado.
+  Elimina un objetivo grande y peligroso —el [color=#a4885c]dragón espacial[/color]— dentro del tiempo asignado.
 
   ## Destrucción
   <Box>

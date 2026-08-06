@@ -1,5 +1,5 @@
 <Document>
-  # Gas Canisters
+  # Recipientes de gas
   <Box>
     <GuideEntityEmbed Entity="AirCanister"/>
     <GuideEntityEmbed Entity="OxygenCanister"/>
@@ -11,20 +11,20 @@
     <GuideEntityEmbed Entity="GasPort"/>
   </Box>
 
-  Gas canisters are a way to store gas in a portable container for easy transport.
-  They can store [color=orange][protodata="StorageCanister" comp="GasCanister" member="Volume"/] liters[/color] of gas.
+  Los recipientes permiten almacenar gas en un contenedor portátil para facilitar su transporte.
+  Su capacidad es de [color=orange][protodata="StorageCanister" comp="GasCanister" member="Volume"/] litros[/color].
 
-  You can connect handheld tanks to a gas canister to refill them using the release valve on the canister.
-  The release valve also has a adjustable pressure regulator to control the pressure of the handheld tank connected.
+  Puede conectar tanques portátiles a un recipiente y utilizar la válvula de descarga para llenarlos.
+  Esta válvula incluye un regulador ajustable que controla la presión del tanque conectado.
 
-  Opening the release valve on a canister with no handheld tank connected will release gas into the atmosphere, at the specified regulator pressure.
+  Si abre la válvula sin un tanque portátil conectado, el gas se liberará a la atmósfera con la presión configurada en el regulador.
 
-  [bold]Be sure to close the release valve before you eject your handheld tank![/bold]
+  [bold]Cierre la válvula de descarga antes de retirar el tanque portátil.[/bold]
 
-  ## Connector Ports
-  Gas canisters and [textlink="portable scrubbers" link="PortableScrubber"] can be connected to a [textlink="pipenet" link="PipeNetworks"] by anchoring (wrenching) the device on top of a connector.
-  When connected, gas will be free to move in and out of the canister to balance pressure, temperature, and composition.
+  ## Puertos de conexión
+  Los recipientes de gas y los [textlink="depuradores portátiles" link="PortableScrubber"] pueden conectarse a una [textlink="red de tuberías" link="PipeNetworks"] al fijarlos con una llave sobre un conector.
+  Cuando están conectados, el gas circula libremente para equilibrar la presión, temperatura y composición.
 
-  A pump can be used to insert or extract gas from a canister, useful for filling or emptying a canister entirely.
+  Puede utilizar una bomba para introducir o extraer gas, lo que permite llenar o vaciar por completo el recipiente.
 
 </Document>

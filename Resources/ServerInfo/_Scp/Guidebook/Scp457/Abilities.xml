@@ -1,48 +1,48 @@
 ﻿<Document>
-  # Способности SCP-457
+  # Habilidades de SCP-457
 
-  Здесь будут описаны доступные объекту активируемые способности и уникальные механики, связанные с ним.
+  Aquí se describen las habilidades activas disponibles para el objeto y sus mecánicas únicas.
 
-  [textlink="Общая информация о горящем человеке" link="Scp457About"]
+  [textlink="Información general sobre el Hombre Ardiente" link="Scp457About"]
 
-  ## Способность "Впитать топливо"
+  ## Habilidad "Absorber combustible"
 
-  Активация данной способности заставляет SCP-457 впитать в себя все горючие предметы в радиусе 4 тайлов.
-  Используйте ее, чтобы увеличиться в размерах и стать сильнее.
+  Al activar esta habilidad, SCP-457 absorbe todos los objetos combustibles en un radio de 4 casillas.
+  Úsala para aumentar de tamaño y volverte más fuerte.
 
-  [textlink="Подробнее о методах побега" link="Scp457ContainmentBreach"]
+  [textlink="Más información sobre los métodos de fuga" link="Scp457ContainmentBreach"]
 
-  ## Способность "Воспламенить тайл"
+  ## Habilidad "Incendiar una casilla"
 
-  Активация данной способности создаёт пламя, которое поджигает вставших на него существ.
-  Используйте ее для контроля территории и двойного урона противнику.
+  Al activar esta habilidad, creas una llama que incendia a las criaturas que la pisan.
+  Úsala para controlar el terreno e infligir daño adicional a tus adversarios.
 
-  ## Способность "Поджечь"
+  ## Habilidad "Incendiar"
 
-  Активация данной способности поджигает всех существ вокруг, даже за окнами и стенами.
+  Al activar esta habilidad, incendias a todas las criaturas cercanas, incluso detrás de ventanas y paredes.
 
-  ## Механика затухания
+  ## Mecánica de extinción
 
-  В течение времени вы будете постепенно затухать и уменьшаться в размере, что позволит вам входить в вентиляцию и передвигаться в ней.
+  Con el tiempo, tus llamas se extinguen gradualmente y reduces tu tamaño, lo que te permite entrar y desplazarte por los conductos de ventilación.
 
-  Эта механика помогает сбежать в начале раунда, но делает SCP-457 слабее!
+  Esta mecánica te ayuda a escapar al inicio de la ronda, pero también debilita a SCP-457.
 
-  ## Неуязвимость
+  ## Invulnerabilidad
 
-  Горящий человек полностью неуязвим ко всем видам урона, кроме обмораживающего.
+  El Hombre Ardiente es completamente inmune a todos los tipos de daño, salvo el daño por frío.
 
-  Единственное, что может нанести вам вред - вода. Остерегайтесь её!
+  El agua es lo único que puede hacerte daño. ¡Evítala!
 
-  ## Механика поглощения
+  ## Mecánica de absorción
 
-   Поглощая топливо, вы увеличиваете свой размер, поднимаете боевой урон и получаете возможность разрушать баррикады и стены прямо на ходу.
+  Al absorber combustible, aumentas de tamaño y de daño, y obtienes la capacidad de destruir barricadas y paredes mientras avanzas.
 
-  [textlink="Подробнее про состояния" link="Scp457States"]
+  [textlink="Más información sobre los estados" link="Scp457States"]
 
-  ## Механика безопасного времени
+  ## Mecánica de tiempo de seguridad
 
-  В течение первых 15 минут с начала раунда вы не сможете входить в вентиляцию в маленьком состоянии.
+  Durante los primeros 15 minutos de la ronda no puedes entrar en los conductos de ventilación mientras estás en el estado pequeño.
 
-  Эта механика ограничивает SCP объекты в начале раунда, давая персоналу время на стартовую подготовку к смене.
+  Esta mecánica limita a los objetos SCP al inicio de la ronda y permite que el personal se prepare.
 
 </Document>

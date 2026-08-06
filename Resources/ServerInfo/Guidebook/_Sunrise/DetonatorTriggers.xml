@@ -1,26 +1,27 @@
-  # Cordón explosivo, detonador y disparadores
+<Document>
+  # Cordón explosivo, detonador y activadores
 
-  Esta guía describe los conceptos básicos para construir haces explosivos: detonador, disparadores y cordón explosivo.
+  Esta guía explica los conceptos básicos para montar cargas con detonadores, activadores y cordón explosivo.
 
   ## Componentes principales
   <Box>
   <GuideEntityEmbed Entity="CableDetStack1" Caption="Cordón explosivo" Scale="1"/>
   <GuideEntityEmbed Entity="EmptyDetonator" Caption="Detonador vacío" Scale="1"/>
   </Box>
-  ## Tipos de desencadenantes
+  ## Tipos de activadores
   <Box>
   <GuideEntityEmbed Entity="TimerTrigger" Caption="Contador de disparo" Scale="1"/>
   <GuideEntityEmbed Entity="SignalTrigger" Caption="Alarma" Scale="1"/>
   <GuideEntityEmbed Entity="VoiceTrigger" Caption="Disparador de voz" Scale="1"/>
   </Box>
-  ## Diagrama de la Asamblea General
-  1. Montar el detonador instalando uno de los gatillos en él e insertar el cable explosivo.
+  ## Esquema general de montaje
+  1. Monta el detonador instalando uno de los activadores e insertando el cordón explosivo.
   <Box>
   <GuideEntityEmbed Entity="BoxDetonator" Caption="" Scale="2"/>
   <GuideEntityEmbed Entity="WiredDetonator" Caption="" Scale="2"/>
   </Box>
   <Box>
-  2. Pasa la cuerda explosiva por el suelo donde quieres crear una explosión controlada para destruirte. La explosión es lo suficientemente potente como para atravesar una pared, pero un pequeño radio es suficiente para evitar golpearte.
+  2. Extiende el cordón explosivo por el suelo donde quieras provocar una explosión controlada. Puede atravesar una pared, pero su radio es reducido; mantén una distancia prudente para no resultar herido.
   </Box>
   <Box>
   <GuideEntityEmbed Entity="CableDet" Caption="" Scale="1.5"/>
@@ -35,4 +36,5 @@
   <GuideEntityEmbed Entity="CableDet" Caption="" Scale="1.5"/>
   </Box>
 
-  3. Activar el temporizador del disparador con antelación para detonar el haz y conectarlo al cable del suelo o colocar un detonador listo con otros tipos de disparadores de antemano y detonar a distancia.
+  3. Si usas un temporizador, actívalo antes de conectar el detonador al cordón. Con otros activadores, prepara el detonador con antelación y acciona la carga a distancia.
+</Document>

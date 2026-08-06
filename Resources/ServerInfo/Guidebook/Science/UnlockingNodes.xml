@@ -1,48 +1,48 @@
 <Document>
-  # Unlocking Nodes
+  # Desbloqueo de nodos
   <Box>
     <GuideEntityEmbed Entity="ComplexXenoArtifact" Caption=""/>
     <GuideEntityEmbed Entity="ComplexXenoArtifactItem" Caption=""/>
   </Box>
 
-  To activate and unlock nodes on an artifact, you should:
-  - Check a node on the [bold]Analysis Console[/bold] to check its triggers and effects.
-  - Perform the [bold]triggers[/bold] listed in the console. Some require direct interaction with the artifact, while others may only need the correct environment or a specific action performed nearby.
-  - Once a trigger is successfully performed, the artifact will respond with the message: [italic]"It begins to shift in strange ways..."[/italic]. The [bold]Node Scanner[/bold] will then indicate which specific nodes are being triggered.
+  Para activar y desbloquear los nodos de un artefacto:
+  - Consulte el nodo en la [bold]Analysis Console[/bold] para identificar sus activadores y efectos.
+  - Ejecute los [bold]activadores[/bold] indicados en la consola. Algunos requieren interacción directa con el artefacto; otros solo necesitan un entorno adecuado o una acción específica en las proximidades.
+  - Cuando un activador se ejecute correctamente, el artefacto mostrará el mensaje: [italic]«Comienza a cambiar de manera extraña...»[/italic]. El [bold]Node Scanner[/bold] indicará entonces qué nodos se están activando.
 
-  Artifacts enter an unlocking state after the first trigger is met. During this state, any remaining triggers must be completed. The unlocking window initially lasts a few seconds and resets each time a new trigger is activated. This window grows longer with each additional node unlocked, giving more time to complete further triggers.
+  Los artefactos entran en estado de desbloqueo después de cumplir el primer activador. Durante este estado deben completarse todos los activadores restantes. La ventana de desbloqueo dura inicialmente unos segundos y se reinicia cada vez que se activa un nuevo requisito. Su duración aumenta con cada nodo adicional desbloqueado, lo que concede más tiempo para completar los siguientes.
 
-  Once all required triggers are completed successfully, the artifact will trigger it's effect and a popup will appear saying: [italic]"It slows down, visibly changed."[/italic], and the node will appear as [bold][color=plum]Active[/color][/bold] on the Console.
+  Cuando se cumplen todos los activadores, el artefacto produce su efecto y aparece el mensaje: [italic]«Reduce su actividad y presenta cambios visibles.»[/italic]. El nodo se mostrará como [bold][color=plum]Activo[/color][/bold] en la consola.
 
-  If an artifact fails to activate, it will stop resonating and display the message: [italic]"It slows down before uneventfully stopping."[/italic] After this, it enters a cooldown period before it can be activated again.
+  Si el artefacto no se activa, dejará de resonar y mostrará el mensaje: [italic]«Reduce su actividad antes de detenerse sin incidentes.»[/italic] Después entrará en un periodo de recuperación antes de poder activarse de nuevo.
 
-  The order of trigger activation [bold]does not matter[/bold] for individual nodes. [italic]However[/italic], some triggers affect multiple nodes. As a rule of thumb, start with a trigger that is unique to the node you want to unlock. Activating a trigger for a different node during this phase prevents the target node from unlocking until the artifact’s cooldown ends.
+  El orden de los activadores [bold]no importa[/bold] para cada nodo. [italic]Sin embargo[/italic], algunos activadores afectan varios nodos. Como norma general, comience con uno exclusivo del nodo que desea desbloquear. Activar durante esta fase un requisito perteneciente a otro nodo impedirá desbloquear el objetivo hasta que concluya el periodo de recuperación del artefacto.
 
   <GuideReagentEmbed Reagent="Artifexium"/>
 
-  ## Active Nodes
-  Once unlocked, a node is considered active. Only the highest unlocked nodes in a tree’s layer are activatable, lower nodes in the same tree cannot be triggered anymore once a higher node has been activated.
+  ## Nodos activos
+  Después de desbloquearse, un nodo se considera activo. Solo pueden activarse los nodos desbloqueados de mayor nivel en cada capa; los nodos inferiores del mismo árbol dejan de estar disponibles cuando se activa uno superior.
 
-  Artifacts often have multiple trees. Layer precedence applies within each tree, but different trees operate independently. This means nodes in different trees can be activated simultaneously as long as they are the highest unlocked nodes in their respective trees.
+  Los artefactos suelen contener varios árboles. La prioridad de capas se aplica por separado dentro de cada árbol. Por tanto, pueden activarse simultáneamente nodos de árboles diferentes siempre que sean los nodos desbloqueados de mayor nivel en sus respectivos árboles.
 
-  [bold]Manual activation triggers all unlocked nodes at once and consumes durability.[/bold]
+  [bold]La activación manual ejecuta todos los nodos desbloqueados al mismo tiempo y consume durabilidad.[/bold]
 
   <GuideReagentEmbed Reagent="ArtifactGlue"/>
 
-  ## Triggers
-  Examples include:
-  - Examining the artifact
-  - Playing an instrument
-  - Damaging or throwing it
-  - Exposing it to gases (plasma, tritium, etc.)
-  - Changing pressure or temperature
-  - Using tools (screwdriver, multitool, crowbar, wrench)
-  - Splashing reagents (blood, water, ammonia, etc.)
-  - Killing something nearby
+  ## Activadores
+  Algunos ejemplos son:
+  - Examinar el artefacto
+  - Tocar un instrumento
+  - Dañarlo o arrojarlo
+  - Exponerlo a gases como plasma o tritio
+  - Cambiar la presión o la temperatura
+  - Utilizar herramientas como destornillador, multímetro, palanca o llave
+  - Aplicar reactivos como sangre, agua o amoníaco
+  - Eliminar un organismo cercano
 
-  ## Effects
-  Effects can be:
-  - [color=green]Harmless:[/color] producing plants, animals, or junk
-  - [color=#00ccff]Helpful:[/color] charging batteries, creating instruments or money
-  - [color=red]Hazardous:[/color] anomalies, radiation, explosions, hostile fauna
+  ## Efectos
+  Los efectos pueden ser:
+  - [color=green]Inofensivos:[/color] producen plantas, animales o residuos
+  - [color=#00ccff]Beneficiosos:[/color] cargan baterías o generan instrumentos o dinero
+  - [color=red]Peligrosos:[/color] producen anomalías, radiación, explosiones o fauna hostil
 </Document>

@@ -1,12 +1,12 @@
 <Document>
-# Chemist
-Now you've done it. You picked the one job where -math- is mandatory. Grab your beaker, pull up a chair, and get cracking, it's time to cook up some chems.
+# Química
+Este puesto requiere cálculos precisos. Prepare los vasos de precipitados, consulte las fórmulas y comience la producción de sustancias químicas.
 
-While chemists primarily make medications, there's a very wide variety of chemicals that can be made, all of which are showcased in the Chemicals entry of the Guidebook.
+Aunque la función principal del personal de química es fabricar medicamentos, existe una amplia variedad de sustancias disponibles. Todas se encuentran documentadas en la sección Productos químicos del manual.
 
-[textlink="Click here to see a complete list of chemicals." link="Chemicals"]
+[textlink="Haga clic aquí para consultar la lista completa de sustancias químicas." link="Chemicals"]
 
-## Equipment:
+## Equipo
 
   <Box>
     <GuideEntityEmbed Entity="ChemDispenser"/>
@@ -22,25 +22,25 @@ While chemists primarily make medications, there's a very wide variety of chemic
     <GuideEntityEmbed Entity="PillCanister"/>
   </Box>
 
-## The Basics:
-Chemistry is fairly straightforward once you know what to expect. Here's a simple, step-by-step process on how to begin.
+## Procedimiento básico
+La producción química es directa una vez que se conocen los equipos. Para comenzar, siga este procedimiento:
 
-- Grab a beaker, Pill Canister, and if desired, some Bottles.
-- Place the beaker in the Chemical Dispenser, and Pill Canister (or bottle) in the Chem Master.
-- Open the Chemical Dispenser UI, and make your mix. Recipes are in other sections of the guidebook.
-- Alt-click the dispenser to remove your beaker, and place it in the Chem Master.
-- Open the Chem Master UI. On the Input tab, move your mix into the buffer.
-- Move to the Output tab, customise your pill, and press the Create button.
-- Alt-click the Chem Master to get the pill bottle out. You may have to remove the beaker first.
-- Click on a table, crate, or another surface to empty the pill bottle if desired. Alternatively, store or empty it into another storage container.
+- Tome un vaso de precipitados, un frasco para píldoras y, si es necesario, varias botellas.
+- Introduzca el vaso en el dispensador de sustancias químicas y el frasco o botella en el ChemMaster.
+- Abra la interfaz del dispensador y prepare la mezcla. Las fórmulas se encuentran en otras secciones del manual.
+- Utilice la interacción alternativa sobre el dispensador para retirar el vaso e introdúzcalo en el ChemMaster.
+- Abra la interfaz del ChemMaster. En la pestaña de entrada, transfiera la mezcla al búfer.
+- Abra la pestaña de salida, configure las píldoras y presione el botón Crear.
+- Utilice la interacción alternativa sobre el ChemMaster para retirar el frasco. Es posible que primero deba retirar el vaso.
+- Si desea vaciar el frasco, utilícelo sobre una mesa, caja u otra superficie. También puede guardarlo o transferir su contenido a otro contenedor.
 
-That's it, you've made your first set of pills! Consider checking with Medical Doctors and other crew to see what else may be requested, refilling the medical kits in medbay storage, or just experimenting!
+Con esto habrá producido su primer lote de píldoras. Consulte al personal médico y al resto de la tripulación para identificar necesidades adicionales, reponga los botiquines del almacén médico o realice experimentos controlados.
 
-You can also use the hand labeler to organize individual bottles or bags without using the Chem Master labeling system.
+El etiquetador manual permite organizar botellas o bolsas individuales sin utilizar el sistema de etiquetas del ChemMaster.
 
-## Extra Content:
+## Equipo adicional
 
-Speaking of experimentation, there are a few more toy you can use when it comes to chemistry. This job requires a lot of trial and error, but it was worth mentioning that these things exist! It's up to you to figure out what to make with them.
+Para realizar experimentos avanzados existen otros componentes químicos. Su utilización requiere pruebas controladas y el análisis de los resultados.
 
   <Box>
     <GuideEntityEmbed Entity="ModularGrenade"/>

@@ -1,25 +1,25 @@
 ﻿<Document>
-  # Silicon Rule 9 - Harm refers to physical harm, prioritized by immediacy and likelihood
-  Unless a law defines harm, harm only refers to physical harm. You may choose if voluntary harm is considered harm as long as you stay consistent. Not considering voluntary harm to be harm is recommended. There is no distinction between direct and indirect harm.
+  # Regla para Sintéticos 9: El daño se refiere al daño físico y se prioriza según su inmediatez y probabilidad
+  Salvo que una ley defina el daño, este término se refiere únicamente al daño físico. Puede decidir si el daño voluntario se considera daño, siempre que mantenga una interpretación consistente. Se recomienda no considerar daño el daño voluntario. No existe distinción entre daño directo e indirecto.
 
-  If you have a law that does not allow you to harm, then that law does not allow you to take an action that causes any harm.
+  Si una ley le prohíbe causar daño, dicha ley también le prohíbe realizar cualquier acción que lo provoque.
 
-  If you have a law that requires you to prevent harm, then that law requires that harm be prioritized by immediacy and likelihood. Guaranteed immediate harm takes priority over highly likely future harm.
+  Si una ley le exige evitar daños, deberá priorizarlos según su inmediatez y probabilidad. Un daño inmediato garantizado prevalece sobre un daño futuro altamente probable.
 
-  If you have a law that both requires you to prevent harm and that does not allow you to harm, then that law prohibits causing even minor harm to prevent harm. If you have a law that does not allow causing harm, and separate one that requires preventing harm, then they are prioritized by their normal law priority.
+  Si una misma ley le exige evitar daños y le prohíbe causarlos, no podrá provocar ni siquiera un daño menor para impedir otro daño. Si una ley prohíbe causar daño y otra ley distinta exige evitarlo, ambas se aplican según su prioridad normal.
 
-  ## Examples
-  These examples assume that your have a law that both prohibits causing harm and that requires you to prevent harm. Additionally, they assume that you do not have a higher priority law that overrides the harm law, and that you have decided that you will not consider voluntary harm to be harm for the round.
-  Laws typically specify who you cannot harm and who you have to prevent harm against. In these examples, you are the only person who the law doesn't require you to prevent harm against and you are the only person who the law allows you to harm.
+  ## Ejemplos
+  Estos ejemplos presuponen que tiene una ley que le prohíbe causar daño y, al mismo tiempo, le exige evitarlo. También presuponen que ninguna ley de mayor prioridad prevalece sobre ella y que decidió no considerar daño el daño voluntario durante la ronda.
+  Por lo general, las leyes especifican a quién no puede dañar y a quién debe proteger del daño. En estos ejemplos, usted es la única persona a quien la ley no le exige proteger y la única a quien le permite dañar.
 
-  Acceptable:
-  - Taking no action to aid someone who is in psychological distress.
-  - Taking no action to prevent boxing matches between voluntary participants.
-  - Calling security to a fight.
-  - Attempting to get the people in a fight to consent to the fight when you realize that you cannot prevent the fight without causing harm.
-  - Denying a passenger access to the armory because it is likely to lead to harm
+  Aceptable:
+  - No intervenir para ayudar a una persona que sufre angustia psicológica.
+  - No intervenir para impedir combates de boxeo entre participantes voluntarios.
+  - Llamar a seguridad para atender una pelea.
+  - Intentar que quienes participan en una pelea acepten voluntariamente el enfrentamiento cuando comprende que no puede impedirlo sin causar daño.
+  - Negar a un pasajero el acceso a la armería porque probablemente provocaría daños.
 
-  Prohibited:
-  - Hitting someone once to stop them from fighting
-  - Harming someone who is trying to kill you
+  Prohibido:
+  - Golpear una vez a una persona para impedir que siga peleando.
+  - Dañar a una persona que intenta matarlo.
 </Document>

@@ -1,37 +1,37 @@
 <Document>
-  # Roleplay Rule 9 - As an antagonist, do not cause excessive death, damage, or destruction beyond your objectives
+  # Regla de interpretación 9: Como antagonista, no cause muertes, daños o destrucción excesivos ajenos a sus objetivos
 
-  This rule is not intended to disallow reasonable steps taken to complete your objectives. As an antagonist, you can always kill in bona fide self defense. You can kill if the action of killing could potentially advance your objectives. Taking steps to permanently round remove many people who are not a threat to you is almost always excessive.
+  Esta regla no pretende prohibir las medidas razonables destinadas a completar sus objetivos. Como antagonista, siempre puede matar en legítima defensa. También puede hacerlo si la muerte podría contribuir al cumplimiento de sus objetivos. Adoptar medidas para retirar permanentemente de la ronda a numerosas personas que no representan una amenaza casi siempre resulta excesivo.
 
-  Unless told otherwise, antags should avoid causing disruption to the station or other players that could potentially cause entire departments to stop functioning, either permanently or for a significant portion of the round. Major disruptive actions are acceptable to get evac called if the objectives require that the antagonist escapes to Centcomm, this does not include singuloose/tesloose. Antagonists should also avoid round-removing a large number of players unnecessarily.
+  Salvo indicación contraria, los antagonistas deben evitar perturbaciones en la estación o en otros jugadores que puedan impedir el funcionamiento de departamentos completos, ya sea de forma permanente o durante una parte considerable de la ronda. Se permiten acciones gravemente disruptivas para provocar la llamada del transbordador de evacuación cuando los objetivos exijan que el antagonista escape al Mando Central; esto no incluye liberar una singularidad o una tesla. Los antagonistas también deben evitar retirar innecesariamente de la ronda a una gran cantidad de jugadores.
 
-  As an antagonist, killing a few objective unrelated persons in a round is not on its own a violation of this rule. Pursuing a gimmick unrelated to the objectives entirely is also permissible as long as this gimmick does not cause nonantagonists to self antag.
+  El hecho de que un antagonista mate durante una ronda a algunas personas no relacionadas con sus objetivos no constituye por sí solo una infracción. También se permite desarrollar una dinámica completamente ajena a los objetivos, siempre que no provoque que los no antagonistas incurran en autoantagonismo.
 
-  ## MRP Amendment
+  ## Disposición adicional para MRP
 
-  As an antagonist, do not make the Emergency Shuttle uninhabitable or otherwise cause excessive death, damage, or destruction to the Emergency Shuttle.
+  Como antagonista, no vuelva inhabitable el transbordador de emergencia ni cause en él muertes, daños o destrucción excesivos.
 
-  ## Exemptions
- The Syndicate Agent “die a glorious death” objective allows antagonists to ignore this rule entirely. Nuclear Operatives and Wizards are also exempt from this rule as of the time of writing.
+  ## Exenciones
+ El objetivo de agente del Sindicato «morir gloriosamente» permite ignorar esta regla por completo. Al momento de redactarse esta regla, los agentes nucleares y los magos también están exentos.
 
-  ## Examples
-  Acceptable:
-  - Permanently round removing people who you have the objective to kill.
-  - Causing massive station damage and chaos as an antagonist with the "die a glorious death" objective.
-  - Killing anyone you see while playing as nuclear operative(s).
-  - Permanently round removing a single person so that you can impersonate them to make it easier for you to complete a steal objective.
-  - Sabotaging station power 10 minutes into the round to try to get the shuttle called because you’ve completed all of your other objectives and have one to escape on the shuttle alive. (Destroying the Particle Accelerator, TEG and all backup generation in Engineering but not loosing a singularity/tesla.)
-  - Sabotaging a department’s power 10 minutes into the round to make a steal objective easier to accomplish. (Such as cutting the departments MV power, or removing/destroying the substation.)
-  - Permanently round removing many people who have demonstrated a persistence and a capability to either kill you or interfere with the completion of your objectives.
-  - Killing an unrelated person in order to steal items held by said person, such as killing an engineer for their hardsuit and tools.
-  - As a traitor, buying a singularity attractor to guide the singularity to a kill target when it is already loosed.
-  - Bombing an entire department provided it is an attempt to kill a designated target within said department.
+  ## Ejemplos
+  Aceptable:
+  - Retirar permanentemente de la ronda a las personas que tenga como objetivos de asesinato.
+  - Provocar daños masivos y caos en la estación como antagonista con el objetivo «morir gloriosamente».
+  - Matar a cualquier persona que encuentre mientras interpreta a uno o varios agentes nucleares.
+  - Retirar permanentemente de la ronda a una sola persona para suplantarla y facilitar el cumplimiento de un objetivo de robo.
+  - Sabotear el suministro eléctrico de la estación diez minutos después de iniciar la ronda para intentar provocar la llamada del transbordador, una vez completados los demás objetivos y con un objetivo pendiente de escapar con vida. Esto puede incluir destruir el acelerador de partículas, el TEG y todos los generadores de respaldo de Ingeniería, pero no liberar una singularidad ni una tesla.
+  - Sabotear el suministro eléctrico de un departamento diez minutos después de iniciar la ronda para facilitar un objetivo de robo; por ejemplo, cortar la alimentación de voltaje medio del departamento o retirar o destruir la subestación.
+  - Retirar permanentemente de la ronda a numerosas personas que hayan demostrado tanto persistencia como capacidad para matarlo o impedir el cumplimiento de sus objetivos.
+  - Matar a una persona no relacionada con sus objetivos para robar los objetos que porta; por ejemplo, matar a un ingeniero para obtener su traje espacial reforzado y sus herramientas.
+  - Como traidor, comprar un atractor de singularidad para dirigir hacia un objetivo de asesinato una singularidad que ya se encuentra liberada.
+  - Bombardear un departamento completo con la intención de matar a un objetivo designado que se encuentre dentro.
 
-  Prohibited:
-  - As a traitor with 3 kill objectives, taking steps to permanently round remove many non-objective people who are no longer an immediate threat to you, even if it is done to prevent yourself from being discovered.
-  - Setting up an electrified grille in maintenance and using it to kill anyone who walks into it with the hope that one of your objectives will be one of them.
-  - Sabotaging power station-wide 10 minutes into the round to make a steal objective easier to accomplish. (Such as destroying the TEG, Particle Accelerator and all backup generators in Engineering.)
-  - Loosing the tesla or singularity in the hope that it kills your objectives.
-  - Seeking out and gibbing/round removing an entire department and random people for no actual reason. This includes the security department.
-  - Loosing the tesla or singularity in order to get evac called, even if objectives are already completed.
+  Prohibido:
+  - Como traidor con tres objetivos de asesinato, adoptar medidas para retirar permanentemente de la ronda a numerosas personas ajenas a sus objetivos que ya no representen una amenaza inmediata, incluso para evitar ser descubierto.
+  - Instalar una rejilla electrificada en mantenimiento y utilizarla para matar a cualquiera que pase por ella con la esperanza de que alguno de sus objetivos sea una de las víctimas.
+  - Sabotear el suministro eléctrico de toda la estación diez minutos después de iniciar la ronda para facilitar un objetivo de robo; por ejemplo, destruir el TEG, el acelerador de partículas y todos los generadores de respaldo de Ingeniería.
+  - Liberar la tesla o la singularidad con la esperanza de que mate a sus objetivos.
+  - Buscar y gibear o retirar de la ronda a un departamento completo y a personas al azar sin una razón válida. Esto incluye al departamento de seguridad.
+  - Liberar la tesla o la singularidad para provocar la llamada del transbordador de evacuación, incluso si ya completó sus objetivos.
 </Document>

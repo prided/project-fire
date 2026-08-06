@@ -1,22 +1,22 @@
 <Document>
   # Analysis Console
 
-  The Analysis Console is a device used to interface with artifacts. It can be used to check nodes, their triggers and effects, and extract points.
+  La Analysis Console es un dispositivo utilizado para interactuar con artefactos. Permite consultar los nodos, sus activadores y efectos, además de extraer puntos.
 
   <Box>
     <GuideEntityEmbed Entity="ComputerAnalysisConsole" Caption="Analysis Console"/>
   </Box>
 
-  The console displays detailed information about each node in the artifact’s tree structure. This includes:
-  - [bold]ID:[/bold] Unique identifier for use with the Node Scanner.
-  - [bold]Class:[/bold] The layer name, nodes on the same layer share it.
-  - [bold]Status:[/bold]
-  - [italic][color=red]Locked[/color][/italic] by default.
-  - [italic][color=plum]Active[/color][/italic] when first triggered.
-  - [italic][color=lime]Unlocked[/color][/italic] if a deeper node is reached (prevents manual activations).
-  - [bold]Durability:[/bold] Number of manual activations available.
-  - [bold]Effect:[/bold] What happens when the node activates or is manually triggered.
-  - [bold]Triggers:[/bold] Required actions to unlock the node.
-  - [bold]Server:[/bold] Choose the research server where extracted points are sent.
-  - [bold]Extract Points:[/bold] Extracts points from nodes unlocked since the last extraction.
+  La consola muestra información detallada sobre cada nodo de la estructura del artefacto. Esto incluye:
+  - [bold]ID:[/bold] identificador único utilizado con el Node Scanner.
+  - [bold]Clase:[/bold] nombre de la capa, compartido por todos los nodos de esa capa.
+  - [bold]Estado:[/bold]
+  - [italic][color=red]Bloqueado[/color][/italic] de manera predeterminada.
+  - [italic][color=plum]Activo[/color][/italic] después de activarse por primera vez.
+  - [italic][color=lime]Desbloqueado[/color][/italic] cuando se alcanza un nodo más profundo; impide la activación manual.
+  - [bold]Durabilidad:[/bold] cantidad de activaciones manuales disponibles.
+  - [bold]Efecto:[/bold] resultado producido cuando el nodo se activa de forma automática o manual.
+  - [bold]Activadores:[/bold] acciones necesarias para desbloquear el nodo.
+  - [bold]Servidor:[/bold] permite seleccionar el servidor de investigación que recibirá los puntos extraídos.
+  - [bold]Extraer puntos:[/bold] extrae los puntos de los nodos desbloqueados desde la última extracción.
 </Document>

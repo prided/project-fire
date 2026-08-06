@@ -2,22 +2,22 @@
   # Despresurización
   La despresurización es el tipo más común de accidente atmosférico en la estación.
 
-  Aunque el daño que causó la despresurización suele tardar mucho en [textlink="repair" link="ExpandingRepairingStation"], el problema atmosférico en sí puede resolverse rápidamente reinflando la zona.
+  Aunque el daño que causó la despresurización suele requerir tiempo para [textlink="repararse" link="ExpandingRepairingStation"], el problema atmosférico puede resolverse rápidamente volviendo a presurizar la zona.
 
   Eliminar la despresurización suele consistir en dos pasos sencillos:
 
-  1. Encontrar la zona despresurizada y [textlink="repair la hole" link="ExpandingRepairingStation"].
+  1. Localizar la zona despresurizada y [textlink="reparar la brecha" link="ExpandingRepairingStation"].
 
   - Si el agujero es difícil de encontrar, escucha atentamente el flujo de aire si ahora va al espacio.
   - Busca agujeros bajo las vigas que puedan ser difíciles de notar.
 
   2. Bombea la zona de nuevo.
 
-  - [textlink="Air ventilation" link="AirVent"] entrar en el bloqueo de presión para evitar perder aún más aire al despresurizarse, por lo que deben redefinirse para volver a inflarse. Esto se puede hacer configurando el [textlink="air alarm" link="AirAlarms"] conectado en modo de llenado, o haciendo clic derecho en la ventilación y seleccionando 'Liberar bloqueo de presión' para liberar manualmente el bloqueo.
+  - Las [textlink="ventilaciones de aire" link="AirVent"] activan el bloqueo de presión para evitar una pérdida adicional de aire durante la despresurización, por lo que deben restablecerse antes de volver a presurizar la zona. Esto puede hacerse configurando la [textlink="alarma atmosférica" link="AirAlarms"] conectada en modo de llenado o haciendo clic derecho en la ventilación y seleccionando «Liberar bloqueo de presión».
 
   ## Qué evitar
-  - Recuerda: Aunque tienes una fuente infinita de [textlink="extracted gas" link="GasMiningAndStorage"], no es lo suficientemente rápida para llenar varias habitaciones a la vez. Activar el modo de llenado para [textlink="air alarms" link="AirAlarms"] [italic]before[/italic] solucionar el problema subyacente suele hacer perder tiempo y gas.
+  - Recuerda: Aunque existe una fuente ilimitada de [textlink="gas extraído" link="GasMiningAndStorage"], no produce con suficiente rapidez para llenar varias habitaciones a la vez. Activar el modo de llenado en las [textlink="alarmas atmosféricas" link="AirAlarms"] [italic]antes[/italic] de solucionar el problema subyacente suele desperdiciar tiempo y gas.
 
-  - Si [textlink="air alarm" link="AirAlarms"] desatendidos en modo Relleno, puede abrumar la sala y perjudicar a la tripulación si la situación se descontrola.
+  - Dejar una [textlink="alarma atmosférica" link="AirAlarms"] sin supervisión en modo de llenado puede sobrepresurizar la sala y perjudicar a la tripulación si la situación se sale de control.
 
 </Document>

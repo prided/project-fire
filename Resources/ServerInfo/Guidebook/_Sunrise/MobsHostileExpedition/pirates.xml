@@ -8,10 +8,10 @@
   # Carroñeros
   Saqueadores y saqueadores de bajo nivel. Usa equipo improvisado e industrial.
 
-  [bold][color=#a4885c]General Características: [/color][/bold]
-  - [bold][color=#a4885c]Health:[/color][/bold] 100; monos 80
-  - [bold][color=#a4885c]Speed:[/color][/bold] 3,8 m/s (cuerpo a cuerpo), 3,0 m/s (a distancia)
-  - [bold][color=#a4885c]Resistances: [/color][/bold] [color=red]Blunt[/color] 40% [color=red]Slash[/color] 35% [color=yellow]Piercing[/color] 30% [color=orange]Heat[/color] 50% [color=orange]Caustic[/color] 50%
+  [bold][color=#a4885c]Características generales: [/color][/bold]
+  - [bold][color=#a4885c]Salud:[/color][/bold] 100; monos 80
+  - [bold][color=#a4885c]Velocidad:[/color][/bold] 3,8 m/s (cuerpo a cuerpo), 3,0 m/s (a distancia)
+  - [bold][color=#a4885c]Resistencias: [/color][/bold] [color=red]Contundente[/color] 40 % [color=red]Cortante[/color] 35 % [color=yellow]Perforante[/color] 30 % [color=orange]Térmico[/color] 50 % [color=orange]Cáustico[/color] 50 %
   - [bold][color=#a4885c]Features:[/color][/bold] Visión Nocturna, Regeneración Pasiva, Equipo EVA
 
   ## Pelea
@@ -49,10 +49,10 @@
   # Piratas
   Nivel de amenaza medio. Lleva equipo clásico de pirata y armadura pesada.
 
-  [bold][color=#a4885c]General Características: [/color][/bold]
-  - [bold][color=#a4885c]Health:[/color][/bold] 100
-  - [bold][color=#a4885c]Speed:[/color][/bold] 3,8 m/s (cuerpo a cuerpo), 3,0 m/s (a distancia)
-  - [bold][color=#a4885c]Resistances: [/color][/bold] [color=red]Blunt[/color] 50% [color=red]Slash[/color] 40% [color=yellow]Piercing[/color] 60% [color=orange]Heat[/color] 40% [color=orange]Caustic[/color] 50% Pérdida de sangre 30% Enredamiento 30%
+  [bold][color=#a4885c]Características generales: [/color][/bold]
+  - [bold][color=#a4885c]Salud:[/color][/bold] 100
+  - [bold][color=#a4885c]Velocidad:[/color][/bold] 3,8 m/s (cuerpo a cuerpo), 3,0 m/s (a distancia)
+  - [bold][color=#a4885c]Resistencias: [/color][/bold] [color=red]Contundente[/color] 50 % [color=red]Cortante[/color] 40 % [color=yellow]Perforante[/color] 60 % [color=orange]Térmico[/color] 40 % [color=orange]Cáustico[/color] 50 % Pérdida de sangre 30 % Enredamiento 30 %
   - [bold][color=#a4885c]Features:[/color][/bold] Visión Nocturna, Regeneración Pasiva, Armadura Mejorada
 
   ## Pelea
@@ -87,10 +87,10 @@
   # Mercenarios
   Muchos roles especializados, control y alto poder de fuego.
 
-  [bold][color=#a4885c]General Características: [/color][/bold]
-  - [bold][color=#a4885c]Health:[/color][/bold] 100
-  - [bold][color=#a4885c]Speed:[/color][/bold] 3,8 m/s (cuerpo a cuerpo), 3,0 m/s (a distancia)
-  - [bold][color=#a4885c]Resistances: [/color][/bold] [color=red]Blunt[/color] 60% [color=red]Slash[/color] 50% [color=yellow]Piercing[/color] 70% [color=orange]Heat[/color] 50% [color=orange]Caustic[/color] 50% Pérdida de sangre 50% Enredos 50%
+  [bold][color=#a4885c]Características generales: [/color][/bold]
+  - [bold][color=#a4885c]Salud:[/color][/bold] 100
+  - [bold][color=#a4885c]Velocidad:[/color][/bold] 3,8 m/s (cuerpo a cuerpo), 3,0 m/s (a distancia)
+  - [bold][color=#a4885c]Resistencias: [/color][/bold] [color=red]Contundente[/color] 60 % [color=red]Cortante[/color] 50 % [color=yellow]Perforante[/color] 70 % [color=orange]Térmico[/color] 50 % [color=orange]Cáustico[/color] 50 % Pérdida de sangre 50 % Enredamiento 50 %
   - [bold][color=#a4885c]Features:[/color][/bold] Mejor equipamiento, escudos y roles avanzados en combate
 
   ## Pelea
@@ -137,5 +137,5 @@
   <GuideEntityEmbed Entity="MobPirateT3Boss" Caption=""/>
   </Box>
 
-  - [bold][color=#a4885c]Practice:[/color][/bold] Cortar primero los Médicos/Control de Multitudes, luego Objetivos Pesados. En un combate largo, las Unidades Piratas se fortalecen por Rol y Sinergia.
+  - [bold][color=#a4885c]Práctica recomendada:[/color][/bold] neutralice primero a los médicos y las unidades de control de multitudes; después, ataque los objetivos pesados. En combates prolongados, las unidades piratas se fortalecen mediante la especialización y la sinergia.
 </Document>

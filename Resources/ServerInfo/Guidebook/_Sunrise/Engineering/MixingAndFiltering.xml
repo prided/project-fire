@@ -1,13 +1,13 @@
 <Document>
   # Mezcla y filtrado
-  Los mezcladores de gases y filtros son herramientas importantes para cambiar la composición de los gases en el interior de [textlink="pipe network" link="PipeNetworks"].
+  Los mezcladores y filtros de gases son herramientas importantes para cambiar la composición de los gases dentro de una [textlink="red de tuberías" link="PipeNetworks"].
   <Box>
     <GuideEntityEmbed Entity="GasMixer"/>
     <GuideEntityEmbed Entity="GasFilter"/>
   </Box>
 
   ## Grifo de gas
-  Los mezcladores de gases se utilizan para combinar gases en ciertas proporciones dentro de [textlink="pipe network" link="PipeNetworks"].
+  Los mezcladores de gases se utilizan para combinar gases en proporciones determinadas dentro de una [textlink="red de tuberías" link="PipeNetworks"].
   Son necesarios para crear mezclas de gases controladas para diferentes tareas.
 
   El grifo de gas tiene 3 conexiones: 2 entradas y 1 salida, como se indica a continuación:
@@ -17,7 +17,7 @@
     <GuideEntityEmbed Entity="GasPipeStraight" Caption="Salida" Rotation="90"/>
   </Box>
 <Box>
-  <GuideEntityEmbed Entity="GasPipeStraight" Caption="Side"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Lateral"/>
 </Box>
 
   Los mezcladores de gases siguen cumpliendo con la mezcla solicitada, incluso si falta uno de los gases de entrada. Por ejemplo:
@@ -36,7 +36,7 @@
   - Mezclar osígeno y plasma para quemar plasma y producir tritio
 
   ## Filtro de gas
-  Los filtros de gas se utilizan para separar los gases de la mezcla dentro de [textlink="pipe network" link="PipeNetworks"].
+  Los filtros de gas se utilizan para separar los gases de una mezcla dentro de una [textlink="red de tuberías" link="PipeNetworks"].
 
   <Box>
     <GuideEntityEmbed Entity="GasPipeStraight" Caption="Iniciar sesión" Rotation="90"/>
@@ -50,6 +50,6 @@
   Los filtros de gas están bloqueados y no filtran el gas si alguna de las salidas está bloqueada.
 
   Los filtros de gas pueden utilizarse en diversas tareas, por ejemplo:
-  - Eliminación de gases no deseados del [textlink="pipe network" link="PipeNetworks"]
+  - Eliminación de gases no deseados de la [textlink="red de tuberías" link="PipeNetworks"]
   - Separación de gases específicos para almacenamiento en la red de procesamiento de la planta
 </Document>

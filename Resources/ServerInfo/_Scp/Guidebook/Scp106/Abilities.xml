@@ -1,95 +1,95 @@
 ﻿<Document>
-  # Способности SCP-106
+  # Habilidades de SCP-106
 
-  Здесь будут описаны доступные объекту активируемые способности и уникальные механики, связанные с ним.
+  Aquí se describen las habilidades activas disponibles para el objeto y sus mecánicas únicas.
 
-  [textlink="Общая информация о старике" link="Scp106About"]
+  [textlink="Información general sobre el Viejo" link="Scp106About"]
 
-  ## Способность "Телепорт"
+  ## Habilidad "Teletransporte"
 
-  Активация данной способности позволяет ходить сквозь любые препятствия на некоторое время.
-  Данная способность работает только снаружи камеры содержания.
+  Al activar esta habilidad, puedes atravesar cualquier obstáculo durante un breve periodo.
+  Solo funciona fuera de la cámara de contención.
 
-  ## Способность "Телепорт в карманное измерение"
+  ## Habilidad "Teletransportarse a la dimensión de bolsillo"
 
-  Активация данной способности телепортирует вас в карманное измерение.
-  Данная способность работает только снаружи камеры содержания.
+  Al activar esta habilidad, te teletransportas a la dimensión de bolsillo.
+  Solo funciona fuera de la cámara de contención.
 
-  ## Способность "Телепорт в комплекс"
+  ## Habilidad "Teletransportarse al complejo"
 
-  Активация данной способности телепортирует вас в случайное место комплекса.
-  Данная способность работает только снаружи камеры содержания.
+  Al activar esta habilidad, te teletransportas a una ubicación aleatoria del complejo.
+  Solo funciona fuera de la cámara de contención.
 
-  ## Способность "Воплощение страданий"
+  ## Habilidad "La encarnación del sufrimiento"
 
-  Активация данной способности позволяет открыть в себе новые способности, используя поглощенные страдания захваченных людей.
+  Al activar esta habilidad, puedes desbloquear nuevas facultades usando el sufrimiento absorbido de las personas capturadas.
 
-  ## Способность "Стать фантомом"
+  ## Habilidad "Conviértete en un fantasma"
 
-  Активация данной способности позволяет вселиться в форму фантома. Позволяет покинуть основное тело и проходить сквозь препятствия.
-  Данная способность работает внутри камеры и необходима для побега!
+  Al activar esta habilidad, adoptas una forma fantasmal, abandonas tu cuerpo principal y puedes atravesar obstáculos.
+  Solo funciona dentro de la cámara y es necesaria para escapar.
 
-  [textlink="Подробнее о методах побега" link="Scp106ContainmentBreach"]
+  [textlink="Más información sobre los métodos de fuga" link="Scp106ContainmentBreach"]
 
-  ## Способность "Болевой клинок"
+  ## Habilidad "Hoja de dolor"
 
-  Активация данной способности выдаёт старику клинок, наносящий сильный режущий урон.
-  Данная способность работает только в карманном измерении.
-  Продаётся в магазине за 20 "страданий".
+  Al activar esta habilidad, el Viejo obtiene una hoja que inflige mucho daño cortante.
+  Solo funciona dentro de la dimensión de bolsillo.
+  Se vende en la tienda por 20 puntos de sufrimiento.
 
-  ## Способность "Надрыв"
+  ## Habilidad "Desgarro"
 
-  Активация данной способности переводит страх всех людей вокруг на максимум.
-  Данная способность работает только снаружи камеры содержания.
-  Продаётся в магазине за 20 "страданий".
+  Al activar esta habilidad, el miedo de todas las personas cercanas alcanza su nivel máximo.
+  Solo funciona fuera de la cámara de contención.
+  Se vende en la tienda por 20 puntos de sufrimiento.
 
-  ## Способность "Загрязнение"
+  ## Habilidad "Contaminación"
 
-  Активация данной способности высвобождает среднее количество чёрной гнили, которая замедляет любого, кто наступит на неё.
-  Продаётся в магазине за 15 "страданий".
+  Al activar esta habilidad, liberas una cantidad moderada de podredumbre negra que ralentiza a quien la pise.
+  Se vende en la tienda por 15 puntos de sufrimiento.
 
-  ## Способность "Реверсия"
+  ## Habilidad "Reversión"
 
-  Активация данной способности на трупе человека телепортирует SCP-106 на место трупа, а труп телепортируется в карманное измерение.
-  Данная способность необходима для побега!
-  Эта способность доступна только в форме фантома.
+  Al activar esta habilidad sobre un cadáver humano, SCP-106 ocupa su lugar y el cadáver es enviado a la dimensión de bolsillo.
+  Esta habilidad es necesaria para escapar.
+  Solo está disponible en forma fantasmal.
 
-  ## Способность "Покинуть фантома"
+  ## Habilidad "Abandonar el fantasma"
 
-  Активация данной способности уничтожает фантом и возвращает вас в SCP-106.
-  Эта способность доступна только в форме фантома.
+  Al activar esta habilidad, destruyes el fantasma y regresas a SCP-106.
+  Solo está disponible en forma fantasmal.
 
-  ## Способность "Теневой проход"
+  ## Habilidad "Pasaje de las Sombras"
 
-  Активация данной способности позволяет ходить сквозь любые препятствия на некоторое время.
-  Эта способность доступна только в форме фантома.
+  Al activar esta habilidad, puedes atravesar cualquier obstáculo durante un breve periodo.
+  Solo está disponible en forma fantasmal.
 
-  # Механики SCP-106
+  # Mecánicas de SCP-106
 
-  ## Механика внутреннего магазина
+  ## Tienda interna
 
-  В игре присутствует уникальная система, которая даёт старику покупать новые способности за "страдания" (валюта).
+  El Viejo dispone de una tienda única donde puede comprar habilidades nuevas con puntos de sufrimiento.
 
-  SCP-106 получает 2 очка страданий за каждого человека, которого он телепортирует в карманное измерение.
+  SCP-106 obtiene 2 puntos de sufrimiento por cada persona que teletransporta a la dimensión de bolsillo.
 
-  ## Карманное измерение
+  ## Dimensión de bolsillo
 
-  В игре присутствует карманное измерение старика, в которое попадают его жертвы.
+  El Viejo posee una dimensión de bolsillo a la que envía a sus víctimas.
 
-  Помимо самого старика, бродящего по коридорам измерения, в измерении есть и другие монстры. Будьте осторожны!
+  Además del propio Viejo, que recorre sus pasillos, la dimensión contiene otros monstruos. ¡Ten cuidado!
 
-  ### Как сбежать из карманного измерения?
+  ### ¿Cómo escapar de la dimensión de bolsillo?
 
-  В некоторых комнатах может появиться лестница, которая телепортирует вас обратно в комплекс, либо переносит на следующий этаж карманного измерения.
+  En algunas habitaciones puede aparecer una escalera que te devuelve al complejo o te lleva al siguiente nivel de la dimensión de bolsillo.
 
-  ## Фантом
+  ## Fantasma
 
-  В игре присутствует особая форма SCP-106 под названием "фантом". Эта форма даёт старику возможность выйти за пределы камеры содержания и начать попытку побега.
+  SCP-106 dispone de una forma especial llamada "fantasma". Esta forma permite que el Viejo salga de la cámara de contención e inicie su fuga.
 
-  Для побега фантому необходимо найти труп и использовать на нем способность "Реверсия". Теперь вы можете полноценно играть за SCP-106!
+  Para escapar, el fantasma debe encontrar un cadáver y usar la habilidad "Reversión". Después podrás controlar plenamente a SCP-106.
 
-  Однако учтите, что за фантома стоит быть скрытным, так как он исчезает при осмотре человеком!
+  Procura actuar con sigilo: el fantasma desaparece cuando una persona lo examina.
 
-  [textlink="Подробнее о методах побега" link="Scp106ContainmentBreach"]
+  [textlink="Más información sobre los métodos de fuga" link="Scp106ContainmentBreach"]
 
 </Document>

@@ -1,6 +1,6 @@
 <Document>
 # Bombas
-  Las bombas son la principal forma de mover activamente los gases a través de [textlink="pipenet" link="PipeNetworks"].
+  Las bombas son la principal forma de mover activamente los gases a través de una [textlink="red de tuberías" link="PipeNetworks"].
   Extraen gas de un lado y lo empujan hacia el otro.
   Existen dos tipos de bombas:
 
@@ -10,32 +10,32 @@
   </Box>
 
   Cosas importantes sobre los extractores:
-  - Las bombas [color=#a4885c]require power[/color] a través del cable de baja tensión más cercano.
+  - Las bombas [color=#a4885c]requieren energía[/color] mediante el cable de baja tensión más cercano.
   - Las bombas descargan el gas por el lateral con la franja roja.
-  - La gasolina no puede moverse hacia atrás por las bombas, aunque si eso es todo lo que quieres, lo mejor es usar [textlink="passive gateway" link="PassiveGate"].
-  - Las bombas no pueden mover gases a tuberías donde la presión o el volumen superan su [color=#a4885c]limit[/color]. Esto hace que se conviertan en [color=red]blocked[/color].
+  - El gas no puede retroceder a través de las bombas. Si solo se requiere flujo unidireccional pasivo, utilice una [textlink="compuerta pasiva" link="PassiveGate"].
+  - Las bombas no pueden mover gases hacia tuberías donde la presión o el volumen superan su [color=#a4885c]límite[/color]. Esto provoca que queden [color=red]bloqueadas[/color].
 
   Cuando las bombas están funcionando, muestran una animación en color.
-  Si no hay gasolina que bombear o la bomba está bloqueada, muestra una animación de [color=red]red[/color] parpadeante.
+  Si no hay gas que bombear o la bomba está bloqueada, se muestra un indicador [color=red]rojo[/color] intermitente.
   Las bombas apagadas, desactivadas o sin asegurar no muestran animaciones.
 
   ## Bombas de presión
   Las bombas de presión son el tipo de bomba más común.
-  Mueven el gas a través del [color=#a4885c]pressure[/color], por lo que son útiles para controlar con precisión la presión de la tubería o crear un vacío.
+  Mueven el gas mediante [color=#a4885c]presión[/color], por lo que permiten controlar con precisión la presión de la tubería o crear un vacío.
 
   <Box>
     <GuideEntityEmbed Entity="GasPressurePump" Caption="Bomba de presión"/>
   </Box>
 
-  La bomba de presión [color=red]cannot[/color] mover el gas hacia una tubería cuya presión sea mayor o igual a la presión establecida en la bomba.
+  La bomba de presión [color=red]no puede[/color] mover gas hacia una tubería cuya presión sea mayor o igual a la presión configurada en la bomba.
 
   Por ejemplo, una bomba de presión no podrá bombear gas a una tubería con una presión de corriente de 500 kPa si la propia bomba está ajustada a 500 kPa.
 
   Las bombas de presión pueden bombear hasta una presión máxima de [color=orange][protodata="GasPressurePump" comp="GasPressurePump" member="MaxTargetPressure"/] kPa[/color].
-  Se volverán [color=red]blocked[/color] si intentan empujar gas hacia una tubería con una presión superior a este valor.
+  Quedarán [color=red]bloqueadas[/color] si intentan impulsar gas hacia una tubería con una presión superior a este valor.
 
   ## Bombas de desplazamiento positivo
-  Las bombas de desplazamiento positivo son un tipo alternativo de bomba que mueve gas a través del [color=#a4885c]volume[/color].
+  Las bombas de desplazamiento positivo son un tipo alternativo de bomba que mueve gas según el [color=#a4885c]volumen[/color].
 
   <Box>
     <GuideEntityEmbed Entity="GasVolumePump" Caption="Bomba de desplazamiento positivo"/>
@@ -44,5 +44,5 @@
   Son extremadamente útiles para el movimiento rápido de grandes volúmenes de gas.
   Normalmente pueden alcanzar presiones más altas que las bombas de presión.
 
-  Aunque las bombas de desplazamiento positivo funcionan según el principio de volumen, se volverán [color=red]blocked[/color] si intentan empujar gas hacia una tubería con una presión superior a [color=orange][protodata="GasVolumePump" comp="GasVolumePump" member="HigherThreshold"/] kPa[/color].
+  Aunque las bombas de desplazamiento positivo funcionan según el volumen, quedarán [color=red]bloqueadas[/color] si intentan impulsar gas hacia una tubería con una presión superior a [color=orange][protodata="GasVolumePump" comp="GasVolumePump" member="HigherThreshold"/] kPa[/color].
 </Document>

@@ -15,11 +15,11 @@
   <Box>
   <GuideEntityEmbed Entity="MobXeno"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 50
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 50
   - [bold][color=#a4885c] Velocidad: [/color][/bold] 4 m/s
-  - [bold][color=#a4885c]Damage (tipo): [/color][/bold] 6 [color=red]Brute[/color]
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 6 [color=red]físico[/color]
   - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
-  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] ninguna
+  - [bold][color=#a4885c]Habilidades especiales: [/color][/bold] Ninguna
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -30,11 +30,11 @@
   <Box>
   <GuideEntityEmbed Entity="MobXenoDrone"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 80
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 80
   - [bold][color=#a4885c] Velocidad: [/color][/bold] 4 m/s
-  - [bold][color=#a4885c]Damage (tipo): [/color][/bold] 6 [color=red]Brute[/color]
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 6 [color=red]físico[/color]
   - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
-  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] ninguna
+  - [bold][color=#a4885c]Habilidades especiales: [/color][/bold] Ninguna
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -45,26 +45,26 @@
   <Box>
   <GuideEntityEmbed Entity="MobXenoPraetorian"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 100
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 100
   - [bold][color=#a4885c] Velocidad: [/color][/bold] 4 m/s
-  - [bold][color=#a4885c]Damage (tipo): [/color][/bold] 6 [color=red]Brute[/color]
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 6 [color=red]físico[/color]
   - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
-  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] ninguna
+  - [bold][color=#a4885c]Habilidades especiales: [/color][/bold] Ninguna
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
-  # "Ravajer"
+  # "Ravager"
 
   Un luchador cuerpo a cuerpo fuerte, peligroso durante rupturas y en combate cuerpo a cuerpo.
 
   <Box>
   <GuideEntityEmbed Entity="MobXenoRavager"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 100
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 100
   - [bold][color=#a4885c] Velocidad: [/color][/bold] 4 m/s
-  - [bold][color=#a4885c]Damage (tipo): [/color][/bold] 10 [color=red]Brute[/color]
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 10 [color=red]físico[/color]
   - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
-  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] ninguna
+  - [bold][color=#a4885c]Habilidades especiales: [/color][/bold] Ninguna
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -75,11 +75,11 @@
   <Box>
   <GuideEntityEmbed Entity="MobXenoRunner"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 50
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 50
   - [bold][color=#a4885c] Velocidad: [/color][/bold] 6 m/s
-  - [bold][color=#a4885c]Damage (tipo): [/color][/bold] 5 [color=red]Brute[/color]
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 5 [color=red]físico[/color]
   - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
-  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] ninguna
+  - [bold][color=#a4885c]Habilidades especiales: [/color][/bold] Ninguna
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -90,11 +90,11 @@
   <Box>
   <GuideEntityEmbed Entity="MobXenoRouny"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 50
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 50
   - [bold][color=#a4885c] Velocidad: [/color][/bold] 6 m/s
-  - [bold][color=#a4885c]Damage (tipo): [/color][/bold] 5 [color=red]Brute[/color]
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 5 [color=red]físico[/color]
   - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
-  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] ninguna
+  - [bold][color=#a4885c]Habilidades especiales: [/color][/bold] Ninguna
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -105,11 +105,11 @@
   <Box>
   <GuideEntityEmbed Entity="MobXenoSpitter"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 50
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 50
   - [bold][color=#a4885c] Velocidad: [/color][/bold] 4 m/s
-  - [bold][color=#a4885c]Damage Tipo:[/color][/bold] 5 [color=orange]Caustic[/color]
+  - [bold][color=#a4885c]Daño (tipo):[/color][/bold] 5 [color=orange]cáustico[/color]
   - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
-  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] Daño ácido
+  - [bold][color=#a4885c]Habilidades especiales: [/color][/bold] Daño ácido
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -121,9 +121,9 @@
   <GuideEntityEmbed Entity="WeaponTurretXeno"/>
   </Box>
   - [bold][color=#a4885c]Durability:[/color][/bold] 100
-  - [bold][color=#a4885c]Damage Tipo:[/color][/bold] 5 [color=orange]Caustic[/color]
+  - [bold][color=#a4885c]Daño (tipo):[/color][/bold] 5 [color=orange]cáustico[/color]
   - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
-  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] Daño ácido
+  - [bold][color=#a4885c]Habilidades especiales: [/color][/bold] Daño ácido
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 
@@ -134,11 +134,11 @@
   <Box>
   <GuideEntityEmbed Entity="MobXenoQueen"/>
   </Box>
-  - [bold][color=#a4885c]Health Umbrales: [/color][/bold] 300
+  - [bold][color=#a4885c]Umbrales de salud: [/color][/bold] 300
   - [bold][color=#a4885c] Velocidad: [/color][/bold] 4 m/s
-  - [bold][color=#a4885c]Damage (tipo): [/color][/bold] 12 [color=red]Brute[/color]
+  - [bold][color=#a4885c]Daño (tipo): [/color][/bold] 12 [color=red]físico[/color]
   - [bold][color=#a4885c]Resistance:[/color][/bold] ninguna
-  - [bold][color=#a4885c]Special Habilidades: [/color][/bold] ninguna
+  - [bold][color=#a4885c]Habilidades especiales: [/color][/bold] Ninguna
 
   [bold][color=#a4885c]________________________________________________________________________[/color][/bold]
 

@@ -1,30 +1,30 @@
 ﻿<Document>
-  # Roleplay Rule 15 - Command and Security must follow Space Law
-  All non-antagonist command and security roles must obey [textlink="Space Law" link="SpaceLaw"]. This includes non-antagonists who are promoted to or gain a position during the round in any way. This also includes non-antagonists who are acting as a security role.
+  # Regla de interpretación 15: El personal de mando y seguridad debe cumplir la Ley Espacial
+  Todos los integrantes no antagonistas del mando y de seguridad deben cumplir la [textlink="Ley Espacial" link="SpaceLaw"]. Esto incluye a los no antagonistas que sean ascendidos u obtengan un puesto durante la ronda por cualquier medio, así como a quienes desempeñen funciones de seguridad sin ocupar formalmente el puesto.
 
-  Space Law violations should be prioritized based on severity and the current situation.
+  Las infracciones de la Ley Espacial deben priorizarse según su gravedad y la situación vigente.
 
-  This prohibits use of syndicate items outside extreme emergencies, including uplinks by command and security. This also prohibits the preparing of syndicate items for an emergency.
+  Esto prohíbe que el mando y seguridad utilicen objetos del Sindicato, incluidos los uplinks, fuera de emergencias extremas. También prohíbe preparar objetos del Sindicato para una posible emergencia.
 
-  ## Examples
-  Acceptable:
-  - After a war announcement, a security officer ignores crewmembers carrying contraband so that they can focus on preparing to defend the station.
-  - A security officer disarms someone attacking them with an energy sword, then uses the sword to kill the attacker.
+  ## Ejemplos
+  Aceptable:
+  - Después de una declaración de guerra, un oficial de seguridad ignora a integrantes de la tripulación que portan contrabando para concentrarse en preparar la defensa de la estación.
+  - Un oficial de seguridad desarma a una persona que lo ataca con una espada de energía y después utiliza esa arma para matar al agresor.
 
-  Prohibited:
-  - A security officer carries around an energy sword in case of an emergency.
+  Prohibido:
+  - Un oficial de seguridad porta una espada de energía como medida preventiva ante una posible emergencia.
 
-  Roles that are included:
-  - A security officer
-  - The Captain
-  - The Chief Engineer
-  - A passenger promoted to "bounty hunter"
-  - A mime promoted to "security mime"
+  Roles incluidos:
+  - Un oficial de seguridad
+  - El capitán
+  - El ingeniero jefe
+  - Un pasajero ascendido a «cazarrecompensas»
+  - Un mimo ascendido a «mimo de seguridad»
 
-  Roles that are not included:
-  - A passenger
-  - The clown
-  - An antagonist in any role
-  - A cyborg
-  - A passenger who is helping to fight off nuclear operatives
+  Roles no incluidos:
+  - Un pasajero
+  - El payaso
+  - Un antagonista en cualquier rol
+  - Un cíborg
+  - Un pasajero que ayuda a combatir a los agentes nucleares
 </Document>

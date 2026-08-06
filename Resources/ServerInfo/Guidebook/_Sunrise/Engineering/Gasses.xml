@@ -6,7 +6,7 @@
   Los gases tienen propiedades que los hacen útiles para diferentes tareas.
   Las atmosferas también pueden sintetizar gases exóticos de otros gases para usarlos con fines especiales.
 
-  ## Ojigeno
+  ## Oxígeno
   <Box>
     <GuideEntityEmbed Entity="OxygenCanister" Caption=""/>
     <GuideEntityEmbed Entity="OxygenTank" Caption=""/>

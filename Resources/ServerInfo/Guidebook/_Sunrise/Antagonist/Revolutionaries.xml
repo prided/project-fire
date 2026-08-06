@@ -8,10 +8,10 @@
     <GuideEntityEmbed Entity="PosterContrabandRevolt" Caption=""/>
   </Box>
 
-  Los revolucionarios son los antagonistas de la conversión, patrocinada por el [color=#ff0000]Syndicate[/color], cuya tarea es tomar el control de la estación. No tienen trucos ingeniosos, solo idea y poder en número.
+  Los revolucionarios son antagonistas de conversión patrocinados por el [color=#ff0000]Sindicato[/color] cuyo objetivo es tomar el control de la estación. No disponen de tecnología sofisticada; dependen de la organización y la superioridad numérica.
 
-  ## Goles
-  Debes reclutar, encadenar o eliminar a toda la [bold]command staff[/bold] en cualquier orden.
+  ## Objetivos
+  Debe reclutar, encarcelar o eliminar a todo el [bold]personal de mando[/bold] en cualquier orden.
   <Box>
     <GuideEntityEmbed Entity="ToyFigurineCaptain" Caption="Capitán"/>
   </Box>
@@ -25,27 +25,27 @@
     <GuideEntityEmbed Entity="ToyFigurineResearchDirector" Caption="HP"/>
     <GuideEntityEmbed Entity="ToyFigurineQuartermaster" Caption="KM"/>
   </Box>
-  Tu objetivo [bold]not es destruir la station[/bold], sino [italic]capture it[/italic], así que intenta minimizar la destrucción.
+  Su objetivo [bold]no es destruir la estación[/bold], sino [italic]tomar su control[/italic]. Reduzca al mínimo los daños innecesarios.
 
-  [bold]The Revolución lose[/bold] si todos los [bold][color=#5e9cff]Heads de la Revolution[/color][/bold] mueren—todos los [color=red]Revolutionaries[/color] se desplegarán al mismo tiempo.
+  [bold]La revolución fracasa[/bold] si mueren todos los [bold][color=#5e9cff]revolucionarios principales[/color][/bold]; en ese momento, todos los [color=red]revolucionarios[/color] serán desconvertidos.
 
   <Box>
     <GuideEntityEmbed Entity="ClothingBackpackSatchelSmugglerFilled" Caption=""/>
   </Box>
   ## Depósitos
-  Los peones de la [color=#ff0000]Syndicate[/color] amablemente colocados entre 6 y 15 depósitos. Cualquiera puede encontrarlos, pero los [bold][color=#5e9cff]Heads de la Revolution[/color][/bold] tienen un localizador que indica su ubicación.
-  Para encontrarlos, necesitas un escáner de haz en T, así como una palanca y una llave inglesa para abrir las baldosas del suelo.
+  Los agentes del [color=#ff0000]Sindicato[/color] colocaron entre seis y quince depósitos. Cualquiera puede encontrarlos, pero los [bold][color=#5e9cff]revolucionarios principales[/color][/bold] disponen de un localizador que señala su ubicación.
+  Para recuperarlos se requiere un escáner de rayos T, una palanca y una llave inglesa para levantar las baldosas.
 
-  ## Capítulos de la Revolución y el Reclutamiento
-  [bold][color=#5e9cff]Heads de los revolution[/color][/bold] se eligen al inicio del turno y comienzan con un [color=cyan]flash[/color] y un [color=cyan]sunglasses[/color].
+  ## Revolucionarios principales y reclutamiento
+  Los [bold][color=#5e9cff]revolucionarios principales[/color][/bold] son seleccionados al inicio del turno y reciben un [color=cyan]destellador[/color] y [color=cyan]gafas de sol[/color].
 
   <Box>
     <GuideEntityEmbed Entity="Flash"/>
     <GuideEntityEmbed Entity="ClothingEyesGlassesSunglasses"/>
   </Box>
 
-  Puedes hacer que un miembro de la tripulación se una a tu lado atacándole con cualquier [bold]flash[/bold] de [color=#ff0000]combat mode[/color].
-  Sin embargo, [bold]you no puede invertir el objetivo si tiene [color=cyan]flash protection[/color][/bold] encima, como gafas o casco de soldadura.
+  Puede convertir a un integrante de la tripulación atacándolo con cualquier [bold]destellador[/bold] mientras se encuentra en [color=#ff0000]modo de combate[/color].
+  Sin embargo, [bold]no puede convertir a un objetivo que utilice [color=cyan]protección contra destellos[/color][/bold], como gafas de sol o un casco de soldadura.
 
   <Box>
     <GuideEntityEmbed Entity="ClothingEyesGlassesSunglasses"/>
@@ -55,31 +55,31 @@
   <Box>
     <GuideEntityEmbed Entity="MindShieldImplanter"/>
   </Box>
-  Otro obstáculo es la [color=cyan]mind protección implants[/color]. Ellos:
-  - No permitir que el implantado se convierta en un [color=red]Revolutionary[/color]
-  - Reclutan revolucionarios, privándolos de lealtad a la [color=#5e9cff]Head de la Revolution[/color]
-  - [bold]Noticeably destruido cuando se coloca en el [color=#5e9cff]Chapter de Revolution[/color][/bold], delatándote
-  - NO proteger contra la desorientación por destello
+  Otro obstáculo son los [color=cyan]implantes de escudo mental[/color]. Estos:
+  - Impiden que la persona implantada se convierta en [color=red]revolucionaria[/color].
+  - Desconvierten a los revolucionarios y eliminan su lealtad hacia los [color=#5e9cff]revolucionarios principales[/color].
+  - [bold]Se destruyen de forma evidente al implantarse en un [color=#5e9cff]revolucionario principal[/color][/bold], lo que puede revelar su identidad.
+  - NO protegen contra la desorientación causada por destellos.
 
-  Ten en cuenta que el [color=#cb0000]Security Service[/color] ya tiene implantes, y el personal de mando puede proteger algunos de los roles, pero incluso sin el MC, no podrás reclutar al Jefe de Departamento a menos que sea un VrIO reclutado entre los empleados de base. [bold]The Implante de Protección Mental puede ser retirado por el Extractor de Implantes, habiendo seleccionado previamente la extracción del MC.[/bold]
+  El [color=#cb0000]personal de seguridad[/color] ya dispone de implantes, y el personal de mando puede proteger ciertos puestos. Incluso sin un escudo mental, no podrá reclutar a un jefe de departamento, salvo que se trate de un jefe interino ascendido desde un puesto ordinario. [bold]El implante de escudo mental puede retirarse con el extractor de implantes después de seleccionar el procedimiento correspondiente.[/bold]
 
   Hay varias formas de conseguir un extractor:
-  - El [color=#5e9cff]Head del Revolution[/color] tiene inmediatamente un plano para el autolat
-  - El extractor puede encontrarse en cachés
-  - Puedes esperar al estudio de implantes en el Laboratorio de Investigación y publicarlo en MedFab
+  - El [color=#5e9cff]revolucionario principal[/color] recibe de inmediato un plano para el Autolathe.
+  - El extractor puede encontrarse en los depósitos.
+  - Puede esperar a que Investigación estudie los implantes y publique el diseño en el TechFab médico.
 
-  [bold]Build característica: [/bold] Aunque los jefes de la estación no tengan MC, no pueden ser reclutados. Los objetivos de la revolución son solo los Cabezas Redondas o aquellos que llegaron desde el Starport; los VRIOs no se consideran líderes de pleno derecho ni el objetivo de la revolución.
+  [bold]Particularidad de esta versión:[/bold] Aunque los jefes de la estación no tengan escudo mental, no pueden ser reclutados. Solo son objetivos de la revolución los jefes asignados al inicio de la ronda o quienes llegaron desde el puerto espacial; los jefes interinos no se consideran integrantes plenos del mando ni objetivos de la revolución.
   <Box>
     <GuideEntityEmbed Entity="RandomHumanoidSpawnerBlueShieldOperative"/>
   </Box>
   ### Oficial del Escudo Azul
-  - Un papel especial diseñado para proteger a los miembros del mando. Todos los capítulos tienen implantado [bold]Blue Shield Wheezing Implants[/bold] en ellos. Este implante [color=red][bold]automatically[/bold][/color] informa al Blue Shield a través del canal de comunicación sobre el estado crítico del capítulo.
-  - Consejo: Sabotear los servidores de telecomunicaciones o encontrar la forma de desactivar radios y sensores de rastreo de ropa, o iniciar tus acciones de forma abrupta sin dar tiempo a tus oponentes para reagruparse.
+  - Es un puesto especial destinado a proteger al personal de mando. Todos los jefes tienen implantado un [bold]implante de alerta del Escudo Azul[/bold]. Este dispositivo informa [color=red][bold]automáticamente[/bold][/color] al oficial del Escudo Azul, mediante su canal de comunicación, cuando un jefe entra en estado crítico.
+  - Recomendación: sabotee los servidores de telecomunicaciones, desactive radios y sensores de rastreo de la ropa, o actúe de forma repentina para impedir que sus adversarios se reagrupen.
   <Box>
     <GuideEntityEmbed Entity="TelecomServerFilledBlueShield"/>
   </Box>
   ## Revolucionario
-  Un [color=red]revolutionary[/color] es un miembro de la tripulación que es convertido por el [bold][color=#5e9cff]Head del Revolution[/color][/bold].
+  Un [color=red]revolucionario[/color] es un integrante de la tripulación convertido por un [bold][color=#5e9cff]revolucionario principal[/color][/bold].
 
-  [bold][color=red]Revolutionaries[/color] no pueden convertir others[/bold] pero sí pueden hacer trabajos sucios y encargarse.
+  Los [bold][color=red]revolucionarios[/color] no pueden convertir a otras personas[/bold], pero pueden combatir y realizar las tareas operativas del movimiento.
 </Document>

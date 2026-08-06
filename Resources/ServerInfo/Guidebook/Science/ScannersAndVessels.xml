@@ -1,24 +1,24 @@
 <Document>
 ## Anomaly Scanner
 
-The Anomaly Scanner is used to gather various information on anomalies. They can be found inside the lockers in the science department.
+El Anomaly Scanner se utiliza para recopilar distintos datos sobre las anomalías. Puede encontrarse dentro de los casilleros del departamento científico.
 
 <Box>
 <GuideEntityEmbed Entity="AnomalyScanner"/>
 </Box>
 
-Scanning an anomaly shows the severity, general stability, approximate point output, reactions with particle types, and time until the next pulse. The reaction types, specifically, can be used in conjunction with the A.P.E. to manipulate anomalies.
+El escaneo indica la gravedad, estabilidad general, producción aproximada de puntos, reacción ante cada tipo de partícula y tiempo restante hasta el siguiente pulso. Las reacciones pueden utilizarse junto con el A.P.E. para manipular la anomalía.
 
 ## Anomaly Vessel
 
-The anomaly vessel is a machine that generates points from anomalies. Use the anomaly scanner on an empty vessel, and the anomaly that was last scanned will be synced with the vessel.
+El Anomaly Vessel es una máquina que genera puntos a partir de anomalías. Utilice el Anomaly Scanner sobre un recipiente vacío para vincularlo con la última anomalía escaneada.
 
 <Box>
 <GuideEntityEmbed Entity="MachineAnomalyVessel"/>
 </Box>
 
-The amount of points a vessel generates per second is based on the severity, stability, and health of an anomaly. The higher each of these values, the higher the point output will be.
+La cantidad de puntos generados por segundo depende de la gravedad, estabilidad e integridad de la anomalía. Cuanto más altos sean estos valores, mayor será la producción.
 
-Be careful: if an anomaly goes [color=#a4885c]supercritical[/color], the vessel it is linked to will explode. This may damage the station and nearby equipment.
+Proceda con precaución: si una anomalía entra en estado [color=#a4885c]supercrítico[/color], el recipiente vinculado explotará. Esto puede dañar la estación y el equipo cercano.
 
 </Document>

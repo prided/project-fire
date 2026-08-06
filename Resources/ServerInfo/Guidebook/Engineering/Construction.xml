@@ -1,5 +1,5 @@
 <Document>
-  # Construction
+  # Construcción
 
   <Box>
     <GuideEntityEmbed Entity="Bed" Caption=""/>
@@ -9,17 +9,17 @@
   </Box>
 
 
-  The Construction Menu is how you build and craft objects in the game.
-  It can be accessed by pressing [color=yellow][bold][keybind="OpenCraftingMenu"][/bold][/color].
+  El menú de construcción permite fabricar y colocar objetos en el juego.
+  Para abrirlo, presione [color=yellow][bold][keybind="OpenCraftingMenu"][/bold][/color].
 
-  When placing objects that "snap" to the grid, you can hold [color=yellow][bold][keybind="EditorLinePlace"][/bold][/color] to place an entire line at a time, and [color=yellow][bold][keybind="EditorGridPlace"][/bold][/color] to place an entire grid at a time.
+  Al colocar objetos que se ajustan a la cuadrícula, mantenga presionado [color=yellow][bold][keybind="EditorLinePlace"][/bold][/color] para construir una línea completa, o [color=yellow][bold][keybind="EditorGridPlace"][/bold][/color] para cubrir una cuadrícula completa.
 
-  When crafting objects with a lot of ingredients, keep in mind you don't have to hold everything at once; you can simply place the ingredients on the floor, in your backpack or on a table near you, and they'll be used up during crafting like normal.
+  Cuando una receta requiera numerosos componentes, no es necesario sostenerlos todos. Puede dejarlos en el suelo, dentro de la mochila o sobre una mesa cercana; se consumirán durante la fabricación.
 
-  When placing a "building ghost" somewhere in the world, press [color=yellow][bold][keybind="EditorRotateObject"][/bold][/color] to rotate the ghost clockwise.
-  If you are building a mirrorable component (think: Gas Mixers/Filters), you can press [color=yellow][bold][keybind="EditorFlipObject"][/bold][/color] to flip the ghost.
+  Mientras coloca la proyección de un objeto, presione [color=yellow][bold][keybind="EditorRotateObject"][/bold][/color] para girarla en sentido horario.
+  Si el componente puede reflejarse, como los mezcladores y filtros de gases, presione [color=yellow][bold][keybind="EditorFlipObject"][/bold][/color] para invertir la proyección.
 
-  You can also use [color=yellow][bold][keybind="RotateObjectClockwise"][/bold][/color] and [color=yellow][bold][keybind="RotateObjectCounterclockwise"][/bold][/color] to rotate an object clockwise or counterclockwise if it's already built, as long as it is unanchored (unwrenched).
+  También puede utilizar [color=yellow][bold][keybind="RotateObjectClockwise"][/bold][/color] y [color=yellow][bold][keybind="RotateObjectCounterclockwise"][/bold][/color] para girar en ambos sentidos un objeto ya construido, siempre que no esté anclado.
 
 
 

@@ -1,14 +1,14 @@
-﻿<Document>
-  #Air Injector
-  The air injector is a special vent that forces gasses into the atmosphere it's exposed to.
+<Document>
+  # Inyector de aire
+  El inyector de aire es una salida especial que fuerza el ingreso de gases en la atmósfera expuesta.
   <Box>
     <GuideEntityEmbed Entity="GasOutletInjector"/>
   </Box>
-  It is primarily used to force gasses into high-pressure rooms like the station's [textlink="gas storage rooms" link="GasMiningAndStorage"] or a burn chamber.
+  Se utiliza principalmente para introducir gases en salas de alta presión, como los [textlink="depósitos de gases" link="GasMiningAndStorage"] de la estación o una cámara de combustión.
 
-  The air injector does not require [textlink="power" link="Power"] to function.
+  El inyector de aire no requiere [textlink="energía" link="Power"] para funcionar.
 
-  The air injector will inject gasses into the atmosphere it's exposed to until the atmosphere reaches [color=orange][protodata="GasOutletInjector" comp="GasOutletInjector" member="MaxPressure"/] kPa[/color].
+  Continuará introduciendo gases hasta que la atmósfera alcance [color=orange][protodata="GasOutletInjector" comp="GasOutletInjector" member="MaxPressure"/] kPa[/color].
 
-  The air injector's speed is proportional to the amount of gas in the injector.
+  La velocidad del inyector es proporcional a la cantidad de gas presente en su interior.
 </Document>

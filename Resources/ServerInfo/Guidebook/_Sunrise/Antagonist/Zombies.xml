@@ -2,7 +2,7 @@
   # Zombis
 
   <Box>
-    [color=#999999][italic]"They're coming to get you, Barbara!"[/italic][/color]
+    [color=#999999][italic]"¡Vienen por ti, Barbara!"[/italic][/color]
   </Box>
   <Box>
     <GuideEntityEmbed Entity="SignBiohazard" Caption=""/>
@@ -17,28 +17,28 @@
   ## Infestación inicial
   Eres el paciente cero. Tu sangre está llena de [color=#7e916e]Romerol[/color] y realmente quieres compartirla con todos los seres densos.
 
-  En cuanto sepas la infección, [italic]everything changes[/italic]. Solo tienes tiempo antes de transformarte, y la tarea es [bold]capture la estación tanto como possible.[/bold]
-  Aprovecha este tiempo para preparar armas, equipo y trampas. [italic]Cosmic Ley no significa nada más para you[/italic]
+  En cuanto conozca la infección, [italic]todo cambiará[/italic]. Dispone de poco tiempo antes de transformarse y su objetivo es [bold]tomar la mayor parte posible de la estación[/bold].
+  Aproveche ese tiempo para preparar armas, equipo y trampas. [italic]La Ley Espacial ha dejado de ser relevante para usted.[/italic]
 
   ## Transferencia
-  Los zombis solo saben cojear, morder y chocar contra obstáculos. Su mordida no siempre [bold]doesn transmite [color=#7e916e]Romerol[/color][/bold] a través de capas gruesas de ropa, pero sin duda duele.
+  Los zombis solo pueden avanzar con dificultad, morder y embestir obstáculos. Sus mordidas no siempre [bold]transmiten [color=#7e916e]Romerol[/color][/bold] a través de capas gruesas de ropa, pero siempre causan daño.
 
-  Los no-muertos también pueden morder una herida crítica o un cuerpo para [bold]instantly turn[/bold] a zombis.
+  Los no muertos también pueden morder a una persona en estado crítico o un cadáver para [bold]convertirlo inmediatamente[/bold] en zombi.
 
   ## Características zombis
   Los zombis son fácilmente reconocibles por su piel verde oscuro, ojos rojos, paso lento, olor a podredumbre y falta de habilidades motoras. Una vez transformados, se quitan los auriculares y guantes, y las esposas son inútiles contra su mordida sedienta de sangre.
 
-  Los zombis son conocidos por [bold]resistance a cortes, abrasiones, venenos y cold.[/bold] Pueden sobrevivir al vacío y no necesitan comida, agua, aire ni sueño. Los no-muertos, en cambio, son [italic]highly vulnerables a quemaduras y discharges.[/italic]
+  Los zombis poseen [bold]resistencia a cortes, golpes, venenos y frío[/bold]. Pueden sobrevivir al vacío y no necesitan alimento, agua, aire ni sueño. Sin embargo, son [italic]muy vulnerables a las quemaduras y las descargas eléctricas[/italic].
 
   ## Supervivencia
-  A medida que la infección se propaga y la [color=#cb0000]Security Service[/color] cae, depende de los supervivientes llegar al Centcom.
+  A medida que la infección se propaga y el [color=#cb0000]personal de seguridad[/color] cae, los supervivientes deben intentar llegar al Mando Central.
 
-  [bold]Building barricades[/bold] entre departamentos y [bold]closing doors[/bold] pueden ganar tiempo para fabricar armas, rescatar personas o idear un plan.
+  [bold]Construir barricadas[/bold] entre departamentos y [bold]cerrar puertas[/bold] puede proporcionar tiempo para fabricar armas, rescatar personas o elaborar un plan.
 
-  Recuerda, cuando las cosas se torcen, [italic]do lo que tengas que do[/italic] hasta que eso vaya a costa de otros supervivientes. Recoge lo que puedas de quienes no lleguen al final.
+  Cuando la situación se deteriore, [italic]haga lo necesario para sobrevivir[/italic], siempre que no sea a costa de otros supervivientes. Recupere los recursos de quienes no logren continuar.
 
   ## Medicina
-  [bold]Those que ya han sido transformados solo pueden ser curados por [color=red]death.[/color][/bold]
+  [bold]Quienes ya se hayan transformado solo pueden ser curados mediante la [color=red]muerte[/color].[/bold]
 
   Si estás infectado pero aún no eres un zombi, [color=#86caf7]Ambuzole[/color] te curará, pero no te protegerá de una reinfección. [color=#1274b5]Ambuzole Plus[/color] curará y protegerá, pero solo mientras estés vivo.
 

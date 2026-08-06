@@ -1,44 +1,44 @@
 <Document>
   # Habilidades de SCP-096
 
-  Esto describirá las habilidades activadas disponibles para el objeto y las mecánicas únicas asociadas.
+  Aquí se describen las habilidades activas disponibles para el objeto y sus mecánicas únicas.
 
-  [textlink="General información sobre el modesto man" link="Scp096About"]
+  [textlink="Información general sobre el Hombre Tímido" link="Scp096About"]
 
-  ## Capacidad de "soltar un grito de lástima"
+  ## Habilidad "Dejar escapar un grito lastimero"
 
-  Activar esta habilidad crea una poderosa resonancia anómala que destruye las estructuras circundantes con una onda sonora.
-  Esta habilidad solo funciona dentro de la cámara de contención. Úsala para destruir la cámara de contención.
+  Al activar esta habilidad, generas una potente resonancia anómala que daña las estructuras visibles cercanas mediante una onda sonora.
+  Solo funciona dentro de la cámara de contención. Úsala para abrir grietas y escapar.
 
-  [textlink="More sobre la huida methods" link="Scp096ContainmentBreach"]
+  [textlink="Más información sobre los métodos de fuga" link="Scp096ContainmentBreach"]
 
-  ## Capacidad para "pelar la piel de la cara"
+  ## Habilidad "Arrancarte la piel de la cara"
 
-  Activar esta habilidad daña tu cara, salpicando tu sangre por todas partes.
-  Usar esta habilidad cinco veces seguidas te golpeará la cara de forma crítica, poniéndote en Cara Desollada
+  Al activar esta habilidad, te desgarras la cara y derramas sangre a tu alrededor.
+  Si la usas cinco veces, destruirás por completo la piel de tu rostro y entrarás en el estado "Rostro desollado".
 
-  [textlink="More sobre states" link="Scp096States"]
+  [textlink="Más información sobre los estados" link="Scp096States"]
 
-  [bold]To activar esta habilidad, tienes que quedarte quieto y no moverte durante un par de segundos hasta que la barra de progreso sobre tu cabeza ends.[/bold]
+  [bold]Para activar esta habilidad, permanece inmóvil unos segundos hasta que termine la barra de progreso sobre tu cabeza.[/bold]
 
   ¡La habilidad tiene un tiempo de recarga largo!
 
-  ## Habilidad de agacharse
+  ## Habilidad "Sentarte"
 
-  Activar esta habilidad te pone en estado de "Sentado". El objeto cambia de aspecto y pierde la capacidad de moverse.
-  En esta condición, una persona modesta tiene más probabilidades de secretar líquido lacrimal.
+  Al activar esta habilidad, entras en el estado "Sentado". Tu apariencia cambia y pierdes la capacidad de moverte.
+  En este estado, el Hombre Tímido produce líquido lacrimal con mayor rapidez.
 
-  En general, el estado no tiene un significado práctico. Puedes usarlo en cualquier momento.
+  Este estado es principalmente interpretativo y puede usarse en cualquier momento.
 
-  ## Mecánica de Tiempo Seguro
+  ## Mecánica de tiempo de seguridad
 
-  Durante los primeros 15 minutos desde el inicio de la ronda, no podrás usar tu habilidad "Peel Face".
+  Durante los primeros 15 minutos de la ronda no puedes usar "Arrancarte la piel de la cara".
 
-  Esta mecánica restringe los objetos SCP al inicio de la ronda, dando tiempo al personal para empezar a prepararse para el cambio.
+  Esta mecánica limita a los objetos SCP al inicio de la ronda y permite que el personal se prepare.
 
-  ## La mecánica de la visión
+  ## Mecánica de visión
 
-  El juego tiene un sistema único que comprueba la visibilidad de cada personaje por parte de otro personaje.
+  El juego cuenta con un sistema que comprueba si cada personaje es visible para los demás.
 
-  [bold]If tú y la otra persona os miráis la cara, entrarás en un estado de "Pre-Ira" y luego en un estado de "Ira"[/bold] La persona que te vea se convertirá en tu objetivo legítimo, que puedes eliminar fácilmente.
+  [bold]Si otra persona ve tu rostro, entrarás primero en el estado "Preira" y después en "Ira".[/bold] Quien haya visto tu cara se convertirá en un objetivo que deberás eliminar.
 </Document>
