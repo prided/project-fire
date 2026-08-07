@@ -3,10 +3,10 @@
 # Displayed in the Character prefs window
 humanoid-character-profile-summary =
     Esto es { $name }. { $gender ->
-        [male] A él
-        [female] Ella
+        [male] Este es
+        [female] Esta es
         [epicene] Yo
-       *[neuter] A él
+       *[neuter] Él es
     } { $age } { $age ->
         [one] Año
         [few] Años

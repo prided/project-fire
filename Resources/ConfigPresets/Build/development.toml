@@ -9,7 +9,7 @@ safe_time_enabled = false
 lobbyenabled = true
 lobbyduration = 120
 # Dev map for faster loading & convenience
-map = "ScpComplexStandard"
+map = ""
 # preset = "Thaumiel"
 role_timers = false
 admin_job_tracking = true

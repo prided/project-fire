@@ -2,7 +2,7 @@
 
 construction-menu-title = Construcción
 construction-menu-place-ghost = Coloca una estructura fantasma
-construction-menu-clear-all = Limpiad todo
+construction-menu-clear-all = Limpia todo
 construction-menu-eraser-mode = Modo borrador
 construction-menu-craft = Creación
 construction-menu-search = Búsqueda

@@ -1,3 +1,3 @@
-server-shutdown = Apaga el servidor
-server-ooc-toggle = OOC Encendido/Apagado
-server-looc-toggle = LOOC de encendido/apagado
+server-shutdown = Apagar servidor
+server-ooc-toggle = Activar/desactivar OOC
+server-looc-toggle = Activar/desactivar LOOC

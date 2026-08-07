@@ -91355,7 +91355,7 @@ entities:
   - uid: 6265
     components:
     - type: MetaData
-      desc: Un unath de peluche del responsable de RR. HH.; parece mirarte como si dijera: «Los documentos no tienen el formato correcto».
+      desc: "Un unath de peluche del responsable de RR. HH.; parece mirarte como si dijera: «Los documentos no tienen el formato correcto»."
       name: 'Gerson, el unath de RR. HH. de peluche'
     - type: Transform
       parent: 6261

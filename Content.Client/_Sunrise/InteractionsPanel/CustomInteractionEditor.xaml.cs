@@ -81,7 +81,7 @@ public sealed partial class CustomInteractionEditor : DefaultWindow
             Cooldown = 5.0f
         };
 
-        Title = isNewInteraction ? "Создание взаимодействия" : "Редактирование взаимодействия";
+        Title = isNewInteraction ? "Crear interacción" : "Editar interacción";
 
         InitializeUI();
         InitializeEvents();
@@ -149,7 +149,7 @@ public sealed partial class CustomInteractionEditor : DefaultWindow
 
         CategoryOption.Clear();
         int categoryId = 0;
-        CategoryOption.AddItem("Выберите категорию");
+        CategoryOption.AddItem("Selecciona una categoría");
         _categoryIds[categoryId] = string.Empty;
 
         categoryId++;
@@ -168,7 +168,7 @@ public sealed partial class CustomInteractionEditor : DefaultWindow
 
         IconOption.Clear();
         int iconId = 0;
-        IconOption.AddItem("Нет");
+        IconOption.AddItem("Ninguno");
         _iconIds[iconId] = string.Empty;
 
         iconId++;
@@ -187,7 +187,7 @@ public sealed partial class CustomInteractionEditor : DefaultWindow
 
         EffectOption.Clear();
         int effectId = 0;
-        EffectOption.AddItem("Нет");
+        EffectOption.AddItem("Ninguno");
         _effectIds[effectId] = string.Empty;
 
         effectId++;
@@ -206,7 +206,7 @@ public sealed partial class CustomInteractionEditor : DefaultWindow
 
         SoundOption.Clear();
         int soundId = 0;
-        SoundOption.AddItem("Выберите звук");
+        SoundOption.AddItem("Selecciona un sonido");
         _soundIds[soundId] = string.Empty;
 
         soundId++;
@@ -255,7 +255,7 @@ public sealed partial class CustomInteractionEditor : DefaultWindow
 
     private void UpdateCooldownLabel(float value)
     {
-        CooldownLabel.Text = $"{(int)value}с";
+        CooldownLabel.Text = $"{(int)value} s";
     }
 
     private void UpdateEffectControlsEnabled()
@@ -307,7 +307,7 @@ public sealed partial class CustomInteractionEditor : DefaultWindow
 
         if (message.Length > MaxMessageLength)
         {
-            ShowError($"Сообщение слишком длинное (макс. {MaxMessageLength} символов)");
+            ShowError($"El mensaje es demasiado largo (máx. {MaxMessageLength} caracteres)");
             return;
         }
 
@@ -343,31 +343,31 @@ public sealed partial class CustomInteractionEditor : DefaultWindow
     {
         if (string.IsNullOrEmpty(NameInput.Text.Trim()))
         {
-            ShowError("Имя взаимодействия не может быть пустым");
+            ShowError("El nombre de la interacción no puede estar vacío");
             return;
         }
 
         if (_interaction.Name.Length > MaxNameLength)
         {
-            ShowError($"Имя слишком длинное (макс. {MaxNameLength} символов)");
+            ShowError($"El nombre es demasiado largo (máx. {MaxNameLength} caracteres)");
             return;
         }
 
         if (_interaction.Description.Length > MaxDescriptionLength)
         {
-            ShowError($"Описание слишком длинное (макс. {MaxDescriptionLength} символов)");
+            ShowError($"La descripción es demasiado larga (máx. {MaxDescriptionLength} caracteres)");
             return;
         }
 
         if (_interaction.InteractionMessages.Count == 0)
         {
-            ShowError("Добавьте хотя бы одно сообщение взаимодействия");
+            ShowError("Agrega al menos un mensaje de interacción");
             return;
         }
 
         if (!_categoryIds.TryGetValue(CategoryOption.SelectedId, out var categoryId) || string.IsNullOrEmpty(categoryId))
         {
-            ShowError("Выберите категорию");
+            ShowError("Selecciona una categoría");
             return;
         }
 
@@ -518,7 +518,7 @@ public sealed partial class CustomInteractionEditor : DefaultWindow
     {
         var dialog = new DefaultWindow
         {
-            Title = "Ошибка",
+            Title = "Error",
             MinSize = new Vector2(300, 150),
             SetSize = new Vector2(300, 150)
         };
@@ -553,7 +553,7 @@ public sealed partial class CustomInteractionEditor : DefaultWindow
 
         var closeButton = new Button
         {
-            Text = "ОК",
+            Text = "Aceptar",
             StyleClasses = { StyleClass.ButtonSquare },
             HorizontalAlignment = HAlignment.Center,
             MinWidth = 80,
