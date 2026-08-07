@@ -1,70 +1,70 @@
-survival-tutorial-name = Survival and environmental hazards
-survival-tutorial-tooltip = Learn how to read atmospheric alerts and use emergency equipment.
+survival-tutorial-name = Supervivencia y peligros ambientales
+survival-tutorial-tooltip = Aprende a interpretar las alertas atmosféricas y usar equipo de emergencia.
 
-survival-tut-welcome-bubble = Learn how to respond to missing air and low pressure.
-survival-tut-welcome-chat = This tutorial teaches a simple survival order: leave immediate danger when possible, protect yourself, then repair the problem or help others.
-survival-tut-welcome-tts = This tutorial teaches a simple survival order: leave immediate danger when possible, protect yourself, then repair the problem or help others.
+survival-tut-welcome-bubble = Aprende cómo responder ante la falta de aire y la baja presión.
+survival-tut-welcome-chat = Este tutorial enseña un orden sencillo de supervivencia: aléjate del peligro inmediato cuando sea posible, protégete y después repara el problema o ayuda a otros.
+survival-tut-welcome-tts = Este tutorial enseña un orden sencillo de supervivencia: aléjate del peligro inmediato cuando sea posible, protégete y después repara el problema o ayuda a otros.
 
-survival-tut-open-emergency-equipment-bubble = Open the emergency locker with [tutkeybind="UIClick"].
-survival-tut-open-emergency-equipment-chat = Emergency lockers are commonly placed in station corridors. This one contains everything needed for the training scenario.
-survival-tut-open-emergency-equipment-tts = Emergency lockers are commonly placed in station corridors. This one contains everything needed for the training scenario.
+survival-tut-open-emergency-equipment-bubble = Abre el casillero de emergencia con [tutkeybind="UIClick"].
+survival-tut-open-emergency-equipment-chat = Los casilleros de emergencia suelen encontrarse en los pasillos de la estación. Este contiene todo lo necesario para el escenario de entrenamiento.
+survival-tut-open-emergency-equipment-tts = Los casilleros de emergencia suelen encontrarse en los pasillos de la estación. Este contiene todo lo necesario para el escenario de entrenamiento.
 
-survival-tut-alerts-intro-bubble = Watch the highlighted alerts in the top-right corner.
-survival-tut-alerts-intro-chat = Alerts tell you about urgent problems with your body and environment. When an unfamiliar alert appears, examine its icon and act before the situation becomes critical.
-survival-tut-alerts-intro-tts = Alerts tell you about urgent problems with your body and environment. When an unfamiliar alert appears, examine its icon and act before the situation becomes critical.
+survival-tut-alerts-intro-bubble = Observa las alertas resaltadas en la esquina superior derecha.
+survival-tut-alerts-intro-chat = Las alertas te informan de problemas urgentes con tu cuerpo y el entorno. Cuando aparezca una alerta desconocida, examina su icono y actúa antes de que la situación se vuelva crítica.
+survival-tut-alerts-intro-tts = Las alertas te informan de problemas urgentes con tu cuerpo y el entorno. Cuando aparezca una alerta desconocida, examina su icono y actúa antes de que la situación se vuelva crítica.
 
-survival-tut-oxygen-warning-bubble = The training simulation has triggered an oxygen warning. Find a breathable-air setup.
-survival-tut-oxygen-warning-chat = The highlighted oxygen alert means that the air around you is not safe to breathe. The tutorial simulates the warning without injuring you; respond as you would during a real emergency.
-survival-tut-oxygen-warning-tts = The highlighted oxygen alert means that the air around you is not safe to breathe. The tutorial simulates the warning without injuring you. Respond as you would during a real emergency.
+survival-tut-oxygen-warning-bubble = La simulación de entrenamiento activó una alerta de oxígeno. Busca una fuente de aire respirable.
+survival-tut-oxygen-warning-chat = La alerta de oxígeno resaltada significa que el aire a tu alrededor no es seguro para respirar. El tutorial simula la advertencia sin hacerte daño; responde como lo harías durante una emergencia real.
+survival-tut-oxygen-warning-tts = La alerta de oxígeno resaltada significa que el aire a tu alrededor no es seguro para respirar. El tutorial simula la advertencia sin hacerte daño. Responde como lo harías durante una emergencia real.
 
-survival-tut-take-mask-bubble = Take the breath mask with [tutkeybind="UIClick"]. If you cannot see it, right-click the locker area with [tutkeybind="UIRightClick"] to open a scrollable item list.
-survival-tut-take-mask-chat = A breath mask is the connection between you and an air supply. It must be worn in the mask slot before internals can work.
-survival-tut-take-mask-tts = A breath mask is the connection between you and an air supply. It must be worn in the mask slot before internals can work.
+survival-tut-take-mask-bubble = Toma la máscara de respiración con [tutkeybind="UIClick"]. Si no puedes verla, haz clic derecho en la zona del casillero con [tutkeybind="UIRightClick"] para abrir una lista desplazable de objetos.
+survival-tut-take-mask-chat = Una máscara de respiración es la conexión entre tú y un suministro de aire. Debe llevarse en la ranura de máscara antes de que los internos puedan funcionar.
+survival-tut-take-mask-tts = Una máscara de respiración es la conexión entre tú y un suministro de aire. Debe llevarse en la ranura de máscara antes de que los internos puedan funcionar.
 
-survival-tut-take-oxygen-tank-bubble = Take the filled oxygen tank with [tutkeybind="UIClick"].
-survival-tut-take-oxygen-tank-chat = The tank supplies the gas for your internals. Keep it in an available inventory slot or in your hand while connecting it.
-survival-tut-take-oxygen-tank-tts = The tank supplies the gas for your internals. Keep it in an available inventory slot or in your hand while connecting it.
+survival-tut-take-oxygen-tank-bubble = Toma el tanque de oxígeno lleno con [tutkeybind="UIClick"].
+survival-tut-take-oxygen-tank-chat = El tanque suministra el gas para tus internos. Mantenlo en una ranura de inventario disponible o en tu mano mientras lo conectas.
+survival-tut-take-oxygen-tank-tts = El tanque suministra el gas para tus internos. Mantenlo en una ranura de inventario disponible o en tu mano mientras lo conectas.
 
-survival-tut-open-inventory-bubble = Open your inventory with [tutkeybind="OpenInventoryMenu"].
-survival-tut-open-inventory-chat = The breath mask must be placed in its clothing slot before it can protect you.
-survival-tut-open-inventory-tts = The breath mask must be placed in its clothing slot before it can protect you.
+survival-tut-open-inventory-bubble = Abre tu inventario con [tutkeybind="OpenInventoryMenu"].
+survival-tut-open-inventory-chat = La máscara de respiración debe colocarse en su ranura de ropa antes de poder protegerte.
+survival-tut-open-inventory-tts = La máscara de respiración debe colocarse en su ranura de ropa antes de poder protegerte.
 
-survival-tut-equip-mask-bubble = Put the breath mask into the highlighted mask slot.
-survival-tut-equip-mask-chat = Put the mask in the highlighted slot. Clothing slots matter: merely carrying a mask does not protect you.
-survival-tut-equip-mask-tts = Put the mask in the highlighted slot. Clothing slots matter. Merely carrying a mask does not protect you.
+survival-tut-equip-mask-bubble = Coloca la máscara de respiración en la ranura de máscara resaltada.
+survival-tut-equip-mask-chat = Coloca la máscara en la ranura resaltada. Las ranuras de ropa importan: simplemente llevar una máscara contigo no te protege.
+survival-tut-equip-mask-tts = Coloca la máscara en la ranura resaltada. Las ranuras de ropa importan. Simplemente llevar una máscara contigo no te protege.
 
-survival-tut-enable-internals-bubble = Click Toggle Internals in the highlighted action bar with [tutkeybind="UIClick"].
-survival-tut-enable-internals-chat = The oxygen tank grants the Toggle Internals action. It connects the worn mask to the tank; use it again later to disconnect safely.
-survival-tut-enable-internals-tts = The oxygen tank grants the Toggle Internals action. It connects the worn mask to the tank.
+survival-tut-enable-internals-bubble = Haz clic en Alternar internos en la barra de acciones resaltada con [tutkeybind="UIClick"].
+survival-tut-enable-internals-chat = El tanque de oxígeno proporciona la acción Alternar internos. Conecta la máscara equipada al tanque; úsala de nuevo más tarde para desconectarlos de forma segura.
+survival-tut-enable-internals-tts = El tanque de oxígeno proporciona la acción Alternar internos. Conecta la máscara equipada al tanque.
 
-survival-tut-oxygen-restored-bubble = Internals are working: the oxygen warning is gone.
-survival-tut-oxygen-restored-chat = You are now breathing from the tank. In a real emergency, use this time to move to a safe area rather than staying in the hazard.
-survival-tut-oxygen-restored-tts = You are now breathing from the tank. In a real emergency, use this time to move to a safe area rather than staying in the hazard.
+survival-tut-oxygen-restored-bubble = Los internos están funcionando: la alerta de oxígeno desapareció.
+survival-tut-oxygen-restored-chat = Ahora estás respirando desde el tanque. En una emergencia real, aprovecha este tiempo para dirigirte a una zona segura en lugar de permanecer en el peligro.
+survival-tut-oxygen-restored-tts = Ahora estás respirando desde el tanque. En una emergencia real, aprovecha este tiempo para dirigirte a una zona segura en lugar de permanecer en el peligro.
 
-survival-tut-pressure-warning-bubble = The training simulation has triggered a low-pressure warning. A mask alone is not enough.
-survival-tut-pressure-warning-chat = Low pressure can injure an exposed body even when you have breathable gas. An emergency EVA suit with its built-in helmet protects you from vacuum.
-survival-tut-pressure-warning-tts = Low pressure can injure an exposed body even when you have breathable gas. An emergency EVA suit with its built-in helmet protects you from vacuum.
+survival-tut-pressure-warning-bubble = La simulación de entrenamiento activó una alerta de baja presión. Una máscara por sí sola no es suficiente.
+survival-tut-pressure-warning-chat = La baja presión puede lesionar un cuerpo expuesto incluso si tienes gas respirable. Un traje EVA de emergencia con casco integrado te protege del vacío.
+survival-tut-pressure-warning-tts = La baja presión puede lesionar un cuerpo expuesto incluso si tienes gas respirable. Un traje EVA de emergencia con casco integrado te protege del vacío.
 
-survival-tut-take-eva-bubble = Take the emergency EVA suit with [tutkeybind="UIClick"].
-survival-tut-take-eva-chat = This suit protects your body from vacuum and contains a built-in helmet. Take it from the same emergency locker.
-survival-tut-take-eva-tts = This suit protects your body from vacuum and contains a built-in helmet. Take it from the same emergency locker.
+survival-tut-take-eva-bubble = Toma el traje EVA de emergencia con [tutkeybind="UIClick"].
+survival-tut-take-eva-chat = Este traje protege tu cuerpo del vacío e incluye un casco integrado. Tómalo del mismo casillero de emergencia.
+survival-tut-take-eva-tts = Este traje protege tu cuerpo del vacío e incluye un casco integrado. Tómalo del mismo casillero de emergencia.
 
-survival-tut-equip-eva-bubble = Put the emergency EVA suit into the highlighted outer-clothing slot.
-survival-tut-equip-eva-chat = Pressure protection comes from worn equipment, not from an item in your hand or backpack. Its built-in helmet is activated separately.
-survival-tut-equip-eva-tts = Pressure protection comes from worn equipment, not from an item in your hand or backpack. Its built-in helmet is activated separately.
+survival-tut-equip-eva-bubble = Coloca el traje EVA de emergencia en la ranura resaltada de ropa exterior.
+survival-tut-equip-eva-chat = La protección contra la presión proviene del equipo que llevas puesto, no de un objeto en tu mano o mochila. Su casco integrado se activa por separado.
+survival-tut-equip-eva-tts = La protección contra la presión proviene del equipo que llevas puesto, no de un objeto en tu mano o mochila. Su casco integrado se activa por separado.
 
-survival-tut-enable-eva-helmet-bubble = Click the suit action in the highlighted action bar to deploy its built-in helmet with [tutkeybind="UIClick"].
-survival-tut-enable-eva-helmet-chat = The emergency EVA suit includes its helmet. With the suit worn, click its action in the action bar to deploy the helmet. Low pressure is dangerous even when you can still breathe.
-survival-tut-enable-eva-helmet-tts = The emergency EVA suit includes its helmet. With the suit worn, click its action in the action bar to deploy the helmet. Low pressure is dangerous even when you can still breathe.
+survival-tut-enable-eva-helmet-bubble = Haz clic en la acción del traje en la barra de acciones resaltada para desplegar su casco integrado con [tutkeybind="UIClick"].
+survival-tut-enable-eva-helmet-chat = El traje EVA de emergencia incluye su casco. Con el traje equipado, haz clic en su acción de la barra de acciones para desplegar el casco. La baja presión es peligrosa incluso cuando todavía puedes respirar.
+survival-tut-enable-eva-helmet-tts = El traje EVA de emergencia incluye su casco. Con el traje equipado, haz clic en su acción de la barra de acciones para desplegar el casco. La baja presión es peligrosa incluso cuando todavía puedes respirar.
 
-survival-tut-pressure-restored-bubble = Your emergency EVA protection is complete.
-survival-tut-pressure-restored-chat = You can now cross a depressurized area more safely. Keep your internals connected as well: pressure protection does not create breathable air.
-survival-tut-pressure-restored-tts = You can now cross a depressurized area more safely. Keep your internals connected as well. Pressure protection does not create breathable air.
+survival-tut-pressure-restored-bubble = Tu protección EVA de emergencia está completa.
+survival-tut-pressure-restored-chat = Ahora puedes atravesar una zona despresurizada con mayor seguridad. Mantén también conectados tus internos: la protección contra la presión no crea aire respirable.
+survival-tut-pressure-restored-tts = Ahora puedes atravesar una zona despresurizada con mayor seguridad. Mantén también conectados tus internos. La protección contra la presión no crea aire respirable.
 
-survival-tut-finish-bubble = You have learned the basic response to atmospheric danger.
-survival-tut-finish-chat = First get out of immediate danger or protect yourself. Only then repair the breach or help others. Remember where emergency lockers are located.
-survival-tut-finish-tts = First get out of immediate danger or protect yourself. Only then repair the breach or help others. Remember where emergency lockers are located.
+survival-tut-finish-bubble = Aprendiste la respuesta básica ante peligros atmosféricos.
+survival-tut-finish-chat = Primero aléjate del peligro inmediato o protégete. Solo después repara la brecha o ayuda a otros. Recuerda dónde se encuentran los casilleros de emergencia.
+survival-tut-finish-tts = Primero aléjate del peligro inmediato o protégete. Solo después repara la brecha o ayuda a otros. Recuerda dónde se encuentran los casilleros de emergencia.
 
 ent-TutorialClosetEmergencyFilledOxygen = { ent-ClosetEmergency }
-    .suffix = Filled, Guaranteed Oxygen
+    .suffix = Lleno, oxígeno garantizado
     .desc = { ent-ClosetEmergency.desc }

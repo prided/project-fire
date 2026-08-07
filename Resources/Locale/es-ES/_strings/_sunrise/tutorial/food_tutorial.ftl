@@ -1,77 +1,77 @@
-food-tutorial-name = Food and drink
-food-tutorial-tooltip = Learn to monitor hunger and thirst, choose safe food, and return bar dishes.
+food-tutorial-name = Comida y bebida
+food-tutorial-tooltip = Aprende a vigilar el hambre y la sed, elegir alimentos seguros y devolver la vajilla del bar.
 
-food-tut-welcome-bubble = This tutorial covers hunger, thirst, and food safety.
-food-tut-welcome-chat = You will learn two status alerts, try a simple meal and drink, then identify a suspicious product.
-food-tut-welcome-tts = Hello! This tutorial teaches you to monitor hunger and thirst, choose safe food, and avoid unknown substances.
+food-tut-welcome-bubble = Este tutorial cubre el hambre, la sed y la seguridad alimentaria.
+food-tut-welcome-chat = Aprenderás dos alertas de estado, probarás una comida sencilla y una bebida, y después identificarás un producto sospechoso.
+food-tut-welcome-tts = ¡Hola! Este tutorial te enseña a vigilar el hambre y la sed, elegir alimentos seguros y evitar sustancias desconocidas.
 
-food-tut-reach-bar-bubble = Follow the marker to the small bar.
-food-tut-reach-bar-chat = A bar contains drinks, prepared food, and reusable dishes. Walk to the counter, but do not pick anything up yet.
-food-tut-reach-bar-tts = Follow the marker to the bar counter. Do not pick anything up yet: first we will review your character's status alerts.
+food-tut-reach-bar-bubble = Sigue el marcador hasta el pequeño bar.
+food-tut-reach-bar-chat = Un bar contiene bebidas, comida preparada y vajilla reutilizable. Acércate a la barra, pero todavía no recojas nada.
+food-tut-reach-bar-tts = Sigue el marcador hasta la barra del bar. Todavía no recojas nada: primero revisaremos las alertas de estado de tu personaje.
 
-food-tut-explain-hunger-bubble = This is the hunger alert.
-food-tut-explain-hunger-chat = The hunger alert appears when your character needs food. Ignoring it for too long will worsen their condition and eventually threaten survival.
-food-tut-explain-hunger-tts = The hunger alert is highlighted. It means your character needs food. As the condition worsens, finding a proper meal becomes more important.
+food-tut-explain-hunger-bubble = Esta es la alerta de hambre.
+food-tut-explain-hunger-chat = La alerta de hambre aparece cuando tu personaje necesita comer. Ignorarla demasiado tiempo empeorará su estado y eventualmente pondrá en riesgo su supervivencia.
+food-tut-explain-hunger-tts = La alerta de hambre está resaltada. Significa que tu personaje necesita comer. Conforme empeora el estado, encontrar una comida adecuada se vuelve más importante.
 
-food-tut-explain-thirst-bubble = This is the thirst alert.
-food-tut-explain-thirst-chat = The thirst alert means your character needs a suitable drink. Severe thirst weakens them, so do not delay finding water.
-food-tut-explain-thirst-tts = The thirst alert is now highlighted. It means your character needs a drink. Severe thirst is dangerous, so look for water early.
+food-tut-explain-thirst-bubble = Esta es la alerta de sed.
+food-tut-explain-thirst-chat = La alerta de sed significa que tu personaje necesita una bebida adecuada. La sed intensa lo debilita, así que no tardes en buscar agua.
+food-tut-explain-thirst-tts = La alerta de sed está resaltada. Significa que tu personaje necesita beber. La sed intensa es peligrosa, así que busca agua con anticipación.
 
-food-tut-take-drink-bubble = Pick up the highlighted glass of lemonade with [tutkeybind="UIClick"].
-food-tut-take-drink-chat = Start with a clearly identified safe drink. Ordinary lemonade is suitable for relieving thirst.
-food-tut-take-drink-tts = Pick up the highlighted glass of lemonade.
+food-tut-take-drink-bubble = Recoge el vaso de limonada resaltado con [tutkeybind="UIClick"].
+food-tut-take-drink-chat = Comienza con una bebida segura y claramente identificada. La limonada normal es adecuada para aliviar la sed.
+food-tut-take-drink-tts = Recoge el vaso de limonada resaltado.
 
-food-tut-drink-bubble = Drink the lemonade from your active hand with [tutkeybind="ActivateItemInHand"].
-food-tut-drink-chat = The drink must be in your active hand. A sip raises your hydration, and enough liquid removes the thirst alert.
-food-tut-drink-tts = Drink the lemonade from your active hand.
+food-tut-drink-bubble = Bebe la limonada desde tu mano activa con [tutkeybind="ActivateItemInHand"].
+food-tut-drink-chat = La bebida debe estar en tu mano activa. Un sorbo aumenta tu hidratación y beber suficiente líquido elimina la alerta de sed.
+food-tut-drink-tts = Bebe la limonada desde tu mano activa.
 
-food-tut-put-drink-down-bubble = Put the glass on the marked table with [tutkeybind="Drop"].
-food-tut-put-drink-down-chat = Free the hand holding the glass before eating. This lets the plate enter your free hand after the last bite instead of falling to the floor. If the glass lands in the wrong place, pick it up and try again.
-food-tut-put-drink-down-tts = Put the lemonade glass on the marked table so both hands are free before eating.
+food-tut-put-drink-down-bubble = Coloca el vaso sobre la mesa marcada con [tutkeybind="Drop"].
+food-tut-put-drink-down-chat = Libera la mano que sostiene el vaso antes de comer. Así el plato pasará a tu mano libre después del último bocado en lugar de caer al suelo. Si el vaso cae en el lugar equivocado, recógelo e inténtalo de nuevo.
+food-tut-put-drink-down-tts = Coloca el vaso de limonada sobre la mesa marcada para tener ambas manos libres antes de comer.
 
-food-tut-take-meal-bubble = Pick up the highlighted food with [tutkeybind="UIClick"].
-food-tut-take-meal-chat = One hand will now remain free for the plate. Pick up the highlighted meal.
-food-tut-take-meal-tts = Pick up the highlighted food.
+food-tut-take-meal-bubble = Recoge la comida resaltada con [tutkeybind="UIClick"].
+food-tut-take-meal-chat = Ahora una mano quedará libre para el plato. Recoge la comida resaltada.
+food-tut-take-meal-tts = Recoge la comida resaltada.
 
-food-tut-eat-meal-bubble = Finish the meal from your active hand with [tutkeybind="ActivateItemInHand"].
-food-tut-eat-meal-chat = Food is used like a drink: hold it in your active hand and activate it several times until only the plate remains. A sufficient portion removes the hunger alert.
-food-tut-eat-meal-tts = Finish the meal from your active hand. It will take several bites.
+food-tut-eat-meal-bubble = Termina la comida desde tu mano activa con [tutkeybind="ActivateItemInHand"].
+food-tut-eat-meal-chat = La comida se usa igual que una bebida: sostenla en tu mano activa y actívala varias veces hasta que solo quede el plato. Una porción suficiente elimina la alerta de hambre.
+food-tut-eat-meal-tts = Termina la comida desde tu mano activa. Necesitarás varios bocados.
 
-food-tut-reagent-warning-bubble = Not every drink on the counter is safe.
-food-tut-reagent-warning-chat = Food and drinks contain reagents. Some relieve hunger or thirst, while others can intoxicate, cause unusual effects, or harm you. Appearance alone does not guarantee safety.
-food-tut-reagent-warning-tts = Food and drinks contain different reagents. Some are useful and others can be harmful. A familiar glass or a pretty color does not make the contents safe.
+food-tut-reagent-warning-bubble = No todas las bebidas de la barra son seguras.
+food-tut-reagent-warning-chat = Los alimentos y bebidas contienen reactivos. Algunos alivian el hambre o la sed, mientras que otros pueden intoxicarte, causar efectos extraños o hacerte daño. La apariencia por sí sola no garantiza que algo sea seguro.
+food-tut-reagent-warning-tts = Los alimentos y bebidas contienen distintos reactivos. Algunos son útiles y otros pueden ser dañinos. Un vaso conocido o un color bonito no hacen que su contenido sea seguro.
 
-food-tut-examine-suspicious-drink-bubble = Examine the suspicious drink with [tutkeybind="ExamineEntity"].
-food-tut-examine-suspicious-drink-chat = Examining shows the name, description, and sometimes recognizable reagents. It is a useful first check, but it cannot reveal every unknown ingredient.
-food-tut-examine-suspicious-drink-tts = Examine the suspicious drink.
+food-tut-examine-suspicious-drink-bubble = Examina la bebida sospechosa con [tutkeybind="ExamineEntity"].
+food-tut-examine-suspicious-drink-chat = Examinar muestra el nombre, la descripción y, en ocasiones, reactivos reconocibles. Es una primera comprobación útil, pero no puede revelar todos los ingredientes desconocidos.
+food-tut-examine-suspicious-drink-tts = Examina la bebida sospechosa.
 
-food-tut-unsafe-items-bubble = Do not consume unknown substances without a reason.
-food-tut-unsafe-items-chat = Do not drink unattended beverages or take unknown pills and syringe contents. If an item's purpose is unclear, examine it and ask a knowledgeable character.
-food-tut-unsafe-items-tts = Do not drink unknown beverages or take random pills and syringe contents. Examine the item first and learn what it is meant for.
+food-tut-unsafe-items-bubble = No consumas sustancias desconocidas sin una razón.
+food-tut-unsafe-items-chat = No bebas líquidos abandonados ni consumas pastillas o contenido de jeringas desconocidos. Si no está claro para qué sirve un objeto, examínalo y pregunta a un personaje que conozca el tema.
+food-tut-unsafe-items-tts = No bebas líquidos desconocidos ni consumas pastillas o contenido de jeringas al azar. Examina primero el objeto y averigua para qué sirve.
 
-food-tut-return-dish-bubble = Put the plate by the marked counter with [tutkeybind="Drop"].
-food-tut-return-dish-chat = Walk to the marker and place the plate there. If it lands too far from the marked spot, pick it up and try again.
-food-tut-return-dish-tts = Put the plate by the marked counter.
+food-tut-return-dish-bubble = Coloca el plato junto a la barra marcada con [tutkeybind="Drop"].
+food-tut-return-dish-chat = Camina hasta el marcador y coloca allí el plato. Si cae demasiado lejos del punto marcado, recógelo e inténtalo de nuevo.
+food-tut-return-dish-tts = Coloca el plato junto a la barra marcada.
 
-food-tut-finish-bubble = Hunger, thirst, and food safety complete.
-food-tut-finish-chat = Watch status alerts early, choose clearly identified food, examine suspicious items, and never consume unknown reagents. Return reusable dishes after eating.
-food-tut-finish-tts = Complete! Watch your hunger and thirst, check suspicious food and drinks, and return reusable dishes after visiting a bar.
+food-tut-finish-bubble = Entrenamiento de hambre, sed y seguridad alimentaria completado.
+food-tut-finish-chat = Vigila pronto las alertas de estado, elige alimentos claramente identificados, examina los objetos sospechosos y nunca consumas reactivos desconocidos. Devuelve la vajilla reutilizable después de comer.
+food-tut-finish-tts = ¡Completado! Vigila tu hambre y sed, revisa los alimentos y bebidas sospechosos y devuelve la vajilla reutilizable después de visitar un bar.
 
-food-tut-softlock-pickup-highlighted = Pick up the highlighted item now.
-food-tut-softlock-keep-drink = Do not put away or drop the glass: drink the lemonade first.
-food-tut-softlock-put-drink-down = Put the glass on the marked table now.
-food-tut-softlock-keep-meal = Do not put away or drop the food: eat it first.
-food-tut-softlock-keep-dishes = Keep the glass and plate in your hands for now. You will need them at the end.
-food-tut-softlock-return-dish = Place the dish by the marked part of the bar counter.
+food-tut-softlock-pickup-highlighted = Recoge ahora el objeto resaltado.
+food-tut-softlock-keep-drink = No guardes ni sueltes el vaso: primero bebe la limonada.
+food-tut-softlock-put-drink-down = Coloca ahora el vaso sobre la mesa marcada.
+food-tut-softlock-keep-meal = No guardes ni sueltes la comida: primero cómela.
+food-tut-softlock-keep-dishes = Conserva el vaso y el plato en tus manos por ahora. Los necesitarás al final.
+food-tut-softlock-return-dish = Coloca la vajilla junto a la parte marcada de la barra.
 
-ent-FoodTutorialPlayer = bar visitor
-    .desc = A new visitor to the training bar.
+ent-FoodTutorialPlayer = visitante del bar
+    .desc = Un nuevo visitante del bar de entrenamiento.
     .suffix = Tutorial
 
-ent-FoodTutorialBarMarker = bar marker
-    .desc = Marks the entrance to the training bar.
+ent-FoodTutorialBarMarker = marcador del bar
+    .desc = Marca la entrada al bar de entrenamiento.
     .suffix = Tutorial
 
-ent-FoodTutorialDishReturnMarker = dish return marker
-    .desc = Marks where bar dishes should be returned.
+ent-FoodTutorialDishReturnMarker = marcador de devolución de vajilla
+    .desc = Marca el lugar donde debe devolverse la vajilla del bar.
     .suffix = Tutorial
