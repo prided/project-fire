@@ -205,12 +205,12 @@ public sealed partial class SunriseLobbyGui : UIScreen
 
     private void SetServersHubEnable(bool enable)
     {
-        ServersHubBox.Visible = enable;
+        ServersHubBox.Visible = false;
     }
 
     private void SetContributorsEnable(bool enable)
     {
-        ContributorsBox.Visible = enable;
+        ContributorsBox.Visible = false;
     }
 
     private void OnDiscordLinkChanged(string url)

@@ -17,6 +17,7 @@ tutorial-completed = [color=green]Completado[/color]
 tutorial-is-not-completed = [color=red]No completado[/color]
 round-is-not-ready = ¡La ronda todavía no ha comenzado!
 tap-to-start-tutorial-label = ¡Haz clic para comenzar!
+tutorial-start = Iniciar tutorial
 tutorial-status-loading = [color=cyan]Cargando...[/color]
 tutorial-start-denied-max-active = Todos los espacios de entrenamiento están ocupados. Inténtalo más tarde.
 tutorial-cooldown-denied = Espera { $cooldown } s antes de iniciar otra sesión de entrenamiento.

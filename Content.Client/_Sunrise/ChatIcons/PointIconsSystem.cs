@@ -39,7 +39,7 @@ public sealed class PointIconsSystem : EntitySystem
     {
         base.Initialize();
 
-        SubscribeLocalEvent<MetaDataComponent, EntityPopupedEvent>(OnPopup);
+        //SubscribeLocalEvent<MetaDataComponent, EntityPopupedEvent>(OnPopup);
 
         _cfg.OnValueChanged(SunriseCCVars.ChatPointingVisualsEnabled, OnPointingVisualsChanged, true);
     }

@@ -45,7 +45,7 @@
                 Name="LoadingAnimationContainer"
                 Orientation="Vertical"
                 VerticalAlignment="Center"
-                Visible="False">
+                Visible="True">
                 <AnimatedTextureRect
                     Access="Public"
                     HorizontalAlignment="Center"
@@ -132,7 +132,7 @@
                                         Access="Public"
                                         HorizontalAlignment="Center"
                                         Name="PlaytimeComment"
-                                        Visible="False" />
+                                        Visible="True" />
                                 </BoxContainer>
                             </PanelContainer>
                             <BoxContainer
@@ -210,6 +210,7 @@
                                     <BoxContainer
                                         Access="Public"
                                         Name="ContributorsBox"
+										Visible="False"
                                         Orientation="Vertical"
                                         SizeFlagsStretchRatio="2"
                                         VerticalAlignment="Bottom"
@@ -544,6 +545,7 @@
                     HorizontalExpand="True"
                     MaxWidth="720"
                     Name="BottomCenterProfilePanel"
+					Visible="False"
                     StyleClasses="AngleRect"
                     VerticalAlignment="Bottom">
                     <BoxContainer
@@ -596,6 +598,6 @@
             HorizontalExpand="True"
             Name="CharacterSetupState"
             VerticalExpand="True"
-            Visible="False" />
+            Visible="True" />
     </BoxContainer>
 </ui:SunriseLobbyGui>
