@@ -128,7 +128,7 @@ entities:
   - uid: 2
     components:
     - type: MetaData
-      name: Новый стандарт
+      name: Nuevo estándar
     - type: Transform
       pos: -49.468998,-75.92299
       parent: 1
@@ -60146,11 +60146,11 @@ entities:
         - ClothingSpeedModifier
         entries:
         - message: >-
-            Обеспечивает следующую защиту:
+            Proporciona la siguiente protección:
 
             - [color=violet]Infection[/color] chance reduced by [color=lightblue]10%[/color].
 
-            - Шанс заражения [color=yellow]болезнью[/color] снижается на [color=lightblue]30%[/color].
+            - La probabilidad de contraer una [color=yellow]enfermedad[/color] se reduce en un [color=lightblue]30 %[/color].
           priority: 0
           component: Armor
         title: null
@@ -60308,8 +60308,8 @@ entities:
   - uid: 9210
     components:
     - type: MetaData
-      desc: Мэй, что с твоим медвежонком? Я не знаю, Юдзу! ГООООООООЛ!
-      name: мишка
+      desc: Mei, ¿qué le pasa a tu osito? ¡No lo sé, Yuzu! ¡GOOOOOOOOOL!
+      name: osito
     - type: Transform
       pos: -5.4879417,31.475334
       parent: 2
@@ -60546,7 +60546,7 @@ entities:
   - uid: 34641
     components:
     - type: MetaData
-      name: противогаз ПМК-4
+      name: máscara antigás PMK-4
     - type: Transform
       parent: 34578
     - type: Physics
@@ -61404,8 +61404,8 @@ entities:
   - uid: 23406
     components:
     - type: MetaData
-      desc: Почему бы и нет?
-      name: чёрный костюм
+      desc: ¿Por qué no?
+      name: Traje negro
     - type: Transform
       parent: 23130
     - type: Physics
@@ -64406,16 +64406,16 @@ entities:
   - uid: 35859
     components:
     - type: MetaData
-      desc: Черно-магентовая зажигалка с логотипом и сиволикой «Marshall, Carter & Dark Ltd».
-      name: зажигалка флиппо MC&D
+      desc: Encendedor negro y magenta con el logotipo y los símbolos de «Marshall, Carter & Dark Ltd».
+      name: encendedor flippo MC&D
     - type: Transform
       pos: -22.731632,45.078926
       parent: 2
   - uid: 35863
     components:
     - type: MetaData
-      desc: Черно-магентовая зажигалка с логотипом и сиволикой «Marshall, Carter & Dark Ltd».
-      name: зажигалка флиппо MC&D
+      desc: Encendedor negro y magenta con el logotipo y los símbolos de «Marshall, Carter & Dark Ltd».
+      name: encendedor flippo MC&D
     - type: Transform
       rot: -3.141592653589793 rad
       pos: 37.538223,18.364307
@@ -72014,7 +72014,7 @@ entities:
   - uid: 34900
     components:
     - type: MetaData
-      desc: Мы категорически осуждаем употребление алкоголя на рабочем месте!
+      desc: ¡Condenamos enérgicamente el consumo de alcohol en el lugar de trabajo!
     - type: Transform
       pos: 33.322693,29.936478
       parent: 2
@@ -73362,7 +73362,7 @@ entities:
       angularDamping: 20
       linearDamping: 20
     - type: FaxMachine
-      name: Главный Технический Специалист
+      name: Ingeniero jefe
     - type: Pullable
       prevFixedRotation: True
     - type: DontSell
@@ -73375,7 +73375,7 @@ entities:
       angularDamping: 20
       linearDamping: 20
     - type: FaxMachine
-      name: Кадровый Офицер
+      name: Responsable de RR. HH.
     - type: Pullable
       prevFixedRotation: True
     - type: DontSell
@@ -73385,7 +73385,7 @@ entities:
       pos: 46.5,18.5
       parent: 2
     - type: FaxMachine
-      name: Конференц зал
+      name: Sala de Conferencias
     - type: Physics
       angularDamping: 20
       linearDamping: 20
@@ -73401,7 +73401,7 @@ entities:
       angularDamping: 20
       linearDamping: 20
     - type: FaxMachine
-      name: Интерком
+      name: Intercomunicador
     - type: Pullable
       prevFixedRotation: True
     - type: DontSell
@@ -73414,7 +73414,7 @@ entities:
       angularDamping: 20
       linearDamping: 20
     - type: FaxMachine
-      name: Квартирмейстер
+      name: Intendente
     - type: Pullable
       prevFixedRotation: True
     - type: DontSell
@@ -73427,7 +73427,7 @@ entities:
       angularDamping: 20
       linearDamping: 20
     - type: FaxMachine
-      name: Главный Врач
+      name: Médico jefe
     - type: Pullable
       prevFixedRotation: True
   - uid: 11195
@@ -73436,7 +73436,7 @@ entities:
       pos: -59.5,63.5
       parent: 2
     - type: FaxMachine
-      name: Начальник Службы Безопасности
+      name: Jefe del Servicio de Seguridad
 - proto: FaxMachineChiefResearcher
   entities:
   - uid: 20595
@@ -75907,8 +75907,8 @@ entities:
   - uid: 11611
     components:
     - type: MetaData
-      desc: Он любит отсюда есть
-      name: Любимая тарелка Фернанда
+      desc: Le encanta comer aquí.
+      name: Plato favorito de Fernando
     - type: Transform
       pos: -43.02757,98.90956
       parent: 2
@@ -128306,7 +128306,7 @@ entities:
   - uid: 17948
     components:
     - type: MetaData
-      name: кнопка с замком (Блокировка Руководства)
+      name: botón con cerradura (bloqueo del mando)
     - type: Transform
       pos: 33.5,23.5
       parent: 2
@@ -128371,7 +128371,7 @@ entities:
   - uid: 17951
     components:
     - type: MetaData
-      name: кнопка с замком (Блокировка входа)
+      name: botón con cerradura (bloqueo de entrada)
     - type: Transform
       pos: 3.5,149.5
       parent: 2
@@ -128400,7 +128400,7 @@ entities:
   - uid: 17952
     components:
     - type: MetaData
-      name: кнопка с замком (Блокировка прохода)
+      name: botón con cerradura (bloqueo de paso)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 4.5,145.5
@@ -128421,7 +128421,7 @@ entities:
   - uid: 17953
     components:
     - type: MetaData
-      name: кнопка с замком (Блокировка входа)
+      name: botón con cerradura (bloqueo de entrada)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 3.5,141.5
@@ -128456,7 +128456,7 @@ entities:
   - uid: 17954
     components:
     - type: MetaData
-      name: кнопка с замком (Оружейная)
+      name: Botón con cerradura (armería)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -54.5,61.5
@@ -128478,13 +128478,13 @@ entities:
     - type: Fixtures
       fixtures: {}
     - type: Label
-      currentLabel: Оружейная
+      currentLabel: Armería
     - type: NameModifier
-      baseName: кнопка с замком
+      baseName: Botón con cerradura
   - uid: 17955
     components:
     - type: MetaData
-      name: кнопка с замком (Ставни)
+      name: botón con cerradura (persianas)
     - type: Transform
       pos: -55.5,62.5
       parent: 2
@@ -128514,13 +128514,13 @@ entities:
     - type: Fixtures
       fixtures: {}
     - type: Label
-      currentLabel: Ставни
+      currentLabel: Persianas
     - type: NameModifier
-      baseName: кнопка с замком
+      baseName: Botón con cerradura
   - uid: 17956
     components:
     - type: MetaData
-      name: кнопка с замком (Оружейная)
+      name: Botón con cerradura (armería)
     - type: Transform
       pos: 43.5,95.5
       parent: 2
@@ -128540,7 +128540,7 @@ entities:
   - uid: 17957
     components:
     - type: MetaData
-      name: кнопка с замком (Ставни)
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 43.5,90.5
@@ -128796,7 +128796,7 @@ entities:
   - uid: 17970
     components:
     - type: MetaData
-      name: кнопка с замком (Блокировка отдела)
+      name: botón con cerradura (bloqueo del departamento)
     - type: Transform
       pos: -41.5,17.5
       parent: 2
@@ -128825,7 +128825,7 @@ entities:
   - uid: 17971
     components:
     - type: MetaData
-      name: кнопка с замком (Ставни)
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -39.5,16.5
@@ -128865,7 +128865,7 @@ entities:
   - uid: 17973
     components:
     - type: MetaData
-      name: кнопка с замком (Экранирование реактора)
+      name: botón con cerradura (blindaje del reactor)
     - type: Transform
       pos: -47.5,29.5
       parent: 2
@@ -128966,7 +128966,7 @@ entities:
   - uid: 17974
     components:
     - type: MetaData
-      name: кнопка с замком (Защита на окнах)
+      name: Botón con cerradura (protección de ventanas)
     - type: Transform
       pos: -46.5,29.5
       parent: 2
@@ -129095,7 +129095,7 @@ entities:
   - uid: 17982
     components:
     - type: MetaData
-      name: кнопка с замком (Ставни)
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -33.5,125.5
@@ -129120,13 +129120,13 @@ entities:
     - type: Fixtures
       fixtures: {}
     - type: Label
-      currentLabel: Ставни
+      currentLabel: Persianas
     - type: NameModifier
-      baseName: кнопка с замком
+      baseName: Botón con cerradura
   - uid: 17983
     components:
     - type: MetaData
-      name: кнопка с замком (Гермозатвор)
+      name: botón con cerradura (compuerta hermética)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -32.5,125.5
@@ -129145,9 +129145,9 @@ entities:
     - type: Fixtures
       fixtures: {}
     - type: Label
-      currentLabel: Гермозатвор
+      currentLabel: Compuerta hermética
     - type: NameModifier
-      baseName: кнопка с замком
+      baseName: Botón con cerradura
   - uid: 17984
     components:
     - type: Transform
@@ -129216,7 +129216,7 @@ entities:
   - uid: 17987
     components:
     - type: MetaData
-      name: кнопка с замком (Верхние гермозатворы)
+      name: botón con cerradura (compuertas herméticas superiores)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -36.5,84.5
@@ -129240,7 +129240,7 @@ entities:
   - uid: 17988
     components:
     - type: MetaData
-      name: кнопка с замком (Средние гермозатворы)
+      name: botón con cerradura (compuertas herméticas centrales)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -36.5,83.5
@@ -129264,7 +129264,7 @@ entities:
   - uid: 17989
     components:
     - type: MetaData
-      name: кнопка с замком (Нижние гермозатворы)
+      name: botón con cerradura (compuertas herméticas inferiores)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -37.5,82.5
@@ -129288,7 +129288,7 @@ entities:
   - uid: 17990
     components:
     - type: MetaData
-      name: кнопка с замком (камера 173)
+      name: Botón con cerradura (cámara 173)
     - type: Transform
       pos: 32.5,48.5
       parent: 2
@@ -129305,8 +129305,8 @@ entities:
   - uid: 17991
     components:
     - type: MetaData
-      desc: Эта кнопка открывает ставни.
-      name: кнопка с замком (Ставни)
+      desc: Este botón abre las persianas.
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -26.490047,37.687817
@@ -129330,8 +129330,8 @@ entities:
   - uid: 17992
     components:
     - type: MetaData
-      desc: Эта кнопка открывает шлюз.
-      name: кнопка с замком (Шлюз)
+      desc: Este botón abre la esclusa.
+      name: botón con cerradura (esclusa)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -26.490047,37.406567
@@ -129515,7 +129515,7 @@ entities:
   - uid: 17998
     components:
     - type: MetaData
-      name: кнопка с замком (временное открытие выхода Б)
+      name: botón con cerradura (apertura temporal de la salida B)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 0.5,-12.5
@@ -129606,7 +129606,7 @@ entities:
   - uid: 18001
     components:
     - type: MetaData
-      name: кнопка с замком (Ставни)
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 5.5,87.5
@@ -129628,13 +129628,13 @@ entities:
     - type: Fixtures
       fixtures: {}
     - type: Label
-      currentLabel: Ставни
+      currentLabel: Persianas
     - type: NameModifier
-      baseName: кнопка с замком
+      baseName: Botón con cerradura
   - uid: 18002
     components:
     - type: MetaData
-      name: кнопка с замком (Гермозатвор)
+      name: botón con cerradura (compuerta hermética)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 7.5,88.5
@@ -129650,9 +129650,9 @@ entities:
     - type: Fixtures
       fixtures: {}
     - type: Label
-      currentLabel: Гермозатвор
+      currentLabel: Compuerta hermética
     - type: NameModifier
-      baseName: кнопка с замком
+      baseName: Botón con cerradura
   - uid: 18003
     components:
     - type: Transform
@@ -129693,7 +129693,7 @@ entities:
   - uid: 18005
     components:
     - type: MetaData
-      name: кнопка с замком (Гермоворота 1)
+      name: botón con cerradura (portón hermético 1)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -4.5,113.5
@@ -129715,7 +129715,7 @@ entities:
   - uid: 18006
     components:
     - type: MetaData
-      name: кнопка с замком (Гермоворота 2)
+      name: botón con cerradura (portón hermético 2)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -4.5,114.5
@@ -129737,7 +129737,7 @@ entities:
   - uid: 18007
     components:
     - type: MetaData
-      name: кнопка с замком (Окно)
+      name: Botón con cerradura (ventana)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -17.5,142.5
@@ -129765,13 +129765,13 @@ entities:
     - type: Fixtures
       fixtures: {}
     - type: Label
-      currentLabel: Окно
+      currentLabel: Ventana
     - type: NameModifier
-      baseName: кнопка с замком
+      baseName: Botón con cerradura
   - uid: 18008
     components:
     - type: MetaData
-      name: кнопка с замком (КС)
+      name: botón con cerradura (CC)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -16.5,143.5
@@ -129790,13 +129790,13 @@ entities:
     - type: Fixtures
       fixtures: {}
     - type: Label
-      currentLabel: КС
+      currentLabel: CC
     - type: NameModifier
-      baseName: кнопка с замком
+      baseName: Botón con cerradura
   - uid: 18009
     components:
     - type: MetaData
-      name: кнопка с замком (Окно)
+      name: Botón con cerradura (ventana)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -1.5,113.5
@@ -129839,7 +129839,7 @@ entities:
   - uid: 18011
     components:
     - type: MetaData
-      name: кнопка с замком (Камера содержания)
+      name: Botón con cerradura (Cámara de contención)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 25.5,132.5
@@ -129860,7 +129860,7 @@ entities:
   - uid: 18012
     components:
     - type: MetaData
-      name: кнопка с замком (Ставни)
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 25.5,133.5
@@ -129924,7 +129924,7 @@ entities:
   - uid: 21358
     components:
     - type: MetaData
-      name: кнопка с замком (Выпуск)
+      name: botón con cerradura (Liberación)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 21.5,153.5
@@ -129978,7 +129978,7 @@ entities:
   - uid: 35700
     components:
     - type: MetaData
-      name: кнопка с замком (Окно)
+      name: Botón con cerradura (ventana)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 21.5,154.5
@@ -130022,7 +130022,7 @@ entities:
   - uid: 18015
     components:
     - type: MetaData
-      name: кнопка с замком (Сброс)
+      name: botón con cerradura (reinicio)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -54.5,37.5
@@ -130040,7 +130040,7 @@ entities:
   - uid: 18016
     components:
     - type: MetaData
-      name: кнопка с замком (Ворота в атмос камеру)
+      name: botón con cerradura (portón de la cámara atmosférica)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -54.5,37.5
@@ -130444,8 +130444,8 @@ entities:
   - uid: 18042
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ставни.
-      name: кнопка с замком (Ставни)
+      desc: Este botón activa las persianas.
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -31.5,92.5
@@ -130469,7 +130469,7 @@ entities:
   - uid: 18043
     components:
     - type: MetaData
-      name: кнопка с замком (Ставни на окнах)
+      name: botón con cerradura (persianas de las ventanas)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -10.5,11.5
@@ -130490,7 +130490,7 @@ entities:
   - uid: 18044
     components:
     - type: MetaData
-      name: кнопка с замком (Блокировка прохода)
+      name: botón con cerradura (bloqueo de paso)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -17.5,45.5
@@ -130517,7 +130517,7 @@ entities:
   - uid: 18045
     components:
     - type: MetaData
-      name: кнопка с замком (Блокировка прохода)
+      name: botón con cerradura (bloqueo de paso)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 12.5,45.5
@@ -130544,7 +130544,7 @@ entities:
   - uid: 18046
     components:
     - type: MetaData
-      name: кнопка с замком (КПП)
+      name: botón con cerradura (puesto de control)
     - type: Transform
       pos: -18.5,50.5
       parent: 2
@@ -130576,7 +130576,7 @@ entities:
   - uid: 18047
     components:
     - type: MetaData
-      name: кнопка с замком (Блокировка входа)
+      name: botón con cerradura (bloqueo de entrada)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -18.5,40.5
@@ -130609,7 +130609,7 @@ entities:
   - uid: 18048
     components:
     - type: MetaData
-      name: кнопка с замком (Блокировка входа)
+      name: botón con cerradura (bloqueo de entrada)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 11.5,40.5
@@ -130642,7 +130642,7 @@ entities:
   - uid: 18049
     components:
     - type: MetaData
-      name: кнопка с замком (Блокировка входа)
+      name: botón con cerradura (bloqueo de entrada)
     - type: Transform
       pos: 11.5,50.5
       parent: 2
@@ -130671,7 +130671,7 @@ entities:
   - uid: 18050
     components:
     - type: MetaData
-      name: кнопка с замком (Блокировка прохода)
+      name: botón con cerradura (bloqueo de paso)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 12.5,85.5
@@ -130695,7 +130695,7 @@ entities:
   - uid: 18051
     components:
     - type: MetaData
-      name: кнопка с замком (Блокировка входа)
+      name: botón con cerradura (bloqueo de entrada)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 11.5,80.5
@@ -130728,7 +130728,7 @@ entities:
   - uid: 18052
     components:
     - type: MetaData
-      name: кнопка с замком (Блокировка входа)
+      name: botón con cerradura (bloqueo de entrada)
     - type: Transform
       pos: 11.5,90.5
       parent: 2
@@ -130757,7 +130757,7 @@ entities:
   - uid: 18053
     components:
     - type: MetaData
-      name: кнопка с замком (Блокировка брига)
+      name: botón con cerradura (bloqueo del calabozo)
     - type: Transform
       pos: -31.5,53.5
       parent: 2
@@ -130796,9 +130796,9 @@ entities:
     - type: Fixtures
       fixtures: {}
     - type: Label
-      currentLabel: Блокировка брига
+      currentLabel: Bloqueo del calabozo
     - type: NameModifier
-      baseName: кнопка с замком
+      baseName: Botón con cerradura
   - uid: 18054
     components:
     - type: Transform
@@ -130809,7 +130809,7 @@ entities:
   - uid: 18055
     components:
     - type: MetaData
-      name: кнопка с замком (Ставни)
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -42.5,63.5
@@ -130828,13 +130828,13 @@ entities:
     - type: Fixtures
       fixtures: {}
     - type: Label
-      currentLabel: Ставни
+      currentLabel: Persianas
     - type: NameModifier
-      baseName: кнопка с замком
+      baseName: Botón con cerradura
   - uid: 18056
     components:
     - type: MetaData
-      name: кнопка с замком (Ставни)
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -30.5,72.5
@@ -130877,13 +130877,13 @@ entities:
     - type: Fixtures
       fixtures: {}
     - type: Label
-      currentLabel: Ставни
+      currentLabel: Persianas
     - type: NameModifier
-      baseName: кнопка с замком
+      baseName: Botón con cerradura
   - uid: 18057
     components:
     - type: MetaData
-      name: кнопка с замком (Ставни)
+      name: botón con cerradura (persianas)
     - type: Transform
       pos: -31.5,63.5
       parent: 2
@@ -130898,9 +130898,9 @@ entities:
     - type: Fixtures
       fixtures: {}
     - type: Label
-      currentLabel: Ставни
+      currentLabel: Persianas
     - type: NameModifier
-      baseName: кнопка с замком
+      baseName: Botón con cerradura
   - uid: 18058
     components:
     - type: Transform
@@ -130936,7 +130936,7 @@ entities:
   - uid: 18060
     components:
     - type: MetaData
-      name: кнопка с замком (Гермозатворы)
+      name: botón con cerradura (compuertas herméticas)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -33.5,92.5
@@ -131017,7 +131017,7 @@ entities:
   - uid: 18064
     components:
     - type: MetaData
-      name: кнопка с замком (Блокировка прохода)
+      name: botón con cerradura (bloqueo de paso)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -27.5,85.5
@@ -131041,7 +131041,7 @@ entities:
   - uid: 18065
     components:
     - type: MetaData
-      name: кнопка с замком (Блокировка входа)
+      name: botón con cerradura (bloqueo de entrada)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -28.5,80.5
@@ -131071,7 +131071,7 @@ entities:
   - uid: 18066
     components:
     - type: MetaData
-      name: кнопка с замком (Блокировка входа)
+      name: botón con cerradura (bloqueo de entrada)
     - type: Transform
       pos: -28.5,90.5
       parent: 2
@@ -131100,7 +131100,7 @@ entities:
   - uid: 18067
     components:
     - type: MetaData
-      name: кнопка с замком (Двери)
+      name: Botón con cerradura (puertas)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -11.5,11.5
@@ -131133,7 +131133,7 @@ entities:
   - uid: 18068
     components:
     - type: MetaData
-      name: кнопка с замком (Окно)
+      name: Botón con cerradura (ventana)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 2.5,1.5
@@ -131151,7 +131151,7 @@ entities:
   - uid: 18069
     components:
     - type: MetaData
-      name: кнопка с замком (Двери)
+      name: Botón con cerradura (puertas)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 3.5,1.5
@@ -131181,7 +131181,7 @@ entities:
   - uid: 35527
     components:
     - type: MetaData
-      name: блокирование входа
+      name: Bloqueo de entrada
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 64.5,75.5
@@ -131196,7 +131196,7 @@ entities:
   - uid: 35528
     components:
     - type: MetaData
-      name: гермозатвор хранилища
+      name: compuerta del almacén
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 64.5,74.5
@@ -131211,7 +131211,7 @@ entities:
   - uid: 35529
     components:
     - type: MetaData
-      name: окно поста
+      name: ventana del puesto
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 64.5,73.5
@@ -131232,7 +131232,7 @@ entities:
   - uid: 35533
     components:
     - type: MetaData
-      name: вход на пост
+      name: Entrada al puesto
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 66.5,75.5
@@ -131249,7 +131249,7 @@ entities:
   - uid: 18070
     components:
     - type: MetaData
-      name: кнопка с замком (Блокировка Брига) (Оружейная)
+      name: botón con cerradura (bloqueo del calabozo) (armería)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -59.500973,68.34363
@@ -131296,13 +131296,13 @@ entities:
     - type: Fixtures
       fixtures: {}
     - type: Label
-      currentLabel: Оружейная
+      currentLabel: Armería
     - type: NameModifier
-      baseName: кнопка с замком (Блокировка Брига)
+      baseName: botón con cerradura (bloqueo del calabozo)
   - uid: 18071
     components:
     - type: MetaData
-      name: кнопка с замком (Оружейная) (Блокировка брига)
+      name: botón con cerradura (armería) (bloqueo del calabozo)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -58.965733,68.34363
@@ -131321,13 +131321,13 @@ entities:
     - type: Fixtures
       fixtures: {}
     - type: Label
-      currentLabel: Блокировка брига
+      currentLabel: Bloqueo del calabozo
     - type: NameModifier
-      baseName: кнопка с замком (Оружейная)
+      baseName: Botón con cerradura (armería)
   - uid: 18072
     components:
     - type: MetaData
-      name: кнопка с замком (Ставни)
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -57.966167,68.34363
@@ -131343,9 +131343,9 @@ entities:
     - type: Fixtures
       fixtures: {}
     - type: Label
-      currentLabel: Ставни
+      currentLabel: Persianas
     - type: NameModifier
-      baseName: кнопка с замком
+      baseName: Botón con cerradura
 - proto: LockableButtonSeniorLogisticsOfficer
   entities:
   - uid: 18073
@@ -139346,48 +139346,48 @@ entities:
   - uid: 1133
     components:
     - type: MetaData
-      name: Документация об SCP-096
+      name: Documentación de SCP-096
     - type: Transform
       parent: 1132
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Объект №: 096
+        Proteger.
 
 
-        Класс содержания:
-
-        [color=#d2a02d]Евклид[/color]
+        Objeto n.º: 096
 
 
-        Особые условия содержания: SCP-096 должен постоянно содержаться в своей камере (герметичный стальной куб 5х5х5 м). Обязательны еженедельные проверки на наличие любых трещин или отверстий. Внутри камеры SCP-096 не должно быть абсолютно никаких устройств видеонаблюдения или оптических приборов. Сотрудники службы охраны должны использовать предварительно установленные датчики давления и лазерные детекторы, чтобы убедиться, что SCP-096 находится в камере.
+        Clase del objeto:
+
+        [color=#d2a02d]Euclid[/color]
 
 
-        Все фото, видео или описания внешности SCP-096 строго запрещены без согласования с доктором ███ и O5-█.
+        Procedimientos Especiales de Contención: SCP-096 debe permanecer en su cámara en todo momento (un cubo hermético de acero de 5 × 5 × 5 m). Es obligatorio realizar inspecciones semanales para detectar grietas u orificios. No debe haber absolutamente ningún dispositivo de videovigilancia ni instrumento óptico dentro de la cámara de SCP-096. El personal de seguridad debe usar sensores de presión y detectores láser preinstalados para asegurarse de que SCP-096 se encuentre dentro de la cámara.
 
 
-        Описание: SCP-096 – гуманоидное существо ростом приблизительно 2,38 метра. У субъекта наблюдается малое количество мышечной массы, предварительные анализы массы тела показывают легкое недоедание. Руки непропорционально велики по отношению к телу объекта, длина каждой равна примерно 1,5 м. Кожа в основном лишена пигментации, признаки волос на теле отсутствуют.
+        Todas las fotos, vídeos o descripciones de la apariencia de SCP-096 están estrictamente prohibidas sin la aprobación del Dr. ███ y O5-█.
 
 
-        Челюсти SCP-096 могут открываться в четыре раза шире нормы для среднего человека. Другие черты лица аналогичны средним человеческим, за исключением глаз, которые также лишены пигментации. На данный момент неизвестно, слеп SCP-096 или нет. Он не показывает признаков высших мозговых функций, его разумность не подтверждена.
+        Descripción: SCP-096 es una criatura humanoide de aproximadamente 2,38 metros de altura. El sujeto presenta muy poca masa muscular; los análisis preliminares de masa corporal indican una leve desnutrición. Sus brazos son desproporcionadamente largos con respecto al cuerpo y miden aproximadamente 1,5 m cada uno. La piel carece casi por completo de pigmentación y no presenta vello corporal.
 
 
-        Как правило, SCP-096 чрезвычайно спокоен, датчики давления в камере указывают, что он проводит большую часть дня, прохаживаясь вдоль восточной стены. Однако когда кто-либо видит лицо SCP-096, будь это непосредственно, на видеозаписи, или даже на фотографии, - он приходит в состояние крайнего эмоционального переживания. SCP-096 закрывает лицо руками и начинает кричать, плакать и невнятно бормотать. Приблизительно через одну-две (1-2) минуты после первого просмотра SCP-096 бежит к увидевшему его лицо (далее обозначается как SCP-096-1).
+        Las mandíbulas de SCP-096 pueden abrirse cuatro veces más de lo normal para un humano promedio. Otros rasgos faciales son similares a los de un humano promedio, con la excepción de los ojos, que también carecen de pigmentación. Actualmente se desconoce si SCP-096 es ciego o no. No muestra signos de mayor función cerebral y su conciencia no ha sido confirmada.
 
 
-        Задокументированная скорость варьируется от 35 до ███ км/ч, и, видимо, зависит от расстояния до SCP-096-1. На данный момент ни один известный материал или метод не может препятствовать движению SCP-096. Фактическое расположение  SCP-096-1 не оказывает видимого влияния на реакцию SCP-096; он, похоже, обладает врожденным чутьем местонахождения SCP-096-1. Примечание: эта реакция не появляется, если смотреть на художественные изображения (см. Документ 096-1).
+        Por lo general, SCP-096 permanece extremadamente tranquilo; los sensores de presión de la cámara indican que pasa la mayor parte del día caminando junto a la pared oriental. Sin embargo, cuando alguien ve el rostro de SCP-096, ya sea directamente, en una grabación de video o incluso en una fotografía, entra en un estado de angustia emocional extrema. SCP-096 se cubre el rostro con las manos y comienza a gritar, llorar y murmurar de forma incoherente. Aproximadamente uno o dos (1-2) minutos después de que alguien vea su rostro, SCP-096 corre hacia esa persona, que en adelante se denominará SCP-096-1.
 
 
-        По прибытии в расположение SCP-096-1 SCP-096 приступает к убийству и [ДАННЫЕ УДАЛЕНЫ] SCP-096-1. В 100% случаев не остается и следа от SCP-096-1. После этого SCP-096 садится на несколько минут, прежде чем снова обретет хладнокровие и станет послушным. Затем он попытается вернуться в свое естественное место обитания, [ДАННЫЕ УДАЛЕНЫ].
+        La velocidad documentada varía entre 35 y ███ km/h y parece depender de la distancia hasta SCP-096-1. Hasta la fecha, ningún material ni método conocido ha podido impedir el movimiento de SCP-096. La ubicación real de SCP-096-1 no afecta de forma aparente la reacción de SCP-096; este parece poseer un sentido innato de la ubicación de SCP-096-1. Nota: esta reacción no se produce al observar representaciones artísticas (véase el Documento 096-1).
 
 
-        В связи с возможностью массовой цепной реакции, включающей нарушение секретности Организации и большие потери среди гражданских, розыску субъекта должен быть присвоен Альфа-приоритет.
+        Al llegar a la ubicación de SCP-096-1, SCP-096 procede a matar y [DATOS ELIMINADOS] SCP-096-1. En el 100% de los casos, no hay rastro de SCP-096-1. SCP-096 se sienta unos minutos antes de recuperar la compostura y obedecer. Luego intentará regresar a su hábitat natural, [DATOS ELIMINADOS].
+
+
+        Debido a la posibilidad de una reacción en cadena masiva que implique una violación del secreto de la Fundación y numerosas bajas civiles, la búsqueda del sujeto debe recibir prioridad Alfa.
     - type: Physics
       canCollide: False
   - uid: 1134
@@ -139417,289 +139417,289 @@ entities:
   - uid: 1139
     components:
     - type: MetaData
-      name: Документация об SCP-457
+      name: Documentación de SCP-457
     - type: Transform
       parent: 1138
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Объект №: 457
+        Proteger.
 
 
-        Класс содержания:
-
-        [color=#a82424]Кетер[/color]
+        Objeto n.º: 457
 
 
+        Clase del objeto:
 
-        Особые условия содержания: SCP-457 необходимо содержать в камере с размерами 5 м х 5 м и взрывостойким окном для наблюдений с дополнительной защитой. На все поверхности внутри должен быть нанесён слой огнестойкого материала (асбестоцемент или перлит) толщиной в 22.9 см (9 дюймов). Проход в камеру должен состоять, по меньшей мере, из двух воздухонепроницаемых помещений с контролируемой температурой, которые в случае чрезвычайной ситуации могут быть запечатаны. В камере SCP-457 следует поддерживать высокую влажность, в пол должна быть установлена дренажная система, постоянно работающие оросители тонкораспылённой воды и аварийные брандспойты, способные создавать водяное давление минимум в 2,1 МПа. SCP-457 дозволено находиться на специальном выступе на стене камеры, до которого вода не достаёт, однако он предоставляет объекту лишь минимальную защиту и возможности для сохранения формы.
-
-
-        Все сотрудники, входящие в помещение содержания, должны быть одеты в полные огнезащитные термостатированные костюмы класса A. Входить в камеру SCP-457 дозволено только группам из трёх человек, двое должны быть оснащены высокопрочными бронещитами и аварийными огнетушителями. В помещение содержания разрешено входить только с целью предоставления объекту дневной нормы горючих материалов, а также осмотра и устранения повреждений камеры или оросителей.
+        [color=#a82424]Keter[/color]
 
 
-        Если SCP-457 предпримет попытку нападения на сотрудников, необходимо применять огнетушители и брандспойты до тех пор, пока объект не отступит в свою камеру.
+
+        Procedimientos Especiales de Contención: SCP-457 debe permanecer en una cámara de 5 × 5 m con una ventana de observación reforzada y resistente a explosiones. Todas las superficies interiores deben estar recubiertas con una capa de material ignífugo (asbocemento o perlita) de 22,9 cm (9 pulgadas) de espesor. El acceso a la cámara debe constar de al menos dos salas herméticas con temperatura controlada que puedan sellarse en caso de emergencia. La cámara de SCP-457 debe mantenerse con una humedad elevada y contar con un sistema de drenaje en el suelo, rociadores de agua nebulizada en funcionamiento continuo y mangueras de emergencia capaces de generar una presión mínima de 2,1 MPa. Se permite que SCP-457 permanezca sobre una repisa especial de la pared fuera del alcance del agua, aunque esta solo le ofrece una protección mínima y pocas posibilidades de conservar su forma.
 
 
-        В случае нарушений условий содержания должны быть активированы дополнительные оросители, а персонал должен быть снабжён бронещитами и огнетушителями.
+        Todo el personal que entre en el área de contención debe llevar trajes ignífugos termorregulados de clase A. Solo pueden entrar en la cámara de SCP-457 grupos de tres personas; dos de ellas deben portar escudos blindados de alta resistencia y extintores de emergencia. Solo se permite entrar para proporcionar al objeto su ración diaria de materiales combustibles o para inspeccionar y reparar daños en la cámara o los rociadores.
 
 
-        Описание: SCP-457 - это разумное существо, состоящее из пламени. Точная форма объекта неизвестна, её не удалось увидеть или засечь какими-либо способами, но формируется объект из огня, который сам и создаёт. Если у объекта достаточно топлива, он принимает форму человека. Простейший облик - это язык пламени размером со спичечный огонёк. В этой форме SCP-457 обладает ограниченной функциональностью и не отличим от обычного огня, за исключением способности «вспыхивать», обжигая людей, и самостоятельно «перепрыгивать» на горючие материалы или источники огня, поглощая их.
+        Si SCP-457 intenta atacar al personal, deben utilizarse extintores y mangueras contra incendios hasta que el objeto se repliegue a su cámara.
 
 
-        Вырастая, SCP-457 может принимать более сложные формы, также при увеличении размера объекта и получении им доступа к большому количеству топлива повышается уровень его интеллекта. Способ мышления SCP-457 неизвестен, но при достижении достаточно большого размера он всегда принимает человекоподобную форму, окружённую языками пламени. SCP-457 способен общаться, создавая буквы из огня и выжигая их на стенах или других поверхностях. Иногда он говорит, используя перегретый воздух и треск пламени. При достижении определённого размера объект разделяется на два существа, каждое из которых, в свою очередь, способно к делению. Однако экземпляры SCP-457 агрессивны по отношению друг к другу и всегда пытаются поглотить или потушить копию, особенно если им доступно малое количество топлива.
+        En caso de brechas de contención, se deben activar rociadores adicionales y el personal debe equiparse con escudos blindados y extintores.
 
 
-        Поведение SCP-457 очень предсказуемо, поскольку его цели заключаются только в нахождении больших запасов горючих материалов и распространении. Опасность заключается в повышении уровня интеллекта объекта при росте и его способности обучаться и подражать поведению людей. Это приводит к тому, что SCP-457 умышленно повреждает и отключает оросители, в редких случаях - подготавливает сложные ловушки. Были зафиксированы случаи, когда объект пытался обмануть или убедить персонал выпустить его или дать ему больше горючих материалов. Из-за уникального строения SCP-457, меняющегося уровня его интеллекта и нежелания идти на контакт, нельзя провести какую-либо точную аналогию между его образом мышления и человеческим.
+        Descripción: SCP-457 es una entidad consciente compuesta de llamas. La forma exacta del objeto es desconocida y no ha sido vista ni detectada de ninguna manera, sino que está formada a partir del fuego que crea. Si tiene suficiente combustible, tomará la forma de un humano. Su forma más simple es una lengua de fuego del tamaño de una cerilla. En esta forma, SCP-457 tiene funcionalidad limitada y es indistinguible del fuego normal, salvo por la capacidad de "destellar" para quemar personas y "saltar" sobre materiales combustibles o fuentes de fuego por sí solo, absorbiéndolas.
 
 
-        SCP-457 был захвачен летом 2007 года в ██████, █████, после множества лесных пожаров, причиной которых был объект. Как и где первоначально возник SCP-457, неизвестно. Ведётся расследование причастности объекта к другим крупным пожарам.
+        A medida que SCP-457 crece, puede adoptar formas más complejas, y a medida que crece en tamaño y accede a grandes cantidades de combustible, su nivel de inteligencia aumenta. La forma de pensar de SCP-457 es desconocida, pero cuando alcanza un tamaño lo suficientemente grande, siempre adopta una forma humanoide rodeada de llamas. SCP-457 es capaz de comunicarse creando letras a partir de fuego y quemándolas en paredes u otras superficies. A veces habla usando aire sobrecalentado y el crepitar de las llamas. Cuando alcanza cierto tamaño, se divide en dos entidades, cada una de las cuales a su vez es capaz de fisión. Sin embargo, instancias de SCP-457 son agresivas entre sí y siempre intentarán consumir o extinguir una copia, especialmente si tienen poco combustible.
+
+
+        El comportamiento de SCP-457 es muy predecible, pues sus únicos objetivos son encontrar grandes reservas de materiales combustibles y propagarse. El peligro radica en el aumento de su inteligencia a medida que crece y en su capacidad para aprender e imitar la conducta humana. Esto lleva a SCP-457 a dañar y desactivar deliberadamente los rociadores y, en raras ocasiones, a preparar trampas complejas. Se han documentado intentos del objeto por engañar o convencer al personal para que lo libere o le proporcione más combustible. Debido a la estructura única de SCP-457, a su inteligencia cambiante y a su negativa a cooperar, no es posible establecer una analogía precisa entre su forma de pensar y la humana.
+
+
+        SCP-457 fue recuperado en el verano de 2007 en ██████, █████, tras numerosos incendios forestales causados por SCP-457. Se desconoce cómo y dónde se originó SCP-457. Las investigaciones sobre la implicación del objeto en otros incendios importantes continúan.
     - type: Physics
       canCollide: False
   - uid: 1140
     components:
     - type: MetaData
-      name: Документация об SCP-457
+      name: Documentación de SCP-457
     - type: Transform
       parent: 1138
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Объект №: 457
+        Proteger.
 
 
-        Класс содержания:
-
-        [color=#a82424]Кетер[/color]
+        Objeto n.º: 457
 
 
+        Clase del objeto:
 
-        Особые условия содержания: SCP-457 необходимо содержать в камере с размерами 5 м х 5 м и взрывостойким окном для наблюдений с дополнительной защитой. На все поверхности внутри должен быть нанесён слой огнестойкого материала (асбестоцемент или перлит) толщиной в 22.9 см (9 дюймов). Проход в камеру должен состоять, по меньшей мере, из двух воздухонепроницаемых помещений с контролируемой температурой, которые в случае чрезвычайной ситуации могут быть запечатаны. В камере SCP-457 следует поддерживать высокую влажность, в пол должна быть установлена дренажная система, постоянно работающие оросители тонкораспылённой воды и аварийные брандспойты, способные создавать водяное давление минимум в 2,1 МПа. SCP-457 дозволено находиться на специальном выступе на стене камеры, до которого вода не достаёт, однако он предоставляет объекту лишь минимальную защиту и возможности для сохранения формы.
-
-
-        Все сотрудники, входящие в помещение содержания, должны быть одеты в полные огнезащитные термостатированные костюмы класса A. Входить в камеру SCP-457 дозволено только группам из трёх человек, двое должны быть оснащены высокопрочными бронещитами и аварийными огнетушителями. В помещение содержания разрешено входить только с целью предоставления объекту дневной нормы горючих материалов, а также осмотра и устранения повреждений камеры или оросителей.
+        [color=#a82424]Keter[/color]
 
 
-        Если SCP-457 предпримет попытку нападения на сотрудников, необходимо применять огнетушители и брандспойты до тех пор, пока объект не отступит в свою камеру.
+
+        Procedimientos Especiales de Contención: SCP-457 debe permanecer en una cámara de 5 × 5 m con una ventana de observación reforzada y resistente a explosiones. Todas las superficies interiores deben estar recubiertas con una capa de material ignífugo (asbocemento o perlita) de 22,9 cm (9 pulgadas) de espesor. El acceso a la cámara debe constar de al menos dos salas herméticas con temperatura controlada que puedan sellarse en caso de emergencia. La cámara de SCP-457 debe mantenerse con una humedad elevada y contar con un sistema de drenaje en el suelo, rociadores de agua nebulizada en funcionamiento continuo y mangueras de emergencia capaces de generar una presión mínima de 2,1 MPa. Se permite que SCP-457 permanezca sobre una repisa especial de la pared fuera del alcance del agua, aunque esta solo le ofrece una protección mínima y pocas posibilidades de conservar su forma.
 
 
-        В случае нарушений условий содержания должны быть активированы дополнительные оросители, а персонал должен быть снабжён бронещитами и огнетушителями.
+        Todo el personal que entre en el área de contención debe llevar trajes ignífugos termorregulados de clase A. Solo pueden entrar en la cámara de SCP-457 grupos de tres personas; dos de ellas deben portar escudos blindados de alta resistencia y extintores de emergencia. Solo se permite entrar para proporcionar al objeto su ración diaria de materiales combustibles o para inspeccionar y reparar daños en la cámara o los rociadores.
 
 
-        Описание: SCP-457 - это разумное существо, состоящее из пламени. Точная форма объекта неизвестна, её не удалось увидеть или засечь какими-либо способами, но формируется объект из огня, который сам и создаёт. Если у объекта достаточно топлива, он принимает форму человека. Простейший облик - это язык пламени размером со спичечный огонёк. В этой форме SCP-457 обладает ограниченной функциональностью и не отличим от обычного огня, за исключением способности «вспыхивать», обжигая людей, и самостоятельно «перепрыгивать» на горючие материалы или источники огня, поглощая их.
+        Si SCP-457 intenta atacar al personal, deben utilizarse extintores y mangueras contra incendios hasta que el objeto se repliegue a su cámara.
 
 
-        Вырастая, SCP-457 может принимать более сложные формы, также при увеличении размера объекта и получении им доступа к большому количеству топлива повышается уровень его интеллекта. Способ мышления SCP-457 неизвестен, но при достижении достаточно большого размера он всегда принимает человекоподобную форму, окружённую языками пламени. SCP-457 способен общаться, создавая буквы из огня и выжигая их на стенах или других поверхностях. Иногда он говорит, используя перегретый воздух и треск пламени. При достижении определённого размера объект разделяется на два существа, каждое из которых, в свою очередь, способно к делению. Однако экземпляры SCP-457 агрессивны по отношению друг к другу и всегда пытаются поглотить или потушить копию, особенно если им доступно малое количество топлива.
+        En caso de brechas de contención, se deben activar rociadores adicionales y el personal debe equiparse con escudos blindados y extintores.
 
 
-        Поведение SCP-457 очень предсказуемо, поскольку его цели заключаются только в нахождении больших запасов горючих материалов и распространении. Опасность заключается в повышении уровня интеллекта объекта при росте и его способности обучаться и подражать поведению людей. Это приводит к тому, что SCP-457 умышленно повреждает и отключает оросители, в редких случаях - подготавливает сложные ловушки. Были зафиксированы случаи, когда объект пытался обмануть или убедить персонал выпустить его или дать ему больше горючих материалов. Из-за уникального строения SCP-457, меняющегося уровня его интеллекта и нежелания идти на контакт, нельзя провести какую-либо точную аналогию между его образом мышления и человеческим.
+        Descripción: SCP-457 es una entidad consciente compuesta de llamas. La forma exacta del objeto es desconocida y no ha sido vista ni detectada de ninguna manera, sino que está formada a partir del fuego que crea. Si tiene suficiente combustible, tomará la forma de un humano. Su forma más simple es una lengua de fuego del tamaño de una cerilla. En esta forma, SCP-457 tiene funcionalidad limitada y es indistinguible del fuego normal, salvo por la capacidad de "destellar" para quemar personas y "saltar" sobre materiales combustibles o fuentes de fuego por sí solo, absorbiéndolas.
 
 
-        SCP-457 был захвачен летом 2007 года в ██████, █████, после множества лесных пожаров, причиной которых был объект. Как и где первоначально возник SCP-457, неизвестно. Ведётся расследование причастности объекта к другим крупным пожарам.
+        A medida que SCP-457 crece, puede adoptar formas más complejas, y a medida que crece en tamaño y accede a grandes cantidades de combustible, su nivel de inteligencia aumenta. La forma de pensar de SCP-457 es desconocida, pero cuando alcanza un tamaño lo suficientemente grande, siempre adopta una forma humanoide rodeada de llamas. SCP-457 es capaz de comunicarse creando letras a partir de fuego y quemándolas en paredes u otras superficies. A veces habla usando aire sobrecalentado y el crepitar de las llamas. Cuando alcanza cierto tamaño, se divide en dos entidades, cada una de las cuales a su vez es capaz de fisión. Sin embargo, instancias de SCP-457 son agresivas entre sí y siempre intentarán consumir o extinguir una copia, especialmente si tienen poco combustible.
+
+
+        El comportamiento de SCP-457 es muy predecible, pues sus únicos objetivos son encontrar grandes reservas de materiales combustibles y propagarse. El peligro radica en el aumento de su inteligencia a medida que crece y en su capacidad para aprender e imitar la conducta humana. Esto lleva a SCP-457 a dañar y desactivar deliberadamente los rociadores y, en raras ocasiones, a preparar trampas complejas. Se han documentado intentos del objeto por engañar o convencer al personal para que lo libere o le proporcione más combustible. Debido a la estructura única de SCP-457, a su inteligencia cambiante y a su negativa a cooperar, no es posible establecer una analogía precisa entre su forma de pensar y la humana.
+
+
+        SCP-457 fue recuperado en el verano de 2007 en ██████, █████, tras numerosos incendios forestales causados por SCP-457. Se desconoce cómo y dónde se originó SCP-457. Las investigaciones sobre la implicación del objeto en otros incendios importantes continúan.
     - type: Physics
       canCollide: False
   - uid: 1144
     components:
     - type: MetaData
-      name: Документация об SCP-939
+      name: Documentación de SCP-939
     - type: Transform
       parent: 1143
     - type: Paper
       content: >-
-        безопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Объект №: 939
+        Proteger.
 
 
-        Класс содержания:
-
-        [color=#a82424]Кетер[/color]
+        Objeto n.º: 939
 
 
-        Особые условия содержания: SCP-939-1, -3, -19, -53, -89, -96, -98, -99 и -109 содержатся в ячейке 1163-А или 1163-Б. Обе ячейки имеют размер 10x10x3 метра и находятся в Милитаризованном Участке Биосодержания 14. Обе ячейки снабжены системой климат-контроля; внутри поддерживается пониженное давление. Стены ячеек железобетонные. Доступ осуществляется посредством дезактивационной камеры, внутренняя дверь которой сделана из стали и герметична. Смотровые окна изготовлены из слоёного пуленепробиваемого стекла толщиной 10 см, между слоями которого проложена металлическая сетка под напряжением 100 киловольт. Относительная влажность внутри ячеек составляет 100%, температура - 16° C. Наблюдение за особями осуществляется посредством камер, работающих в инфракрасном диапазоне. Для доступа к SCP-939, ячейкам содержания и комнатам наблюдения требуется разрешение сотрудника 4 уровня.
+        Clase del objeto:
+
+        [color=#a82424]Keter[/color]
 
 
-        SCP-939-101 препарирован, части его тела хранятся в криокамерах с 939-101A по 939-101M в Биоисследовательской Зоне 12. Для доступа к SCP-939-101 требуется разрешение двух или более сотрудников 3 уровня, один из которых должен присутствовать во время проведения опытов или исследований. Допускается одновременная работа с содержимым только одной криокамеры 939-101. При работе с образцами тканей SCP-939-101 следует отслеживать их внутреннюю температуру; при нагреве выше 10° C образцы следует вернуть в криокамеру, а работу - прервать как минимум на семьдесят два (72) часа. Никаких других критериев, кроме температуры, по срокам работы с образцами тканей нет - разрешено работать без ограничений по времени, если исследователь в состоянии игнорировать бормотание и просьбы объекта отпустить его.
+        Procedimientos Especiales de Contención: SCP-939-1, -3, -19, -53, -89, -96, -98, -99 y -109 deben permanecer en las celdas 1163-A o 1163-B. Ambas miden 10 × 10 × 3 metros y se encuentran en el Área de Biocontención Militarizada 14. Las dos cuentan con control climático y mantienen una presión reducida. Sus paredes son de hormigón armado. El acceso se realiza mediante una cámara de descontaminación cuya puerta interior es de acero y hermética. Las ventanas de observación están hechas de vidrio laminado antibalas de 10 cm de espesor, con una malla metálica de 100 kilovoltios entre sus capas. La humedad relativa dentro de las celdas es del 100 % y la temperatura, de 16 °C. Los ejemplares se vigilan mediante cámaras infrarrojas. El acceso a SCP-939, a las celdas de contención y a las salas de observación requiere autorización de nivel 4.
 
 
-        Ячейки содержания следует проверять с периодичностью раз в две недели. Во время проверки SCP-939 переводятся в соседнюю ячейку. В это время дверь и окна ячейки следует осмотреть на предмет повреждений, при необходимости - починить или заменить.
+        El SCP-939-101 ha sido diseccionado y sus partes del cuerpo deben almacenarse en las criocámaras 939-101A a 939-101M en el Sitio de Bio-Investigación 12. El acceso al SCP-939-101 requiere permiso de dos o más personas de Nivel 3, uno de los cuales debe estar presente durante las pruebas o investigaciones. Solo se debe manipular el contenido de una criocámara 939-101 a la vez. Al manipular muestras de tejido de SCP-939-101, se debe monitorizar su temperatura interna; si se calientan por encima de 10° C, las muestras deben devolverse a la criocámara y el trabajo debe interrumpirse durante al menos setenta y dos (72) horas. No hay criterios distintos a la temperatura para la duración del trabajo con muestras de tejido, y el trabajo está permitido sin límite de tiempo siempre que el investigador pueda ignorar los murmullos y solicitudes de liberación del sujeto.
 
 
-        При работе с SCP-939 требуется тщательная обработка их успокоительным, вне зависимости от вида работы. К этому относится и перевод особей из ячейки в ячейку. Протоколы проведения экспериментов и смены ячейки см. Документ №939-TE4.
+        Las celdas de contención deben inspeccionarse cada dos semanas. Durante la inspección, los ejemplares de SCP-939 deben trasladarse a la celda contigua. Mientras tanto, la puerta y las ventanas deben revisarse para detectar daños y repararse o sustituirse cuando sea necesario.
 
 
-        При работе с SCP-939, а также при посещении мест, где раньше обитали SCP-939, сотрудникам следует носить комплекты хим. защиты по классу C.1 После работы сотрудникам следует пройти стандартную процедуру дезактивации, чтобы не допустить распространения амнезиака.
+        Todo trabajo con SCP-939 requiere sedar cuidadosamente a los ejemplares, incluido su traslado entre celdas. Para consultar los protocolos de experimentación y cambio de celda, véase el Documento n.º 939-TE4.
 
 
-        В свете инцидента ABCA14-939-3, всем сотрудникам отличного от D класса, задействованным в работе с SCP-939, следует носить два электронных измерителя пульса, устойчивых к попаданию воды. Измерители передают сигнал на систему мониторинга, снабжённую независимой системой электропитания и как минимум одним резервным источником электропитания. В случае нулевых показателей или сбоя обоих измерителей их носитель будет считаться мёртвым, сотрудникам следует игнорировать все его устные высказывания. Также при этом автоматически объявляется тревога по нарушению условий содержания. Сотрудники службы безопасности, поднятые по тревоге, также должны носить измерители.
+        Al trabajar con SCP-939 o visitar lugares donde hayan habitado sus ejemplares, el personal debe usar equipos de protección química de clase C.¹ Después del trabajo, debe someterse al procedimiento estándar de descontaminación para evitar la propagación del amnésico.
 
 
-        Всем особям SCP-939 при поимке следует вживлять под кожу маячки для слежения.
+        A raíz del incidente ABCA14-939-3, todo el personal que no sea de clase D y trabaje con SCP-939 debe llevar dos monitores electrónicos de pulso resistentes al agua. Estos transmiten una señal a un sistema de vigilancia con alimentación independiente y al menos una fuente de respaldo. Si ambos registran cero pulsaciones o fallan, se considerará muerto a quien los porte y el personal deberá ignorar todas sus declaraciones verbales. También se activará automáticamente una alarma por ruptura de contención. El personal de seguridad movilizado deberá llevar los mismos monitores.
 
 
-        Описание: SCP-939 - теплокровные стайные хищники, некоторые органы и системы которых атрофировались, как у троглобионтов. Кожа SCP-939 хорошо пропускает влагу, красная и полупрозрачная из-за насыщенности похожим на гемоглобин веществом. Средний рост особи SCP-939, прямо стоящей на задних конечностях - 2,2 метра, а вес - 250 кг, хотя от этой величины могут быть значительные отклонения. На каждой из четырёх конечностей имеется по три снабжённых когтем пальца, напротив которых расположен большой палец. Конечности покрыты щетинками, что весьма положительно влияет на способность SCP-939 к лазанию. Головы вытянутые, глаз или глазниц нет, мозгового черепа нет. Челюсти SCP-939 снабжены заострёнными зубами, которые тускло светятся красным. Строение челюстей и зубов похоже на таковое у хаулиодовых, зубы достигают шести сантиметров в длину. На внешней стороне челюстей расположены терморецепторные ямки. Вдоль покрытого иглами позвоночника расположены светочувствительные пятна. Иглы же достигают 16 сантиметров в длину и, похоже, чувствительны к движению потоков воздуха и атмосферному давлению.
+        A todos los ejemplares de SCP-939 se les deben implantar balizas subcutáneas de rastreo al ser capturados.
 
 
-        Многих жизненно важных систем у SCP-939 нет - отсутствуют центральная и периферийная нервные системы, система кровообращения и желудочно-кишечный тракт. Дыхательная система SCP-939 атрофирована и служит, судя по всему, только для выдыхания АМН-С227(см. ниже). Похоже, что SCP-939 не нуждаются в пище для поддержания жизни, и неспособны переваривать проглоченное. Съеденные SCP-939 ткани скапливаются в дыхательной системе и отрыгиваются, когда их накапливается слишком много для нормальной работы этой системы. Несмотря на отсутствие жизненно важных систем, SCP-939 живородящие (См. приложение 10-16-1991)
+        Descripción: SCP-939 es un depredador de sangre caliente y gregario cuyos órganos y sistemas se han atrofiado como troglobiontes. La piel de SCP-939 es altamente permeable a la humedad, roja y translúcida debido a su saturación con una sustancia similar a la hemoglobina. Una instancia de SCP-939 de pie sobre sus extremidades traseras mide 2,2 metros de altura y pesa 250 kg, aunque puede haber desviaciones significativas respecto a este tamaño. Cada una de las cuatro extremidades tiene tres dedos con garras, frente a los que está el pulgar. Las extremidades están cubiertas de cerdas, lo que tiene un efecto muy positivo en la capacidad de SCP-939 para trepar. Las cabezas son alargadas, no hay ojos ni cuencas oculares, y no hay cráneo cerebral. Las mandíbulas de SCP-939 están equipadas con dientes puntiagudos que brillan tenuemente en rojo. La estructura de las mandíbulas y los dientes es similar a la de los Haulióididos, los dientes alcanzan seis centímetros de longitud. En el exterior de las mandíbulas hay fosas termorreceptoras. A lo largo de la columna cubierta de agujas hay manchas fotosensibles. Las agujas alcanzan 16 centímetros de longitud y parecen ser sensibles al movimiento de las corrientes de aire y a la presión atmosférica.
 
 
-        Излюбленный метод SCP-939 для заманивания жертвы - имитация человеческой речи голосом убитых ранее жертв, хотя имелись случаи активной ночной охоты и имитации звучания других животных. Часто в том, что проговаривают SCP-939, звучит тревога; ведутся попытки выяснить, понимают ли SCP-939, что говорят, или просто повторяют услышанное ранее. Неизвестно, как именно SCP-939 узнают голоса; имеются документально подтверждённые случаи имитации голоса жертвы, которая ни разу не говорила в их присутствии. Голосовой анализ SCP-939 не в силах распознать разницу между речью SCP-939 и речью жертвы. По этой причине настоятельно рекомендуется отказаться от систем идентификации по голосу во всех учреждениях, где имеются особи SCP-939. Жертву SCP-939 обычно убивают одним укусом в основание черепа или шею, челюсти этих существ способны развивать давление больше 350 атмосфер.
+        SCP-939 carece de numerosos sistemas vitales: no posee sistemas nerviosos central y periférico, aparato circulatorio ni tracto gastrointestinal. Su sistema respiratorio está atrofiado y parece servir únicamente para exhalar АМН-С227 (véase más abajo). Los ejemplares no parecen necesitar alimento para sobrevivir y son incapaces de digerir lo que ingieren. Los tejidos consumidos se acumulan en el sistema respiratorio y se regurgitan cuando su volumen impide que este funcione con normalidad. Pese a carecer de sistemas vitales, SCP-939 es vivíparo (véase el Anexo 16-10-1991).
 
 
-        SCP-939 выдыхают взвесь амнезиака класса C (далее - АМН-С227) в очень низкой концентрации. АМН-С227 вызывает временную антероградную амнезию, подавляя формирование воспоминаний за всё время действия плюс примерно тридцать минут. Вещество не имеет цвета, вкуса или запаха, ЭКВ502 составляет 0,0015 мг в минуту на кубометр. В хорошо вентилируемых помещениях или на открытом воздухе ЭКВ50 значительно падает, но по-прежнему представляет угрозу. Через 60 минут после попадания в организм АМН-С227 растворяется в крови. Ощущение дезориентации и слабые галлюцинации, возникающие после выхода из насыщенной АМН-С227 области, похожи на постэффекты от употребления различных психоактивных веществ, поэтому легко принять одно за другое.
+        El método preferido de SCP-939 para atraer a sus víctimas consiste en imitar el habla humana con la voz de personas asesinadas anteriormente, aunque también se han registrado cacerías nocturnas activas e imitaciones de otros animales. Sus frases suelen expresar alarma; se investiga si los ejemplares comprenden lo que dicen o si solo repiten lo que oyeron. Se desconoce cómo adquieren las voces y existen casos documentados en los que imitaron a víctimas que nunca hablaron en su presencia. El análisis vocal no puede distinguir la voz de SCP-939 de la de la víctima. Por ello, se recomienda encarecidamente retirar los sistemas de identificación por voz de toda instalación que albergue ejemplares de SCP-939. Sus víctimas suelen morir de una sola mordida en la base del cráneo o el cuello; las mandíbulas pueden ejercer una presión superior a 350 atmósferas.
+
+
+        SCP-939 exhala una suspensión de amnésico de clase C (en adelante, АМН-С227) en concentraciones muy bajas. АМН-С227 provoca amnesia anterógrada temporal al impedir la formación de recuerdos durante toda la exposición y aproximadamente treinta minutos adicionales. La sustancia es incolora, insípida e inodora; su CE50 es de 0,0015 mg por minuto y metro cúbico. En espacios bien ventilados o al aire libre, la concentración efectiva disminuye de forma considerable, pero sigue siendo peligrosa. АМН-С227 se disuelve en la sangre 60 minutos después de entrar en el organismo. La desorientación y las alucinaciones leves que aparecen al abandonar un área saturada de АМН-С227 se asemejan a los efectos posteriores de varias sustancias psicoactivas, por lo que pueden confundirse fácilmente.
     - type: Physics
       canCollide: False
   - uid: 1147
     components:
     - type: MetaData
-      name: Документация об SCP-049
+      name: Documentación de SCP-049
     - type: Transform
       parent: 1146
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Объект №: 049
+        Proteger.
 
 
-        Класс содержания:
-
-        [color=#d2a02d]Евклид[/color]
+        Objeto n.º: 049
 
 
-        Особые условия содержания: SCP-049 содержится в стандартной укреплённой камере содержания гуманоидов в Исследовательском секторе 02 Зоны 19. Перед любыми попытками транспортировки SCP-049 объект следует обрабатывать седативными препаратами. Во время транспортировки SCP-049 должен находиться в укреплённой системе фиксаторов для гуманоидов 3 класса (с ошейником и ограничителями растяжения), под постоянным надзором как минимум двух вооружённых охранников.
+        Clase del objeto:
+
+        [color=#d2a02d]Euclid[/color]
 
 
-        Как правило, SCP-049 идёт на контакт с большинством сотрудников Фонда. Несмотря на это, любые резкие перемены в поведении следует пресекать силовыми методами. Во время таких перепадов сотрудникам следует всеми доступными средствами избегать прямого контакта с объектом. Установлено, что применение лаванды многонадрезной (L. multifida) может оказывать успокаивающее воздействие на объект в случае, если тот становится агрессивным. После успокоения SCP-049 как правило становится сговорчивее и возвращается в камеру содержания, практически не оказывая сопротивления.
+        Procedimientos especiales de contención: SCP-049 debe mantenerse en una celda de contención humanoide reforzada estándar en el Sector de Investigación-02, Sitio-19. SCP-049 debe ser sedado antes de cualquier intento de transporte de SCP-049. Durante el transporte, SCP-049 debe mantenerse en un sistema reforzado de sujeción humanoide Clase 3 (con collar y limitadores de estiramiento), bajo la supervisión constante de al menos dos guardias armados.
 
 
-        С целью дальнейшего успешного содержания SCP-049 один раз в две недели сущности следует предоставлять тушу недавно скончавшегося животного (как правило, коровы или другого крупного млекопитающего) для исследований. Трупы, ставшие SCP-049-2, следует изымать из камеры содержания SCP-049 и уничтожать путём сжигания. Было принято решение запретить дальнейшие опыты SCP-049 на людях, поэтому все запросы по поводу подопытных-людей следует отклонять.
+        SCP-049 suele mostrarse dispuesto a colaborar con la mayoría del personal de la Fundación. Aun así, cualquier cambio brusco de conducta debe reprimirse por la fuerza. Durante estos episodios, el personal debe evitar por todos los medios el contacto directo con el objeto. Se ha determinado que la lavanda dividida (L. multifida) puede calmarlo cuando se vuelve agresivo. Una vez tranquilo, SCP-049 suele cooperar y regresar a su cámara de contención con muy poca resistencia.
 
 
-        Временное дополнение к условиям содержания: (См. приложение 049.3) Согласно приказу №049.S19.17.1 Комитета по Содержанию, SCP-049 запрещено прямое взаимодействие с сотрудниками Фонда. Также объекту более не выдаются трупы для анатомических опытов. Эта мера введена на неопределённый срок и может быть отменена только после того, как будет достигнут консенсус по поводу долговременного содержания SCP-049.
+        Para mantener la contención de SCP-049, cada dos semanas debe proporcionársele el cadáver de un animal muerto recientemente, por lo general una vaca u otro mamífero grande, para que lo investigue. Los cadáveres convertidos en SCP-049-2 deben retirarse de la cámara y destruirse por incineración. Se ha decidido prohibir nuevos experimentos de SCP-049 con seres humanos, por lo que toda solicitud de sujetos humanos debe rechazarse.
 
 
-        Описание: SCP-049 - гуманоидное существо ростом около 190 см, внешне схожее со средневековым чумным доктором. На первый взгляд кажется, что SCP-049 облачён в толстый балахон и керамическую маску, характерные для данной профессии, однако, судя по этим предметам одежды, они постепенно выросли из тела самого SCP-0491 и на данный момент неотличимы от того, что могут скрывать под собой. Тем не менее, рентгеновские снимки показывают, что под этим внешним слоем у SCP-049 имеется скелет, схожий с человеческим.
+        Suplemento temporal a los procedimientos de contención: (Véase Anexo 049.3) Conforme a la Orden Nº 049. S19.17.1 del Comité de Contención, el SCP-049 tiene prohibido interactuar directamente con el personal de la Fundación. Además, ya no se entregarán cadáveres al SCP-049 para pruebas anatómicas. Esta medida es indefinida y solo podrá levantarse una vez que se haya alcanzado un consenso sobre la contención a largo plazo del SCP-049.
 
 
-        SCP-049 способен изъясняться на многих языках, хотя в основном предпочитает английский и старофранцузский2. Характер у SCP-049 в основном дружелюбный, объект охотно идёт на контакт с сотрудниками Фонда, однако, если по мнению объекта рядом присутствует то, что он называет "Поветрие", он становится крайне раздражительным, а иногда и вовсе агрессивным. Суть этого "Поветрия" не ясна исследователям Фонда, но, похоже, для SCP-049 оно представляет особую важность.
+        Descripción: SCP-049 es una entidad humanoide de aproximadamente 190 cm de altura cuyo aspecto recuerda al de un médico de la peste medieval. A primera vista parece vestir una túnica gruesa y una máscara de cerámica propias de esa profesión; sin embargo, estas prendas parecen haber crecido gradualmente a partir del cuerpo de SCP-049¹ y hoy son indistinguibles de aquello que podrían ocultar. Las radiografías muestran que bajo esta capa exterior posee un esqueleto similar al humano.
 
 
-        SCP-049 проявляет открытую агрессию к тем, кого он считает поражёнными "Поветрием", в таких случаях его зачастую необходимо сдерживать. Имея свободу действий, SCP-049 как правило пытается убить такого субъекта; SCP-049 способен останавливать все биологические функции в организме посредством прямого контакта открытых участков тела. Механизм этого явления неизвестен, результаты вскрытия жертв, убитых SCP-049 таким образом, неоднозначны во всех случаях. SCP-049 выражает досаду или раскаяние по поводу этих смертей, заявляя, что жертвы не старались бороться с "Поветрием", хотя при этом обычно стремится провести на трупе примитивную операцию с помощью инструментов, которые постоянно носит с собой в чёрной врачебной сумке3. Операция не всегда приводит к "успеху", но зачастую приводит к созданию SCP-049-2.
+        SCP-049 puede expresarse en numerosos idiomas, aunque prefiere el inglés y el francés antiguo.² Su comportamiento suele ser cordial y coopera de buena gana con el personal de la Fundación; sin embargo, cuando percibe cerca aquello que denomina «la Pestilencia», se vuelve extremadamente irritable y, en ocasiones, abiertamente agresivo. Los investigadores desconocen la naturaleza de esta «Pestilencia», pero parece tener una importancia excepcional para SCP-049.
 
 
-        SCP-049-2 - оживлённые трупы субъектов, прооперированных SCP-049. Судя по внешним признакам, они не сохраняют воспоминаний и умственных навыков и наделены лишь базовыми двигательными навыками и механизмами реагирования. В целом они малоподвижны, двигаются редко и бессистемно, но при побуждении могут стать крайне агрессивными. У SCP-049-2 имеются активные биологические функции, однако они радикально отличаются от известной современной науке физиологии человека. Несмотря на эти отличия, SCP-049 нередко утверждает, что субъекты "исцелились".
+        SCP-049 muestra una agresividad abierta hacia quienes considera afectados por «la Pestilencia» y, en esos casos, suele ser necesario contenerlo. Si tiene libertad de movimiento, normalmente intenta matar al sujeto; puede detener todas las funciones biológicas mediante el contacto directo de una zona descubierta de su cuerpo. El mecanismo de este fenómeno se desconoce y las autopsias de sus víctimas han arrojado resultados inconclusos. SCP-049 expresa frustración o remordimiento por estas muertes y afirma que las víctimas no intentaron combatir «la Pestilencia», aunque suele procurar realizar una operación rudimentaria en el cadáver con los instrumentos que lleva en su maletín médico negro.³ La operación no siempre tiene «éxito», pero a menudo crea un ejemplar de SCP-049-2.
 
 
-        Приложение 049.1: Обнаружение
+        SCP-049-2 son los cadáveres reanimados de sujetos operados por SCP-049. A juzgar por su apariencia, no conservan recuerdos ni habilidades mentales, y solo cuentan con habilidades motoras básicas y mecanismos de reacción. En general, son sedentarios, se mueven con poca frecuencia y de forma desordenada, pero pueden volverse extremadamente agresivos cuando se les solicita. SCP-049-2 tiene funciones biológicas activas, pero estas son radicalmente diferentes de la fisiología humana conocida por la ciencia moderna. A pesar de estas diferencias, SCP-049 suele afirmar que los sujetos han sido "curados".
 
 
-        SCP-049 был обнаружен в ходе расследования нескольких случаев пропажи людей без вести в окрестностях Монтабана, на юге Франции. Во время облавы в одном из частных домов было найдено несколько экземпляров SCP-049-2, а также сам SCP-049. Между представителями органов охраны правопорядка и агрессивными экземплярами 049-2 произошло столкновение. SCP-049 наблюдал за ходом столкновения и делал пометки в своём журнале. После того, как все экземпляры SCP-049-2 были нейтрализованы, SCP-049 добровольно сдался в руки Фонда.
+        Anexo 049.1: Detección
+
+
+        SCP-049 fue descubierto durante la investigación de varias desapariciones en los alrededores de Montauban, al sur de Francia. En una redada a una vivienda particular se encontraron varios ejemplares de SCP-049-2 y al propio SCP-049. Se produjo un enfrentamiento entre los agentes del orden y los ejemplares agresivos de SCP-049-2. SCP-049 observó el combate y tomó notas en su diario. Tras neutralizarse todos los ejemplares de SCP-049-2, SCP-049 se entregó voluntariamente a la Fundación.
     - type: Physics
       canCollide: False
   - uid: 1165
     components:
     - type: MetaData
-      name: Документация об SCP-131
+      name: Documentación de SCP-131
     - type: Transform
       parent: 1164
     - type: Paper
       content: >-
-        безопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Объект №: 131
+        Proteger.
 
 
-        Класс содержания:
-
-        [color=#1b7e20]Безопасный[/color]
+        Objeto n.º: 131
 
 
-        Особые условия содержания: Никаких особых действий в отношении SCP-131-A и SCP-131-B предпринимать не требуется. Им позволено свободно перемещаться по Зоне 19, но запрещено входить в режимные помещения или пытаться покинуть Зону. Общение с субъектами разрешено, но рекомендуется сводить его к минимуму, чтобы у субъектов не выработалось привязанности к сотрудникам. Следует ежечасно отслеживать местонахождение субъектов, несоблюдение этого условия влечёт за собой карантинную ситуацию первого уровня. Все случаи грубого обращения с субъектами будут расследованы, виновные понесут суровое наказание.
+        Clase del objeto:
+
+        [color=#1b7e20]Seguro[/color]
 
 
-        Описание: SCP-131-A и SCP-131-B (сотрудники любовно прозвали их "каплеглазики") - два создания с каплевидной формой тела, примерно 30 сантиметров в высоту. В середине тела расположен один голубой глаз. SCP-131-A имеет охровый окрас, SCP-131-B - горчично-жёлтый. В основании тела обоих есть образование, напоминающее колесо, что наталкивает на мысль о биомеханической природе созданий. Субъекты могут двигаться удивительно быстро, проходя 60 метров за несколько секунд. Стоит отметить, что у субъектов нет тормозной системы, что не раз приводило к небезынтересным, а то и вовсе забавным, происшествиям. Также субъекты проявили способность карабкаться по отвесным поверхностям и не раз терялись в вентиляционной системе.
+        Procedimientos especiales de contención: No se requiere ninguna acción especial respecto a SCP-131-A y SCP-131-B. Se les permite moverse libremente por el Sitio-19, pero no pueden entrar en áreas seguras ni intentar salir del sitio. Se permite la comunicación con los sujetos, pero se recomienda mantenerla al mínimo para evitar que desarrollen vínculos con el personal. El paradero de los sujetos debe ser monitorizado cada hora, y el incumplimiento de ello resultará en una situación de cuarentena de Nivel 1. Todos los casos de abuso de sujetos serán investigados y severamente castigados.
 
 
-        Интеллект субъектов находится на уровне обычной домашней кошки, к тому же они невероятно любопытны. Большую часть времени они проводят, катаясь по учреждению, наблюдая за сотрудниками и подглядывая за другими безопасными SCP. Субъекты могут переговариваться при помощи непереводимого писклявого бормотания. Никто никогда не видел, чтобы они моргали, даже в опыте, когда их снимали на камеру 18 часов подряд.
+        Descripción: SCP-131-A y SCP-131-B, apodados cariñosamente «ojitos» por el personal, son dos criaturas de cuerpo lacriforme que miden aproximadamente 30 centímetros de altura. En el centro del cuerpo tienen un único ojo azul. SCP-131-A es de color ocre y SCP-131-B, amarillo mostaza. Ambos poseen en la base una formación semejante a una rueda, lo que sugiere una naturaleza biomecánica. Pueden desplazarse a una velocidad sorprendente y recorrer 60 metros en pocos segundos. Cabe señalar que no poseen sistema de frenado, lo que ha ocasionado incidentes interesantes e incluso divertidos. También pueden trepar por superficies verticales y se han perdido más de una vez en el sistema de ventilación.
 
 
-        Субъекты хорошо реагируют на доброту к ним и быстро привязываются к тому, кто эту доброту проявляет, примерно так же, как щенки привязываются к человеку. Они будут преследовать того, к кому привязались, повсюду, даже в режимные зоны. Несмотря на своё любопытство, субъекты чувствуют опасность, когда она рядом, а если объект их привязанности начинает приближаться к тому, что они считают опасными (например, к объектам класса Евклид или Кетер), они станут носиться под ногами (или другими конечностями) и что-то бормотать паническим голосом, словно предупреждая. Поскольку персонал Зоны 19 ежедневно сталкивается с объектами класса Евклид и Кетер, сотрудникам не рекомендуется создавать привязанность, т. к. это отвлекает во время сложных операций и исследований и может подставить под угрозу самих субъектов (см. приложение 131-1). Если объект привязанности будет достаточно долго игнорировать субъектов, они в конце концов утратят интерес и вернутся к обычной деятельности.
+        Los sujetos poseen una inteligencia comparable a la de un gato doméstico y son extraordinariamente curiosos. Pasan gran parte del tiempo rodando por la instalación, observando al personal y espiando a otros SCP de clase Seguro. Pueden comunicarse mediante murmullos agudos imposibles de traducir. Nunca se los ha visto parpadear, ni siquiera durante una prueba en la que fueron grabados durante 18 horas seguidas.
 
 
-        Стоит отметить, что за субъектами не требуется какой-либо уход. Они не едят, отходов пищеварения тоже нет, и во сне не нуждаются. Похоже, что для жизни им требуется только утолять информационный голод (требуются дополнительные исследования для проверки этой гипотезы).
+        Los sujetos responden bien a la amabilidad y se encariñan rápidamente con quien los trata de ese modo, de forma similar a un cachorro. Siguen a la persona por toda la instalación, incluso hasta zonas restringidas. Pese a su curiosidad, perciben el peligro cercano; si la persona a la que siguen se aproxima a algo que consideran peligroso, como un objeto de clase Euclid o Keter, se interponen entre sus pies —u otras extremidades— y murmuran con voz de pánico a modo de advertencia. Debido a que el personal del Sitio-19 trata a diario con objetos Euclid y Keter, se recomienda no fomentar estos vínculos, pues distraen durante operaciones e investigaciones complejas y pueden poner en peligro a los propios sujetos (véase el Anexo 131-1). Si la persona ignora a los sujetos durante suficiente tiempo, estos terminan por perder el interés y retoman sus actividades habituales.
 
 
-        Субъектов SCP-131-A и SCP-131-B нашли на кукурузном поле в районе ████████████ в 19██ году. Их быстро перевезли в Зону 19 с помощью [ДАННЫЕ УДАЛЕНЫ], понизили класс до Безопасного и дали свободно перемещаться по Зоне, как только стало ясно, что они не транслируют увиденное куда-либо.
+        Cabe destacar que los sujetos no requieren ningún tipo de cuidados. No comen, no tienen residuos digestivos y no necesitan dormir. Parece que solo necesitan saciar su hambre de información para poder vivir (se necesita más investigación para comprobar esta hipótesis).
+
+
+        SCP-131-A y SCP-131-B fueron encontrados en un maizal de la región de ████████████ en 19██. Fueron trasladados rápidamente al Sitio-19 mediante [DATOS ELIMINADOS], reclasificados como Seguros y autorizados a desplazarse libremente por el Sitio cuando se comprobó que no transmitían lo que veían a ningún lugar.
     - type: Physics
       canCollide: False
   - uid: 1177
     components:
     - type: MetaData
-      name: план исправления ошибок комплекса мини
+      name: plan de corrección del minicomplejo
     - type: Transform
       parent: 1176
     - type: Physics
       canCollide: False
     - type: Paper
-      content: План на столько сложный, что понять вы его не в силах...
+      content: El plan es tan complejo que no puedes entenderlo...
   - uid: 1178
     components:
     - type: MetaData
-      name: план космопорта
+      name: plano del puerto espacial
     - type: Transform
       parent: 1176
     - type: Physics
       canCollide: False
     - type: Paper
-      content: План на столько сложный, что понять вы его не в силах...
+      content: El plan es tan complejo que no puedes entenderlo...
   - uid: 1179
     components:
     - type: MetaData
-      name: план штабов фонда
+      name: Plano de la sede de la Fundación
     - type: Transform
       parent: 1176
     - type: Physics
       canCollide: False
     - type: Paper
-      content: План на столько сложный, что понять вы его не в силах...
+      content: El plan es tan complejo que no puedes entenderlo...
   - uid: 1180
     components:
     - type: MetaData
-      name: план модульного комплекса
+      name: Plano del complejo modular
     - type: Transform
       parent: 1176
     - type: Physics
       canCollide: False
     - type: Paper
-      content: План на столько сложный, что понять вы его не в силах...
+      content: El plan es tan complejo que no puedes entenderlo...
   - uid: 1188
     components:
     - type: Transform
@@ -139770,9 +139770,9 @@ entities:
       - stampedColor: '#CC0000FF'
         stampedName: stamp-component-stamped-name-regional-command
       content: >-
-        Пожалуйста, не забывайте [bold]ПРО СУЩЕСТВОВАНИЕ КОНТРАКТА[/bold] и хоть иногда, для галочки, надевайте защитные костюмы при непосредственной работе с SCP-049.
-                                                               Спасибо,
-                                                                  проф. Сэнд
+        Por favor, no olviden [bold]LA EXISTENCIA DEL CONTRATO[/bold] y, aunque sea de vez en cuando y solo para cumplir, usen trajes de protección cuando trabajen directamente con SCP-049.
+                                                               Gracias,
+                                                                  Prof. Sand
   - uid: 19430
     components:
     - type: Transform
@@ -139815,13 +139815,13 @@ entities:
   - uid: 19437
     components:
     - type: MetaData
-      name: план нового стандартного комплекса
+      name: plano del nuevo complejo estándar
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 22.231857,27.0901
       parent: 2
     - type: Paper
-      content: План на столько сложный, что понять его вам не по силам...
+      content: El plan es tan complejo que no puedes entenderlo...
   - uid: 19438
     components:
     - type: Transform
@@ -139847,7 +139847,7 @@ entities:
       stampState: paper_stamp-ce
       stampedBy:
       - stampedColor: '#C69B17FF'
-        stampedName: Производственная Служба Фонда
+        stampedName: Servicio de Producción de la Fundación
       content: >2-
 
         [head=1]SCP[/head]            
@@ -139855,37 +139855,37 @@ entities:
         ---------------------------------------------------------------------------------------------
 
 
-        [bold]Автор документа:[/bold] 
+        [bold]Autor del documento:[/bold]
 
-        Производственная служба Фонда
-
-
-        [bold]Получатель:[/bold] Строящаяся зона № 3
+        Servicio de Producción de la Fundación
 
 
-        [bold]Номер комплекса/зоны:[/bold]
+        [bold]Destinatario:[/bold] Zona en construcción n.º 3
 
-        Строящаяся зона № 3
+
+        [bold]Número del complejo/zona:[/bold]
+
+        Zona en construcción n.º 3
 
 
         ---------------------------------------------------------------------------------------------
 
 
-        [bold]Тема:[/bold] Изготовление агрегатов и составных компанентов реакторов РБМК-3000 для строящийся зоны № 3
+        [bold]Asunto:[/bold] Fabricación de unidades y componentes de reactores RBMK-3000 para la zona en construcción n.º 3
 
 
-        [bold]Содержание:[/bold] По вашему заказу мы изготовили шестьдесят (60) коллекторов радиации, три (3) непрерывных излучателей медленных нейтронов, а также шестьдесят (60) топливных баков для коллекторов радиации, для монтажа трёх ядерного реактора на медленных нейтронах.
+        [bold]Contenido:[/bold] De acuerdo con su pedido, fabricamos sesenta (60) colectores de radiación, tres (3) emisores continuos de neutrones lentos y sesenta (60) depósitos de combustible para los colectores de radiación, destinados al montaje de un reactor de neutrones lentos con tres núcleos.
 
 
-        Заказ должна доставить Служба логистики, на этом наша работа окончена.
+        El Servicio de Logística entregará el pedido. Con esto concluye nuestro trabajo.
 
         ---------------------------------------------------------------------------------------------
 
 
-        [bold]Подпись:[/bold] [italic]ПСкоФ[/italic]
+        [bold]Firma:[/bold] [italic]SPF[/italic]
 
 
-        [bold]Печать:[/bold]
+        [bold]Sello:[/bold]
   - uid: 19442
     components:
     - type: Transform
@@ -139896,7 +139896,7 @@ entities:
       stampState: paper_stamp-ce
       stampedBy:
       - stampedColor: '#C69B17FF'
-        stampedName: Инженерно-Техническая Служба Фонда
+        stampedName: Servicio de Ingeniería y Tecnología de la Fundación
       content: >2-
 
         [head=1]SCP[/head]      
@@ -139904,37 +139904,37 @@ entities:
         ---------------------------------------------------------------------------------------------
 
 
-        [bold]Автор документа:[/bold] 
+        [bold]Autor del documento:[/bold]
 
-        Инженерно-техническая служба Фонда
-
-
-        [bold]Получатель:[/bold] Региональная Администрация Фонда
+        Servicio de Ingeniería y Tecnología de la Fundación
 
 
-        [bold]Номер комплекса/зоны:[/bold]
+        [bold]Destinatario:[/bold] Administración Regional de la Fundación
 
-        Строящаяся зона № 3
+
+        [bold]Número del complejo/zona:[/bold]
+
+        Zona en construcción n.º 3
 
 
         ---------------------------------------------------------------------------------------------
 
 
-        [bold]Тема:[/bold] Сборка и установка реакторов РБМК-3000 в строящейся зоне № 3
+        [bold]Asunto:[/bold] Montaje e instalación de reactores RBMK-3000 en la zona en construcción n.º 3
 
 
-        [bold]Содержание:[/bold] Мы получили все компоненты и выполнили сборку уже двух ядер, в данный момент проблем не наблюдается, все составные части исправны, бракованных частей не обнаруженно.
+        [bold]Contenido:[/bold] Recibimos todos los componentes y ya montamos dos núcleos. Por el momento no se observan problemas; todas las piezas funcionan correctamente y no se han encontrado componentes defectuosos.
 
 
-        Происходит сборка последнего ядра.
+        Se está ensamblando el último núcleo.
 
         ---------------------------------------------------------------------------------------------
 
 
-        [bold]Подпись:[/bold] [italic]ИТСкоФ[/italic]
+        [bold]Firma:[/bold] [italic]SITF[/italic]
 
 
-        [bold]Печать:[/bold]
+        [bold]Sello:[/bold]
   - uid: 19443
     components:
     - type: Transform
@@ -139944,7 +139944,7 @@ entities:
       stampState: paper_stamp-qm
       stampedBy:
       - stampedColor: '#A23E3EFF'
-        stampedName: Служба Логистики Фонда
+        stampedName: Servicio de Logística de la Fundación
       content: >2-
 
         [head=1]SCP[/head]            
@@ -139952,37 +139952,37 @@ entities:
         ---------------------------------------------------------------------------------------------
 
 
-        [bold]Автор документа:[/bold] 
+        [bold]Autor del documento:[/bold]
 
-        Служба логистики Фонда
-
-
-        [bold]Получатель:[/bold] Строящаяся зона № 3
+        Servicio de Logística de la Fundación
 
 
-        [bold]Номер комплекса/зоны:[/bold]
+        [bold]Destinatario:[/bold] Zona en construcción n.º 3
 
-        Строящаяся зона № 3
+
+        [bold]Número del complejo/zona:[/bold]
+
+        Zona en construcción n.º 3
 
 
         ---------------------------------------------------------------------------------------------
 
 
-        [bold]Тема:[/bold] Доставка агрегатов и составных компанентов реакторов РБМК-3000 для строящийся зоны № 3
+        [bold]Asunto:[/bold] Entrega de unidades y componentes de reactores RBMK-3000 para la zona en construcción n.º 3
 
 
-        [bold]Содержание:[/bold] По вашему заказу мы доставили изготовленные Производственной Службы Фонда: шестьдесят (60) коллекторов радиации, три (3) непрерывных излучателей медленных нейтронов, а также шестьдесят (60) топливных баков для коллекторов радиации, для монтажа трёх ядерного реактора на медленных нейтронах, для строящийся зоны № 3.
+        [bold]Contenido:[/bold] De acuerdo con su pedido, entregamos los elementos fabricados por el Servicio de Producción de la Fundación: sesenta (60) colectores de radiación, tres (3) emisores continuos de neutrones lentos y sesenta (60) depósitos de combustible para los colectores de radiación, destinados al montaje de un reactor de neutrones lentos con tres núcleos en la zona en construcción n.º 3.
 
 
-        Заказ выполнен.
+        Pedido completado.
 
         ---------------------------------------------------------------------------------------------
 
 
-        [bold]Подпись:[/bold] [italic]СЛкоФ[/italic]
+        [bold]Firma:[/bold] [italic]SLF[/italic]
 
 
-        [bold]Печать:[/bold]
+        [bold]Sello:[/bold]
   - uid: 19444
     components:
     - type: Transform
@@ -140112,72 +140112,72 @@ entities:
   - uid: 19466
     components:
     - type: MetaData
-      name: Документация об SCP-2398
+      name: Documentación de SCP-2398
     - type: Transform
       pos: -9.5260315,74.55349
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Объект №: 2398
+        Proteger.
 
 
-        Класс содержания:
-
-        [color=#1b7e20]Безопасный[/color]
+        Objeto n.º: 2398
 
 
-        Класс нарушения:
+        Clase del objeto:
 
-        тёмный
-
-
-        Особые условия содержания: SCP-2398 содержится в стандартной сейфовой ячейке с высокой степенью охраны. 
-
-        Сотрудники, обладающие достаточным уровнем допуска для проведения экспериментов с SCP-2398, 
-
-        вначале должны подать правильно заполненную заявку в Управление руководителя исследовательских работ Зоны.
+        [color=#1b7e20]Seguro[/color]
 
 
-        Сотрудникам, проводящим эксперименты с SCP-2398, запрещается размахивать объектом, 
+        Clase de disrupción:
 
-        находясь в прямой близости от прочих членов персонала.
+        Dark
 
 
+        Procedimientos Especiales de Contención: SCP-2398 debe permanecer en una celda de seguridad estándar con un nivel elevado de protección.
 
-        Дополнение к особым условиям содержания: Проводить эксперименты с SCP-2398 более не разрешается.
+        El personal con el nivel de autorización necesario para realizar experimentos con SCP-2398
+
+        debe presentar primero una solicitud debidamente completada ante la Oficina de Supervisión de Investigación del Sitio.
+
+
+        El personal que realice experimentos con SCP-2398 tiene prohibido blandir el objeto
+
+        mientras se encuentre cerca de otros miembros del personal.
 
 
 
-        Описание: SCP-2398 - это стандартная деревянная бейсбольная бита длиной около 110 см с обмоткой на рукояти, 
-
-        сделанная из древесины ясеня. SCP-2398 не имеет каких-либо необычных меток, за исключением букв “K.O.”, 
-
-        вырезанных чуть выше рукояти.
+        Adición a los procedimientos especiales de contención: Ya no se permite la experimentación con SCP-2398.
 
 
-        SCP-2398 проявляет аномальные свойства только при использовании; если размахнуться битой на скорости чуть более 20 м/с 
 
-        и ударить ею по любому живому существу, то оно взорвётся. Механизм данного явления пока что неизвестен.
+        Descripción: SCP-2398 es un bate de béisbol estándar de madera, de unos 110 cm de largo, con la empuñadura vendada,
+
+        fabricado con madera de fresno. SCP-2398 no presenta marcas inusuales, salvo las letras «K.O.»,
+
+        talladas justo por encima de la empuñadura.
 
 
-        Обстоятельства обнаружения: Первыми о свойствах SCP-2398 узнали агенты Фонда, внедрённые в полицию Торонто, 
+        SCP-2398 solo manifiesta propiedades anómalas durante su uso; si se blande el bate a una velocidad ligeramente superior a 20 m/s
 
-        в ходе расследования обстоятельств ссоры игрока бейсбольной команды "Торонто Блю Джейс" Карла Томаса с группой молодых мужчин 
+        y se golpea con él a cualquier ser vivo, este explota. El mecanismo del fenómeno sigue siendo desconocido.
 
-        и женщин. Один из мужчин, увидев, как г-н Томас выходит из ночного клуба и направляется к своей машине, 
 
-        подбежал к нему и стал обвинять в попытке ограбления, что также стали подтверждать ещё трое мужчин и две женщины. 
+        Circunstancias del hallazgo: los primeros en conocer las propiedades de SCP-2398 fueron agentes de la Fundación infiltrados en la Policía de Toronto,
 
-        Г-н Томас достал SCP-2398 с заднего сиденья автомобиля и ударил ею одну из женщин, которая тут же взорвалась. 
+        durante la investigación sobre las circunstancias de una disputa entre el jugador de béisbol de los Toronto Blue Jays, Carl Thomas, y un grupo de jóvenes
 
-        Нападавшие быстро разбежались, а один из случайных прохожих позвонил в полицию.
+        y mujeres. Uno de los hombres, al ver al señor Thomas salir del club nocturno y dirigirse a su coche,
+
+        corrió hacia él y comenzó a acusarlo de intento de robo; otros tres hombres y dos mujeres respaldaron la acusación.
+
+        El Sr. Thomas sacó SCP-2398 del asiento trasero del automóvil y golpeó con el bate a una de las mujeres, que explotó de inmediato.
+
+        Los atacantes huyeron rápidamente y uno de los transeúntes llamó a la policía.
   - uid: 19467
     components:
     - type: Transform
@@ -140271,37 +140271,37 @@ entities:
   - uid: 19483
     components:
     - type: MetaData
-      name: Документация об SCP-173
+      name: Documentación de SCP-173
     - type: Transform
       pos: 25.31386,49.602505
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Объект №: 173
+        Proteger.
 
 
-        Класс содержания:
-
-        [color=#d2a02d]Евклид[/color]
+        Objeto n.º: 173
 
 
-        Особые условия содержания: Объект SCP-173 должен постоянно храниться в закрытом контейнере. При посещении персоналом контейнера с SCP-173 в контейнер должно входить не менее трёх человек, и дверь должна быть немедленно заперта за ними. Два лица должны постоянно поддерживать прямой зрительный контакт с SCP-173 до тех пор, пока все сотрудники не покинут контейнер, и он не будет заперт.
+        Clase del objeto:
+
+        [color=#d2a02d]Euclid[/color]
 
 
-        Описание: Привезён в Зону 19 в 1993. Происхождение всё ещё неизвестно. Изготовлен из бетона и арматуры со следами аэрозольной краски марки Krylon. SCP-173 одушевлён и крайне враждебен. Объект не может двигаться в то время, когда находится в пределах прямой видимости. При работе с SCP-173 никогда не должен быть нарушен зрительный контакт. Персонал, предназначенный для входа в контейнер, проинструктирован предупреждать друг друга перед тем, как моргнуть. Объект, как сообщается, нападает, ломая шею у основания черепа, или с помощью удушения. В случае нападения персонал должен применять действия по сдерживанию опасных объектов класса 4.
+        Procedimientos especiales de contención: SCP-173 debe mantenerse en un contenedor sellado en todo momento. Cuando el personal visite el contenedor SCP-173, al menos tres personas deben entrar y la puerta debe cerrarse inmediatamente detrás de ellos. Dos personas deben mantener contacto visual directo con SCP-173 en todo momento hasta que todo el personal haya salido del contenedor y esté cerrado con llave.
 
 
-        Персонал докладывает о скрежете, доносящемся из контейнера, когда никто не присутствует внутри. Это считается нормальным, и о любых изменениях в этом поведении должно быть немедленно доложено действующему куратору HMCL.
+        Descripción: Fue trasladado al Sitio-19 en 1993. Su origen sigue siendo desconocido. Está construido con hormigón y barras de refuerzo y presenta restos de pintura en aerosol de la marca Krylon. SCP-173 está animado y es extremadamente hostil. El objeto no puede moverse mientras permanezca dentro de una línea de visión directa. Nunca debe interrumpirse el contacto visual al trabajar con SCP-173. El personal que entre en el contenedor debe avisarse antes de parpadear. Según los informes, el objeto ataca rompiendo el cuello en la base del cráneo o por estrangulamiento. En caso de ataque, el personal debe aplicar los procedimientos de contención para objetos peligrosos de clase 4.
 
 
-        Красновато-коричневая субстанция на полу представляет собой смесь фекалий и крови. Происхождение этих веществ неизвестно. Корпуса должны очищаться раз в две недели.
+        El personal informa de sonidos de raspado procedentes del contenedor cuando no hay nadie dentro. Esto se considera normal; cualquier cambio en esta conducta debe notificarse de inmediato al supervisor de HMCL en funciones.
+
+
+        La sustancia marrón rojiza en el suelo es una mezcla de heces y sangre. El origen de estas sustancias es desconocido. Los recintos deben limpiarse cada dos semanas.
   - uid: 19484
     components:
     - type: Transform
@@ -140310,821 +140310,821 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Объект №: 999
+        Proteger.
 
 
-        Класс содержания:
-
-        [color=#1b7e20]Безопасный[/color]
+        Objeto n.º: 999
 
 
-        Особые условия содержания: SCP-999 дозволяется свободно бродить по территории комплекса, если оно того пожелает. В остальных случаях необходимо держать его внутри загончика с 20:00 до 21:00 или во время блокировки всей Зоны ради безопасности существа. Существу не разрешается выходить из загончика ночью или покидать территорию комплекса. Загончик всегда должен быть чист, еду следует приносить дважды в день. В зону содержания SCP-999 разрешено входить всем сотрудникам, но только если в это время у них нет других дел или если у них перерыв. С существом следует играть, когда ему скучно, говорить с ним нужно спокойным голосом, избегая угрожающего тона.
+        Clase del objeto:
+
+        [color=#1b7e20]Seguro[/color]
 
 
-        Описание: SCP-999 выглядит как большая аморфная студенистая масса прозрачной оранжевой слизи, весящая приблизительно 54 кг (120 фунтов) и обладающая вязкостью как у арахисового масла. Размер существа и его форма легко изменяются, хотя в состоянии покоя оно принимает форму приплюснутой полусферы шириной 2 м и высотой 1 м. Поверхность SCP-999 покрыта тонкой прозрачной мембраной, как у животных клеток, толщиной примерно 0,5 см. Эта мембрана обладает чрезвычайной эластичностью, что позволяет SCP-999 сплющиваться до толщины в 2 см. И хотя поверхность тела существа обладает свойством гидрофобности, оно способно поглощать жидкости (см. Приложение SCP-999-A). Все тело существа состоит из вязкого оранжевого вещества, химический состав вещества, из которого состоит SCP-999, неизвестен, однако в нём легко могут перевариваться органические соединения.
+        Procedimientos Especiales de Contención: SCP-999 puede desplazarse libremente por la instalación cuando así lo desee. En cualquier otro momento debe permanecer en su corral entre las 20:00 y las 21:00 o durante un confinamiento general del Sitio, por su propia seguridad. No se le permite abandonar el corral durante la noche ni salir de la instalación. El corral debe mantenerse limpio y debe llevársele comida dos veces al día. Todo el personal puede entrar en el área de contención de SCP-999, pero solo cuando no tenga otras obligaciones o se encuentre en descanso. Debe jugarse con la criatura cuando se aburra y hablarle con voz tranquila, sin adoptar un tono amenazante.
 
 
-        Характер существа лучше всего можно описать как "игривый", в чём-то его поведение схоже с собачьим: если к нему подойти, SCP-999 будет изображать бурный восторг, подползет к ближайшему человеку и запрыгнет на него, "обнимая" его парой ложноножек, а третьей прижимаясь к лицу человека, всё время издавая высокий звук, похожий на булькание и воркование. Поверхность SCP-999 испускает приятный аромат, который различается в зависимости от того, с кем оно взаимодействует. Были зафиксированы запахи шоколада, свежевыстиранного белья, бекона, роз и пластилина Play-Doh™.
+        Descripción: SCP-999 parece una gran masa gelatinosa amorfa de limo naranja translúcido que pesa aproximadamente 54 kg (120 libras) y tiene una viscosidad similar a la mantequilla de maní. Su tamaño y forma cambian con facilidad, aunque en reposo adopta la forma de un hemisferio aplanado de 2 m de ancho y 1 m de alto. La superficie está cubierta por una membrana fina y transparente, similar a la de una célula animal, de aproximadamente 0,5 cm de grosor. Esta membrana es extremadamente elástica y permite que SCP-999 se aplane hasta alcanzar solo 2 cm de espesor. Aunque la superficie de la criatura es hidrófoba, puede absorber líquidos (véase el Anexo SCP-999-A). Todo su cuerpo está compuesto por una sustancia naranja viscosa cuya composición química se desconoce, pero que puede digerir fácilmente compuestos orgánicos.
 
 
-        Прикосновение к поверхности SCP-999 немедленно вызывает лёгкую эйфорию, которая становится сильнее в зависимости от времени соприкосновения с объектом и длится ещё долгое время после отделения от существа. Больше всего SCP-999 любит устраивать "щекоточную борьбу", полностью обволакивая человека от шеи до самых пяток и щекоча его, пока ему не будет приказано остановиться (хотя оно не всегда выполняет этот приказ). И хотя при этом возможны случаи травматизации, SCP-999 никогда не старается причинить людям вред предумышленно; если существо заметит, что своими действиями нанесло вред человеку, то быстро отползёт в сторону и свернётся в дрожащий шар, издавая при этом звук, похожий на собачье скуление, как будто извиняясь за свой проступок.
+        El carácter de la criatura se describe mejor como «juguetón» y su conducta se parece en ciertos aspectos a la de un perro: cuando alguien se acerca, SCP-999 manifiesta una gran alegría, se arrastra hasta la persona más cercana y salta sobre ella, la «abraza» con dos pseudópodos y apoya un tercero contra su rostro mientras emite un sonido agudo semejante a gorgoteos y arrullos. La superficie de SCP-999 desprende un aroma agradable que varía según la persona con la que interactúe. Se han registrado olores a chocolate, ropa recién lavada, tocino, rosas y plastilina Play-Doh™.
 
 
-        Хотя существо может взаимодействовать с любым человеком, оно, похоже, проявляет особый интерес к тем, кто несчастен или подавлен. Люди, страдающие от депрессии или ПТСР, после взаимодействия с SCP-999 становились бодры и приобретали крайне позитивное восприятие жизни. Обсуждалась возможность продажи слизи SCP-999 в качестве антидепрессанта.
+        El contacto con la superficie de SCP-999 provoca de inmediato una euforia leve que aumenta según la duración del contacto y persiste durante mucho tiempo después de separarse de la criatura. Su actividad favorita es la «lucha de cosquillas»: envuelve por completo a una persona desde el cuello hasta los talones y le hace cosquillas hasta que se le ordena detenerse, aunque no siempre obedece. Si bien pueden producirse lesiones, SCP-999 nunca intenta hacer daño deliberadamente. Si advierte que ha lastimado a alguien, se aparta con rapidez, se encoge formando una bola temblorosa y emite un sonido similar al gemido de un perro, como si se disculpara.
 
 
-        Кроме своего игривого поведения, SCP-999 также любит всех животных (особенно людей), отказывается есть любое мясо и даже рискует собственной жизнью для спасения других - например, прыгая перед человеком, чтобы принять на себя пулю (разумность существа всё ещё является предметом споров: хотя его поведение кажется инфантильным, оно, похоже, понимает человеческую речь и назначение большинства современных технологий, в том числе и оружия). Рацион существа состоит исключительно из сладостей и конфет, больше всего оно любит конфеты M&M's™ и вафли Necco™. Способ питания подобен таковому у амебы.
+        Aunque puede interactuar con cualquier persona, la criatura parece mostrar un interés especial por quienes se sienten infelices o deprimidos. Personas con depresión o TEPT se han mostrado animadas y han adquirido una visión extremadamente positiva de la vida tras interactuar con SCP-999. Se ha debatido la posibilidad de comercializar su limo como antidepresivo.
+
+
+        Además de su conducta juguetona, SCP-999 siente afecto por todos los animales, en especial por los seres humanos; se niega a comer carne e incluso arriesga su vida para salvar a otros, por ejemplo, interponiéndose para recibir una bala. La inteligencia de la criatura sigue siendo objeto de debate: aunque su comportamiento parece infantil, comprende el habla humana y la función de la mayoría de las tecnologías modernas, incluidas las armas. Su dieta consiste exclusivamente en dulces y caramelos; sus favoritos son los caramelos M&M™ y las obleas Necco™. Se alimenta de forma similar a una ameba.
   - uid: 19485
     components:
     - type: MetaData
-      name: Документация об SCP-131
+      name: Documentación de SCP-131
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 2.3567734,75.07809
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Объект №: 131
+        Proteger.
 
 
-        Класс содержания:
-
-        [color=#1b7e20]Безопасный[/color]
+        Objeto n.º: 131
 
 
-        Особые условия содержания: Никаких особых действий в отношении SCP-131-A и SCP-131-B предпринимать не требуется. Им позволено свободно перемещаться по Зоне 19, но запрещено входить в режимные помещения или пытаться покинуть Зону. Общение с субъектами разрешено, но рекомендуется сводить его к минимуму, чтобы у субъектов не выработалось привязанности к сотрудникам. Следует ежечасно отслеживать местонахождение субъектов, несоблюдение этого условия влечёт за собой карантинную ситуацию первого уровня. Все случаи грубого обращения с субъектами будут расследованы, виновные понесут суровое наказание.
+        Clase del objeto:
+
+        [color=#1b7e20]Seguro[/color]
 
 
-        Описание: SCP-131-A и SCP-131-B (сотрудники любовно прозвали их "каплеглазики") - два создания с каплевидной формой тела, примерно 30 сантиметров в высоту. В середине тела расположен один голубой глаз. SCP-131-A имеет охровый окрас, SCP-131-B - горчично-жёлтый. В основании тела обоих есть образование, напоминающее колесо, что наталкивает на мысль о биомеханической природе созданий. Субъекты могут двигаться удивительно быстро, проходя 60 метров за несколько секунд. Стоит отметить, что у субъектов нет тормозной системы, что не раз приводило к небезынтересным, а то и вовсе забавным, происшествиям. Также субъекты проявили способность карабкаться по отвесным поверхностям и не раз терялись в вентиляционной системе.
+        Procedimientos especiales de contención: No se requiere ninguna acción especial respecto a SCP-131-A y SCP-131-B. Se les permite moverse libremente por el Sitio-19, pero no pueden entrar en áreas seguras ni intentar salir del sitio. Se permite la comunicación con los sujetos, pero se recomienda mantenerla al mínimo para evitar que desarrollen vínculos con el personal. El paradero de los sujetos debe ser monitorizado cada hora, y el incumplimiento de ello resultará en una situación de cuarentena de Nivel 1. Todos los casos de abuso de sujetos serán investigados y severamente castigados.
 
 
-        Интеллект субъектов находится на уровне обычной домашней кошки, к тому же они невероятно любопытны. Большую часть времени они проводят, катаясь по учреждению, наблюдая за сотрудниками и подглядывая за другими безопасными SCP. Субъекты могут переговариваться при помощи непереводимого писклявого бормотания. Никто никогда не видел, чтобы они моргали, даже в опыте, когда их снимали на камеру 18 часов подряд.
+        Descripción: SCP-131-A y SCP-131-B, apodados cariñosamente «ojitos» por el personal, son dos criaturas de cuerpo lacriforme que miden aproximadamente 30 centímetros de altura. En el centro del cuerpo tienen un único ojo azul. SCP-131-A es de color ocre y SCP-131-B, amarillo mostaza. Ambos poseen en la base una formación semejante a una rueda, lo que sugiere una naturaleza biomecánica. Pueden desplazarse a una velocidad sorprendente y recorrer 60 metros en pocos segundos. Cabe señalar que no poseen sistema de frenado, lo que ha ocasionado incidentes interesantes e incluso divertidos. También pueden trepar por superficies verticales y se han perdido más de una vez en el sistema de ventilación.
 
 
-        Субъекты хорошо реагируют на доброту к ним и быстро привязываются к тому, кто эту доброту проявляет, примерно так же, как щенки привязываются к человеку. Они будут преследовать того, к кому привязались, повсюду, даже в режимные зоны. Несмотря на своё любопытство, субъекты чувствуют опасность, когда она рядом, а если объект их привязанности начинает приближаться к тому, что они считают опасными (например, к объектам класса Евклид или Кетер), они станут носиться под ногами (или другими конечностями) и что-то бормотать паническим голосом, словно предупреждая. Поскольку персонал Зоны 19 ежедневно сталкивается с объектами класса Евклид и Кетер, сотрудникам не рекомендуется создавать привязанность, т. к. это отвлекает во время сложных операций и исследований и может подставить под угрозу самих субъектов (см. приложение 131-1). Если объект привязанности будет достаточно долго игнорировать субъектов, они в конце концов утратят интерес и вернутся к обычной деятельности.
+        Los sujetos poseen una inteligencia comparable a la de un gato doméstico y son extraordinariamente curiosos. Pasan gran parte del tiempo rodando por la instalación, observando al personal y espiando a otros SCP de clase Seguro. Pueden comunicarse mediante murmullos agudos imposibles de traducir. Nunca se los ha visto parpadear, ni siquiera durante una prueba en la que fueron grabados durante 18 horas seguidas.
 
 
-        Стоит отметить, что за субъектами не требуется какой-либо уход. Они не едят, отходов пищеварения тоже нет, и во сне не нуждаются. Похоже, что для жизни им требуется только утолять информационный голод (требуются дополнительные исследования для проверки этой гипотезы).
+        Los sujetos responden bien a la amabilidad y se encariñan rápidamente con quien los trata de ese modo, de forma similar a un cachorro. Siguen a la persona por toda la instalación, incluso hasta zonas restringidas. Pese a su curiosidad, perciben el peligro cercano; si la persona a la que siguen se aproxima a algo que consideran peligroso, como un objeto de clase Euclid o Keter, se interponen entre sus pies —u otras extremidades— y murmuran con voz de pánico a modo de advertencia. Debido a que el personal del Sitio-19 trata a diario con objetos Euclid y Keter, se recomienda no fomentar estos vínculos, pues distraen durante operaciones e investigaciones complejas y pueden poner en peligro a los propios sujetos (véase el Anexo 131-1). Si la persona ignora a los sujetos durante suficiente tiempo, estos terminan por perder el interés y retoman sus actividades habituales.
 
 
-        Субъектов SCP-131-A и SCP-131-B нашли на кукурузном поле в районе ████████████ в 19██ году. Их быстро перевезли в Зону 19 с помощью [ДАННЫЕ УДАЛЕНЫ], понизили класс до Безопасного и дали свободно перемещаться по Зоне, как только стало ясно, что они не транслируют увиденное куда-либо.
+        Cabe destacar que los sujetos no requieren ningún tipo de cuidados. No comen, no tienen residuos digestivos y no necesitan dormir. Parece que solo necesitan saciar su hambre de información para poder vivir (se necesita más investigación para comprobar esta hipótesis).
+
+
+        SCP-131-A y SCP-131-B fueron encontrados en un maizal de la región de ████████████ en 19██. Fueron trasladados rápidamente al Sitio-19 mediante [DATOS ELIMINADOS], reclasificados como Seguros y autorizados a desplazarse libremente por el Sitio cuando se comprobó que no transmitían lo que veían a ningún lugar.
   - uid: 19487
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -64.503586,69.57983
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19488
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -67.48073,69.55639
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19489
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -70.504166,69.57983
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19490
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -73.504166,69.57983
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19491
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -76.47429,69.55639
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19492
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -79.48187,69.57983
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19493
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -82.503235,69.55639
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19494
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -85.45636,69.603264
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19495
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -88.503235,69.603264
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19496
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -91.52667,69.6267
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19497
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -85.4798,79.58764
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19498
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -82.52667,79.5642
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19499
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -79.55104,79.634514
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19500
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -76.48097,79.5642
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19501
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -73.50685,79.58764
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19502
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -70.52048,79.58764
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19503
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -67.56413,79.65795
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19504
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -64.49382,79.61108
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19505
     components:
     - type: Transform
       pos: -67.31041,75.58918
       parent: 2
     - type: Paper
-      content: Я конечно всё понимаю но зачем сюда притащили кофейный автомат? Лучше бы у нас в отделе стоял...
+      content: Entiendo muchas cosas, pero ¿por qué trajeron aquí una máquina de café? Estaría mejor en nuestro departamento...
   - uid: 19506
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -30.449505,73.544174
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19507
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -30.519817,73.40355
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19508
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -30.379192,73.262924
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19509
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -30.566692,73.61449
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19510
     components:
     - type: MetaData
-      name: Документация для персонала класса D
+      name: Documentación para el personal de clase D
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -30.379192,73.52074
       parent: 2
     - type: Paper
       content: >-
-        Обезопасить.
+        Asegurar.
 
-        Удержать.
+        Contener.
 
-        Сохранить.
-
-
-        Ориентационная листовка для [color=#d2a02d]персонала класса D[/color]
+        Proteger.
 
 
-        От лица Фонда SCP и его сотрудников мы приветствуем Вас. Вы проведёте одномесячный рабочий период в одном из наших совершенно секретных комплексов. К сожалению, детали Вашего назначения сильно засекречены, но, пожалуйста, прочтите этот документ внимательно, чтобы оставаться в максимально возможной безопасности.
+        Folleto de orientación para [color=#d2a02d]personal de clase D[/color]
 
 
-        [color=#d2a02d]Каждый сотрудник класса D[/color] получает цифровое обозначение. Ваше персональное обозначение
-
-        уже было выдано вам и оно присутствует на ваших опознавательных знаках.
+        En nombre de la Fundación SCP y su personal, le damos la bienvenida. Pasará un periodo de trabajo de un mes en una de nuestras instalaciones ultrasecretas. Desafortunadamente, los detalles de su misión son altamente clasificados, pero por favor lea este documento con atención para mantenerse lo más seguro posible.
 
 
-        Во время работы Вы примете участие в различных процедурах тестирования. Некоторые из них могут быть чрезвычайно опасными, если не принимать меры предосторожности. Поэтому мы нуждаемся в полном содействии всё время и при любых обстоятельствах — наши высококвалифицированные исследователи и учёные знают как минимизировать риски и обеспечить безопасность всего персонала, задействованного в тестировании. Если Вы не будете следовать данным Вам инструкциям, то мы отправим Вас обратно в тюрьму, где Вас ждёт смертная казнь.
+        [color=#d2a02d]Cada integrante del personal de clase D[/color] recibe una designación numérica. Su designación personal
+
+        ya se le ha asignado y figura en sus identificaciones.
 
 
-        Если всё пойдёт по плану (что означает, что мы получим Ваше полное содействие), Вы будете освобождены в конце месяца и Вам будут прощены все Ваши прошлые преступления.
+        Durante su trabajo, participará en diversos procedimientos de prueba. Algunos de ellos pueden ser extremadamente peligrosos si no se toman precauciones. Por ello, necesitamos plena cooperación en todo momento y en todas las circunstancias: nuestros investigadores y científicos altamente cualificados saben cómo minimizar los riesgos y garantizar la seguridad de todo el personal implicado en las pruebas. Si no sigue las instrucciones que le han dado, le enviaremos de nuevo a prisión, donde se enfrentará a la pena de muerte.
+
+
+        Si todo sale según lo previsto —es decir, si contamos con su plena cooperación—, será liberado al final del mes y se le perdonarán todos sus delitos anteriores.
   - uid: 19511
     components:
     - type: Transform
@@ -141198,13 +141198,13 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        В случае нарушения условий содержания SCP-106, для возврата объекта готовится один человек возрастом от 10 до 25 лет. В это время производится замена и восстановление повреждённой камеры содержания. После этого, субъект-приманка получает травму - либо перелом длинной кости, такой как бедренная, либо перерезание важного сухожилия, например, ахиллова. Затем, субъект-приманка помещается в подготовленную камеру содержания, а издаваемые им звуки транслируются по системе публичного оповещения Зоны.
+        En caso de ruptura de la contención de SCP-106, se prepara a una persona de entre 10 y 25 años para atraer de vuelta al objeto. Mientras tanto, se sustituye y repara la cámara dañada. Después se provoca al sujeto-cebo una lesión: la fractura de un hueso largo, como el fémur, o el corte de un tendón importante, como el de Aquiles. A continuación se coloca al sujeto en la cámara preparada y sus sonidos se transmiten por el sistema de megafonía del Sitio.
 
 
-        Обычно, SCP-106 устремляется к приманке примерно через 10-15 минут после того, как услышит его голос. В случае, если SCP-106 не отреагирует на первые звуки, субъекту-приманке следует наносить новую травму раз в 20 минут, пока SCP-106 не отзовётся. В наиболее тяжёлых случаях нарушения условий содержания допускается применение нескольких приманок.
+        SCP-106 suele dirigirse hacia el cebo entre 10 y 15 minutos después de oír su voz. Si no responde a los primeros sonidos, debe provocarse una nueva lesión al sujeto-cebo cada 20 minutos hasta obtener respuesta. En las rupturas de contención más graves se permite utilizar varios cebos.
 
 
-        Как правило, разделавшись с субъектом-приманкой, SCP-106 входит в состояние бездействия. Вдобавок, жертвы могут [ДАННЫЕ УДАЛЕНЫ].
+        Normalmente, SCP-106 entra en estado de inactividad tras deshacerse del sujeto del cebo. Además, las víctimas pueden [DATOS ELIMINADOS].
   - uid: 19524
     components:
     - type: Transform
@@ -141213,9 +141213,9 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        [italic]Пожалуйста, надевайте наушники во время проведения RP-106-N, нам не нужны сотрудники, сошедшие с ума, от прослушивания криков бедолаг, используемых в ходе протокола.[/italic]
+        [italic]Por favor, usen protección auditiva durante la aplicación del protocolo RP-106-N. No necesitamos personal que pierda la cordura al escuchar los gritos de las pobres personas utilizadas durante el procedimiento.[/italic]
 
-                    [italic]Др Арсентьев[/italic]
+                    [italic]Dr. Arsentiev[/italic]
   - uid: 19525
     components:
     - type: Transform
@@ -141880,8 +141880,8 @@ entities:
   - uid: 19617
     components:
     - type: MetaData
-      desc: ручка архитектора Nicolay, говорят что именно ей он чертит планы новых построек.
-      name: ручка Архитектора
+      desc: El bolígrafo del arquitecto Nikolái; dicen que con él traza los planos de las nuevas construcciones.
+      name: bolígrafo del arquitecto
     - type: Transform
       pos: 22.440292,27.418484
       parent: 2
@@ -142228,7 +142228,7 @@ entities:
   - uid: 19645
     components:
     - type: MetaData
-      desc: От него пахнет порохом...
+      desc: Huele a pólvora...
       name: Xory
     - type: Transform
       pos: 29.375626,42.681225
@@ -142236,7 +142236,7 @@ entities:
   - uid: 19646
     components:
     - type: MetaData
-      desc: Оно устало... Что оно делает?..
+      desc: Parece cansado... ¿Qué está haciendo?...
       name: Xory
     - type: Transform
       rot: -1.5707963267948966 rad
@@ -142524,8 +142524,8 @@ entities:
   - uid: 35952
     components:
     - type: MetaData
-      desc: Крошечный монитор камер видонаблюдения, через него также можно наблюдать за происходящим. К сожалению его нельзя поднять без полного уничтожения так как он приклеен к полу.
-      name: крошечный монитор камер
+      desc: Un monitor diminuto de videovigilancia que también permite observar lo que sucede. Por desgracia, no puede levantarse sin destruirlo por completo porque está pegado al suelo.
+      name: monitor de cámaras diminuto
     - type: Transform
       pos: 57.924744,17.392635
       parent: 2
@@ -153750,7 +153750,7 @@ entities:
   - uid: 20601
     components:
     - type: MetaData
-      name: старший научный сотрудник
+      name: investigador sénior
     - type: Transform
       pos: 22.5,68.5
       parent: 2
@@ -153855,7 +153855,7 @@ entities:
   - uid: 21653
     components:
     - type: MetaData
-      name: главный научный сотрудник
+      name: Investigador Jefe
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 35.5,72.5
@@ -165603,18 +165603,18 @@ entities:
       pos: -23.5,30.5
       parent: 2
     - type: NavMapBeacon
-      text: Зона содержания SCP-330
+      text: Área de contención de SCP-330
     - type: WarpPoint
-      location: Зона содержания SCP-330
+      location: Área de contención de SCP-330
   - uid: 23337
     components:
     - type: Transform
       pos: -27.5,38.5
       parent: 2
     - type: NavMapBeacon
-      text: Зона содержания SCP-012
+      text: Área de contención de SCP-012
     - type: WarpPoint
-      location: Зона содержания SCP-012
+      location: Área de contención de SCP-012
 - proto: ScpFacilityBeaconScpHumanoidContainment
   entities:
   - uid: 23341
@@ -165925,8 +165925,8 @@ entities:
   - uid: 21259
     components:
     - type: MetaData
-      desc: Здесь хранятся запасные вещи
-      name: шкаф
+      desc: Aquí se guardan objetos de repuesto.
+      name: armario
     - type: Transform
       rot: -3.141592653589793 rad
       pos: -3.5,126.5
@@ -226522,7 +226522,7 @@ entities:
   - uid: 34989
     components:
     - type: MetaData
-      name: знак хранилище объектов
+      name: señal de almacén de objetos
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 58.5,67.5
@@ -229701,8 +229701,8 @@ entities:
   - uid: 34017
     components:
     - type: MetaData
-      desc: Статуя агента SCP, который лишился жизни, сражаясь во тьме, чтоб остальные жили на свету!
-      name: статуя Агента SCP
+      desc: ¡Una estatua de un agente SCP que perdió la vida luchando en la oscuridad para que otros pudieran vivir en la luz!
+      name: estatua de un agente SCP
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 37.5,22.5
@@ -229712,8 +229712,8 @@ entities:
   - uid: 34018
     components:
     - type: MetaData
-      desc: Статуя агента SCP, который лишился жизни, сражаясь во тьме, чтоб остальные жили на свету!
-      name: статуя Агента SCP
+      desc: ¡Una estatua de un agente SCP que perdió la vida luchando en la oscuridad para que otros pudieran vivir en la luz!
+      name: estatua de un agente SCP
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 32.5,22.5
@@ -233399,8 +233399,8 @@ entities:
   - uid: 32321
     components:
     - type: MetaData
-      desc: Фигурка изображающая сотрудника Штаба О4, Вергилия Ноктурна в бронированном костюме. На его плече красуется маленькая надпись "Zero", а руки сжимают планшет показывающий вид с камер учреждения, следит как всегда.
-      name: фигурка Zero
+      desc: Una figura de Virgilio Nocturn, miembro del Estado Mayor O4, con traje blindado. En el hombro luce una pequeña inscripción: «Zero»; entre las manos sostiene una tableta que muestra las cámaras de la instalación. Vigila, como siempre.
+      name: figura de Zero
     - type: Transform
       pos: 57.448254,17.561966
       parent: 2
@@ -233411,8 +233411,8 @@ entities:
   - uid: 34630
     components:
     - type: MetaData
-      desc: Фигурка архитектора комплекса Николая.
-      name: Фигурка архитектора Николая
+      desc: Una figura del arquitecto del complejo, Nikolái.
+      name: figura del arquitecto Nikolái
     - type: Transform
       pos: 21.57181,27.453205
       parent: 2
@@ -233477,14 +233477,14 @@ entities:
   - uid: 34636
     components:
     - type: MetaData
-      desc: Пятьдесят центов США... не знаю, для чего они могут понадобиться вам.
+      desc: Cincuenta centavos estadounidenses... No sé para qué podrían servirle.
     - type: Transform
       pos: 1.1614685,38.49657
       parent: 2
   - uid: 34637
     components:
     - type: MetaData
-      desc: Пятьдесят центов США... не знаю, для чего они могут понадобиться вам.
+      desc: Cincuenta centavos estadounidenses... No sé para qué podrían servirle.
     - type: Transform
       pos: 1.323967,38.55907
       parent: 2
@@ -234298,7 +234298,7 @@ entities:
   - uid: 34749
     components:
     - type: MetaData
-      name: Кабинет директора
+      name: Oficina del director
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 34.5,28.5
@@ -234306,7 +234306,7 @@ entities:
   - uid: 34750
     components:
     - type: MetaData
-      name: Подъездная дорога для МОГ
+      name: Vía de acceso para la FTM
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 46.5,2.5
@@ -234314,7 +234314,7 @@ entities:
   - uid: 34751
     components:
     - type: MetaData
-      name: Ворота А
+      name: Puerta A
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -14.5,13.5
@@ -234322,7 +234322,7 @@ entities:
   - uid: 34752
     components:
     - type: MetaData
-      name: Ворота Б
+      name: Puerta B
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 6.5,3.5
@@ -234330,7 +234330,7 @@ entities:
   - uid: 34753
     components:
     - type: MetaData
-      name: Убежище на улице
+      name: Refugio exterior
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 15.5,5.5
@@ -234338,7 +234338,7 @@ entities:
   - uid: 34754
     components:
     - type: MetaData
-      name: Сторожевая вышка ворот Б
+      name: Torre de vigilancia de la Puerta B
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 31.5,-1.5
@@ -234346,7 +234346,7 @@ entities:
   - uid: 34755
     components:
     - type: MetaData
-      name: Сторожевая вышка ворот А
+      name: Torre de vigilancia de la Puerta A
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -0.5,-10.5
@@ -234354,7 +234354,7 @@ entities:
   - uid: 34756
     components:
     - type: MetaData
-      name: Эвакуационная площадка
+      name: Zona de evacuación
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -21.5,-13.5
@@ -234362,7 +234362,7 @@ entities:
   - uid: 34757
     components:
     - type: MetaData
-      name: Телекомы
+      name: Telecomunicaciones
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -4.5,11.5
@@ -234370,7 +234370,7 @@ entities:
   - uid: 34758
     components:
     - type: MetaData
-      name: Убежище в АЗ
+      name: Refugio de la ZA
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -23.5,18.5
@@ -234378,7 +234378,7 @@ entities:
   - uid: 34759
     components:
     - type: MetaData
-      name: Инженерный отдел
+      name: Departamento de Ingeniería
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -40.5,22.5
@@ -234386,7 +234386,7 @@ entities:
   - uid: 34760
     components:
     - type: MetaData
-      name: Атмос
+      name: Atmós
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -46.5,35.5
@@ -234394,7 +234394,7 @@ entities:
   - uid: 34761
     components:
     - type: MetaData
-      name: Ядерный реактор
+      name: Reactor nuclear
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -54.5,19.5
@@ -234402,7 +234402,7 @@ entities:
   - uid: 34762
     components:
     - type: MetaData
-      name: Кофитерий
+      name: Cafetería
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 2.5,33.5
@@ -234410,7 +234410,7 @@ entities:
   - uid: 34763
     components:
     - type: MetaData
-      name: Кабинет представителя КпЭ
+      name: Oficina del representante del CE
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 21.5,33.5
@@ -234430,7 +234430,7 @@ entities:
   - uid: 34766
     components:
     - type: MetaData
-      name: Снабжение
+      name: Logística
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 57.5,27.5
@@ -234438,7 +234438,7 @@ entities:
   - uid: 34767
     components:
     - type: MetaData
-      name: Администрация
+      name: Administración
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 46.5,21.5
@@ -234446,7 +234446,7 @@ entities:
   - uid: 34768
     components:
     - type: MetaData
-      name: Убежище администрации
+      name: Refugio de Administración
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 45.5,13.5
@@ -234454,7 +234454,7 @@ entities:
   - uid: 34769
     components:
     - type: MetaData
-      name: Мусоросброс АЗ
+      name: Vertedero de la ZA
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 22.5,11.5
@@ -234462,7 +234462,7 @@ entities:
   - uid: 34770
     components:
     - type: MetaData
-      name: КПП АЗ-ЛЗС "Б"
+      name: Puesto de control ZA-ZCL «B»
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 16.5,45.5
@@ -234470,7 +234470,7 @@ entities:
   - uid: 34771
     components:
     - type: MetaData
-      name: Убежище в ЛЗС
+      name: Refugio de la ZCL
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -29.5,45.5
@@ -234478,7 +234478,7 @@ entities:
   - uid: 34772
     components:
     - type: MetaData
-      name: Убежище в ЛЗС
+      name: Refugio de la ZCL
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -13.5,84.5
@@ -234492,7 +234492,7 @@ entities:
   - uid: 34774
     components:
     - type: MetaData
-      name: Отдел СБ ЛЗС (Комендатура)
+      name: Departamento de Seguridad de la ZCL (Comandancia)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -43.5,55.5
@@ -234500,7 +234500,7 @@ entities:
   - uid: 34775
     components:
     - type: MetaData
-      name: Кабинет ГВ
+      name: Consultorio del médico jefe
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 8.5,68.5
@@ -234508,7 +234508,7 @@ entities:
   - uid: 34776
     components:
     - type: MetaData
-      name: Мед отдел
+      name: Departamento Médico
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -3.5,64.5
@@ -234524,7 +234524,7 @@ entities:
   - uid: 34778
     components:
     - type: MetaData
-      name: КПП АЗ-ЛЗС "А"
+      name: Puesto de control ZA-ZCL «A»
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -13.5,45.5
