@@ -1,237 +1,237 @@
-inventory-tutorial-name = Inventory, hands, and storage
-inventory-tutorial-tooltip = Learn how to wear items, use pockets, open your backpack and toolbelt, and keep track of the active hand.
+inventory-tutorial-name = Inventario, manos y almacenamiento
+inventory-tutorial-tooltip = Aprende a equipar objetos, usar los bolsillos, abrir la mochila y el cinturón de herramientas, y controlar cuál es tu mano activa.
 
-inv-tut-open-inventory-bubble = Press the highlighted inventory icon [tutkeybind="OpenInventoryMenu"].
-inv-tut-open-inventory-chat = Press the highlighted inventory icon on the HUD. The window shows your worn slots, pockets, backpack, belt, and both hands.
-inv-tut-open-inventory-tts = Press the highlighted inventory icon. The window shows your worn slots, pockets, backpack, belt, and both hands.
+inv-tut-open-inventory-bubble = Presiona el icono de inventario resaltado [tutkeybind="OpenInventoryMenu"].
+inv-tut-open-inventory-chat = Presiona el icono de inventario resaltado en el HUD. La ventana muestra tus ranuras de equipo, bolsillos, mochila, cinturón y ambas manos.
+inv-tut-open-inventory-tts = Presiona el icono de inventario resaltado. La ventana muestra tus ranuras de equipo, bolsillos, mochila, cinturón y ambas manos.
 
-inv-tut-pick-up-beret-bubble = Pick up the highlighted beret from the table with [tutkeybind="UIClick"].
-inv-tut-pick-up-beret-chat = Pick up the highlighted beret from the nearby table. It needs to be in your hand before you can equip it to the head slot.
-inv-tut-pick-up-beret-tts = Pick up the highlighted beret from the nearby table. It needs to be in your hand before you can equip it to the head slot.
+inv-tut-pick-up-beret-bubble = Recoge la boina resaltada de la mesa con [tutkeybind="UIClick"].
+inv-tut-pick-up-beret-chat = Recoge la boina resaltada de la mesa cercana. Debe estar en tu mano antes de que puedas equiparla en la ranura de la cabeza.
+inv-tut-pick-up-beret-tts = Recoge la boina resaltada de la mesa cercana. Debe estar en tu mano antes de que puedas equiparla en la ranura de la cabeza.
 
-inv-tut-equip-beret-bubble = Equip the beret to the highlighted head slot with [tutkeybind="UIClick"].
-inv-tut-equip-beret-chat = Drag the beret from your hand into the highlighted head slot. You can also press [tutkeybind="ActivateItemInHand"] if the beret is in your active hand.
-inv-tut-equip-beret-tts = Drag the beret from your hand into the highlighted head slot, or use quick equip if the beret is in your active hand.
+inv-tut-equip-beret-bubble = Equipa la boina en la ranura de cabeza resaltada con [tutkeybind="UIClick"].
+inv-tut-equip-beret-chat = Arrastra la boina desde tu mano hasta la ranura de cabeza resaltada. También puedes presionar [tutkeybind="ActivateItemInHand"] si la boina está en tu mano activa.
+inv-tut-equip-beret-tts = Arrastra la boina desde tu mano hasta la ranura de cabeza resaltada, o usa el equipamiento rápido si la boina está en tu mano activa.
 
-inv-tut-pick-up-small-item-bubble = Pick up the highlighted paper with [tutkeybind="UIClick"].
-inv-tut-pick-up-small-item-chat = Pick up the highlighted paper. This is a small item, and small items are convenient to store in pockets instead of keeping them in your hands.
-inv-tut-pick-up-small-item-tts = Pick up the highlighted paper. This is a small item, and small items are convenient to store in pockets instead of keeping them in your hands.
+inv-tut-pick-up-small-item-bubble = Recoge el papel resaltado con [tutkeybind="UIClick"].
+inv-tut-pick-up-small-item-chat = Recoge el papel resaltado. Es un objeto pequeño, y los objetos pequeños son más cómodos de guardar en los bolsillos que de mantener en las manos.
+inv-tut-pick-up-small-item-tts = Recoge el papel resaltado. Es un objeto pequeño, y los objetos pequeños son más cómodos de guardar en los bolsillos que de mantener en las manos.
 
-inv-tut-put-small-item-pocket-bubble = Drag the paper into a pocket with [tutkeybind="UIClick"].
-inv-tut-put-small-item-pocket-chat = Drag the paper from your hand into the highlighted pocket on the bottom bar. Pockets are good for small items you need to grab quickly.
-inv-tut-put-small-item-pocket-tts = Drag the paper from your hand into the highlighted pocket on the bottom bar. Pockets are good for small items you need to grab quickly.
+inv-tut-put-small-item-pocket-bubble = Arrastra el papel a un bolsillo con [tutkeybind="UIClick"].
+inv-tut-put-small-item-pocket-chat = Arrastra el papel desde tu mano hasta el bolsillo resaltado de la barra inferior. Los bolsillos son útiles para objetos pequeños que necesitas sacar rápidamente.
+inv-tut-put-small-item-pocket-tts = Arrastra el papel desde tu mano hasta el bolsillo resaltado de la barra inferior. Los bolsillos son útiles para objetos pequeños que necesitas sacar rápidamente.
 
-inv-tut-pick-up-flashlight-bubble = Pick up the highlighted flashlight with [tutkeybind="UIClick"].
-inv-tut-pick-up-flashlight-chat = Pick up the highlighted flashlight. You will store it in your backpack, then take it back out to practice using storage.
-inv-tut-pick-up-flashlight-tts = Pick up the highlighted flashlight. You will store it in your backpack, then take it back out to practice using storage.
+inv-tut-pick-up-flashlight-bubble = Recoge la linterna resaltada con [tutkeybind="UIClick"].
+inv-tut-pick-up-flashlight-chat = Recoge la linterna resaltada. La guardarás en tu mochila y después la sacarás de nuevo para practicar el uso del almacenamiento.
+inv-tut-pick-up-flashlight-tts = Recoge la linterna resaltada. La guardarás en tu mochila y después la sacarás de nuevo para practicar el uso del almacenamiento.
 
-inv-tut-open-backpack-bubble = Hover over the highlighted backpack and press [tutkeybind="ActivateItemInWorld"].
-inv-tut-open-backpack-chat = Hover over the highlighted backpack slot in the bottom bar and press [tutkeybind="ActivateItemInWorld"]. This opens the backpack immediately without hunting for the small storage button.
-inv-tut-open-backpack-tts = Hover over the highlighted backpack slot in the bottom bar and press the interact key. This opens the backpack immediately.
+inv-tut-open-backpack-bubble = Coloca el cursor sobre la mochila resaltada y presiona [tutkeybind="ActivateItemInWorld"].
+inv-tut-open-backpack-chat = Coloca el cursor sobre la ranura de mochila resaltada en la barra inferior y presiona [tutkeybind="ActivateItemInWorld"]. Esto abre la mochila inmediatamente sin tener que buscar el pequeño botón de almacenamiento.
+inv-tut-open-backpack-tts = Coloca el cursor sobre la ranura de mochila resaltada en la barra inferior y presiona la tecla de interacción. Esto abre la mochila inmediatamente.
 
-inv-tut-put-flashlight-backpack-bubble = Drag the flashlight into the open backpack with [tutkeybind="UIClick"].
-inv-tut-put-flashlight-backpack-chat = Move the flashlight from your hand into the open backpack storage. The backpack is for items that should not occupy your hands right now.
-inv-tut-put-flashlight-backpack-tts = Move the flashlight from your hand into the open backpack storage. The backpack is for items that should not occupy your hands right now.
+inv-tut-put-flashlight-backpack-bubble = Arrastra la linterna dentro de la mochila abierta con [tutkeybind="UIClick"].
+inv-tut-put-flashlight-backpack-chat = Mueve la linterna desde tu mano al almacenamiento abierto de la mochila. La mochila sirve para objetos que no necesitan ocupar tus manos en este momento.
+inv-tut-put-flashlight-backpack-tts = Mueve la linterna desde tu mano al almacenamiento abierto de la mochila. La mochila sirve para objetos que no necesitan ocupar tus manos en este momento.
 
-inv-tut-take-flashlight-back-bubble = Take the flashlight back into your hand with [tutkeybind="UIClick"].
-inv-tut-take-flashlight-back-chat = Drag the flashlight from the backpack storage back into your hand. Stored items are safe, but you usually need to retrieve them before using them.
-inv-tut-take-flashlight-back-tts = Drag the flashlight from the backpack storage back into your hand. Stored items are safe, but you usually need to retrieve them before using them.
+inv-tut-take-flashlight-back-bubble = Saca la linterna de nuevo a tu mano con [tutkeybind="UIClick"].
+inv-tut-take-flashlight-back-chat = Arrastra la linterna desde la mochila de vuelta a tu mano. Los objetos guardados están seguros, pero normalmente necesitas sacarlos antes de usarlos.
+inv-tut-take-flashlight-back-tts = Arrastra la linterna desde la mochila de vuelta a tu mano. Los objetos guardados están seguros, pero normalmente necesitas sacarlos antes de usarlos.
 
-inv-tut-pick-up-tool-bubble = Pick up the highlighted screwdriver with [tutkeybind="UIClick"].
-inv-tut-pick-up-tool-chat = Pick up the highlighted screwdriver. Tools are more convenient in a toolbelt than carried in your hand all the time.
-inv-tut-pick-up-tool-tts = Pick up the highlighted screwdriver. Tools are more convenient in a toolbelt than carried in your hand all the time.
+inv-tut-pick-up-tool-bubble = Recoge el destornillador resaltado con [tutkeybind="UIClick"].
+inv-tut-pick-up-tool-chat = Recoge el destornillador resaltado. Las herramientas son más cómodas de llevar en un cinturón de herramientas que en la mano todo el tiempo.
+inv-tut-pick-up-tool-tts = Recoge el destornillador resaltado. Las herramientas son más cómodas de llevar en un cinturón de herramientas que en la mano todo el tiempo.
 
-inv-tut-open-toolbelt-bubble = Hover over the highlighted belt and press [tutkeybind="ActivateItemInWorld"].
-inv-tut-open-toolbelt-chat = Hover over the highlighted belt slot in the bottom bar and press [tutkeybind="ActivateItemInWorld"]. The toolbelt is already equipped and works as separate tool storage.
-inv-tut-open-toolbelt-tts = Hover over the highlighted belt slot in the bottom bar and press the interact key. The toolbelt is already equipped and works as separate tool storage.
+inv-tut-open-toolbelt-bubble = Coloca el cursor sobre el cinturón resaltado y presiona [tutkeybind="ActivateItemInWorld"].
+inv-tut-open-toolbelt-chat = Coloca el cursor sobre la ranura de cinturón resaltada en la barra inferior y presiona [tutkeybind="ActivateItemInWorld"]. El cinturón de herramientas ya está equipado y funciona como almacenamiento independiente para herramientas.
+inv-tut-open-toolbelt-tts = Coloca el cursor sobre la ranura de cinturón resaltada en la barra inferior y presiona la tecla de interacción. El cinturón de herramientas ya está equipado y funciona como almacenamiento independiente para herramientas.
 
-inv-tut-put-tool-toolbelt-bubble = Drag the screwdriver into the open toolbelt with [tutkeybind="UIClick"].
-inv-tut-put-tool-toolbelt-chat = Move the screwdriver from your hand into the open toolbelt. This keeps your hands free while the tool stays in a predictable place.
-inv-tut-put-tool-toolbelt-tts = Move the screwdriver from your hand into the open toolbelt. This keeps your hands free while the tool stays in a predictable place.
+inv-tut-put-tool-toolbelt-bubble = Arrastra el destornillador dentro del cinturón de herramientas abierto con [tutkeybind="UIClick"].
+inv-tut-put-tool-toolbelt-chat = Mueve el destornillador desde tu mano al cinturón de herramientas abierto. Así mantienes las manos libres mientras la herramienta permanece en un lugar fácil de encontrar.
+inv-tut-put-tool-toolbelt-tts = Mueve el destornillador desde tu mano al cinturón de herramientas abierto. Así mantienes las manos libres mientras la herramienta permanece en un lugar fácil de encontrar.
 
-inv-tut-drop-flashlight-bubble = Free your hands: drop the flashlight on the floor with [tutkeybind="Drop"].
-inv-tut-drop-flashlight-chat = The next exercise needs two free hands. The drop key drops the item from your active hand. If nothing drops, switch hands and press drop again.
-inv-tut-drop-flashlight-tts = The next exercise needs two free hands. The drop key drops the item from your active hand. If nothing drops, switch hands and press drop again.
+inv-tut-drop-flashlight-bubble = Libera tus manos: suelta la linterna en el suelo con [tutkeybind="Drop"].
+inv-tut-drop-flashlight-chat = El siguiente ejercicio necesita dos manos libres. La tecla de soltar deja caer el objeto de tu mano activa. Si no cae nada, cambia de mano y vuelve a presionar la tecla.
+inv-tut-drop-flashlight-tts = El siguiente ejercicio necesita dos manos libres. La tecla de soltar deja caer el objeto de tu mano activa. Si no cae nada, cambia de mano y vuelve a presionar la tecla.
 
-inv-tut-pick-up-pen-bubble = Pick up the pen with an empty hand using [tutkeybind="UIClick"].
-inv-tut-pick-up-pen-chat = Now we will practice the active hand directly. The pen is the first item to watch on the hand panel.
-inv-tut-pick-up-pen-tts = Now we will practice the active hand directly. The pen is the first item to watch on the hand panel.
+inv-tut-pick-up-pen-bubble = Recoge la pluma con una mano vacía usando [tutkeybind="UIClick"].
+inv-tut-pick-up-pen-chat = Ahora practicaremos directamente con la mano activa. La pluma es el primer objeto que debes observar en el panel de manos.
+inv-tut-pick-up-pen-tts = Ahora practicaremos directamente con la mano activa. La pluma es el primer objeto que debes observar en el panel de manos.
 
-inv-tut-swap-hands-for-screwdriver-bubble = Switch active hands with [tutkeybind="SwapHands"] to prepare your other hand.
-inv-tut-swap-hands-for-screwdriver-chat = The active hand is highlighted on the hand panel. Use, drop, and attack always work with the item in the active hand.
-inv-tut-swap-hands-for-screwdriver-tts = The active hand is highlighted on the hand panel. Use, drop, and attack always work with the item in the active hand.
+inv-tut-swap-hands-for-screwdriver-bubble = Cambia de mano activa con [tutkeybind="SwapHands"] para preparar tu otra mano.
+inv-tut-swap-hands-for-screwdriver-chat = La mano activa está resaltada en el panel de manos. Usar, soltar y atacar siempre afectan al objeto de la mano activa.
+inv-tut-swap-hands-for-screwdriver-tts = La mano activa está resaltada en el panel de manos. Usar, soltar y atacar siempre afectan al objeto de la mano activa.
 
-inv-tut-take-screwdriver-bubble = Take the screwdriver into your other hand with [tutkeybind="UIClick"]. If the toolbelt is closed, hover it and press [tutkeybind="ActivateItemInWorld"].
-inv-tut-take-screwdriver-chat = You should now have two different items: the pen in one hand and the screwdriver in the other. The next steps show why active hand matters.
-inv-tut-take-screwdriver-tts = You should now have two different items: the pen in one hand and the screwdriver in the other. The next steps show why active hand matters.
+inv-tut-take-screwdriver-bubble = Toma el destornillador con tu otra mano usando [tutkeybind="UIClick"]. Si el cinturón de herramientas está cerrado, coloca el cursor sobre él y presiona [tutkeybind="ActivateItemInWorld"].
+inv-tut-take-screwdriver-chat = Ahora deberías tener dos objetos diferentes: la pluma en una mano y el destornillador en la otra. Los siguientes pasos muestran por qué importa la mano activa.
+inv-tut-take-screwdriver-tts = Ahora deberías tener dos objetos diferentes: la pluma en una mano y el destornillador en la otra. Los siguientes pasos muestran por qué importa la mano activa.
 
-inv-tut-swap-hands-for-pen-bubble = Switch the active hand back to the pen with [tutkeybind="SwapHands"].
-inv-tut-swap-hands-for-pen-chat = Always check which hand is active before acting. If the screwdriver is active, drop or use will affect the screwdriver, not the pen.
-inv-tut-swap-hands-for-pen-tts = Always check which hand is active before acting. If the screwdriver is active, drop or use will affect the screwdriver, not the pen.
+inv-tut-swap-hands-for-pen-bubble = Cambia la mano activa de nuevo a la pluma con [tutkeybind="SwapHands"].
+inv-tut-swap-hands-for-pen-chat = Comprueba siempre cuál es la mano activa antes de actuar. Si el destornillador está activo, soltar o usar afectará al destornillador, no a la pluma.
+inv-tut-swap-hands-for-pen-tts = Comprueba siempre cuál es la mano activa antes de actuar. Si el destornillador está activo, soltar o usar afectará al destornillador, no a la pluma.
 
-inv-tut-drop-pen-bubble = Drop the pen from your active hand with [tutkeybind="Drop"].
-inv-tut-drop-pen-chat = If the active hand is correct, the pen will fall to the floor. The screwdriver stays in your other hand.
-inv-tut-drop-pen-tts = If the active hand is correct, the pen will fall to the floor. The screwdriver stays in your other hand.
+inv-tut-drop-pen-bubble = Suelta la pluma de tu mano activa con [tutkeybind="Drop"].
+inv-tut-drop-pen-chat = Si la mano activa es la correcta, la pluma caerá al suelo. El destornillador permanecerá en tu otra mano.
+inv-tut-drop-pen-tts = Si la mano activa es la correcta, la pluma caerá al suelo. El destornillador permanecerá en tu otra mano.
 
-inv-tut-swap-hands-for-screwdriver-drop-bubble = Switch the active hand to the screwdriver again with [tutkeybind="SwapHands"].
-inv-tut-swap-hands-for-screwdriver-drop-chat = After dropping the pen, your active hand may be empty. Switch to the hand holding the screwdriver before the next drop.
-inv-tut-swap-hands-for-screwdriver-drop-tts = After dropping the pen, your active hand may be empty. Switch to the hand holding the screwdriver before the next drop.
+inv-tut-swap-hands-for-screwdriver-drop-bubble = Cambia de nuevo la mano activa al destornillador con [tutkeybind="SwapHands"].
+inv-tut-swap-hands-for-screwdriver-drop-chat = Después de soltar la pluma, tu mano activa puede quedar vacía. Cambia a la mano que sostiene el destornillador antes de soltar el siguiente objeto.
+inv-tut-swap-hands-for-screwdriver-drop-tts = Después de soltar la pluma, tu mano activa puede quedar vacía. Cambia a la mano que sostiene el destornillador antes de soltar el siguiente objeto.
 
-inv-tut-drop-screwdriver-bubble = Drop the screwdriver from your active hand with [tutkeybind="Drop"].
-inv-tut-drop-screwdriver-chat = Now you have seen the main rule: the active hand decides which item is used, dropped, and used to attack.
-inv-tut-drop-screwdriver-tts = Now you have seen the main rule: the active hand decides which item is used, dropped, and used to attack.
+inv-tut-drop-screwdriver-bubble = Suelta el destornillador de tu mano activa con [tutkeybind="Drop"].
+inv-tut-drop-screwdriver-chat = Ya viste la regla principal: la mano activa determina qué objeto se usa, se suelta y se utiliza para atacar.
+inv-tut-drop-screwdriver-tts = Ya viste la regla principal: la mano activa determina qué objeto se usa, se suelta y se utiliza para atacar.
 
-inv-tut-final-state-bubble = You have learned the basics of inventory, storage, and the active hand.
-inv-tut-final-state-chat = Great! You now know the basics of inventory, storage, and the active hand.
-inv-tut-final-state-tts = Great! You now know the basics of inventory, storage, and the active hand.
+inv-tut-final-state-bubble = Aprendiste los fundamentos del inventario, el almacenamiento y la mano activa.
+inv-tut-final-state-chat = ¡Bien! Ahora conoces los fundamentos del inventario, el almacenamiento y la mano activa.
+inv-tut-final-state-tts = ¡Bien! Ahora conoces los fundamentos del inventario, el almacenamiento y la mano activa.
 
-inv-tut-repair-equip-backpack-bubble = Open your inventory with [tutkeybind="OpenInventoryMenu"] and put the backpack back on your back.
-inv-tut-repair-equip-backpack-chat = Your backpack is no longer on your back. Equip it into the back slot so the storage steps can continue.
-inv-tut-repair-equip-backpack-tts = Your backpack is no longer on your back. Equip it into the back slot so the storage steps can continue.
+inv-tut-repair-equip-backpack-bubble = Abre tu inventario con [tutkeybind="OpenInventoryMenu"] y vuelve a colocarte la mochila en la espalda.
+inv-tut-repair-equip-backpack-chat = Tu mochila ya no está en tu espalda. Equípala en la ranura de espalda para poder continuar con los pasos de almacenamiento.
+inv-tut-repair-equip-backpack-tts = Tu mochila ya no está en tu espalda. Equípala en la ranura de espalda para poder continuar con los pasos de almacenamiento.
 
-inv-tut-repair-equip-toolbelt-bubble = Open your inventory with [tutkeybind="OpenInventoryMenu"] and put the toolbelt back into the belt slot.
-inv-tut-repair-equip-toolbelt-chat = The toolbelt has to be worn to work as storage. Drag it back into the belt slot.
-inv-tut-repair-equip-toolbelt-tts = The toolbelt has to be worn to work as storage. Drag it back into the belt slot.
+inv-tut-repair-equip-toolbelt-bubble = Abre tu inventario con [tutkeybind="OpenInventoryMenu"] y vuelve a colocar el cinturón de herramientas en la ranura de cinturón.
+inv-tut-repair-equip-toolbelt-chat = El cinturón de herramientas debe estar equipado para funcionar como almacenamiento. Arrástralo de nuevo a la ranura de cinturón.
+inv-tut-repair-equip-toolbelt-tts = El cinturón de herramientas debe estar equipado para funcionar como almacenamiento. Arrástralo de nuevo a la ranura de cinturón.
 
-inv-tut-repair-paper-to-hand-bubble = Take the paper back into your hand with [tutkeybind="UIClick"].
-inv-tut-repair-paper-to-hand-chat = The paper went to the wrong place for this step. Take it back into your hand, then put it into a pocket.
-inv-tut-repair-paper-to-hand-tts = The paper went to the wrong place for this step. Take it back into your hand, then put it into a pocket.
+inv-tut-repair-paper-to-hand-bubble = Vuelve a tomar el papel en tu mano con [tutkeybind="UIClick"].
+inv-tut-repair-paper-to-hand-chat = El papel terminó en el lugar equivocado para este paso. Vuelve a tomarlo en tu mano y después colócalo en un bolsillo.
+inv-tut-repair-paper-to-hand-tts = El papel terminó en el lugar equivocado para este paso. Vuelve a tomarlo en tu mano y después colócalo en un bolsillo.
 
-inv-tut-repair-flashlight-to-hand-bubble = Take the flashlight back into your hand with [tutkeybind="UIClick"].
-inv-tut-repair-flashlight-to-hand-chat = The flashlight is needed in your hand right now. Take it back, then continue with the backpack step.
-inv-tut-repair-flashlight-to-hand-tts = The flashlight is needed in your hand right now. Take it back, then continue with the backpack step.
+inv-tut-repair-flashlight-to-hand-bubble = Vuelve a tomar la linterna en tu mano con [tutkeybind="UIClick"].
+inv-tut-repair-flashlight-to-hand-chat = Ahora necesitas tener la linterna en la mano. Recógela de nuevo y continúa con el paso de la mochila.
+inv-tut-repair-flashlight-to-hand-tts = Ahora necesitas tener la linterna en la mano. Recógela de nuevo y continúa con el paso de la mochila.
 
-inv-tut-repair-tool-to-hand-bubble = Take the screwdriver back into your hand with [tutkeybind="UIClick"].
-inv-tut-repair-tool-to-hand-chat = The screwdriver needs to go into the toolbelt. Take it back into your hand, then move it into the toolbelt.
-inv-tut-repair-tool-to-hand-tts = The screwdriver needs to go into the toolbelt. Take it back into your hand, then move it into the toolbelt.
+inv-tut-repair-tool-to-hand-bubble = Vuelve a tomar el destornillador en tu mano con [tutkeybind="UIClick"].
+inv-tut-repair-tool-to-hand-chat = El destornillador debe ir dentro del cinturón de herramientas. Vuelve a tomarlo en tu mano y después muévelo al cinturón.
+inv-tut-repair-tool-to-hand-tts = El destornillador debe ir dentro del cinturón de herramientas. Vuelve a tomarlo en tu mano y después muévelo al cinturón.
 
-ent-InventoryTutorialWardrobe = Inventory tutorial wardrobe
+ent-InventoryTutorialWardrobe = armario del tutorial de inventario
 
-tutorial-softlock-pickup-highlighted = Pick up only the highlighted item.
-tutorial-softlock-storage-close = Finish working with the highlighted wardrobe first.
-inv-tut-softlock-keep-hand-item = Do not drop the item from your hand yet.
-inv-tut-softlock-keep-hand-items = Do not drop or store the items in your hands yet.
-inv-tut-softlock-drop-item = Drop the item on the floor during this step.
-inv-tut-softlock-keep-dressed = Keep the clothes you already equipped and do not use other slots.
-inv-tut-softlock-equip-item = Put the item into the highlighted slot first.
-inv-tut-softlock-use-highlighted-slot = Use the highlighted inventory slot.
-inv-tut-softlock-open-storage-first = Open the highlighted storage with its hotkey first.
-inv-tut-softlock-use-open-storage = Put the item into the highlighted storage that is already open.
-inv-tut-softlock-use-hand = Take the item from storage into your hand.
-inv-tut-softlock-keep-backpack = Keep the backpack equipped during this step.
-inv-tut-softlock-keep-belt = Keep the belt equipped during this step.
-inv-tut-softlock-storage-ui-not-yet = This storage will be explained later. Follow the current hint for now.
+tutorial-softlock-pickup-highlighted = Recoge únicamente el objeto resaltado.
+tutorial-softlock-storage-close = Termina primero de usar el armario resaltado.
+inv-tut-softlock-keep-hand-item = Todavía no sueltes el objeto que tienes en la mano.
+inv-tut-softlock-keep-hand-items = Todavía no sueltes ni guardes los objetos que tienes en las manos.
+inv-tut-softlock-drop-item = Suelta el objeto en el suelo durante este paso.
+inv-tut-softlock-keep-dressed = Conserva la ropa que ya equipaste y no uses otras ranuras.
+inv-tut-softlock-equip-item = Coloca primero el objeto en la ranura resaltada.
+inv-tut-softlock-use-highlighted-slot = Usa la ranura de inventario resaltada.
+inv-tut-softlock-open-storage-first = Abre primero el almacenamiento resaltado con su tecla rápida.
+inv-tut-softlock-use-open-storage = Coloca el objeto en el almacenamiento resaltado que ya está abierto.
+inv-tut-softlock-use-hand = Saca el objeto del almacenamiento y colócalo en tu mano.
+inv-tut-softlock-keep-backpack = Mantén la mochila equipada durante este paso.
+inv-tut-softlock-keep-belt = Mantén el cinturón equipado durante este paso.
+inv-tut-softlock-storage-ui-not-yet = Este almacenamiento se explicará más adelante. Por ahora, sigue la indicación actual.
 
-inv-tut-hands-intro-bubble = You have two hands. The active hand is highlighted on the hand panel: it is the hand used to use, drop, and attack with items [tutkeybind="SwapHands"].
-inv-tut-hands-intro-chat = First we will practice the hands. An item in the inactive hand is not used directly: check the highlight before acting and switch hands when needed.
-inv-tut-hands-intro-tts = First we will practice the hands. An item in the inactive hand is not used directly: check the highlight before acting and switch hands when needed.
+inv-tut-hands-intro-bubble = Tienes dos manos. La mano activa está resaltada en el panel de manos: es la que se utiliza para usar, soltar y atacar con objetos [tutkeybind="SwapHands"].
+inv-tut-hands-intro-chat = Primero practicaremos con las manos. Un objeto en la mano inactiva no se usa directamente: comprueba qué mano está resaltada antes de actuar y cambia de mano cuando sea necesario.
+inv-tut-hands-intro-tts = Primero practicaremos con las manos. Un objeto en la mano inactiva no se usa directamente: comprueba qué mano está resaltada antes de actuar y cambia de mano cuando sea necesario.
 
-inv-tut-pick-up-first-hand-item-bubble = Pick up the highlighted pen into an empty hand [tutkeybind="UIClick"].
-inv-tut-pick-up-first-hand-item-chat = Click the pen near you. It will appear in your active hand and its slot will be visible on the hand panel.
-inv-tut-pick-up-first-hand-item-tts = Click the pen near you. It will appear in your active hand and its slot will be visible on the hand panel.
-inv-tut-switch-to-empty-hand-bubble = Switch to the empty active hand [tutkeybind="SwapHands"].
-inv-tut-switch-to-empty-hand-chat = Switch to the second hand. The pen stays in the first hand, but interactions now use the empty active hand.
-inv-tut-switch-to-empty-hand-tts = Switch to the second hand. The pen stays in the first hand, but interactions now use the empty active hand.
-inv-tut-pick-up-second-hand-item-bubble = Pick up the highlighted screwdriver with the second hand [tutkeybind="UIClick"].
-inv-tut-pick-up-second-hand-item-chat = Each hand now holds a different item. Watch the highlight: it shows which item will be affected by the next action.
-inv-tut-pick-up-second-hand-item-tts = Each hand now holds a different item. Watch the highlight: it shows which item will be affected by the next action.
-inv-tut-drop-second-hand-item-bubble = Drop the screwdriver from the active hand [tutkeybind="Drop"].
-inv-tut-drop-second-hand-item-chat = The drop key affects only the active hand. The pen in your other hand stays with you.
-inv-tut-drop-second-hand-item-tts = The drop key affects only the active hand. The pen in your other hand stays with you.
-inv-tut-switch-to-first-hand-bubble = Switch the active hand to the pen [tutkeybind="SwapHands"].
-inv-tut-switch-to-first-hand-chat = The highlight should move to the hand holding the pen. Only then will the throw key affect the pen.
-inv-tut-switch-to-first-hand-tts = The highlight should move to the hand holding the pen. Only then will the throw key affect the pen.
-inv-tut-throw-first-hand-item-bubble = Throw the pen forward, not just onto the floor. Aim in a direction and press [tutkeybind="ThrowItemInHand"].
-inv-tut-throw-first-hand-item-chat = Throwing is different from dropping: the item flies in the direction you choose. If you accidentally dropped it, pick it back up and use the throw key. Both hands will then be empty.
-inv-tut-throw-first-hand-item-tts = Throwing is different from dropping: the item flies in the direction you choose. If you accidentally dropped it, pick it back up and use the throw key. Both hands will then be empty.
-inv-tut-repair-throw-first-hand-item-bubble = Pick up the pen from the floor into your active hand [tutkeybind="UIClick"].
-inv-tut-repair-throw-first-hand-item-chat = The pen ended up on the floor. Pick it back up to continue learning how to throw.
-inv-tut-repair-throw-first-hand-item-tts = The pen ended up on the floor. Pick it back up to continue learning how to throw.
+inv-tut-pick-up-first-hand-item-bubble = Recoge la pluma resaltada con una mano vacía [tutkeybind="UIClick"].
+inv-tut-pick-up-first-hand-item-chat = Haz clic en la pluma que está cerca de ti. Aparecerá en tu mano activa y su ranura será visible en el panel de manos.
+inv-tut-pick-up-first-hand-item-tts = Haz clic en la pluma que está cerca de ti. Aparecerá en tu mano activa y su ranura será visible en el panel de manos.
+inv-tut-switch-to-empty-hand-bubble = Cambia a la mano activa vacía [tutkeybind="SwapHands"].
+inv-tut-switch-to-empty-hand-chat = Cambia a la segunda mano. La pluma permanece en la primera, pero ahora las interacciones usan la mano activa vacía.
+inv-tut-switch-to-empty-hand-tts = Cambia a la segunda mano. La pluma permanece en la primera, pero ahora las interacciones usan la mano activa vacía.
+inv-tut-pick-up-second-hand-item-bubble = Recoge el destornillador resaltado con la segunda mano [tutkeybind="UIClick"].
+inv-tut-pick-up-second-hand-item-chat = Ahora cada mano sostiene un objeto diferente. Observa cuál está resaltada: indica qué objeto se verá afectado por la siguiente acción.
+inv-tut-pick-up-second-hand-item-tts = Ahora cada mano sostiene un objeto diferente. Observa cuál está resaltada: indica qué objeto se verá afectado por la siguiente acción.
+inv-tut-drop-second-hand-item-bubble = Suelta el destornillador de la mano activa [tutkeybind="Drop"].
+inv-tut-drop-second-hand-item-chat = La tecla de soltar afecta únicamente a la mano activa. La pluma de tu otra mano permanecerá contigo.
+inv-tut-drop-second-hand-item-tts = La tecla de soltar afecta únicamente a la mano activa. La pluma de tu otra mano permanecerá contigo.
+inv-tut-switch-to-first-hand-bubble = Cambia la mano activa a la pluma [tutkeybind="SwapHands"].
+inv-tut-switch-to-first-hand-chat = El resaltado debe pasar a la mano que sostiene la pluma. Solo entonces la tecla de lanzar afectará a la pluma.
+inv-tut-switch-to-first-hand-tts = El resaltado debe pasar a la mano que sostiene la pluma. Solo entonces la tecla de lanzar afectará a la pluma.
+inv-tut-throw-first-hand-item-bubble = Lanza la pluma hacia adelante, no simplemente al suelo. Apunta en una dirección y presiona [tutkeybind="ThrowItemInHand"].
+inv-tut-throw-first-hand-item-chat = Lanzar es diferente de soltar: el objeto vuela en la dirección que elijas. Si lo soltaste por accidente, recógelo de nuevo y usa la tecla de lanzar. Después, ambas manos quedarán vacías.
+inv-tut-throw-first-hand-item-tts = Lanzar es diferente de soltar: el objeto vuela en la dirección que elijas. Si lo soltaste por accidente, recógelo de nuevo y usa la tecla de lanzar. Después, ambas manos quedarán vacías.
+inv-tut-repair-throw-first-hand-item-bubble = Recoge la pluma del suelo con tu mano activa [tutkeybind="UIClick"].
+inv-tut-repair-throw-first-hand-item-chat = La pluma terminó en el suelo. Recógela de nuevo para continuar aprendiendo a lanzar.
+inv-tut-repair-throw-first-hand-item-tts = La pluma terminó en el suelo. Recógela de nuevo para continuar aprendiendo a lanzar.
 
-inv-tut-open-wardrobe-bubble = Open the highlighted wardrobe by hovering over it and pressing [tutkeybind="ActivateItemInWorld"].
-inv-tut-open-wardrobe-chat = Walk up to the wardrobe, hover over it, and press the interaction key. It contains clothing for every empty slot.
-inv-tut-open-wardrobe-tts = Walk up to the wardrobe, hover over it, and press the interaction key. It contains clothing for every empty slot.
+inv-tut-open-wardrobe-bubble = Abre el armario resaltado colocando el cursor sobre él y presionando [tutkeybind="ActivateItemInWorld"].
+inv-tut-open-wardrobe-chat = Acércate al armario, coloca el cursor sobre él y presiona la tecla de interacción. Contiene ropa para cada ranura vacía.
+inv-tut-open-wardrobe-tts = Acércate al armario, coloca el cursor sobre él y presiona la tecla de interacción. Contiene ropa para cada ranura vacía.
 
-inv-tut-take-shoes-bubble = Press [tutkeybind="UIRightClick"] inside the wardrobe and choose the highlighted shoes from the list.
-inv-tut-take-shoes-chat = We will start with footwear. Pick up only the highlighted item so it goes into your hand.
-inv-tut-take-shoes-tts = We will start with footwear. Pick up only the highlighted item so it goes into your hand.
-inv-tut-equip-shoes-bubble = Drag the shoes into the highlighted feet slot [tutkeybind="UIClick"].
-inv-tut-equip-shoes-chat = The feet slot is for shoes. Move the shoes from your hand into the highlighted slot.
-inv-tut-equip-shoes-tts = The feet slot is for shoes. Move the shoes from your hand into the highlighted slot.
-inv-tut-take-gloves-bubble = Press [tutkeybind="UIRightClick"] inside the wardrobe and choose the highlighted gloves from the list.
-inv-tut-take-gloves-chat = Now take the gloves. They belong in the hands slot and should not remain in your active hand.
-inv-tut-take-gloves-tts = Now take the gloves. They belong in the hands slot and should not remain in your active hand.
-inv-tut-equip-gloves-bubble = Drag the gloves into the highlighted hands slot [tutkeybind="UIClick"].
-inv-tut-equip-gloves-chat = The hands slot is for gloves. Use only the highlighted slot.
-inv-tut-equip-gloves-tts = The hands slot is for gloves. Use only the highlighted slot.
-inv-tut-take-eyes-bubble = Press [tutkeybind="UIRightClick"] inside the wardrobe and choose the highlighted glasses from the list.
-inv-tut-take-eyes-chat = Glasses are eye equipment. Pick them up so you can equip them on the next step.
-inv-tut-take-eyes-tts = Glasses are eye equipment. Pick them up so you can equip them on the next step.
-inv-tut-equip-eyes-bubble = Drag the glasses into the highlighted eyes slot [tutkeybind="UIClick"].
-inv-tut-equip-eyes-chat = The eyes slot is for glasses and other items that cover the eyes.
-inv-tut-equip-eyes-tts = The eyes slot is for glasses and other items that cover the eyes.
-inv-tut-take-ears-bubble = Press [tutkeybind="UIRightClick"] inside the wardrobe and choose the highlighted headset from the list.
-inv-tut-take-ears-chat = The headset is worn on the ears. Pick it up from the open wardrobe first.
-inv-tut-take-ears-tts = The headset is worn on the ears. Pick it up from the open wardrobe first.
-inv-tut-equip-ears-bubble = Drag the headset into the highlighted ears slot [tutkeybind="UIClick"].
-inv-tut-equip-ears-chat = The ears slot is for headsets and other items worn on the ears.
-inv-tut-equip-ears-tts = The ears slot is for headsets and other items worn on the ears.
-inv-tut-take-mask-bubble = Press [tutkeybind="UIRightClick"] inside the wardrobe and choose the highlighted mask from the list.
-inv-tut-take-mask-chat = A mask is worn on the face. Pick it up without removing clothing you already equipped.
-inv-tut-take-mask-tts = A mask is worn on the face. Pick it up without removing clothing you already equipped.
-inv-tut-equip-mask-bubble = Drag the mask into the highlighted mask slot [tutkeybind="UIClick"].
-inv-tut-equip-mask-chat = The mask slot is for masks and other face equipment.
-inv-tut-equip-mask-tts = The mask slot is for masks and other face equipment.
-inv-tut-take-head-bubble = Press [tutkeybind="UIRightClick"] inside the wardrobe and choose the highlighted beret from the list.
-inv-tut-take-head-chat = The beret belongs in the head slot. Pick it up before equipping it.
-inv-tut-take-head-tts = The beret belongs in the head slot. Pick it up before equipping it.
-inv-tut-equip-head-bubble = Drag the beret into the highlighted head slot [tutkeybind="UIClick"].
-inv-tut-equip-head-chat = The head slot is for hats, helmets, and other headwear.
-inv-tut-equip-head-tts = The head slot is for hats, helmets, and other headwear.
-inv-tut-take-neck-bubble = Press [tutkeybind="UIRightClick"] inside the wardrobe and choose the highlighted scarf from the list.
-inv-tut-take-neck-chat = A scarf belongs in the neck slot. Pick it up from the wardrobe.
-inv-tut-take-neck-tts = A scarf belongs in the neck slot. Pick it up from the wardrobe.
-inv-tut-equip-neck-bubble = Drag the scarf into the highlighted neck slot [tutkeybind="UIClick"].
-inv-tut-equip-neck-chat = The neck slot is for scarves, ties, and other neckwear.
-inv-tut-equip-neck-tts = The neck slot is for scarves, ties, and other neckwear.
-inv-tut-take-outer-bubble = Press [tutkeybind="UIRightClick"] inside the wardrobe and choose the highlighted coat from the list.
-inv-tut-take-outer-chat = Outer clothing is worn over the jumpsuit. Pick up the coat.
-inv-tut-take-outer-tts = Outer clothing is worn over the jumpsuit. Pick up the coat.
-inv-tut-equip-outer-bubble = Drag the coat into the highlighted outer clothing slot [tutkeybind="UIClick"].
-inv-tut-equip-outer-chat = The outer clothing slot is for coats, armor, and other layers worn over the jumpsuit.
-inv-tut-equip-outer-tts = The outer clothing slot is for coats, armor, and other layers worn over the jumpsuit.
-inv-tut-take-back-bubble = Press [tutkeybind="UIRightClick"] inside the wardrobe and choose the highlighted backpack from the list.
-inv-tut-take-back-chat = A backpack is worn on the back and will later be used as storage.
-inv-tut-take-back-tts = A backpack is worn on the back and will later be used as storage.
-inv-tut-equip-back-bubble = Drag the backpack into the highlighted back slot [tutkeybind="UIClick"].
-inv-tut-equip-back-chat = The back slot is for backpacks and other large storage containers.
-inv-tut-equip-back-tts = The back slot is for backpacks and other large storage containers.
-inv-tut-take-belt-bubble = Press [tutkeybind="UIRightClick"] inside the wardrobe and choose the highlighted belt from the list.
-inv-tut-take-belt-chat = A belt is worn around the waist and can serve as separate tool storage.
-inv-tut-take-belt-tts = A belt is worn around the waist and can serve as separate tool storage.
-inv-tut-equip-belt-bubble = Drag the belt into the highlighted belt slot [tutkeybind="UIClick"].
-inv-tut-equip-belt-chat = The belt slot is for belts and their contents. We will use it in the next exercise.
-inv-tut-equip-belt-tts = The belt slot is for belts and their contents. We will use it in the next exercise.
-inv-tut-take-id-bubble = Press [tutkeybind="UIRightClick"] inside the wardrobe and choose the highlighted PDA from the list.
-inv-tut-take-id-chat = A PDA goes into the identification card slot. Pick it up before equipping it.
-inv-tut-take-id-tts = A PDA goes into the identification card slot. Pick it up before equipping it.
-inv-tut-equip-id-bubble = Drag the PDA into the highlighted ID card slot [tutkeybind="UIClick"].
-inv-tut-equip-id-chat = The ID card slot is for PDAs and identification cards. Use the highlighted slot.
-inv-tut-equip-id-tts = The ID card slot is for PDAs and identification cards. Use the highlighted slot.
+inv-tut-take-shoes-bubble = Presiona [tutkeybind="UIRightClick"] dentro del armario y elige de la lista los zapatos resaltados.
+inv-tut-take-shoes-chat = Comenzaremos con el calzado. Recoge únicamente el objeto resaltado para que pase a tu mano.
+inv-tut-take-shoes-tts = Comenzaremos con el calzado. Recoge únicamente el objeto resaltado para que pase a tu mano.
+inv-tut-equip-shoes-bubble = Arrastra los zapatos a la ranura de pies resaltada [tutkeybind="UIClick"].
+inv-tut-equip-shoes-chat = La ranura de pies es para los zapatos. Mueve los zapatos desde tu mano hasta la ranura resaltada.
+inv-tut-equip-shoes-tts = La ranura de pies es para los zapatos. Mueve los zapatos desde tu mano hasta la ranura resaltada.
+inv-tut-take-gloves-bubble = Presiona [tutkeybind="UIRightClick"] dentro del armario y elige de la lista los guantes resaltados.
+inv-tut-take-gloves-chat = Ahora toma los guantes. Van en la ranura de manos y no deben permanecer en tu mano activa.
+inv-tut-take-gloves-tts = Ahora toma los guantes. Van en la ranura de manos y no deben permanecer en tu mano activa.
+inv-tut-equip-gloves-bubble = Arrastra los guantes a la ranura de manos resaltada [tutkeybind="UIClick"].
+inv-tut-equip-gloves-chat = La ranura de manos es para los guantes. Usa únicamente la ranura resaltada.
+inv-tut-equip-gloves-tts = La ranura de manos es para los guantes. Usa únicamente la ranura resaltada.
+inv-tut-take-eyes-bubble = Presiona [tutkeybind="UIRightClick"] dentro del armario y elige de la lista los lentes resaltados.
+inv-tut-take-eyes-chat = Los lentes son equipo para los ojos. Recógelos para poder equiparlos en el siguiente paso.
+inv-tut-take-eyes-tts = Los lentes son equipo para los ojos. Recógelos para poder equiparlos en el siguiente paso.
+inv-tut-equip-eyes-bubble = Arrastra los lentes a la ranura de ojos resaltada [tutkeybind="UIClick"].
+inv-tut-equip-eyes-chat = La ranura de ojos es para lentes y otros objetos que cubren los ojos.
+inv-tut-equip-eyes-tts = La ranura de ojos es para lentes y otros objetos que cubren los ojos.
+inv-tut-take-ears-bubble = Presiona [tutkeybind="UIRightClick"] dentro del armario y elige de la lista los auriculares resaltados.
+inv-tut-take-ears-chat = Los auriculares se llevan en las orejas. Primero recógelos del armario abierto.
+inv-tut-take-ears-tts = Los auriculares se llevan en las orejas. Primero recógelos del armario abierto.
+inv-tut-equip-ears-bubble = Arrastra los auriculares a la ranura de orejas resaltada [tutkeybind="UIClick"].
+inv-tut-equip-ears-chat = La ranura de orejas es para auriculares y otros objetos que se llevan en las orejas.
+inv-tut-equip-ears-tts = La ranura de orejas es para auriculares y otros objetos que se llevan en las orejas.
+inv-tut-take-mask-bubble = Presiona [tutkeybind="UIRightClick"] dentro del armario y elige de la lista la máscara resaltada.
+inv-tut-take-mask-chat = Una máscara se lleva en el rostro. Recógela sin quitarte la ropa que ya equipaste.
+inv-tut-take-mask-tts = Una máscara se lleva en el rostro. Recógela sin quitarte la ropa que ya equipaste.
+inv-tut-equip-mask-bubble = Arrastra la máscara a la ranura de máscara resaltada [tutkeybind="UIClick"].
+inv-tut-equip-mask-chat = La ranura de máscara es para máscaras y otros equipos para el rostro.
+inv-tut-equip-mask-tts = La ranura de máscara es para máscaras y otros equipos para el rostro.
+inv-tut-take-head-bubble = Presiona [tutkeybind="UIRightClick"] dentro del armario y elige de la lista la boina resaltada.
+inv-tut-take-head-chat = La boina va en la ranura de cabeza. Recógela antes de equiparla.
+inv-tut-take-head-tts = La boina va en la ranura de cabeza. Recógela antes de equiparla.
+inv-tut-equip-head-bubble = Arrastra la boina a la ranura de cabeza resaltada [tutkeybind="UIClick"].
+inv-tut-equip-head-chat = La ranura de cabeza es para sombreros, cascos y otros accesorios para la cabeza.
+inv-tut-equip-head-tts = La ranura de cabeza es para sombreros, cascos y otros accesorios para la cabeza.
+inv-tut-take-neck-bubble = Presiona [tutkeybind="UIRightClick"] dentro del armario y elige de la lista la bufanda resaltada.
+inv-tut-take-neck-chat = Una bufanda va en la ranura del cuello. Recógela del armario.
+inv-tut-take-neck-tts = Una bufanda va en la ranura del cuello. Recógela del armario.
+inv-tut-equip-neck-bubble = Arrastra la bufanda a la ranura de cuello resaltada [tutkeybind="UIClick"].
+inv-tut-equip-neck-chat = La ranura de cuello es para bufandas, corbatas y otros accesorios del cuello.
+inv-tut-equip-neck-tts = La ranura de cuello es para bufandas, corbatas y otros accesorios del cuello.
+inv-tut-take-outer-bubble = Presiona [tutkeybind="UIRightClick"] dentro del armario y elige de la lista el abrigo resaltado.
+inv-tut-take-outer-chat = La ropa exterior se lleva sobre el mono. Recoge el abrigo.
+inv-tut-take-outer-tts = La ropa exterior se lleva sobre el mono. Recoge el abrigo.
+inv-tut-equip-outer-bubble = Arrastra el abrigo a la ranura de ropa exterior resaltada [tutkeybind="UIClick"].
+inv-tut-equip-outer-chat = La ranura de ropa exterior es para abrigos, armaduras y otras capas que se llevan sobre el mono.
+inv-tut-equip-outer-tts = La ranura de ropa exterior es para abrigos, armaduras y otras capas que se llevan sobre el mono.
+inv-tut-take-back-bubble = Presiona [tutkeybind="UIRightClick"] dentro del armario y elige de la lista la mochila resaltada.
+inv-tut-take-back-chat = Una mochila se lleva en la espalda y después se utilizará como almacenamiento.
+inv-tut-take-back-tts = Una mochila se lleva en la espalda y después se utilizará como almacenamiento.
+inv-tut-equip-back-bubble = Arrastra la mochila a la ranura de espalda resaltada [tutkeybind="UIClick"].
+inv-tut-equip-back-chat = La ranura de espalda es para mochilas y otros contenedores grandes de almacenamiento.
+inv-tut-equip-back-tts = La ranura de espalda es para mochilas y otros contenedores grandes de almacenamiento.
+inv-tut-take-belt-bubble = Presiona [tutkeybind="UIRightClick"] dentro del armario y elige de la lista el cinturón resaltado.
+inv-tut-take-belt-chat = Un cinturón se lleva alrededor de la cintura y puede servir como almacenamiento independiente para herramientas.
+inv-tut-take-belt-tts = Un cinturón se lleva alrededor de la cintura y puede servir como almacenamiento independiente para herramientas.
+inv-tut-equip-belt-bubble = Arrastra el cinturón a la ranura de cinturón resaltada [tutkeybind="UIClick"].
+inv-tut-equip-belt-chat = La ranura de cinturón es para cinturones y su contenido. La utilizaremos en el siguiente ejercicio.
+inv-tut-equip-belt-tts = La ranura de cinturón es para cinturones y su contenido. La utilizaremos en el siguiente ejercicio.
+inv-tut-take-id-bubble = Presiona [tutkeybind="UIRightClick"] dentro del armario y elige de la lista la PDA resaltada.
+inv-tut-take-id-chat = Una PDA va en la ranura de la tarjeta de identificación. Recógela antes de equiparla.
+inv-tut-take-id-tts = Una PDA va en la ranura de la tarjeta de identificación. Recógela antes de equiparla.
+inv-tut-equip-id-bubble = Arrastra la PDA a la ranura de identificación resaltada [tutkeybind="UIClick"].
+inv-tut-equip-id-chat = La ranura de identificación es para PDA y tarjetas de identificación. Usa la ranura resaltada.
+inv-tut-equip-id-tts = La ranura de identificación es para PDA y tarjetas de identificación. Usa la ranura resaltada.
 
-inv-tut-put-screwdriver-toolbelt-bubble = Drag the screwdriver into the open toolbelt [tutkeybind="UIClick"].
-inv-tut-put-screwdriver-toolbelt-chat = Put the screwdriver into the open toolbelt. Your hands will be free afterwards.
-inv-tut-put-screwdriver-toolbelt-tts = Put the screwdriver into the open toolbelt. Your hands will be free afterwards.
-inv-tut-take-screwdriver-back-bubble = Take the screwdriver back out of the toolbelt [tutkeybind="UIClick"].
-inv-tut-take-screwdriver-back-chat = Take an item from storage into your hand so you can use the tool when you need it.
-inv-tut-take-screwdriver-back-tts = Take an item from storage into your hand so you can use the tool when you need it.
+inv-tut-put-screwdriver-toolbelt-bubble = Arrastra el destornillador al cinturón de herramientas abierto [tutkeybind="UIClick"].
+inv-tut-put-screwdriver-toolbelt-chat = Coloca el destornillador en el cinturón de herramientas abierto. Después tendrás las manos libres.
+inv-tut-put-screwdriver-toolbelt-tts = Coloca el destornillador en el cinturón de herramientas abierto. Después tendrás las manos libres.
+inv-tut-take-screwdriver-back-bubble = Saca el destornillador del cinturón de herramientas [tutkeybind="UIClick"].
+inv-tut-take-screwdriver-back-chat = Saca un objeto del almacenamiento y colócalo en tu mano para poder usar la herramienta cuando la necesites.
+inv-tut-take-screwdriver-back-tts = Saca un objeto del almacenamiento y colócalo en tu mano para poder usar la herramienta cuando la necesites.
 
-inv-tut-take-paper-bubble = Press [tutkeybind="UIRightClick"] inside the wardrobe and choose the highlighted paper from the list.
-inv-tut-take-paper-chat = Paper is a small item that is convenient to store in a pocket, leaving your hands free.
-inv-tut-take-paper-tts = Paper is a small item that is convenient to store in a pocket, leaving your hands free.
-inv-tut-put-paper-pocket-bubble = Drag the paper into the highlighted pocket [tutkeybind="UIClick"].
-inv-tut-put-paper-pocket-chat = Move the paper from your hand into the pocket. Pockets are useful for small items you need to retrieve quickly.
-inv-tut-put-paper-pocket-tts = Move the paper from your hand into the pocket. Pockets are useful for small items you need to retrieve quickly.
-inv-tut-take-flashlight-bubble = Press [tutkeybind="UIRightClick"] inside the wardrobe and choose the highlighted flashlight from the list.
-inv-tut-take-flashlight-chat = Now we will practice the backpack: first take the flashlight into your hand, then put it into the open storage.
-inv-tut-take-flashlight-tts = Now we will practice the backpack: first take the flashlight into your hand, then put it into the open storage.
+inv-tut-take-paper-bubble = Presiona [tutkeybind="UIRightClick"] dentro del armario y elige de la lista el papel resaltado.
+inv-tut-take-paper-chat = El papel es un objeto pequeño que resulta cómodo guardar en un bolsillo para dejar las manos libres.
+inv-tut-take-paper-tts = El papel es un objeto pequeño que resulta cómodo guardar en un bolsillo para dejar las manos libres.
+inv-tut-put-paper-pocket-bubble = Arrastra el papel al bolsillo resaltado [tutkeybind="UIClick"].
+inv-tut-put-paper-pocket-chat = Mueve el papel desde tu mano hasta el bolsillo. Los bolsillos son útiles para objetos pequeños que necesitas sacar rápidamente.
+inv-tut-put-paper-pocket-tts = Mueve el papel desde tu mano hasta el bolsillo. Los bolsillos son útiles para objetos pequeños que necesitas sacar rápidamente.
+inv-tut-take-flashlight-bubble = Presiona [tutkeybind="UIRightClick"] dentro del armario y elige de la lista la linterna resaltada.
+inv-tut-take-flashlight-chat = Ahora practicaremos con la mochila: primero toma la linterna en tu mano y después colócala en el almacenamiento abierto.
+inv-tut-take-flashlight-tts = Ahora practicaremos con la mochila: primero toma la linterna en tu mano y después colócala en el almacenamiento abierto.
