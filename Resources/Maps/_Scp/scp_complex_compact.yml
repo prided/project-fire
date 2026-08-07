@@ -82625,7 +82625,7 @@ entities:
   - uid: 11568
     components:
     - type: MetaData
-      name: botón con cerradura (compuertas herméticas: ventana)
+      name: "botón con cerradura (compuertas herméticas: ventana)"
     - type: Transform
       pos: 11.5,-73.5
       parent: 2
@@ -82642,7 +82642,7 @@ entities:
   - uid: 11569
     components:
     - type: MetaData
-      name: botón con cerradura (compuertas herméticas: puesto de control)
+      name: "botón con cerradura (compuertas herméticas: puesto de control)"
     - type: Transform
       pos: 12.5,-73.5
       parent: 2

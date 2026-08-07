@@ -32,7 +32,7 @@
   name: scp-title-euclid
   showInVote: true
   description: scp-description-euclid
-  minPlayers: 15
+  minPlayers: 1
   rules:
   - ScpModeEuclid
   - SendDocumentEuclidMode
@@ -47,7 +47,7 @@
   name: scp-title-keter
   showInVote: true
   description: scp-description-keter
-  minPlayers: 20
+  minPlayers: 1
   rules:
   - ScpModeKeter
   - SendDocumentKeterMode
@@ -62,7 +62,7 @@
   name: scp-title-thaumiel
   showInVote: true
   description: scp-description-thaumiel
-  minPlayers: 20
+  minPlayers: 1
   rules:
   - ScpModeThaumiel
   - SendDocumentThaumielMode
@@ -77,7 +77,7 @@
   name: scp-title-chaos-raid
   description: scp-description-chaos-raid
   showInVote: true
-  minPlayers: 25
+  minPlayers: 1
   rules:
   - ScpModeEuclid
   - SendDocumentEuclidMode
@@ -93,7 +93,7 @@
   name: scp-title-chaos-spy
   description: scp-description-chaos-spy
   showInVote: true
-  minPlayers: 25
+  minPlayers: 1
   rules:
   - ScpModeEuclid
   - SendDocumentEuclidMode

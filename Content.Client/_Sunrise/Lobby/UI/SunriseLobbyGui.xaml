@@ -540,6 +540,15 @@
                         </PanelContainer>
                     </BoxContainer>
             </BoxContainer>
+            <!-- Crédito de traducción -->
+            <Label
+                HorizontalAlignment="Center"
+                VerticalAlignment="Bottom"
+                Margin="8,0,0,8"
+                MouseFilter="Ignore"
+                FontColorOverride="{x:Static maths:Color.LightGray}"
+                Text="Traducido por Prided" />
+
             <PanelContainer
                     HorizontalAlignment="Center"
                     HorizontalExpand="True"
@@ -598,6 +607,6 @@
             HorizontalExpand="True"
             Name="CharacterSetupState"
             VerticalExpand="True"
-            Visible="True" />
+            Visible="False" />
     </BoxContainer>
 </ui:SunriseLobbyGui>
