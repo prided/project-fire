@@ -233399,7 +233399,7 @@ entities:
   - uid: 32321
     components:
     - type: MetaData
-      desc: Una figura de Virgilio Nocturn, miembro del Estado Mayor O4, con traje blindado. En el hombro luce una pequeña inscripción: «Zero»; entre las manos sostiene una tableta que muestra las cámaras de la instalación. Vigila, como siempre.
+      desc: "Una figura de Virgilio Nocturn, miembro del Estado Mayor O4, con traje blindado. En el hombro luce una pequeña inscripción: «Zero»; entre las manos sostiene una tableta que muestra las cámaras de la instalación. Vigila, como siempre."
       name: figura de Zero
     - type: Transform
       pos: 57.448254,17.561966
