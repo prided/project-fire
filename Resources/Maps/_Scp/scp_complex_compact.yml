@@ -40404,12 +40404,12 @@ entities:
         - ClothingSpeedModifier
         entries:
         - message: >-
-            Обеспечивает следующую защиту:
+            Proporciona la siguiente protección:
 
-            - [color=orange]Взрывной[/color] урон [color=white]к содержимому[/color] снижается на [color=lightblue]10%[/color].
+            - El daño [color=orange]explosivo[/color] [color=white]al contenido[/color] se reduce un [color=lightblue]10 %[/color].
           priority: 0
           component: Armor
-        - message: Понижает вашу скорость бега на [color=yellow]10%[/color].
+        - message: Reduce tu velocidad al correr un [color=yellow]10 %[/color].
           priority: 0
           component: ClothingSpeedModifier
         title: null
@@ -41024,25 +41024,25 @@ entities:
         - Armor
         - ClothingSpeedModifier
         entries:
-        - message: Понижает вашу скорость на [color=yellow]10%[/color].
+        - message: Reduce tu velocidad un [color=yellow]10 %[/color].
           priority: 0
           component: ClothingSpeedModifier
         - message: >-
-            Обеспечивает следующую защиту:
+            Proporciona la siguiente protección:
 
-            - [color=yellow]Ударный[/color] урон снижается на [color=lightblue]60%[/color].
+            - El daño [color=yellow]contundente[/color] se reduce un [color=lightblue]60 %[/color].
 
-            - [color=yellow]Режущий[/color] урон снижается на [color=lightblue]60%[/color].
+            - El daño [color=yellow]cortante[/color] se reduce un [color=lightblue]60 %[/color].
 
-            - [color=yellow]Колющий[/color] урон снижается на [color=lightblue]30%[/color].
+            - El daño [color=yellow]punzante[/color] se reduce un [color=lightblue]30 %[/color].
 
-            - [color=yellow]Высокотемпературный[/color] урон снижается на [color=lightblue]10%[/color].
+            - El daño [color=yellow]por calor[/color] se reduce un [color=lightblue]10 %[/color].
 
-            - [color=yellow]Кислотный[/color] урон снижается на [color=lightblue]10%[/color].
+            - El daño [color=yellow]por ácido[/color] se reduce un [color=lightblue]10 %[/color].
 
-            - [color=lightyellow]Stamina[/color] damage reduced by [color=lightblue]15%[/color].
+            - El daño de [color=lightyellow]aguante[/color] se reduce un [color=lightblue]15 %[/color].
 
-            - [color=orange]Взрывной[/color] урон снижается на [color=lightblue]10%[/color].
+            - El daño [color=orange]explosivo[/color] se reduce un [color=lightblue]10 %[/color].
           priority: 0
           component: Armor
         title: null
@@ -43590,8 +43590,8 @@ entities:
     paused: true
     components:
     - type: MetaData
-      desc: Чёрно-магентовая зажигалка с логотипом и символикой "Marshall, Carter and Dark Ltd."
-      name: зажигалка флиппо MС&D
+      desc: Un encendedor negro y magenta con el logotipo y los emblemas de «Marshall, Carter and Dark Ltd.».
+      name: encendedor Flippo de MC&D
     - type: Transform
       parent: 3
     - type: Welder
@@ -43715,7 +43715,7 @@ entities:
       pos: -64.5,-69.5
       parent: 2
     - type: WarpPoint
-      location: Генератор АМЕ
+      location: Generador AME
 - proto: DefaultStationBeaconAnchor
   entities:
   - uid: 6720
@@ -43724,9 +43724,9 @@ entities:
       pos: 18.5,-112.5
       parent: 2
     - type: NavMapBeacon
-      text: Якорь Комплекса
+      text: Ancla del complejo
     - type: WarpPoint
-      location: Якорь Комплекса
+      location: Ancla del complejo
 - proto: DefaultStationBeaconArtifactLab
   entities:
   - uid: 6721
@@ -43747,7 +43747,7 @@ entities:
       pos: -17.5,-36.5
       parent: 2
     - type: WarpPoint
-      location: Химия
+      location: Química
 - proto: DefaultStationBeaconCryonics
   entities:
   - uid: 6724
@@ -43756,7 +43756,7 @@ entities:
       pos: -17.5,-26.5
       parent: 2
     - type: WarpPoint
-      location: Крионика
+      location: Criogenia
 - proto: DefaultStationBeaconEngineering
   entities:
   - uid: 6725
@@ -43765,7 +43765,7 @@ entities:
       pos: -51.5,-62.5
       parent: 2
     - type: WarpPoint
-      location: Отдел Инженерии
+      location: Departamento de Ingeniería
 - proto: DefaultStationBeaconKitchen
   entities:
   - uid: 6726
@@ -43781,9 +43781,9 @@ entities:
       pos: 14.5,-3.5
       parent: 2
     - type: WarpPoint
-      location: Карцер Д блока
+      location: Calabozo del bloque D
     - type: NavMapBeacon
-      text: Карцер Блока Д
+      text: Calabozo del bloque D
 - proto: DefaultStationBeaconRND
   entities:
   - uid: 6728
@@ -43806,9 +43806,9 @@ entities:
       pos: 20.5,-77.5
       parent: 2
     - type: NavMapBeacon
-      text: КПП ТЗС-ИИ
+      text: Puesto de control ZCP-IA
     - type: WarpPoint
-      location: КПП ТЗС-ИИ
+      location: Puesto de control ZCP-IA
 - proto: DefibrillatorCabinetFilled
   entities:
   - uid: 6731
@@ -47903,8 +47903,8 @@ entities:
   - uid: 23051
     components:
     - type: MetaData
-      desc: Не употреблять в пищевых целях!!!
-      name: Чистый спирт
+      desc: ¡No apto para consumo!
+      name: Alcohol puro
     - type: Transform
       parent: 23050
     - type: Physics
@@ -48397,7 +48397,7 @@ entities:
       angularDamping: 20
       linearDamping: 20
     - type: FaxMachine
-      name: Конференц Зал
+      name: Sala de Conferencias
     - type: Pullable
       prevFixedRotation: True
     - type: DontSell
@@ -48407,42 +48407,42 @@ entities:
       pos: 13.5,-20.5
       parent: 2
     - type: FaxMachine
-      name: Начальник СБ
+      name: Jefe del Servicio de Seguridad
   - uid: 7511
     components:
     - type: Transform
       pos: -24.5,-55.5
       parent: 2
     - type: FaxMachine
-      name: Менеджер по персоналу
+      name: Responsable de RR. HH.
   - uid: 7512
     components:
     - type: Transform
       pos: -49.5,-67.5
       parent: 2
     - type: FaxMachine
-      name: Кабинет ведущего инженера
+      name: Despacho del ingeniero principal
   - uid: 7513
     components:
     - type: Transform
       pos: -51.5,-31.5
       parent: 2
     - type: FaxMachine
-      name: Кабинет КМ
+      name: Despacho del KM
   - uid: 7514
     components:
     - type: Transform
       pos: -18.5,-24.5
       parent: 2
     - type: FaxMachine
-      name: Кабинет главного врача
+      name: Consultorio del médico jefe
   - uid: 7515
     components:
     - type: Transform
       pos: -50.5,-3.5
       parent: 2
     - type: FaxMachine
-      name: Кабинет главного научного сотрудника
+      name: Despacho del investigador jefe
 - proto: FaxMachineCommandant
   entities:
   - uid: 7516
@@ -48458,7 +48458,7 @@ entities:
       pos: -21.5,-59.5
       parent: 2
     - type: FaxMachine
-      name: Директор Комплекса
+      name: Director del Complejo
 - proto: FaxMachineEthicsCommitteeRep
   entities:
   - uid: 7518
@@ -82625,7 +82625,7 @@ entities:
   - uid: 11568
     components:
     - type: MetaData
-      name: кнопка с замком (Гермозатворы - Окно)
+      name: botón con cerradura (compuertas herméticas: ventana)
     - type: Transform
       pos: 11.5,-73.5
       parent: 2
@@ -82642,7 +82642,7 @@ entities:
   - uid: 11569
     components:
     - type: MetaData
-      name: кнопка с замком (Гермозатворы - КПП)
+      name: botón con cerradura (compuertas herméticas: puesto de control)
     - type: Transform
       pos: 12.5,-73.5
       parent: 2
@@ -82668,7 +82668,7 @@ entities:
   - uid: 11570
     components:
     - type: MetaData
-      name: кнопка с замком (Локдаун)
+      name: botón con cerradura (bloqueo)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -18.5,-60.5
@@ -82912,7 +82912,7 @@ entities:
   - uid: 11580
     components:
     - type: MetaData
-      desc: Активирует гермазатвор в коридор
+      desc: Activa la compuerta hermética del pasillo.
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -56.5,-76.5
@@ -82927,7 +82927,7 @@ entities:
   - uid: 11581
     components:
     - type: MetaData
-      desc: Под кнопкой написано что за этой комнатой хранилище массива
+      desc: Debajo del botón se indica que detrás de esta sala está el almacén de matrices.
     - type: Transform
       pos: -52.5,-74.5
       parent: 2
@@ -82975,7 +82975,7 @@ entities:
   - uid: 11584
     components:
     - type: MetaData
-      name: кнопка с замком (Ставни)
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 32.5,-20.5
@@ -82993,7 +82993,7 @@ entities:
   - uid: 11585
     components:
     - type: MetaData
-      name: кнопка с замком (Камера содержания)
+      name: Botón con cerradura (Cámara de contención)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 32.5,-21.5
@@ -83063,7 +83063,7 @@ entities:
   - uid: 11589
     components:
     - type: MetaData
-      name: кнопка с замком (восточные гермы)
+      name: botón con cerradura (compuertas herméticas orientales)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -21.5,-80.5
@@ -83084,7 +83084,7 @@ entities:
   - uid: 11590
     components:
     - type: MetaData
-      name: кнопка с замком (окно)
+      name: Botón con cerradura (ventana)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -22.5,-80.5
@@ -83105,7 +83105,7 @@ entities:
   - uid: 11591
     components:
     - type: MetaData
-      name: кнопка с замком (западные гермы)
+      name: botón con cerradura (compuertas herméticas occidentales)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -23.5,-80.5
@@ -83145,7 +83145,7 @@ entities:
   - uid: 11593
     components:
     - type: MetaData
-      name: кнопка с замком (окно)
+      name: Botón con cerradura (ventana)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 5.5,-69.5
@@ -83166,7 +83166,7 @@ entities:
   - uid: 11594
     components:
     - type: MetaData
-      name: кнопка с замком (юг герма)
+      name: botón con cerradura (compuerta hermética sur)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 5.5,-70.5
@@ -83187,7 +83187,7 @@ entities:
   - uid: 11595
     components:
     - type: MetaData
-      name: кнопка с замком (окно)
+      name: Botón con cerradura (ventana)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -38.5,-68.5
@@ -83208,7 +83208,7 @@ entities:
   - uid: 11596
     components:
     - type: MetaData
-      name: кнопка с замком (север герма)
+      name: botón con cerradura (compuerta hermética norte)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -38.5,-67.5
@@ -83229,7 +83229,7 @@ entities:
   - uid: 11597
     components:
     - type: MetaData
-      name: кнопка с замком (юг герма)
+      name: botón con cerradura (compuerta hermética sur)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -38.5,-69.5
@@ -83252,7 +83252,7 @@ entities:
   - uid: 11598
     components:
     - type: MetaData
-      name: кнопка с замком (камера)
+      name: botón con cerradura (cámara)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 48.491306,-57.753567
@@ -83270,7 +83270,7 @@ entities:
   - uid: 11599
     components:
     - type: MetaData
-      name: кнопка с замком (вход)
+      name: botón con cerradura (entrada)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 48.491306,-57.39419
@@ -83288,7 +83288,7 @@ entities:
   - uid: 11600
     components:
     - type: MetaData
-      name: кнопка с замком (окно)
+      name: Botón con cerradura (ventana)
     - type: Transform
       pos: 48.5,-59.5
       parent: 2
@@ -83308,7 +83308,7 @@ entities:
   - uid: 11601
     components:
     - type: MetaData
-      name: кнопка с замком (Ставни)
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 17.5,-60.5
@@ -83399,7 +83399,7 @@ entities:
   - uid: 11605
     components:
     - type: MetaData
-      name: кнопка с замком (выход Б 60 сек)
+      name: botón con cerradura (salida B, 60 s)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -3.5,-79.5
@@ -83414,7 +83414,7 @@ entities:
   - uid: 11606
     components:
     - type: MetaData
-      name: кнопка с замком (выход А 60 сек)
+      name: botón con cerradura (salida A, 60 s)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -5.5,-79.5
@@ -83497,7 +83497,7 @@ entities:
   - uid: 11610
     components:
     - type: MetaData
-      name: кнопка с замком (изоляция)
+      name: Botón con cerradura (aislamiento)
     - type: Transform
       pos: -54.5,-1.5
       parent: 2
@@ -83640,7 +83640,7 @@ entities:
   - uid: 11618
     components:
     - type: MetaData
-      name: кнопка с замком (КС-173)
+      name: botón con cerradura (cámara de SCP-173)
     - type: Transform
       pos: -34.5,-4.5
       parent: 2
@@ -83858,7 +83858,7 @@ entities:
   - uid: 11628
     components:
     - type: MetaData
-      name: Гермозатворы комнат Д Класса
+      name: compuertas herméticas de las habitaciones de clase D
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 1.5,-9.5
@@ -90138,31 +90138,31 @@ entities:
       parent: 2
     - type: Paper
       content: >
-        SCP-131 - «Каплеглазики»
+        SCP-131: «Ojos de gota»
 
 
-        Объект №: SCP-131
+        Objeto n.º: SCP-131
 
 
-        Класс объекта: Безопасный
+        Clase del objeto: Seguro
 
 
-        Особые условия содержания: Никаких особых действий в отношении SCP-131-A и SCP-131-B предпринимать не требуется. Им позволено свободно перемещаться по Зоне, но запрещено входить в режимные помещения или пытаться покинуть Зону. Общение с субъектами разрешено, но рекомендуется сводить его к минимуму, чтобы у субъектов не выработалось привязанности к сотрудникам. Следует ежечасно отслеживать местонахождение субъектов, несоблюдение этого условия влечёт за собой карантинную ситуацию первого уровня. Все случаи грубого обращения с субъектами будут расследованы, виновные понесут суровое наказание.
+        Procedimientos Especiales de Contención: No se requiere ninguna medida especial respecto a SCP-131-A y SCP-131-B. Se les permite desplazarse libremente por el Sitio, pero tienen prohibido entrar en áreas restringidas o intentar abandonarlo. Se permite interactuar con los sujetos, aunque se recomienda reducir el contacto al mínimo para evitar que desarrollen apego hacia el personal. La ubicación de los sujetos debe comprobarse cada hora; incumplir esta condición provocará una situación de cuarentena de nivel uno. Todos los casos de maltrato a los sujetos serán investigados y los responsables recibirán un castigo severo.
 
 
-        Описание: SCP-131-A и SCP-131-B (сотрудники любовно прозвали их "каплеглазики") - два создания с каплевидной формой тела, примерно 30 сантиметров в высоту. В середине тела расположен один голубой глаз. SCP-131-A имеет охровый окрас, SCP-131-B - горчично-жёлтый. В основании тела обоих есть образование, напоминающее колесо, что наталкивает на мысль о биомеханической природе созданий. Субъекты могут двигаться удивительно быстро, проходя 60 метров за несколько секунд. Стоит отметить, что у субъектов нет тормозной системы, что не раз приводило к небезынтересным, а то и вовсе забавным, происшествиям. Также субъекты проявили способность карабкаться по отвесным поверхностям и не раз терялись в вентиляционной системе.
+        Descripción: SCP-131-A y SCP-131-B, apodados cariñosamente «ojitos» por el personal, son dos criaturas de cuerpo lacriforme que miden aproximadamente 30 centímetros de altura. En el centro del cuerpo tienen un único ojo azul. SCP-131-A es de color ocre y SCP-131-B, amarillo mostaza. Ambos poseen en la base una formación semejante a una rueda, lo que sugiere una naturaleza biomecánica. Pueden desplazarse a una velocidad sorprendente y recorrer 60 metros en pocos segundos. Cabe señalar que no poseen sistema de frenado, lo que ha ocasionado incidentes interesantes e incluso divertidos. También pueden trepar por superficies verticales y se han perdido más de una vez en el sistema de ventilación.
 
 
-        Интеллект субъектов находится на уровне обычной домашней кошки, к тому же они невероятно любопытны. Большую часть времени они проводят, катаясь по учреждению, наблюдая за сотрудниками и подглядывая за другими безопасными SCP. Субъекты могут переговариваться при помощи непереводимого писклявого бормотания. Никто никогда не видел, чтобы они моргали, даже в опыте, когда их снимали на камеру 18 часов подряд.
+        Los sujetos poseen una inteligencia comparable a la de un gato doméstico y son extraordinariamente curiosos. Pasan gran parte del tiempo rodando por la instalación, observando al personal y espiando a otros SCP de clase Seguro. Pueden comunicarse mediante murmullos agudos imposibles de traducir. Nunca se los ha visto parpadear, ni siquiera durante una prueba en la que fueron grabados durante 18 horas seguidas.
 
 
-        Субъекты хорошо реагируют на доброту к ним и быстро привязываются к тому, кто эту доброту проявляет, примерно так же, как щенки привязываются к человеку. Они будут преследовать того, к кому привязались, повсюду, даже в режимные зоны. Несмотря на своё любопытство, субъекты чувствуют опасность, когда она рядом, а если объект их привязанности начинает приближаться к тому, что они считают опасными (например, к объектам класса Евклид или Кетер), они станут носиться под ногами (или другими конечностями) и что-то бормотать паническим голосом, словно предупреждая. Поскольку персонал зоны ежедневно сталкивается с объектами класса Евклид и Кетер, сотрудникам не рекомендуется создавать привязанность, т. к. это отвлекает во время сложных операций и исследований и может подставить под угрозу самих субъектов. Если объект привязанности будет достаточно долго игнорировать субъектов, они в конце концов утратят интерес и вернутся к обычной деятельности.
+        Los sujetos responden bien a la amabilidad y se apegan rápidamente a quien se la demuestra, de manera similar a como un cachorro se encariña con una persona. Seguirán a la persona a la que se hayan apegado a todas partes, incluso a zonas restringidas. Pese a su curiosidad, perciben el peligro cercano y, si la persona a la que se apegaron comienza a acercarse a algo que consideran peligroso (por ejemplo, objetos de clase Euclid o Keter), se interpondrán entre sus pies —u otras extremidades— y balbucearán con voz de pánico, como si intentaran advertirle. Como el personal del Sitio se enfrenta a diario a objetos de clase Euclid y Keter, se recomienda no fomentar ese apego: puede distraer durante operaciones e investigaciones complejas y poner en peligro a los propios sujetos. Si la persona los ignora durante suficiente tiempo, acabarán perdiendo el interés y retomarán sus actividades habituales.
 
 
-        Стоит отметить, что за субъектами не требуется какой-либо уход. Они не едят, отходов пищеварения тоже нет, и во сне не нуждаются. Похоже, что для жизни им требуется только утолять информационный голод (требуются дополнительные исследования для проверки этой гипотезы).
+        Cabe destacar que los sujetos no requieren ningún tipo de cuidados. No comen, no tienen residuos digestivos y no necesitan dormir. Parece que solo necesitan saciar su hambre de información para poder vivir (se necesita más investigación para comprobar esta hipótesis).
 
 
-        Субъектов SCP-131-A и SCP-131-B нашли на кукурузном поле в районе ████████████ в 19██ году. Их быстро поставили на содержание с помощью [ДАННЫЕ УДАЛЕНЫ], понизили класс до Безопасного и дали свободно перемещаться по Зоне, как только стало ясно, что они не транслируют увиденное куда-либо.
+        SCP-131-A y SCP-131-B fueron encontrados en un campo de maíz de la región de ████████████ en 19██. Fueron puestos rápidamente bajo contención mediante [DATOS ELIMINADOS], reclasificados como Seguro y autorizados a desplazarse libremente por el Sitio cuando quedó claro que no transmitían a ningún lugar aquello que veían.
   - uid: 12792
     components:
     - type: Transform
@@ -90245,7 +90245,7 @@ entities:
       pos: 49.36446,-30.449974
       parent: 2
     - type: Paper
-      content: Дорогой дневник, мне не подобрать слов, чтобы описать боль и унижение, которое я испытал..
+      content: Querido diario, no encuentro palabras para describir el dolor y la humillación que sufrí...
   - uid: 12806
     components:
     - type: Transform
@@ -90301,9 +90301,9 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Меня попросили передать это какой-то "К"
+        Me pidieron que le entregara esto a cierta «K».
 
-        Она любит виноградную газировку
+        Le encanta el refresco de uva.
 
 
         ██████████████████████████████
@@ -90435,28 +90435,28 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        SCP-999 - Щекоточный монстр
+        SCP-999: el monstruo de las cosquillas
 
 
-        Класс объекта: Безопасный
+        Clase del objeto: Seguro
 
 
-        Особые условия содержания: SCP-999 дозволяется свободно бродить по территории комплекса, если оно того пожелает. В остальных случаях необходимо держать его внутри загончика с 20:00 до 21:00 или во время блокировки всей Зоны ради безопасности существа. Существу не разрешается выходить из загончика ночью или покидать территорию комплекса. Загончик всегда должен быть чист, еду следует приносить дважды в день. В зону содержания SCP-999 разрешено входить всем сотрудникам, но только если в это время у них нет других дел или если у них перерыв. С существом следует играть, когда ему скучно, говорить с ним нужно спокойным голосом, избегая угрожающего тона.
+        Procedimientos Especiales de Contención: SCP-999 puede desplazarse libremente por la instalación cuando así lo desee. En cualquier otro momento debe permanecer en su corral entre las 20:00 y las 21:00 o durante un confinamiento general del Sitio, por su propia seguridad. No se le permite abandonar el corral durante la noche ni salir de la instalación. El corral debe mantenerse limpio y debe llevársele comida dos veces al día. Todo el personal puede entrar en el área de contención de SCP-999, pero solo cuando no tenga otras obligaciones o se encuentre en descanso. Debe jugarse con la criatura cuando se aburra y hablarle con voz tranquila, sin adoptar un tono amenazante.
 
 
-        Описание: SCP-999 выглядит как большая аморфная студенистая масса прозрачной оранжевой слизи, весящая приблизительно 54 кг (120 фунтов) и обладающая вязкостью как у арахисового масла. Размер существа и его форма легко изменяются, хотя в состоянии покоя оно принимает форму приплюснутой полусферы шириной 2 м и высотой 1 м. Поверхность SCP-999 покрыта тонкой прозрачной мембраной, как у животных клеток, толщиной примерно 0,5 см. Эта мембрана обладает чрезвычайной эластичностью, что позволяет SCP-999 сплющиваться до толщины в 2 см. И хотя поверхность тела существа обладает свойством гидрофобности, оно способно поглощать жидкости. Все тело существа состоит из вязкого оранжевого вещества, химический состав вещества, из которого состоит SCP-999, неизвестен, однако в нём легко могут перевариваться органические соединения.
+        Descripción: SCP-999 parece una gran masa gelatinosa amorfa de mucosidad naranja translúcida, pesa aproximadamente 54 kg (120 libras) y tiene una viscosidad similar a la mantequilla de maní. Su tamaño y forma cambian con facilidad, aunque en reposo adopta la forma de una semiesfera aplanada de 2 m de ancho y 1 m de alto. La superficie de SCP-999 está cubierta por una membrana fina y transparente, similar a la de las células animales, de unos 0,5 cm de espesor. Esta membrana es extremadamente elástica y permite que SCP-999 se aplane hasta alcanzar un grosor de 2 cm. Aunque la superficie de la criatura es hidrófoba, puede absorber líquidos. Todo su cuerpo está compuesto por una sustancia naranja viscosa cuya composición química se desconoce; sin embargo, puede digerir con facilidad compuestos orgánicos.
 
 
-        Характер существа лучше всего можно описать как "игривый", в чём-то его поведение схоже с собачьим: если к нему подойти, SCP-999 будет изображать бурный восторг, подползет к ближайшему человеку и запрыгнет на него, "обнимая" его парой ложноножек, а третьей прижимаясь к лицу человека, всё время издавая высокий звук, похожий на булькание и воркование. Поверхность SCP-999 испускает приятный аромат, который различается в зависимости от того, с кем оно взаимодействует. Были зафиксированы запахи шоколада, свежевыстиранного белья, бекона, роз и пластилина Play-Doh™.
+        El carácter de la criatura se describe mejor como «juguetón» y su conducta se parece en ciertos aspectos a la de un perro: cuando alguien se acerca, SCP-999 manifiesta una gran alegría, se arrastra hasta la persona más cercana y salta sobre ella, la «abraza» con dos pseudópodos y apoya un tercero contra su rostro mientras emite un sonido agudo semejante a gorgoteos y arrullos. La superficie de SCP-999 desprende un aroma agradable que varía según la persona con la que interactúe. Se han registrado olores a chocolate, ropa recién lavada, tocino, rosas y plastilina Play-Doh™.
 
 
-        Прикосновение к поверхности SCP-999 немедленно вызывает лёгкую эйфорию, которая становится сильнее в зависимости от времени соприкосновения с объектом и длится ещё долгое время после отделения от существа. Больше всего SCP-999 любит устраивать "щекоточную борьбу", полностью обволакивая человека от шеи до самых пяток и щекоча его, пока ему не будет приказано остановиться (хотя оно не всегда выполняет этот приказ). И хотя при этом возможны случаи травматизации, SCP-999 никогда не старается причинить людям вред предумышленно; если существо заметит, что своими действиями нанесло вред человеку, то быстро отползёт в сторону и свернётся в дрожащий шар, издавая при этом звук, похожий на собачье скуление, как будто извиняясь за свой проступок.
+        El contacto con la superficie de SCP-999 provoca de inmediato una euforia leve que aumenta según la duración del contacto y persiste durante mucho tiempo después de separarse de la criatura. Su actividad favorita es la «lucha de cosquillas»: envuelve por completo a una persona desde el cuello hasta los talones y le hace cosquillas hasta que se le ordena detenerse, aunque no siempre obedece. Si bien pueden producirse lesiones, SCP-999 nunca intenta hacer daño deliberadamente. Si advierte que ha lastimado a alguien, se aparta con rapidez, se encoge formando una bola temblorosa y emite un sonido similar al gemido de un perro, como si se disculpara.
 
 
-        Хотя существо может взаимодействовать с любым человеком, оно, похоже, проявляет особый интерес к тем, кто несчастен или подавлен. Люди, страдающие от депрессии или ПТСР, после взаимодействия с SCP-999 становились бодры и приобретали крайне позитивное восприятие жизни. Обсуждалась возможность продажи слизи SCP-999 в качестве антидепрессанта.
+        Aunque puede interactuar con cualquier persona, la criatura parece mostrar un interés especial por quienes se sienten infelices o deprimidos. Personas con depresión o TEPT se han mostrado animadas y han adquirido una visión extremadamente positiva de la vida tras interactuar con SCP-999. Se ha debatido la posibilidad de comercializar su limo como antidepresivo.
 
 
-        Кроме своего игривого поведения, SCP-999 также любит всех животных (особенно людей), отказывается есть любое мясо и даже рискует собственной жизнью для спасения других - например, прыгая перед человеком, чтобы принять на себя пулю (разумность существа всё ещё является предметом споров: хотя его поведение кажется инфантильным, оно, похоже, понимает человеческую речь и назначение большинства современных технологий, в том числе и оружия). Рацион существа состоит исключительно из сладостей и конфет, больше всего оно любит конфеты M&M's™ и вафли Necco™. Способ питания подобен таковому у амебы.
+        Además de su conducta juguetona, SCP-999 siente afecto por todos los animales, en especial por los seres humanos; se niega a comer carne e incluso arriesga su vida para salvar a otros, por ejemplo, interponiéndose para recibir una bala. La inteligencia de la criatura sigue siendo objeto de debate: aunque su comportamiento parece infantil, comprende el habla humana y la función de la mayoría de las tecnologías modernas, incluidas las armas. Su dieta consiste exclusivamente en dulces y caramelos; sus favoritos son los caramelos M&M™ y las obleas Necco™. Se alimenta de forma similar a una ameba.
   - uid: 12841
     components:
     - type: Transform
@@ -90567,9 +90567,9 @@ entities:
 
 
 
-                 Хммм...
+                 Mmm...
 
-                Интересно, вкусные ли они?..
+                Me pregunto si estarán ricas...
   - uid: 12859
     components:
     - type: Transform
@@ -90877,14 +90877,14 @@ entities:
   - uid: 12897
     components:
     - type: MetaData
-      name: Мятая салфетка
+      name: Servilleta arrugada
     - type: Transform
       pos: 5.4170713,1.4782305
       parent: 2
   - uid: 12898
     components:
     - type: MetaData
-      name: Мятая салфетка
+      name: Servilleta arrugada
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 6.5191803,1.3844805
@@ -90892,7 +90892,7 @@ entities:
   - uid: 12899
     components:
     - type: MetaData
-      name: Мятая салфетка
+      name: Servilleta arrugada
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 6.0267496,0.8688555
@@ -90900,14 +90900,14 @@ entities:
   - uid: 12900
     components:
     - type: MetaData
-      name: Мятая салфетка
+      name: Servilleta arrugada
     - type: Transform
       pos: 6.589527,0.751668
       parent: 2
   - uid: 12901
     components:
     - type: MetaData
-      name: Мятая салфетка
+      name: Servilleta arrugada
     - type: Transform
       pos: 6.4722824,0.44698048
       parent: 2
@@ -91355,8 +91355,8 @@ entities:
   - uid: 6265
     components:
     - type: MetaData
-      desc: Плюшевый унатх менеджера по персоналу, кажется он смотрет на тебя словами "документы не по форме".
-      name: 'Плюшевый Унатх-МПП: Герсон'
+      desc: Un unath de peluche del responsable de RR. HH.; parece mirarte como si dijera: «Los documentos no tienen el formato correcto».
+      name: 'Gerson, el unath de RR. HH. de peluche'
     - type: Transform
       parent: 6261
     - type: Physics
@@ -91366,8 +91366,8 @@ entities:
   - uid: 22918
     components:
     - type: MetaData
-      desc: Лежать на земле!
-      name: Игрушечный Комендант
+      desc: ¡Al suelo!
+      name: comandante de juguete
     - type: Transform
       pos: -62.618492,20.782982
       parent: 2
@@ -91561,8 +91561,8 @@ entities:
   - uid: 12822
     components:
     - type: MetaData
-      desc: Плакат, призывающий персонал фонда не шуметь при работе с SCP-939.
-      name: плакат «Болтливые губки приводят к преждевременной смерти»
+      desc: Un cartel que insta al personal de la Fundación a guardar silencio al trabajar con SCP-939.
+      name: póster «Los labios indiscretos conducen a una muerte prematura»
     - type: Transform
       pos: 45.5,-57.5
       parent: 2
@@ -96034,8 +96034,8 @@ entities:
   - uid: 13757
     components:
     - type: MetaData
-      desc: Пульт от ядерки блять
-      name: Пульт от ядерки
+      desc: El puto control remoto de la bomba nuclear.
+      name: control remoto de la bomba nuclear
     - type: Transform
       pos: 28.460442,-47.49063
       parent: 2
@@ -98418,7 +98418,7 @@ entities:
   - uid: 14062
     components:
     - type: MetaData
-      name: рельсы подъёмника
+      name: rieles del elevador
     - type: Transform
       anchored: True
       pos: -55.5,-16.5
@@ -98426,7 +98426,7 @@ entities:
   - uid: 14063
     components:
     - type: MetaData
-      name: рельсы подъёмника
+      name: rieles del elevador
     - type: Transform
       anchored: True
       pos: -57.5,-16.5
@@ -98434,7 +98434,7 @@ entities:
   - uid: 14064
     components:
     - type: MetaData
-      name: рельсы подъёмника
+      name: rieles del elevador
     - type: Transform
       anchored: True
       pos: -55.5,-20.5
@@ -98442,7 +98442,7 @@ entities:
   - uid: 14065
     components:
     - type: MetaData
-      name: рельсы подъёмника
+      name: rieles del elevador
     - type: Transform
       anchored: True
       pos: -57.5,-20.5
@@ -103221,8 +103221,8 @@ entities:
   - uid: 14816
     components:
     - type: MetaData
-      desc: Специальная панель для управление реактором.
-      name: Панель управление
+      desc: Un panel especial para controlar el reactor.
+      name: panel de control
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -57.5,-81.5
@@ -103757,7 +103757,7 @@ entities:
   - uid: 14885
     components:
     - type: MetaData
-      name: консоль сканера
+      name: consola del escáner
     - type: Transform
       pos: -22.5,-78.5
       parent: 2
@@ -145104,7 +145104,7 @@ entities:
   - uid: 21804
     components:
     - type: MetaData
-      name: Блокировка Ядра
+      name: Bloqueo del núcleo
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -57.556145,-81.488235
@@ -145114,7 +145114,7 @@ entities:
   - uid: 21805
     components:
     - type: MetaData
-      name: Управление Рад-Ставней
+      name: control de persianas antirradiación
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -57.556145,-81.679726
@@ -145186,7 +145186,7 @@ entities:
   - uid: 21808
     components:
     - type: MetaData
-      name: кнопка открытия ядра
+      name: botón de apertura del núcleo
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -57.5,-82.5
@@ -145296,7 +145296,7 @@ entities:
   - uid: 21811
     components:
     - type: MetaData
-      name: кнопка сигнала (ставни)
+      name: botón de señal (persianas)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 12.5,-16.5
@@ -145314,7 +145314,7 @@ entities:
   - uid: 21812
     components:
     - type: MetaData
-      name: кнопка сигнала (свет)
+      name: Botón de señal (luz)
     - type: Transform
       pos: 19.5,-26.5
       parent: 2
@@ -145331,7 +145331,7 @@ entities:
   - uid: 21813
     components:
     - type: MetaData
-      name: кнопка сигнала (ставни)
+      name: botón de señal (persianas)
     - type: Transform
       pos: 21.5,-26.5
       parent: 2
@@ -145351,7 +145351,7 @@ entities:
   - uid: 21814
     components:
     - type: MetaData
-      name: кнопка сигнала (Ставни)
+      name: botón de señal (persianas)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 14.514834,-85.025185
@@ -145483,8 +145483,8 @@ entities:
   - uid: 21828
     components:
     - type: MetaData
-      desc: Знак, указывающий на лифт.
-      name: знак "Лифт"
+      desc: Un cartel que indica el elevador.
+      name: señal de «Elevador»
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -53.5,-38.5
@@ -146571,8 +146571,8 @@ entities:
   - uid: 21945
     components:
     - type: MetaData
-      desc: Знак, указывающий на убежище.
-      name: знак "убежище"
+      desc: Un cartel que indica un refugio.
+      name: señal de «Refugio»
     - type: Transform
       pos: 18.5,-39.5
       parent: 2
@@ -146889,7 +146889,7 @@ entities:
   - uid: 21982
     components:
     - type: MetaData
-      desc: Знак, предупреждающий что территория впереди является опасной зоной. Риск обвала.
+      desc: Un cartel que advierte que el área que hay más adelante es peligrosa. Riesgo de derrumbe.
     - type: Transform
       pos: -53.5,-16.5
       parent: 2
@@ -152243,8 +152243,8 @@ entities:
   - uid: 22922
     components:
     - type: MetaData
-      desc: 'ПИУ ПИУ '
-      name: Игрушечный Пулемёт
+      desc: '¡PIU, PIU! '
+      name: Ametralladora de juguete
     - type: Transform
       pos: -61.899742,20.626732
       parent: 2

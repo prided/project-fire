@@ -19020,7 +19020,7 @@ entities:
 
 
 
-        [head=1]ГДЕ ОТЧЁТ О ПРОГРЕССЕ!?[/head]
+        [head=1]¡¿DÓNDE ESTÁ EL INFORME DE PROGRESO?![/head]
   - uid: 1068
     components:
     - type: Transform
@@ -69077,8 +69077,8 @@ entities:
   - uid: 40816
     components:
     - type: MetaData
-      desc: Многое говорит о ее владельце...
-      name: петушиная кепка
+      desc: Dice mucho de quien lo posee...
+      name: gorra de gallo
     - type: Transform
       parent: 40815
     - type: Physics
@@ -69331,7 +69331,7 @@ entities:
   - uid: 42028
     components:
     - type: MetaData
-      name: противогаз ПМК-4
+      name: máscara antigás PMK-4
     - type: Transform
       pos: 75.303314,186.60585
       parent: 2
@@ -70016,16 +70016,16 @@ entities:
   - uid: 10785
     components:
     - type: MetaData
-      desc: Кусок графитового стержня, используемого в реакторах большой мощности канальных, РБМК-1000. (В данный момент устаревшей модели РБМК)
-      name: Обломок графитового стержня
+      desc: Un fragmento de barra de grafito utilizada en reactores RBMK-1000 de canal y alta potencia. (Actualmente corresponde a un modelo RBMK obsoleto).
+      name: fragmento de barra de grafito
     - type: Transform
       pos: -40.627594,49.5308
       parent: 2
   - uid: 10786
     components:
     - type: MetaData
-      desc: Кусок графитового стержня, используемого в реакторах большой мощности канальных, РБМК-1000. (В данный момент устаревшей модели РБМК)
-      name: Обломок графитового стержня
+      desc: Un fragmento de barra de grafito utilizada en reactores RBMK-1000 de canal y alta potencia. (Actualmente corresponde a un modelo RBMK obsoleto).
+      name: fragmento de barra de grafito
     - type: Transform
       pos: -41.523872,48.4683
       parent: 2
@@ -74365,8 +74365,8 @@ entities:
   - uid: 11453
     components:
     - type: MetaData
-      desc: Чёрно-магентовая зажигалка с логотипом и символикой "Marshall, Carter and Dark Ltd."
-      name: зажигалка флиппо MС&D
+      desc: Un encendedor negro y magenta con el logotipo y los emblemas de «Marshall, Carter and Dark Ltd.».
+      name: encendedor Flippo de MC&D
     - type: Transform
       parent: 11437
     - type: Physics
@@ -74378,8 +74378,8 @@ entities:
     paused: true
     components:
     - type: MetaData
-      desc: Чёрно-магентовая зажигалка с логотипом и символикой "Marshall, Carter and Dark Ltd."
-      name: зажигалка флиппо MС&D
+      desc: Un encendedor negro y magenta con el logotipo y los emblemas de «Marshall, Carter and Dark Ltd.».
+      name: encendedor Flippo de MC&D
     - type: Transform
       parent: 42022
     - type: Welder
@@ -74498,77 +74498,77 @@ entities:
       pos: 23.5,164.5
       parent: 2
     - type: NavMapBeacon
-      text: Камера 096
+      text: Cámara 096
   - uid: 11520
     components:
     - type: Transform
       pos: 83.5,205.5
       parent: 2
     - type: NavMapBeacon
-      text: Камера 457
+      text: Cámara 457
   - uid: 11521
     components:
     - type: Transform
       pos: 24.5,188.5
       parent: 2
     - type: NavMapBeacon
-      text: Камера 082
+      text: Cámara 082
   - uid: 11522
     components:
     - type: Transform
       pos: 50.5,189.5
       parent: 2
     - type: NavMapBeacon
-      text: Камера 049
+      text: Cámara 049
   - uid: 11523
     components:
     - type: Transform
       pos: 57.5,158.5
       parent: 2
     - type: NavMapBeacon
-      text: Камера 035
+      text: Cámara 035
   - uid: 11525
     components:
     - type: Transform
       pos: 92.5,101.5
       parent: 2
     - type: NavMapBeacon
-      text: Блок хранения корманных SCP
+      text: Almacén de SCP de bolsillo
   - uid: 11526
     components:
     - type: Transform
       pos: 83.5,131.5
       parent: 2
     - type: NavMapBeacon
-      text: Камера 173
+      text: Cámara 173
   - uid: 11527
     components:
     - type: Transform
       pos: -6.5,170.5
       parent: 2
     - type: NavMapBeacon
-      text: Камера 939
+      text: Cámara 939
   - uid: 11528
     components:
     - type: Transform
       pos: 49.5,157.5
       parent: 2
     - type: NavMapBeacon
-      text: Камера 079
+      text: Cámara 079
   - uid: 11529
     components:
     - type: Transform
       pos: 16.5,224.5
       parent: 2
     - type: NavMapBeacon
-      text: Камера 106
+      text: Cámara 106
   - uid: 11530
     components:
     - type: Transform
       pos: 37.5,221.5
       parent: 2
     - type: NavMapBeacon
-      text: Свободная камера для гуманоидов
+      text: Cámara libre para humanoides
 - proto: DefaultStationBeaconAI
   entities:
   - uid: 11531
@@ -74608,7 +74608,7 @@ entities:
       pos: -11.5,132.5
       parent: 2
     - type: NavMapBeacon
-      text: Д блок
+      text: Bloque D
 - proto: DefaultStationBeaconAtmospherics
   entities:
   - uid: 11537
@@ -74700,30 +74700,30 @@ entities:
       pos: -0.5,181.5
       parent: 2
     - type: NavMapBeacon
-      text: Убежище
+      text: Refugio
   - uid: 11551
     components:
     - type: Transform
       pos: 77.5,191.5
       parent: 2
     - type: NavMapBeacon
-      text: Убежище
+      text: Refugio
   - uid: 11552
     components:
     - type: MetaData
-      name: Убежище
+      name: Refugio
     - type: Transform
       pos: 68.5,92.5
       parent: 2
     - type: NavMapBeacon
-      text: Убежище
+      text: Refugio
   - uid: 11553
     components:
     - type: Transform
       pos: 18.5,90.5
       parent: 2
     - type: NavMapBeacon
-      text: Убежище
+      text: Refugio
   - uid: 11554
     components:
     - type: Transform
@@ -74792,7 +74792,7 @@ entities:
   - uid: 11565
     components:
     - type: MetaData
-      name: Кабинет Представителя КпЭ
+      name: Despacho del representante del Comité de Ética
     - type: Transform
       pos: 48.5,43.5
       parent: 2
@@ -83957,8 +83957,8 @@ entities:
   - uid: 13143
     components:
     - type: MetaData
-      desc: Не употреблять в пищевых целях!!!
-      name: Чистый Спирт
+      desc: ¡No apto para consumo!
+      name: Alcohol puro
     - type: Transform
       parent: 13142
     - type: Physics
@@ -85520,7 +85520,7 @@ entities:
       pos: -1.5,62.5
       parent: 2
     - type: FaxMachine
-      name: Конференц зал
+      name: Sala de Conferencias
     - type: Pullable
       prevFixedRotation: True
     - type: DontSell
@@ -85530,7 +85530,7 @@ entities:
       pos: 2.5,80.5
       parent: 2
     - type: FaxMachine
-      name: Менеджер по персоналу
+      name: Responsable de RR. HH.
     - type: Pullable
       prevFixedRotation: True
     - type: DontSell
@@ -85540,7 +85540,7 @@ entities:
       pos: 30.5,111.5
       parent: 2
     - type: FaxMachine
-      name: Главный врач
+      name: Médico jefe
     - type: Pullable
       prevFixedRotation: True
     - type: DontSell
@@ -85550,7 +85550,7 @@ entities:
       pos: 41.5,124.5
       parent: 2
     - type: FaxMachine
-      name: Главный научный сотрудник
+      name: Investigador Jefe
     - type: Pullable
       prevFixedRotation: True
     - type: DontSell
@@ -85560,7 +85560,7 @@ entities:
       pos: -23.5,118.5
       parent: 2
     - type: FaxMachine
-      name: Начальник СБ
+      name: Jefe del Servicio de Seguridad
     - type: Pullable
       prevFixedRotation: True
     - type: DontSell
@@ -85570,7 +85570,7 @@ entities:
       pos: -16.5,45.5
       parent: 2
     - type: FaxMachine
-      name: Ведущий инженер
+      name: Ingeniero principal
     - type: Pullable
       prevFixedRotation: True
     - type: DontSell
@@ -148218,8 +148218,8 @@ entities:
   - uid: 21245
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ставни.
-      name: кнопка с замком (Ставни)
+      desc: Este botón activa las persianas.
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -8.5,117.5
@@ -148249,8 +148249,8 @@ entities:
   - uid: 21246
     components:
     - type: MetaData
-      desc: Эта кнопка разблокирует оружейную.
-      name: кнопка с замком (Оружейная)
+      desc: Este botón desbloquea la Armería.
+      name: Botón con cerradura (armería)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -8.5,116.5
@@ -148268,7 +148268,7 @@ entities:
   - uid: 21247
     components:
     - type: MetaData
-      name: кнопка с замком (оружейная)
+      name: Botón con cerradura (armería)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 91.6827,182.50049
@@ -148288,7 +148288,7 @@ entities:
   - uid: 21248
     components:
     - type: MetaData
-      name: кнопка с замком (блокировка брига)
+      name: botón con cerradura (bloqueo del calabozo)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 91.34221,182.49565
@@ -148696,7 +148696,7 @@ entities:
   - uid: 21269
     components:
     - type: MetaData
-      name: кнопка с замком (ставни)
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 22.268085,168.56676
@@ -148717,7 +148717,7 @@ entities:
   - uid: 21270
     components:
     - type: MetaData
-      name: кнопка с замком (камера)
+      name: botón con cerradura (cámara)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 22.72121,168.56676
@@ -148821,8 +148821,8 @@ entities:
   - uid: 21275
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ворота в камеру 173.
-      name: кнопка с замком (Ворота в камеру 173)
+      desc: Este botón abre el portón de la cámara 173.
+      name: botón con cerradura (portón de la cámara 173)
     - type: Transform
       pos: 78.5,129.5
       parent: 2
@@ -148839,7 +148839,7 @@ entities:
   - uid: 21276
     components:
     - type: MetaData
-      name: кнопка с замком (вход)
+      name: botón con cerradura (entrada)
     - type: Transform
       pos: 58.5,191.5
       parent: 2
@@ -148853,7 +148853,7 @@ entities:
   - uid: 21277
     components:
     - type: MetaData
-      name: кнопка с замком (выпуск газов)
+      name: botón con cerradura (liberación de gases)
     - type: Transform
       pos: 59.5,191.5
       parent: 2
@@ -148867,7 +148867,7 @@ entities:
   - uid: 21278
     components:
     - type: MetaData
-      name: кнопка с замком (окно)
+      name: Botón con cerradura (ventana)
     - type: Transform
       pos: 49.5,191.5
       parent: 2
@@ -148884,7 +148884,7 @@ entities:
   - uid: 21279
     components:
     - type: MetaData
-      name: кнопка с замком (камера)
+      name: botón con cerradura (cámara)
     - type: Transform
       pos: 50.5,191.5
       parent: 2
@@ -148936,7 +148936,7 @@ entities:
   - uid: 21282
     components:
     - type: MetaData
-      name: кнопка с замком (окна)
+      name: botón con cerradura (ventanas)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 45.5,179.5
@@ -148960,7 +148960,7 @@ entities:
   - uid: 21283
     components:
     - type: MetaData
-      name: кнопка с замком (вход к 049)
+      name: Botón con cerradura (entrada a 049)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 46.5,179.5
@@ -148981,8 +148981,8 @@ entities:
   - uid: 21284
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ставни.
-      name: кнопка с замком (Ставни)
+      desc: Este botón activa las persianas.
+      name: botón con cerradura (persianas)
     - type: Transform
       pos: 79.5,129.5
       parent: 2
@@ -149032,7 +149032,7 @@ entities:
   - uid: 41953
     components:
     - type: MetaData
-      name: кнопка с замком (наружный вход)
+      name: botón con cerradura (entrada exterior)
     - type: Transform
       pos: 57.5,215.5
       parent: 2
@@ -149052,7 +149052,7 @@ entities:
   - uid: 41954
     components:
     - type: MetaData
-      name: кнопка с замком (внутренний вход)
+      name: botón con cerradura (entrada interior)
     - type: Transform
       pos: 58.5,215.5
       parent: 2
@@ -149069,7 +149069,7 @@ entities:
   - uid: 41999
     components:
     - type: MetaData
-      name: кнопка с замком (окно)
+      name: Botón con cerradura (ventana)
     - type: Transform
       pos: 56.5,215.5
       parent: 2
@@ -149130,7 +149130,7 @@ entities:
   - uid: 21287
     components:
     - type: MetaData
-      name: кнопка с замком (Южные ворота на ВНЕШНИЙ периметр)
+      name: botón con cerradura (portón sur al perímetro EXTERIOR)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 6.5,6.5
@@ -149212,8 +149212,8 @@ entities:
   - uid: 21290
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ставни.
-      name: кнопка с замком (Ставни)
+      desc: Este botón activa las persianas.
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 29.5,107.5
@@ -149237,8 +149237,8 @@ entities:
   - uid: 21291
     components:
     - type: MetaData
-      desc: Эта кнопка активирует блокировку мед отдела.
-      name: кнопка с замком (Блокировка мед отдела)
+      desc: Este botón activa el bloqueo del departamento médico.
+      name: botón con cerradura (bloqueo del departamento médico)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 30.5,106.5
@@ -149282,7 +149282,7 @@ entities:
   - uid: 21292
     components:
     - type: MetaData
-      name: кнопка с замком (окно)
+      name: Botón con cerradura (ventana)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 23.5,189.5
@@ -149325,7 +149325,7 @@ entities:
   - uid: 21294
     components:
     - type: MetaData
-      name: кнопка с замком (камера)
+      name: botón con cerradura (cámara)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 28.5,183.5
@@ -149349,7 +149349,7 @@ entities:
   - uid: 21295
     components:
     - type: MetaData
-      name: кнопка с замком (Окна)
+      name: botón con cerradura (ventanas)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 53.5,161.5
@@ -149373,7 +149373,7 @@ entities:
   - uid: 21296
     components:
     - type: MetaData
-      name: кнопка с замком (окна)
+      name: botón con cerradura (ventanas)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 92.5,204.5
@@ -149397,7 +149397,7 @@ entities:
   - uid: 21297
     components:
     - type: MetaData
-      name: кнопка с замком (вход)
+      name: botón con cerradura (entrada)
     - type: Transform
       pos: 86.5,207.5
       parent: 2
@@ -149411,7 +149411,7 @@ entities:
   - uid: 21298
     components:
     - type: MetaData
-      name: кнопка с замком (окно)
+      name: Botón con cerradura (ventana)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 76.5,196.5
@@ -149432,7 +149432,7 @@ entities:
   - uid: 21299
     components:
     - type: MetaData
-      name: кнопка с замком (вход к камере)
+      name: Botón con cerradura (entrada a la cámara)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -0.5,168.5
@@ -149453,7 +149453,7 @@ entities:
   - uid: 21300
     components:
     - type: MetaData
-      name: кнопка с замком (окно)
+      name: Botón con cerradura (ventana)
     - type: Transform
       pos: 14.5,196.5
       parent: 2
@@ -149473,7 +149473,7 @@ entities:
   - uid: 21301
     components:
     - type: MetaData
-      name: кнопка с замком (вход)
+      name: botón con cerradura (entrada)
     - type: Transform
       pos: 16.5,196.5
       parent: 2
@@ -149493,7 +149493,7 @@ entities:
   - uid: 21302
     components:
     - type: MetaData
-      name: кнопка с замком (камера)
+      name: botón con cerradura (cámara)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 28.5,183.5
@@ -149530,7 +149530,7 @@ entities:
   - uid: 21304
     components:
     - type: MetaData
-      name: кнопка с замком (камера)
+      name: botón con cerradura (cámara)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 24.5,228.5
@@ -149554,7 +149554,7 @@ entities:
   - uid: 21305
     components:
     - type: MetaData
-      name: кнопка с замком (ставни)
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 23.5,228.5
@@ -149605,7 +149605,7 @@ entities:
   - uid: 21306
     components:
     - type: MetaData
-      name: кнопка с замком (вход)
+      name: botón con cerradura (entrada)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 77.5,198.5
@@ -149626,7 +149626,7 @@ entities:
   - uid: 21307
     components:
     - type: MetaData
-      name: кнопка с замком (камера)
+      name: botón con cerradura (cámara)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 92.5,205.5
@@ -149641,7 +149641,7 @@ entities:
   - uid: 21308
     components:
     - type: MetaData
-      name: кнопка с замком (КПП)
+      name: botón con cerradura (puesto de control)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 1.5,166.5
@@ -149665,7 +149665,7 @@ entities:
   - uid: 21309
     components:
     - type: MetaData
-      name: кнопка с замком (вход)
+      name: botón con cerradura (entrada)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 0.5,166.5
@@ -149695,7 +149695,7 @@ entities:
   - uid: 21310
     components:
     - type: MetaData
-      name: кнопка с замком (окна камеры)
+      name: botón con cerradura (ventanas de la cámara)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -6.5,165.5
@@ -149716,7 +149716,7 @@ entities:
   - uid: 21311
     components:
     - type: MetaData
-      name: кнопка с замком (наружний вход)
+      name: Botón con cerradura (entrada exterior)
     - type: Transform
       pos: -7.5,169.5
       parent: 2
@@ -149742,7 +149742,7 @@ entities:
   - uid: 21312
     components:
     - type: MetaData
-      name: кнопка с замком (камера)
+      name: botón con cerradura (cámara)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -9.493713,168.43747
@@ -149760,7 +149760,7 @@ entities:
   - uid: 21313
     components:
     - type: MetaData
-      name: кнопка с замком (окно)
+      name: Botón con cerradura (ventana)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 20.5,194.5
@@ -149781,7 +149781,7 @@ entities:
   - uid: 21314
     components:
     - type: MetaData
-      name: кнопка с замком (камера)
+      name: botón con cerradura (cámara)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 20.5,188.5
@@ -149791,7 +149791,7 @@ entities:
   - uid: 21315
     components:
     - type: MetaData
-      name: кнопка с замком (окна)
+      name: botón con cerradura (ventanas)
     - type: Transform
       pos: -9.5,169.5
       parent: 2
@@ -149863,7 +149863,7 @@ entities:
   - uid: 21318
     components:
     - type: MetaData
-      name: кнопка с замком (вход)
+      name: botón con cerradura (entrada)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -9.493713,168.67184
@@ -149881,7 +149881,7 @@ entities:
   - uid: 21319
     components:
     - type: MetaData
-      name: кнопка с замком (Вход 1)
+      name: Botón con cerradura (Entrada 1)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 59.5,160.5
@@ -149899,7 +149899,7 @@ entities:
   - uid: 21320
     components:
     - type: MetaData
-      name: кнопка с замком (Вход 2)
+      name: Botón con cerradura (Entrada 2)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 58.5,160.5
@@ -149975,7 +149975,7 @@ entities:
   - uid: 21321
     components:
     - type: MetaData
-      name: кнопка с замком (Окна)
+      name: botón con cerradura (ventanas)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -29.5,31.5
@@ -150236,8 +150236,8 @@ entities:
   - uid: 21337
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ворота на вертолётную площадку.
-      name: кнопка с замком (Ворота на вертолётную площадку)
+      desc: Este botón abre el portón del helipuerto.
+      name: botón con cerradura (portón del helipuerto)
     - type: Transform
       pos: 20.5,-4.5
       parent: 2
@@ -150260,8 +150260,8 @@ entities:
   - uid: 21338
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ставни.
-      name: кнопка с замком (Ставни)
+      desc: Este botón activa las persianas.
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 21.5,-5.5
@@ -150285,8 +150285,8 @@ entities:
   - uid: 21339
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ставни.
-      name: кнопка с замком (Ставни)
+      desc: Este botón activa las persianas.
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 2.5,9.5
@@ -150329,7 +150329,7 @@ entities:
   - uid: 21341
     components:
     - type: MetaData
-      name: кнопка с замком (Ставни)
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 2.5,27.5
@@ -150356,7 +150356,7 @@ entities:
   - uid: 21342
     components:
     - type: MetaData
-      name: кнопка с замком (Входные гермозатворы)
+      name: botón con cerradura (compuertas herméticas de entrada)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 2.5,28.5
@@ -150383,7 +150383,7 @@ entities:
   - uid: 21343
     components:
     - type: MetaData
-      name: кнопка с замком (Выходные гермозатворы)
+      name: botón con cerradura (compuertas herméticas de salida)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 2.5,26.5
@@ -150695,8 +150695,8 @@ entities:
   - uid: 21356
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ставни.
-      name: кнопка с замком (Ставни)
+      desc: Este botón activa las persianas.
+      name: botón con cerradura (persianas)
     - type: Transform
       pos: 77.5,106.5
       parent: 2
@@ -150719,8 +150719,8 @@ entities:
   - uid: 21357
     components:
     - type: MetaData
-      desc: Эта кнопка активирует блокировку зоны содержания корманных SCP объектов.
-      name: кнопка с замком (Блокировка зоны содержания корманных SCP объектов)
+      desc: Este botón activa el bloqueo del área de contención de los SCP de bolsillo.
+      name: botón con cerradura (bloqueo del área de contención de los SCP de bolsillo)
     - type: Transform
       pos: 78.5,106.5
       parent: 2
@@ -150910,8 +150910,8 @@ entities:
   - uid: 21365
     components:
     - type: MetaData
-      desc: Эта кнопка блокирует D блок.
-      name: кнопка с замком (Блокировка D блока)
+      desc: Este botón bloquea el bloque D.
+      name: botón con cerradura (bloqueo del bloque D)
     - type: Transform
       pos: -6.211542,119.60646
       parent: 2
@@ -150992,8 +150992,8 @@ entities:
   - uid: 21367
     components:
     - type: MetaData
-      desc: Эта кнопка активирует блокировку брига.
-      name: кнопка с замком (Блокировка брига)
+      desc: Este botón activa el bloqueo del calabozo.
+      name: botón con cerradura (bloqueo del calabozo)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 74.5,169.5
@@ -151011,8 +151011,8 @@ entities:
   - uid: 21368
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ставни.
-      name: кнопка с замком (Ставни)
+      desc: Este botón activa las persianas.
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 74.5,170.5
@@ -151033,8 +151033,8 @@ entities:
   - uid: 21369
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ставни.
-      name: кнопка с замком (Ставни)
+      desc: Este botón activa las persianas.
+      name: botón con cerradura (persianas)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 88.5,182.5
@@ -151058,8 +151058,8 @@ entities:
   - uid: 21370
     components:
     - type: MetaData
-      desc: Эта кнопка активирует восточные ворота на вертолетную площадку.
-      name: кнопка с замком (Восточные ворота на вертолетную площадку)
+      desc: Este botón abre el portón oriental del helipuerto.
+      name: botón con cerradura (portón oriental del helipuerto)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 5.5,11.5
@@ -151083,8 +151083,8 @@ entities:
   - uid: 21371
     components:
     - type: MetaData
-      desc: Эта кнопка активирует южные ворота на внутренний периметр и парковку.
-      name: кнопка с замком (Южные ворота на внутренний периметр и парковку)
+      desc: Este botón abre el portón sur hacia el perímetro interior y el estacionamiento.
+      name: botón con cerradura (portón sur al perímetro interior y el estacionamiento)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 5.5,10.5
@@ -151110,8 +151110,8 @@ entities:
   - uid: 21372
     components:
     - type: MetaData
-      desc: Эта кнопка блокирует тюремные камеры.
-      name: кнопка с замком (Блокировка тюремных камер)
+      desc: Este botón bloquea las celdas.
+      name: botón con cerradura (bloqueo de las celdas)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -21.29009,116.57233
@@ -151147,8 +151147,8 @@ entities:
   - uid: 21373
     components:
     - type: MetaData
-      desc: Эта кнопка блокирует D блок.
-      name: кнопка с замком (Блокировка D блока)
+      desc: Este botón bloquea el bloque D.
+      name: botón con cerradura (bloqueo del bloque D)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -21.900465,116.576645
@@ -151211,8 +151211,8 @@ entities:
   - uid: 21374
     components:
     - type: MetaData
-      desc: Эта кнопка блокирует бриг.
-      name: кнопка с замком (Блокировка Брига)
+      desc: Este botón bloquea el calabozo.
+      name: botón con cerradura (bloqueo del calabozo)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -21.59611,116.57038
@@ -159141,25 +159141,25 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Объект №: SCP-131
+        Objeto n.º: SCP-131
 
 
-        Класс объекта: Безопасный
+        Clase del objeto: Seguro
 
 
-        Особые условия содержания: Никаких особых действий в отношении SCP-131-A и SCP-131-B предпринимать не требуется. Им позволено свободно перемещаться по Зоне 19, но запрещено входить в режимные помещения или пытаться покинуть Зону. Общение с субъектами разрешено, но рекомендуется сводить его к минимуму, чтобы у субъектов не выработалось привязанности к сотрудникам. Следует ежечасно отслеживать местонахождение субъектов, несоблюдение этого условия влечёт за собой карантинную ситуацию первого уровня. Все случаи грубого обращения с субъектами будут расследованы, виновные понесут суровое наказание.
+        Procedimientos especiales de contención: No se requiere ninguna acción especial respecto a SCP-131-A y SCP-131-B. Se les permite moverse libremente por el Sitio-19, pero no pueden entrar en áreas seguras ni intentar salir del sitio. Se permite la comunicación con los sujetos, pero se recomienda mantenerla al mínimo para evitar que desarrollen vínculos con el personal. El paradero de los sujetos debe ser monitorizado cada hora, y el incumplimiento de ello resultará en una situación de cuarentena de Nivel 1. Todos los casos de abuso de sujetos serán investigados y severamente castigados.
 
 
-        Описание: SCP-131-A и SCP-131-B (сотрудники любовно прозвали их "каплеглазики") - два создания с каплевидной формой тела, примерно 30 сантиметров в высоту. В середине тела расположен один голубой глаз. SCP-131-A имеет охровый окрас, SCP-131-B - горчично-жёлтый. В основании тела обоих есть образование, напоминающее колесо, что наталкивает на мысль о биомеханической природе созданий. Субъекты могут двигаться удивительно быстро, проходя 60 метров за несколько секунд. Стоит отметить, что у субъектов нет тормозной системы, что не раз приводило к небезынтересным, а то и вовсе забавным, происшествиям. Также субъекты проявили способность карабкаться по отвесным поверхностям и не раз терялись в вентиляционной системе.
+        Descripción: SCP-131-A y SCP-131-B, apodados cariñosamente «ojitos» por el personal, son dos criaturas de cuerpo lacriforme que miden aproximadamente 30 centímetros de altura. En el centro del cuerpo tienen un único ojo azul. SCP-131-A es de color ocre y SCP-131-B, amarillo mostaza. Ambos poseen en la base una formación semejante a una rueda, lo que sugiere una naturaleza biomecánica. Pueden desplazarse a una velocidad sorprendente y recorrer 60 metros en pocos segundos. Cabe señalar que no poseen sistema de frenado, lo que ha ocasionado incidentes interesantes e incluso divertidos. También pueden trepar por superficies verticales y se han perdido más de una vez en el sistema de ventilación.
 
 
-        Интеллект субъектов находится на уровне обычной домашней кошки, к тому же они невероятно любопытны. Большую часть времени они проводят, катаясь по учреждению, наблюдая за сотрудниками и подглядывая за другими безопасными SCP. Субъекты могут переговариваться при помощи непереводимого писклявого бормотания. Никто никогда не видел, чтобы они моргали, даже в опыте, когда их снимали на камеру 18 часов подряд.
+        Los sujetos poseen una inteligencia comparable a la de un gato doméstico y son extraordinariamente curiosos. Pasan gran parte del tiempo rodando por la instalación, observando al personal y espiando a otros SCP de clase Seguro. Pueden comunicarse mediante murmullos agudos imposibles de traducir. Nunca se los ha visto parpadear, ni siquiera durante una prueba en la que fueron grabados durante 18 horas seguidas.
 
 
-        Субъекты хорошо реагируют на доброту к ним и быстро привязываются к тому, кто эту доброту проявляет, примерно так же, как щенки привязываются к человеку. Они будут преследовать того, к кому привязались, повсюду, даже в режимные зоны. Несмотря на своё любопытство, субъекты чувствуют опасность, когда она рядом, а если объект их привязанности начинает приближаться к тому, что они считают опасными (например, к объектам класса Евклид или Кетер), они станут носиться под ногами (или другими конечностями) и что-то бормотать паническим голосом, словно предупреждая. Поскольку персонал Зоны 19 ежедневно сталкивается с объектами класса Евклид и Кетер, сотрудникам не рекомендуется создавать привязанность, т. к. это отвлекает во время сложных операций и исследований и может подставить под угрозу самих субъектов (см. приложение 131-1). Если объект привязанности будет достаточно долго игнорировать субъектов, они в конце концов утратят интерес и вернутся к обычной деятельности.
+        Los sujetos responden bien a la amabilidad y se encariñan rápidamente con quien los trata de ese modo, de forma similar a un cachorro. Siguen a la persona por toda la instalación, incluso hasta zonas restringidas. Pese a su curiosidad, perciben el peligro cercano; si la persona a la que siguen se aproxima a algo que consideran peligroso, como un objeto de clase Euclid o Keter, se interponen entre sus pies —u otras extremidades— y murmuran con voz de pánico a modo de advertencia. Debido a que el personal del Sitio-19 trata a diario con objetos Euclid y Keter, se recomienda no fomentar estos vínculos, pues distraen durante operaciones e investigaciones complejas y pueden poner en peligro a los propios sujetos (véase el Anexo 131-1). Si la persona ignora a los sujetos durante suficiente tiempo, estos terminan por perder el interés y retoman sus actividades habituales.
 
 
-        Стоит отметить, что за субъектами не требуется какой-либо уход. Они не едят, отходов пищеварения тоже нет, и во сне не нуждаются. Похоже, что для жизни им требуется только утолять информационный голод (требуются дополнительные исследования для проверки этой гипотезы).
+        Cabe destacar que los sujetos no requieren ningún tipo de cuidados. No comen, no tienen residuos digestivos y no necesitan dormir. Parece que solo necesitan saciar su hambre de información para poder vivir (se necesita más investigación para comprobar esta hipótesis).
   - uid: 22845
     components:
     - type: Transform
@@ -159167,28 +159167,28 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Объект №: SCP-999
+        Objeto n.º: SCP-999
 
 
-        Класс объекта: Безопасный
+        Clase del objeto: Seguro
 
 
-        Особые условия содержания: SCP-999 дозволяется свободно бродить по территории комплекса, если оно того пожелает. В остальных случаях необходимо держать его внутри загончика с 20:00 до 21:00 или во время блокировки всей Зоны ради безопасности существа. Существу не разрешается выходить из загончика ночью или покидать территорию комплекса. Загончик всегда должен быть чист, еду следует приносить дважды в день. В зону содержания SCP-999 разрешено входить всем сотрудникам, но только если в это время у них нет других дел или если у них перерыв. С существом следует играть, когда ему скучно, говорить с ним нужно спокойным голосом, избегая угрожающего тона.
+        Procedimientos Especiales de Contención: SCP-999 puede desplazarse libremente por la instalación cuando así lo desee. En cualquier otro momento debe permanecer en su corral entre las 20:00 y las 21:00 o durante un confinamiento general del Sitio, por su propia seguridad. No se le permite abandonar el corral durante la noche ni salir de la instalación. El corral debe mantenerse limpio y debe llevársele comida dos veces al día. Todo el personal puede entrar en el área de contención de SCP-999, pero solo cuando no tenga otras obligaciones o se encuentre en descanso. Debe jugarse con la criatura cuando se aburra y hablarle con voz tranquila, sin adoptar un tono amenazante.
 
 
-        Описание: SCP-999 выглядит как большая аморфная студенистая масса прозрачной оранжевой слизи, весящая приблизительно 54 кг (120 фунтов) и обладающая вязкостью как у арахисового масла. Размер существа и его форма легко изменяются, хотя в состоянии покоя оно принимает форму приплюснутой полусферы шириной 2 м и высотой 1 м. Поверхность SCP-999 покрыта тонкой прозрачной мембраной, как у животных клеток, толщиной примерно 0,5 см. Эта мембрана обладает чрезвычайной эластичностью, что позволяет SCP-999 сплющиваться до толщины в 2 см. И хотя поверхность тела существа обладает свойством гидрофобности, оно способно поглощать жидкости (см. Приложение SCP-999-A). Все тело существа состоит из вязкого оранжевого вещества, химический состав вещества, из которого состоит SCP-999, неизвестен, однако в нём легко могут перевариваться органические соединения.
+        Descripción: SCP-999 parece una gran masa gelatinosa amorfa de limo naranja translúcido que pesa aproximadamente 54 kg (120 libras) y tiene una viscosidad similar a la mantequilla de maní. Su tamaño y forma cambian con facilidad, aunque en reposo adopta la forma de un hemisferio aplanado de 2 m de ancho y 1 m de alto. La superficie está cubierta por una membrana fina y transparente, similar a la de una célula animal, de aproximadamente 0,5 cm de grosor. Esta membrana es extremadamente elástica y permite que SCP-999 se aplane hasta alcanzar solo 2 cm de espesor. Aunque la superficie de la criatura es hidrófoba, puede absorber líquidos (véase el Anexo SCP-999-A). Todo su cuerpo está compuesto por una sustancia naranja viscosa cuya composición química se desconoce, pero que puede digerir fácilmente compuestos orgánicos.
 
 
-        Характер существа лучше всего можно описать как "игривый", в чём-то его поведение схоже с собачьим: если к нему подойти, SCP-999 будет изображать бурный восторг, подползет к ближайшему человеку и запрыгнет на него, "обнимая" его парой ложноножек, а третьей прижимаясь к лицу человека, всё время издавая высокий звук, похожий на булькание и воркование. Поверхность SCP-999 испускает приятный аромат, который различается в зависимости от того, с кем оно взаимодействует. Были зафиксированы запахи шоколада, свежевыстиранного белья, бекона, роз и пластилина Play-Doh™.
+        El carácter de la criatura se describe mejor como «juguetón» y su conducta se parece en ciertos aspectos a la de un perro: cuando alguien se acerca, SCP-999 manifiesta una gran alegría, se arrastra hasta la persona más cercana y salta sobre ella, la «abraza» con dos pseudópodos y apoya un tercero contra su rostro mientras emite un sonido agudo semejante a gorgoteos y arrullos. La superficie de SCP-999 desprende un aroma agradable que varía según la persona con la que interactúe. Se han registrado olores a chocolate, ropa recién lavada, tocino, rosas y plastilina Play-Doh™.
 
 
-        Прикосновение к поверхности SCP-999 немедленно вызывает лёгкую эйфорию, которая становится сильнее в зависимости от времени соприкосновения с объектом и длится ещё долгое время после отделения от существа. Больше всего SCP-999 любит устраивать "щекоточную борьбу", полностью обволакивая человека от шеи до самых пяток и щекоча его, пока ему не будет приказано остановиться (хотя оно не всегда выполняет этот приказ). И хотя при этом возможны случаи травматизации, SCP-999 никогда не старается причинить людям вред предумышленно; если существо заметит, что своими действиями нанесло вред человеку, то быстро отползёт в сторону и свернётся в дрожащий шар, издавая при этом звук, похожий на собачье скуление, как будто извиняясь за свой проступок.
+        El contacto con la superficie de SCP-999 provoca de inmediato una euforia leve que aumenta según la duración del contacto y persiste durante mucho tiempo después de separarse de la criatura. Su actividad favorita es la «lucha de cosquillas»: envuelve por completo a una persona desde el cuello hasta los talones y le hace cosquillas hasta que se le ordena detenerse, aunque no siempre obedece. Si bien pueden producirse lesiones, SCP-999 nunca intenta hacer daño deliberadamente. Si advierte que ha lastimado a alguien, se aparta con rapidez, se encoge formando una bola temblorosa y emite un sonido similar al gemido de un perro, como si se disculpara.
 
 
-        Хотя существо может взаимодействовать с любым человеком, оно, похоже, проявляет особый интерес к тем, кто несчастен или подавлен. Люди, страдающие от депрессии или ПТСР, после взаимодействия с SCP-999 становились бодры и приобретали крайне позитивное восприятие жизни. Обсуждалась возможность продажи слизи SCP-999 в качестве антидепрессанта.
+        Aunque puede interactuar con cualquier persona, la criatura parece mostrar un interés especial por quienes se sienten infelices o deprimidos. Personas con depresión o TEPT se han mostrado animadas y han adquirido una visión extremadamente positiva de la vida tras interactuar con SCP-999. Se ha debatido la posibilidad de comercializar su limo como antidepresivo.
 
 
-        Кроме своего игривого поведения, SCP-999 также любит всех животных (особенно людей), отказывается есть любое мясо и даже рискует собственной жизнью для спасения других - например, прыгая перед человеком, чтобы принять на себя пулю (разумность существа всё ещё является предметом споров: хотя его поведение кажется инфантильным, оно, похоже, понимает человеческую речь и назначение большинства современных технологий, в том числе и оружия). Рацион существа состоит исключительно из сладостей и конфет, больше всего оно любит конфеты M&M's™ и вафли Necco™. Способ питания подобен таковому у амебы.
+        Además de su conducta juguetona, SCP-999 siente afecto por todos los animales, en especial por los seres humanos; se niega a comer carne e incluso arriesga su vida para salvar a otros, por ejemplo, interponiéndose para recibir una bala. La inteligencia de la criatura sigue siendo objeto de debate: aunque su comportamiento parece infantil, comprende el habla humana y la función de la mayoría de las tecnologías modernas, incluidas las armas. Su dieta consiste exclusivamente en dulces y caramelos; sus favoritos son los caramelos M&M™ y las obleas Necco™. Se alimenta de forma similar a una ameba.
   - uid: 22847
     components:
     - type: Transform
@@ -159218,13 +159218,13 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        В 1:23:04 начался эксперимент. Из-за снижения оборотов насосов, подключённых к выбегающему генератору, и положительного парового коэффициента реактивности реактор испытывал тенденцию к увеличению мощности, однако в течение почти всего времени эксперимента поведение мощности не внушало опасений.
+        A la 1:23:04 comenzó el experimento. Debido a la reducción de velocidad de las bombas conectadas al generador en régimen de inercia y al coeficiente de reactividad por vapor positivo, el reactor mostró una tendencia a aumentar su potencia. Sin embargo, durante casi todo el experimento, el comportamiento de la potencia no causó preocupación.
 
 
-        В 1:23:39 зарегистрирован сигнал аварийной защиты АЗ-5 от нажатия кнопки на пульте оператора. Поглощающие стержни начали движение в активную зону, однако вследствие их неправильной конструкции и низкого оперативного запаса реактивности реактор был не заглушён, а наоборот, начал разгоняться. В следующие несколько секунд зарегистрированы различные сигналы, свидетельствующие об очень быстром росте мощности, затем регистрирующие системы вышли из строя.
+        A la 1:23:39 se registró la señal de protección de emergencia AZ-5 tras pulsarse el botón de la consola del operador. Las barras absorbentes comenzaron a entrar en el núcleo; sin embargo, debido a su diseño incorrecto y al escaso margen operativo de reactividad, el reactor no se apagó, sino que comenzó a acelerarse. Durante los segundos siguientes se registraron varias señales que indicaban un aumento extremadamente rápido de la potencia; después, los sistemas de registro fallaron.
 
 
-        Произошло несколько мощных взрывов, и к 1:23:47—1:23:50 реактор был полностью разрушен.
+        Se produjeron varias explosiones potentes y, entre la 1:23:47 y la 1:23:50, el reactor quedó completamente destruido.
                                                               ☢
   - uid: 22852
     components:
@@ -159240,38 +159240,38 @@ entities:
   - uid: 22854
     components:
     - type: MetaData
-      desc: Это вырванная двенадцатая страница дневника Главы Службы Логистики, имена на ней зачеркнуты, но некоторые буквы можно различить. На двенадцатой странице продолжаются записи одиннадцатого дня.
-      name: Двенадцатая страница дневника Главы Службы Логистики
+      desc: Una duodécima página arrancada del diario del jefe del Servicio de Logística. Los nombres están tachados, aunque algunas letras todavía pueden distinguirse. La duodécima página continúa las entradas del undécimo día.
+      name: duodécima página del diario del jefe del Servicio de Logística
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 46.48433,79.594505
       parent: 2
     - type: Paper
       content: >-
-        Продолжение записи 11
+        Continuación de la entrada 11
 
 
 
-        Это было ужасно, доктор ▆▆▆▆рд▆ проводил опыты над 008.
+        Fue horrible. El Dr. ▆▆▆▆rd▆ experimentaba con SCP-008.
 
 
-        Черт, наверное мне не нужно было писать его имя.
+        Maldición, quizá no debí escribir su nombre.
 
 
-        В общем, он то ли нарушил технику безопасности, то ли специально заразился.. Я точно не знаю как это было, всё об этом случае я узнал от одного из сотрудников ТЗС.
+        En fin, o incumplió las normas de seguridad o se infectó a propósito... No sé exactamente qué ocurrió; todo lo que sé del caso me lo contó un empleado de la ZCP.
 
 
-        К▆▆▆, тот сотрудник, тогда учавствовала в ВУС 008, она убила доктора, того самого, который проводил эксперимент и обратился в зомби. 
+        K▆▆▆, la empleada que participó entonces en el incidente de SCP-008, mató al doctor que realizaba el experimento y se había convertido en zombi.
 
-        Я давно знаю ▆▆р▆, она... Она не плохая девушка, спокойная, временами даже весёлая, но в тот день... Тогда она выглядела так, будто ей понравилось то что было во время НУС 008.
-
-
-        Сейчас зона содержания 008 перекрыта, ▆▆▆а сказала что там всё перевернули вверх дном.
+        Conozco a ▆▆r▆ desde hace mucho. Ella... no es una mala persona; es tranquila y a veces hasta alegre, pero aquel día... parecía que le había gustado lo ocurrido durante el incidente de SCP-008.
 
 
-        А, я забыл, там же всё было настолько плохо, что вызывали Бета-7, каких-то там "болванчиков". Не знаю точно, не интересовался я этим всем, но Бета-7 это вроде РХБЗ или что-то такое.
+        Ahora el área de contención de SCP-008 está clausurada; ▆▆▆a dijo que allí lo dejaron todo patas arriba.
 
-                                                                                             Страница 12
+
+        Ah, lo olvidaba: todo fue tan grave que llamaron a Beta-7, los «Sombrereros Locos». No sé los detalles porque nunca me interesó demasiado, pero creo que Beta-7 se ocupa de amenazas QBRN o algo así.
+
+                                                                                             Página 12
   - uid: 22855
     components:
     - type: Transform
@@ -159332,14 +159332,14 @@ entities:
       pos: -19.493803,49.600845
       parent: 2
     - type: Paper
-      content: Реактор РБМК-10000 - это передовой реактор типа РБМК, хотя в текущем виде РБМК-10000 не имеет той самой канальной системы, благодаря узноваемому образу и большой энерговыроботке реактор сохранил своё название.
+      content: El RBMK-10000 es un reactor avanzado de tipo RBMK. Aunque en su forma actual carece del característico sistema de canales, conservó el nombre gracias a su aspecto reconocible y su elevada producción de energía.
   - uid: 22865
     components:
     - type: Transform
       pos: -10.020332,175.38066
       parent: 2
     - type: Paper
-      content: Не забывайте обучать персонал пользоваться вещами для отвлечения 939, это продлевает жизнь.
+      content: No olviden enseñar al personal a utilizar objetos para distraer a SCP-939; hacerlo prolonga la vida.
   - uid: 22866
     components:
     - type: Transform
@@ -159354,22 +159354,22 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Объект №: SCP-005
+        Objeto n.º: SCP-005
 
 
-        Класс объекта: Безопасный
+        Clase del objeto: Seguro
 
 
-        Особые условия содержания: SCP-005 не представляет немедленной угрозы в прямом смысле. При этом, ввиду его уникальных свойств, требуются специальные меры для ограничения доступа к объекту и его применения. Для извлечения объекта из камеры содержания требуется разрешение как минимум одного сотрудника с 4 уровнем допуска.
+        Procedimientos Especiales de Contención: SCP-005 no representa una amenaza inmediata en sentido estricto. Sin embargo, debido a sus propiedades únicas, se requieren medidas especiales para limitar el acceso al objeto y su uso. Para retirarlo de la cámara de contención se necesita la autorización de al menos un miembro del personal con nivel de acceso 4.
 
 
-        Описание: SCP-005 внешне напоминает витиеватый ключ, по характеристикам не отличающийся от серийно выпускаемых ключей 1920-х годов. Ключ был обнаружен, когда гражданское лицо использовало тот при проникновении на особо охраняемый объект. Судя по всему, SCP-005 обладает уникальной возможностью без особых затруднений открывать любые виды замков (см. приложение А), как механические, так и электронные. Происхождение этой возможности на данный момент не установлено.
+        Descripción: SCP-005 se asemeja a una llave ornamentada cuyas características no difieren de las llaves fabricadas en serie en la década de 1920. La llave fue descubierta cuando un civil la utilizó para entrar en una instalación de alta seguridad. Al parecer, SCP-005 posee la capacidad única de abrir sin dificultad cualquier tipo de cerradura (véase el Apéndice A), tanto mecánica como electrónica. El origen de esta capacidad se desconoce por el momento.
 
 
-        Примечания: SCP-005 допускается использовать в качестве замены утерянных ключ-карт, но только под наблюдением как минимум одного сотрудника с 4 уровнем допуска. Запрещается использовать SCP-005 для ремонта торговых автоматов, вскрытия сейфов или в качестве замены утерянных личных ключей сотрудников. Вынос объекта за пределы Зоны карается немедленным увольнением.
+        Notas: SCP-005 puede utilizarse como sustituto de tarjetas de acceso perdidas, pero solo bajo la supervisión de al menos un miembro del personal con nivel de acceso 4. Se prohíbe usar SCP-005 para reparar máquinas expendedoras, abrir cajas fuertes o sustituir las llaves personales perdidas de los empleados. Retirar el objeto del Sitio se castiga con el despido inmediato.
 
 
-        Приложение A: SCP-005 демонстрирует высокую эффективность в обходе практически любых замковых устройств. Дальнейшие эксперименты продемонстрировали, что попытка замаскировать замок внешне или функционально в некоторой степени предотвращает аномальный эффект SCP-005. Приблизительно в 50% случаев, в которых подопытный не мог опознать замковое устройство как таковое, объекту не удавалось его открыть. По этой причине SCP-005 до выяснения обстоятельств получил классификацию "разумный", ожидается проведение экспериментов, направленных на выяснение его познавательных способностей. Однако, не было получено результатов, демонстрирующих какие-либо особенности, которые мешают самому SCP-005 идентифицировать замок, за исключением случаев, когда замок был тщательно скрыт или замаскирован.
+        Apéndice A: SCP-005 ha demostrado una gran eficacia para eludir prácticamente cualquier dispositivo de cierre. Experimentos posteriores demostraron que disimular una cerradura, ya sea en su aspecto o funcionamiento, inhibe en cierta medida el efecto anómalo de SCP-005. En aproximadamente el 50 % de los casos en los que el sujeto de prueba no pudo reconocer el dispositivo como una cerradura, el objeto tampoco logró abrirlo. Por esta razón, SCP-005 recibió provisionalmente la clasificación de «consciente» y se realizarán experimentos para determinar sus capacidades cognitivas. Sin embargo, no se han obtenido resultados que indiquen qué características impiden al propio SCP-005 identificar una cerradura, salvo cuando esta ha sido ocultada o camuflada cuidadosamente.
   - uid: 22876
     components:
     - type: Transform
@@ -159378,16 +159378,16 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Объект №: SCP-500
+        Objeto n.º: SCP-500
 
 
-        Класс объекта: Безопасный
+        Clase del objeto: Seguro
 
 
-        Особые условия содержания: SCP-500 следует хранить в прохладном и сухом месте, вдали от яркого света. Для предотвращения нецелевого использования к SCP-500 допускается только персонал с 4 уровнем допуска.
+        Procedimientos Especiales de Contención: SCP-500 debe almacenarse en un lugar fresco y seco, lejos de la luz intensa. Para evitar usos indebidos, solo el personal con nivel de acceso 4 puede acceder a SCP-500.
 
 
-        Описание: SCP-500 — красные таблетки, хранящиеся в маленькой пластиковой банке, количество которых на момент написания данного документа равняется сорока семи (47) штукам. Таблетка, принятая перорально, в течение двух часов излечивает субъект от всех болезней. Необходимое для исцеления время зависит от тяжести и количества заболеваний. Многочисленные попытки синтеза соединения, которое, предположительно, является действующим веществом таблеток, не увенчались успехом.
+        Descripción: SCP-500 consiste en tabletas rojas almacenadas en un pequeño frasco de plástico; al redactarse este documento quedan cuarenta y siete (47). Una tableta ingerida por vía oral cura al sujeto de todas sus enfermedades en un plazo de dos horas. El tiempo necesario depende de la gravedad y cantidad de afecciones. Los numerosos intentos de sintetizar el compuesto que se considera el principio activo de las tabletas han fracasado.
   - uid: 22877
     components:
     - type: Transform
@@ -159532,12 +159532,12 @@ entities:
   - uid: 22903
     components:
     - type: MetaData
-      name: план модульного комплекса
+      name: Plano del complejo modular
     - type: Transform
       pos: 26.43502,89.698006
       parent: 2
     - type: Paper
-      content: План на столько сложный, что понять вы его не в силах...
+      content: El plan es tan complejo que no puedes entenderlo...
   - uid: 22904
     components:
     - type: Transform
@@ -159582,19 +159582,19 @@ entities:
     - type: Paper
       content: >2-
 
-        [head=2]Запись: Сидоровича Вечеслава[/head]
+        [head=2]Entrada de Viacheslav Sidoróvich[/head]
 
 
-        [head=3]Запись: Первая[/head]
+        [head=3]Primera entrada[/head]
 
 
-        1. Я со своими коллегами нашли место где можно отдохнуть от постоянных наблюдений со стороны нашего Ведущего инженера, хотя бы можно где то отдохнуть.
+        1. Mis colegas y yo encontramos un lugar donde descansar de la vigilancia constante de nuestro ingeniero principal. Al menos aquí podemos relajarnos.
 
 
-        2. Мы последнее время тут находимся чаще чем в нашем отделе, хотя бы бухнуть можно без последствий.
+        2. Últimamente pasamos aquí más tiempo que en nuestro departamento; al menos podemos beber sin consecuencias.
 
 
-        3. Ванька принёс сюда карты, намечается очень веселая смена хотя последнее время такое чувство что кто то наблюдает.
+        3. Vanka trajo cartas; parece que será un turno muy divertido, aunque últimamente siento que alguien nos observa.
   - uid: 22912
     components:
     - type: Transform
@@ -159602,16 +159602,16 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        захронение великого хана
+        sepultura del gran kan
 
-        "Великий? Нет! Величайший!"
+        "¿Grande? ¡No! ¡El más grande!"
   - uid: 29243
     components:
     - type: Transform
       pos: 63.329926,223.54532
       parent: 2
     - type: Paper
-      content: Хан, это не просто титул, это признание народа что готово идти за своим Ханом!
+      content: Kan no es solo un título; es el reconocimiento de un pueblo dispuesto a seguir a su kan.
   - uid: 40754
     components:
     - type: Transform
@@ -159655,15 +159655,15 @@ entities:
       parent: 2
     - type: Paper
       content: >
-        Для запуска охлаждения серверов вам нужно:
+        Para iniciar la refrigeración de los servidores:
 
-        1. Прикрутите канистры с фрезоном
+        1. Conecte los tanques de freón.
 
-        2. Включите насосы от канистр фрезона в общую зону для охлаждения
+        2. Active las bombas de los tanques de freón hacia el área común para enfriarla.
 
-        3. Поставьте охладители на максимально низкую температуру.
+        3. Ajuste los enfriadores a la temperatura mínima.
 
-        4. Включите оба насоса на вход/выход
+        4. Encienda ambas bombas de entrada y salida.
   - uid: 41855
     components:
     - type: Transform
@@ -159879,24 +159879,24 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        И-ди-от рядовой допустил потерю дорогостоящего обмундирования.
+        El sol-da-do im-bé-cil ocasionó la pérdida de equipo costoso.
 
-        Ожидается поставка нового.
+        Se espera la entrega de uno nuevo.
   - uid: 22943
     components:
     - type: MetaData
-      name: окровавленный лист бумаги
+      name: hoja de papel ensangrentada
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 57.31961,41.45651
       parent: 2
     - type: Paper
       content: >
-        НЕ В[color=#dc143c]█РЬ[color=#dc143c]█Е МЭЙ[color=#dc143c]██РДУ ЭТОТ УБЛЮДОК ХОЧЕТ ВЫПУ[color=#dc143c]██ИТ[color=#dc143c]█ 0[color=#dc143c]██ ЕГО [color=#dc143c]██ДОСЛАЛИ ПОВСТАНЦЫ 
+        NO CON[color=#dc143c]█Í[color=#dc143c]█N EN MAY[color=#dc143c]██RD, ESE BASTARDO QUIERE LIBE[color=#dc143c]██AR[color=#dc143c]█ A 0[color=#dc143c]██; LOS [color=#dc143c]██SURGENTES LO ENVIARON
 
-        ЕСЛ[color=#dc143c]█ О[color=#dc143c]█ ДО[color=#dc143c]███ЕТ█Я ДО ██8 ВЕСЬ КОМПЛЕКС 
+        SI [color=#dc143c]É[color=#dc143c]█ LLE[color=#dc143c]███A HASTA 0██, TODO EL COMPLEJO
 
-        БУДЕТ ЗАР[color=#dc143c]██ЕН УБ[color=#dc143c]██ТЕ М[color=#dc143c]█ЙНА[color=#dc143c]██А![color=#fff]█████
+        QUEDARÁ INFEC[color=#dc143c]██DO. MA[color=#dc143c]██N A M[color=#dc143c]█YNA[color=#dc143c]██D.[color=#fff]█████
 
         [color=#fefbfc]██[color=#fdf2f5]██[color=#fef8f9]██[color=#f8d6dd]██[color=#ee8ea1]██[color=#f9d9e0]██[color=#fff]██████████████████[color=#fefbfc]██[color=#fdf2f5]██
 
@@ -159930,63 +159930,63 @@ entities:
   - uid: 22945
     components:
     - type: MetaData
-      name: Отчет об эксперименте 330 - № 1
+      name: informe del experimento 330, n.º 1
     - type: Transform
       pos: 112.16715,97.54638
       parent: 2
     - type: Paper
       content: >+
-        Эксперимент 330 - № 1
+        Experimento 330, n.º 1
 
-        Сотрудника класса D-[color=#0]████ попросили посмотреть на миску, обойти её со всех сторон и сказать, видит ли он надпись.
+        Se pidió al miembro de clase D-[color=#0]████ que observara el cuenco, lo rodeara por todos lados y dijera si veía alguna inscripción.
 
-        Как выяснилось, даже находясь с другой стороны от листа с надписью, она как бы виднелась перед глазами, каждый раз было видно одно и тоже: "Берите не больше двух, пожалуйста :)"
-
-
-        Расшифровка протокола эксперимента №1
-
-                              [color=#0]НАЧАЛО [color=#0]ЗАПИСИ
-
-        D-[color=#0]████ : Что мне делать то?
+        Como se descubrió, incluso al situarse al otro lado de la hoja, la inscripción parecía permanecer ante sus ojos; siempre veía lo mismo: «No tome más de dos, por favor :)».
 
 
-        Доктор-[color=#0]████ : D-[color=#0]████, вы видите перед собой стол с металлической миской?
+        Transcripción del protocolo del experimento n.º 1
+
+                              [color=#0]INICIO DE LA [color=#0]GRABACIÓN
+
+        D-[color=#0]████: ¿Qué debo hacer?
 
 
-        D-[color=#0]████ : Конечно, доктор.
+        Doctor-[color=#0]████: D-[color=#0]████, ¿ve frente a usted una mesa con un cuenco metálico?
 
 
-        Доктор-[color=#0]████ : На миске есть листок бумаги, прикрепленный к ней липкой лентой, есть ли на листе надписи, если есть, то какие?
+        D-[color=#0]████: Por supuesto, doctor.
 
 
-        D-[color=#0]████ : Тут что-то на английском... Я не очень хорошо знаю его, но могу тут разлечить слова "два", "пожалуйста", "бери". Тут восклицательные знаки ещё.
+        Doctor-[color=#0]████: En el cuenco hay una hoja de papel adherida con cinta. ¿Hay algo escrito en ella? Si es así, ¿qué dice?
 
 
-        Доктор-[color=#0]████ : Хорошо, когда вы смотрите на надпись, вы чувствуете что-то?
+        D-[color=#0]████: Hay algo en inglés... No lo conozco muy bien, pero distingo las palabras «dos», «por favor» y «tome». También hay signos de exclamación.
 
 
-        D-[color=#0]████ : Да вроде нет, надпись как надпись.
+        Doctor-[color=#0]████: Bien, cuando mira la inscripción, ¿siente algo?
 
 
-        Доктор-[color=#0]████ : Хорошо, подойдите к противоположной от надписи стороне миски. 
+        D-[color=#0]████: No parece. Es una inscripción normal.
 
 
-        Доктор-[color=#0]████ : D-[color=#0]████, что вы видите?
+        Doctor-[color=#0]████: Bien, acérquese al lado del cuenco opuesto a la inscripción.
 
 
-        D-[color=#0]████ : Хм, это очень странно, кажется что я всё ещё вижу надпись, она буд-то перед глазами.
+        Doctor-[color=#0]████: D-[color=#0]████, ¿qué ve?
 
 
-        Доктор-[color=#0]████ : Надпись как на листе?
+        D-[color=#0]████: Mmm, esto es muy extraño. Creo que todavía veo la inscripción, como si estuviera frente a mis ojos.
 
 
-        D-[color=#0]████ : Да.
+        Doctor-[color=#0]████: ¿La misma inscripción que aparece en la hoja?
+
+
+        D-[color=#0]████: Sí.
 
 
 
-        Система оповещения комплекса : ВНИМАНИЕ! ВСЕМУ ПЕРСОНАЛУ СЛЕДУЕТ ПРОЙТИ В АВАРИЙНЫЕ УБЕЖИЩА! МОБИЛЬНАЯ ОПЕРАТИВНАЯ ГРУППА... "Шляпные болванчики"... ПРИБУДЕТ ЧЕРЕЗ... Десять минут.
+        Sistema de alerta del complejo: ¡ATENCIÓN! ¡TODO EL PERSONAL DEBE DIRIGIRSE A LOS REFUGIOS DE EMERGENCIA! LA FUERZA DE TAREA MÓVIL... «Sombrereros Locos»... LLEGARÁ EN... diez minutos.
 
-                                   [color=#0]КОНЕЦ [color=#0]ЗАПИСИ
+                                   [color=#0]FIN DE LA [color=#0]GRABACIÓN
 
   - uid: 22946
     components:
@@ -160032,9 +160032,9 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Боже-боже-боже!!!
+        ¡¡¡Dios, Dios, Dios!!!
 
-        Я так рад! На очередном опыте я хорошо вёл себя и за это мне подарили новый плакат с красивой японкой в купальнике!!!!!!!!
+        ¡Estoy muy feliz! En el último experimento me porté bien y, como recompensa, me regalaron un póster nuevo de una hermosa japonesa en traje de baño.
 
         ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
 
@@ -160090,15 +160090,15 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        И откуда у этого уёбка из четвёртой камеры столько постеров с девчонками?
+        ¿Y de dónde sacó ese imbécil de la cuarta cámara tantos pósteres de chicas?
 
 
-        Я видел постер с какой-то горячей чикой в купальнике, какую-то инопланетянку. Может из фильма?
+        Vi un póster de una chica atractiva en traje de baño, una alienígena. ¿Quizá era de una película?
 
-        И красивую беловолосую девушку с острыми ушками.
+        Y una hermosa chica de cabello blanco y orejas puntiagudas.
 
 
-        Мне нужен этот постер.
+        Necesito ese póster.
   - uid: 35629
     components:
     - type: Transform
@@ -160413,8 +160413,8 @@ entities:
   - uid: 22995
     components:
     - type: MetaData
-      desc: ручка архитектора Nicolay, говорят что именно ей он чертит планы новых построек.
-      name: ручка Архитектора
+      desc: El bolígrafo del arquitecto Nikolái; dicen que con él traza los planos de las nuevas construcciones.
+      name: bolígrafo del arquitecto
     - type: Transform
       pos: 26.618116,89.86791
       parent: 2
@@ -160431,7 +160431,7 @@ entities:
   - uid: 22997
     components:
     - type: MetaData
-      name: Ручка Зойберка
+      name: bolígrafo de Zoyberk
     - type: Transform
       pos: -2.656416,87.32638
       parent: 2
@@ -160736,16 +160736,16 @@ entities:
   - uid: 23025
     components:
     - type: MetaData
-      desc: 'Он выглядит таким счастливым когда ему отдают документы, сделайте его счастливее и отдайте ему отчёт о прогрессе цели. '
-      name: 'Плюшивый Унатх Ozera '
+      desc: 'Se ve muy feliz cuando le entregan documentos; hazlo aún más feliz y entrégale un informe sobre el progreso del objetivo. '
+      name: 'Ozera, la unath de peluche '
     - type: Transform
       pos: -2.4724283,87.474724
       parent: 2
   - uid: 23026
     components:
     - type: MetaData
-      desc: На плюшевом унатхе-МПП вы замечаете безграмотную этикетку, вы читаете не можете понять что тама написано.
-      name: 'Плюшевый унатх-МПП: Зойберк Герсон'
+      desc: En el unath de peluche de RR. HH. ves una etiqueta escrita con faltas. La lees, pero no logras entender qué dice.
+      name: 'Zoyberk Gerson, el unath de RR. HH. de peluche'
     - type: Transform
       pos: 78.50115,109.66215
       parent: 2
@@ -160754,7 +160754,7 @@ entities:
   - uid: 23027
     components:
     - type: MetaData
-      name: Великий хан
+      name: gran kan
     - type: Transform
       pos: 54.526093,93.5043
       parent: 2
@@ -160772,8 +160772,8 @@ entities:
     paused: true
     components:
     - type: MetaData
-      desc: Мягкая игрушка в виде ящерицы в форме младшего офицера ОСН. На груди маленькая нашивка с надписью "Гавриил Гребенюк". По виду он явно что-то задумал.
-      name: плюшевый "Гавриил"
+      desc: Un lagarto de peluche vestido como oficial subalterno de Operaciones Especiales. En el pecho lleva un pequeño parche con el nombre «Gavriil Grebeniuk». Por su expresión, está claro que trama algo.
+      name: peluche de «Gavriil»
     - type: Transform
       pos: 40.54262,211.64307
       parent: 2
@@ -160811,8 +160811,8 @@ entities:
   - uid: 23028
     components:
     - type: MetaData
-      desc: Плюшевая игрушка главного и единственного архитектора Nicolay, того, благодаря кому этот комплекс существует. Элегантная и мягкая.
-      name: Плюшевая лиса главного архитектора
+      desc: Un peluche del arquitecto principal y único, Nicolay, gracias a quien existe este complejo. Elegante y suave.
+      name: zorro de peluche del arquitecto jefe
     - type: Transform
       pos: -11.038731,59.046383
       parent: 2
@@ -160854,8 +160854,8 @@ entities:
   - uid: 23033
     components:
     - type: MetaData
-      desc: Линь ган гули гули...
-      name: плюшевый Акула Генрих
+      desc: Lin gan guli guli...
+      name: Heinrich, el tiburón de peluche
     - type: Transform
       pos: 4.0147743,67.43397
       parent: 2
@@ -184888,9 +184888,9 @@ entities:
       pos: 57.5,221.5
       parent: 2
     - type: NavMapBeacon
-      text: КС SCP-247
+      text: CC SCP-247
     - type: WarpPoint
-      location: КС SCP-247
+      location: CC SCP-247
 - proto: ScpFacilityBeaconScp207Containment
   entities:
   - uid: 26791
@@ -184913,9 +184913,9 @@ entities:
       pos: -2.5,191.5
       parent: 2
     - type: NavMapBeacon
-      text: Камера SCP-019
+      text: Cámara SCP-019
     - type: WarpPoint
-      location: Камера SCP-019
+      location: Cámara SCP-019
 - proto: ScpFacilityBeaconScpItemContainment
   entities:
   - uid: 40935
@@ -252868,8 +252868,8 @@ entities:
   - uid: 39214
     components:
     - type: MetaData
-      desc: Эта кнопка активирует аварийную защиту от радиации.
-      name: кнопка сигнала (Аварийная защита от радиации)
+      desc: Este botón activa la protección de emergencia contra la radiación.
+      name: Botón de alarma (Protección de Emergencia contra la Radiación)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -18.978073,50.71282
@@ -252905,8 +252905,8 @@ entities:
   - uid: 39215
     components:
     - type: MetaData
-      desc: Эта кнопка управляет защитным экранированием ядра реактора.
-      name: кнопка сигнала (Защитное экранирование ядра реактора)
+      desc: Este botón controla el blindaje protector del núcleo del reactor.
+      name: Botón de alarma (Blindaje del núcleo del reactor)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -19.5,50.5
@@ -253158,8 +253158,8 @@ entities:
   - uid: 39220
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ставни.
-      name: кнопка сигнала (Ставни)
+      desc: Este botón activa las persianas.
+      name: botón de señal (persianas)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 40.5,123.5
@@ -253180,8 +253180,8 @@ entities:
   - uid: 39221
     components:
     - type: MetaData
-      desc: Эта кнопка активирует блокировку научного отдела.
-      name: кнопка сигнала (Блокировка научного отдела)
+      desc: Este botón activa el bloqueo del departamento científico.
+      name: botón de señal (bloqueo del departamento científico)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 40.5,122.5
@@ -258352,16 +258352,16 @@ entities:
   - uid: 39900
     components:
     - type: MetaData
-      desc: Статуя агента SCP, который лишился жизни, сражаясь во тьме, чтоб остальные жили на свету!
-      name: статуя Агента SCP
+      desc: ¡Una estatua de un agente SCP que perdió la vida luchando en la oscuridad para que otros pudieran vivir en la luz!
+      name: estatua de un agente SCP
     - type: Transform
       pos: -5.5,63.5
       parent: 2
   - uid: 39901
     components:
     - type: MetaData
-      desc: Статуя агента SCP, который лишился жизни, сражаясь во тьме, чтоб остальные жили на свету!
-      name: статуя Агента SCP
+      desc: ¡Una estatua de un agente SCP que perdió la vida luchando en la oscuridad para que otros pudieran vivir en la luz!
+      name: estatua de un agente SCP
     - type: Transform
       pos: -5.5,59.5
       parent: 2
@@ -261820,8 +261820,8 @@ entities:
     paused: true
     components:
     - type: MetaData
-      desc: Фигурка изображающая сотрудника Штаба О4, Вергилия Ноктурна в бронированном костюме. На его плече красуется маленькая надпись "Zero", а руки сжимают планшет показывающий вид с камер учреждения, следит как всегда.
-      name: фигурка Zero
+      desc: "Una figura de Virgilio Nocturn, miembro del Estado Mayor O4, con traje blindado. En el hombro luce una pequeña inscripción: «Zero»; entre las manos sostiene una tableta que muestra las cámaras de la instalación. Vigila, como siempre."
+      name: figura de Zero
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -6.665018,53.430244
@@ -261851,8 +261851,8 @@ entities:
   - uid: 40473
     components:
     - type: MetaData
-      desc: Фигурка, изображающая маппера Nicolay.
-      name: фигурка маппера Nicolay
+      desc: Una figura que representa al cartógrafo Nicolay.
+      name: figura del cartógrafo Nicolay
     - type: Transform
       pos: 25.545704,90.48217
       parent: 2
@@ -262684,8 +262684,8 @@ entities:
   - uid: 40598
     components:
     - type: MetaData
-      desc: Кабинет МПП
-      name: Кабинет МПП
+      desc: Despacho de RR. HH.
+      name: Despacho de RR. HH.
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 3.5,82.5
@@ -262693,217 +262693,217 @@ entities:
   - uid: 40599
     components:
     - type: MetaData
-      name: ЗС 096
+      name: Cámara de SCP-096
     - type: Transform
       pos: 23.5,162.5
       parent: 2
   - uid: 40600
     components:
     - type: MetaData
-      name: Мед отдел
+      name: Departamento Médico
     - type: Transform
       pos: 26.5,115.5
       parent: 2
   - uid: 40601
     components:
     - type: MetaData
-      name: Поверхность
+      name: Superficie
     - type: Transform
       pos: 9.5,-2.5
       parent: 2
   - uid: 40602
     components:
     - type: MetaData
-      name: Инженерный Отдел
+      name: Departamento de Ingeniería
     - type: Transform
       pos: -11.5,40.5
       parent: 2
   - uid: 40603
     components:
     - type: MetaData
-      name: Объекты ЛЗС
+      name: Instalaciones de la ZCL
     - type: Transform
       pos: 92.5,101.5
       parent: 2
   - uid: 40604
     components:
     - type: MetaData
-      name: Ворота Б
+      name: Puerta B
     - type: Transform
       pos: 28.5,39.5
       parent: 2
   - uid: 40605
     components:
     - type: MetaData
-      name: Ворота А
+      name: Puerta A
     - type: Transform
       pos: 8.5,32.5
       parent: 2
   - uid: 40606
     components:
     - type: MetaData
-      name: Эвакуационная площадка
+      name: Zona de evacuación
     - type: Transform
       pos: 42.5,14.5
       parent: 2
   - uid: 40607
     components:
     - type: MetaData
-      name: Интерком
+      name: Intercomunicador
     - type: Transform
       pos: -1.5,58.5
       parent: 2
   - uid: 40608
     components:
     - type: MetaData
-      name: Кофитерий
+      name: Cafetería
     - type: Transform
       pos: 27.5,68.5
       parent: 2
   - uid: 40609
     components:
     - type: MetaData
-      name: Логистический отдел
+      name: Departamento de Logística
     - type: Transform
       pos: 45.5,71.5
       parent: 2
   - uid: 40610
     components:
     - type: MetaData
-      name: Кабинет Представителя Комитета По Этике
+      name: Despacho del representante del Comité de Ética
     - type: Transform
       pos: 48.5,42.5
       parent: 2
   - uid: 40611
     components:
     - type: MetaData
-      name: Утилизационный блок АЗ
+      name: Vertedero de la ZA
     - type: Transform
       pos: 58.5,43.5
       parent: 2
   - uid: 40612
     components:
     - type: MetaData
-      name: КПП АЗ-ЛЗС Альфа
+      name: Puesto de control ZA-ZCL Alfa
     - type: Transform
       pos: 8.5,89.5
       parent: 2
   - uid: 40613
     components:
     - type: MetaData
-      name: КПП АЗ-ЛЗС Бета
+      name: Puesto de control ZA-ZCL Beta
     - type: Transform
       pos: 38.5,89.5
       parent: 2
   - uid: 40614
     components:
     - type: MetaData
-      name: Каморка Уборщика АЗ
+      name: Cuarto de limpieza de la ZA
     - type: Transform
       pos: 24.5,47.5
       parent: 2
   - uid: 40615
     components:
     - type: MetaData
-      name: Каморка Уборщика ЛЗС
+      name: Cuarto de limpieza de la ZCL
     - type: Transform
       pos: 12.5,109.5
       parent: 2
   - uid: 40616
     components:
     - type: MetaData
-      name: Научный отдел
+      name: Departamento Científico
     - type: Transform
       pos: 51.5,121.5
       parent: 2
   - uid: 40617
     components:
     - type: MetaData
-      name: Отдел СБ ЛЗС
+      name: Departamento de Seguridad de la ZCL
     - type: Transform
       pos: -7.5,101.5
       parent: 2
   - uid: 40618
     components:
     - type: MetaData
-      name: Кабинет НСБ
+      name: Despacho del jefe del Servicio de Seguridad
     - type: Transform
       pos: -24.5,116.5
       parent: 2
   - uid: 40619
     components:
     - type: MetaData
-      name: D блок
+      name: Bloque D
     - type: Transform
       pos: -12.5,130.5
       parent: 2
   - uid: 40620
     components:
     - type: MetaData
-      name: КС 173
+      name: Cámara de SCP-173
     - type: Transform
       pos: 82.5,131.5
       parent: 2
   - uid: 40621
     components:
     - type: MetaData
-      name: КС 079
+      name: Cámara de SCP-079
     - type: Transform
       pos: 49.5,157.5
       parent: 2
   - uid: 40622
     components:
     - type: MetaData
-      name: КС 939
+      name: Cámara de SCP-939
     - type: Transform
       pos: -7.5,171.5
       parent: 2
   - uid: 40623
     components:
     - type: MetaData
-      name: КС 082
+      name: Cámara de SCP-082
     - type: Transform
       pos: 26.5,191.5
       parent: 2
   - uid: 40624
     components:
     - type: MetaData
-      name: Склад ТЗС
+      name: Almacén de la ZCP
     - type: Transform
       pos: 60.5,207.5
       parent: 2
   - uid: 40625
     components:
     - type: MetaData
-      name: КС 106
+      name: Cámara de SCP-106
     - type: Transform
       pos: 15.5,229.5
       parent: 2
   - uid: 40626
     components:
     - type: MetaData
-      name: СБК
+      name: SBK
     - type: Transform
       pos: 78.5,228.5
       parent: 2
   - uid: 40627
     components:
     - type: MetaData
-      name: Отдел СБ ТЗС
+      name: Departamento de Seguridad de la ZCP
     - type: Transform
       pos: 85.5,175.5
       parent: 2
   - uid: 40628
     components:
     - type: MetaData
-      name: КС 457
+      name: Cámara de SCP-457
     - type: Transform
       pos: 83.5,205.5
       parent: 2
   - uid: 40629
     components:
     - type: MetaData
-      name: КС 049
+      name: Cámara de SCP-049
     - type: Transform
       pos: 47.5,191.5
       parent: 2
@@ -263474,7 +263474,7 @@ entities:
   - uid: 40747
     components:
     - type: MetaData
-      desc: Мне кажется с его патронами что-то не так...
+      desc: Me parece que algo anda mal con su munición...
     - type: Transform
       parent: 21010
     - type: Gun
