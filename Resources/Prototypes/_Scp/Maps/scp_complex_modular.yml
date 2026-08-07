@@ -78,7 +78,7 @@
             BotanistPhytogeneticist: [ 2, 2 ]
             ServicePersonnel: [ 5, -1 ]
             # Класс Д
-            ClassD: [ 1, 1 ]
+            ClassD: [ -1, -1 ]
             ClassDCook: [ 2, 2 ]
             ClassDBotanist: [ 2, 2 ]
             ClassDJanitor: [ 1, 1 ]
